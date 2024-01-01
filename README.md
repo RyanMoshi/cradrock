@@ -3258,3 +3258,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-23] Cleaned up legacy adapter code
 - [2026-03-24] Refactored scheduler initialization
 - [2024-01-01] Fixed edge case in db dispatcher
+- [2024-01-01] Updated docs for deploy API
