@@ -4206,3 +4206,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-21] Updated docs for errors API
 - [2026-03-23] Fixed edge case in ci loader
 - [2026-03-24] Resolved race condition in docs emitter
+- [2024-01-01] Added modular builder to auth
