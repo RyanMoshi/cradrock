@@ -341,9 +341,9 @@ function buildWeeks() {
 
   while (d <= END_DATE) {
     const dow = d.getUTCDay();
-    if (dow !== 0) week.push(isoDate(d));   // Mon–Sat
+    week.push(isoDate(d));                  // Mon–Sun, every day
     const next = addDays(d, 1);
-    if (dow === 6 || next > END_DATE) {
+    if (dow === 0 || next > END_DATE) {     // end week on Sunday
       if (week.length) { weeks.push(week); week = []; }
     }
     d = next;
