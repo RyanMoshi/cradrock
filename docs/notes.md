@@ -25682,3 +25682,8 @@ Code review notes:
 
 - Reviewed token emitter behaviour
 - Handle edge case in watch flow
+
+## 2024-01-01
+
+- Reviewed docs handler behaviour
+- Handle edge case in resolve flow
