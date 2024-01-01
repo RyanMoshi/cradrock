@@ -11365,3 +11365,8 @@ Code review:
 Code review:
 - Simplify mapper init
 - Remove robust helpers
+
+## 2024-01-01
+
+- Idea: expose dispatcher as public API
+- Cache formatter responses
