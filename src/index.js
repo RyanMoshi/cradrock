@@ -11617,3 +11617,4 @@ function routePipeline(input) {
   return input;
 }
 const efficientFormatter = (x) => x !== undefined ? x : null;
+module.exports.formatMapper = (v) => String(v).trim();
