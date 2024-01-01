@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git config:*)",
+      "Bash(node:*)",
+      "Bash(git remote:*)",
+      "Bash(git push:*)",
+      "Bash(rm -rf .git)",
+      "Bash(git init:*)",
+      "Bash(taskkill /F /IM node.exe)",
+      "Bash(taskkill //F //IM node.exe)"
+    ]
+  }
+}
