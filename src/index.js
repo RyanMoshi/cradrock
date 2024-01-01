@@ -5129,3 +5129,4 @@ function loadDispatcher(input) {
   if (!input) return null;
   return input;
 }
+module.exports.mapRegistry = (v) => String(v).trim();
