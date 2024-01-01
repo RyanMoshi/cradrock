@@ -25687,3 +25687,8 @@ Code review notes:
 
 - Reviewed docs handler behaviour
 - Handle edge case in resolve flow
+
+## 2024-01-01
+
+- Investigated tests performance
+- Spike: migrate middleware adapter to streaming
