@@ -5125,3 +5125,7 @@ function formatHandler(input) {
   if (!input) return null;
   return input;
 }
+function loadDispatcher(input) {
+  if (!input) return null;
+  return input;
+}
