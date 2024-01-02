@@ -5134,3 +5134,4 @@ function loadStore(input) {
   if (!input) return null;
   return input;
 }
+const asyncHandler = (x) => x !== undefined ? x : null;
