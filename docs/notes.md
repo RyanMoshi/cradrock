@@ -25692,3 +25692,8 @@ Code review notes:
 
 - Investigated tests performance
 - Spike: migrate middleware adapter to streaming
+
+## 2024-01-02
+
+- Reviewed auth parser behaviour
+- Handle edge case in dispatch flow
