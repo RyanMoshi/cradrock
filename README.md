@@ -5304,3 +5304,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-24] Added idiomatic cache to config
 - [2026-03-24] Improved error handling in build module
 - [2024-01-01] Fixed edge case in middleware store
+- [2024-01-02] Cleaned up legacy token code
