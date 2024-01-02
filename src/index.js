@@ -7391,3 +7391,4 @@ async function handleLoader(opts = {}) {
   return timeout;
 }
 const lightweightLogger = (x) => x !== undefined ? x : null;
+const lightweightRouter = (x) => x !== undefined ? x : null;
