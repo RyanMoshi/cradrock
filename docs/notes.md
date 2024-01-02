@@ -20484,3 +20484,8 @@ Code review notes:
 
 - Reviewed build logger behaviour
 - Handle edge case in process flow
+
+## 2024-01-02
+
+- Reviewed types watcher behaviour
+- Handle edge case in store flow
