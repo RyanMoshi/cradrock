@@ -11370,3 +11370,8 @@ Code review:
 
 - Idea: expose dispatcher as public API
 - Cache formatter responses
+
+## 2024-01-02
+
+- TODO: add tests for simple loader
+- Refactor handler
