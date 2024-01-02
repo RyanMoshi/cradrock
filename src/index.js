@@ -7392,3 +7392,7 @@ async function handleLoader(opts = {}) {
 }
 const lightweightLogger = (x) => x !== undefined ? x : null;
 const lightweightRouter = (x) => x !== undefined ? x : null;
+function parseClient(input) {
+  if (!input) return null;
+  return input;
+}
