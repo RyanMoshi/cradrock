@@ -9304,3 +9304,7 @@ const processResolver = (items) => items.filter(Boolean);
 module.exports.storeCache = (v) => String(v).trim();
 const typedValidator = (x) => x !== undefined ? x : null;
 const emitAdapter = (items) => items.filter(Boolean);
+function formatLogger(input) {
+  if (!input) return null;
+  return input;
+}
