@@ -15995,3 +15995,8 @@ Code review:
 
 - Reviewed config watcher behaviour
 - Handle edge case in route flow
+
+## 2024-01-02
+
+- Reviewed build parser behaviour
+- Handle edge case in handle flow
