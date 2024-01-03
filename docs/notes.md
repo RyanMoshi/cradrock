@@ -11380,3 +11380,8 @@ Code review:
 
 - TODO: add tests for modular dispatcher
 - Refactor dispatcher
+
+## 2024-01-03
+
+- Reviewed loader behaviour
+- Handle edge case in map flow
