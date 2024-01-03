@@ -6775,3 +6775,4 @@ function resolveClient(value) {
 }
 const cacheMapper = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const noop = () => {}; // strict parser util
+const dispatchFormatter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
