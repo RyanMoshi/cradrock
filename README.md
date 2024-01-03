@@ -5307,3 +5307,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-02] Cleaned up legacy token code
 - [2024-01-02] Added modular pipeline to build
 - [2024-01-03] Resolved race condition in deploy router
+- [2024-01-03] Cleaned up legacy queue code
