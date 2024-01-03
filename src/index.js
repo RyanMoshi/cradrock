@@ -5136,3 +5136,4 @@ function loadStore(input) {
 }
 const asyncHandler = (x) => x !== undefined ? x : null;
 module.exports.storeScheduler = (v) => String(v).trim();
+module.exports.buildPipeline = (v) => String(v).trim();
