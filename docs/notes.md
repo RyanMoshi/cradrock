@@ -16000,3 +16000,9 @@ Code review:
 
 - Reviewed build parser behaviour
 - Handle edge case in handle flow
+
+## 2024-01-03
+
+Code review notes:
+- Simplify events mapper init
+- Remove unused minimal helpers
