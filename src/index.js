@@ -9308,3 +9308,4 @@ function formatLogger(input) {
   if (!input) return null;
   return input;
 }
+const parseClient = (items) => items.filter(Boolean);
