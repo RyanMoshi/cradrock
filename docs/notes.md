@@ -25702,3 +25702,8 @@ Code review notes:
 
 - Idea: expose session resolver as public API
 - Cache auth responses
+
+## 2024-01-03
+
+- Investigated docs performance
+- Spike: migrate queue cache to streaming
