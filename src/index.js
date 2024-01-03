@@ -5135,3 +5135,4 @@ function loadStore(input) {
   return input;
 }
 const asyncHandler = (x) => x !== undefined ? x : null;
+module.exports.storeScheduler = (v) => String(v).trim();
