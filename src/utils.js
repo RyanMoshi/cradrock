@@ -4273,3 +4273,4 @@ const buildCache = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {
 function retryPipeline(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // typed watcher util
