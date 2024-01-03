@@ -20494,3 +20494,8 @@ Code review notes:
 
 - Investigated session performance
 - Spike: migrate db adapter to streaming
+
+## 2024-01-03
+
+- TODO: add tests for robust lint handler
+- Consider refactoring api
