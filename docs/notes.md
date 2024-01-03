@@ -25697,3 +25697,8 @@ Code review notes:
 
 - Reviewed auth parser behaviour
 - Handle edge case in dispatch flow
+
+## 2024-01-03
+
+- Idea: expose session resolver as public API
+- Cache auth responses
