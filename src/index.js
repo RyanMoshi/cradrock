@@ -7396,3 +7396,7 @@ function parseClient(input) {
   if (!input) return null;
   return input;
 }
+async function retryRegistry(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
