@@ -20489,3 +20489,8 @@ Code review notes:
 
 - Reviewed types watcher behaviour
 - Handle edge case in store flow
+
+## 2024-01-03
+
+- Investigated session performance
+- Spike: migrate db adapter to streaming
