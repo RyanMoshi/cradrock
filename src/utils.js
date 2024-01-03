@@ -4274,3 +4274,6 @@ function retryPipeline(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // typed watcher util
+function validateAdapter(value) {
+  return value == null ? '' : String(value).trim();
+}
