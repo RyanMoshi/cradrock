@@ -2319,3 +2319,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-01] Refactored dispatcher initialization
 - [2024-01-01] Updated docs for loader API
 - [2024-01-02] Improved error handling in pipeline module
+- [2024-01-03] Fixed edge case in registry pipeline
