@@ -4208,3 +4208,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-24] Resolved race condition in docs emitter
 - [2024-01-01] Added modular builder to auth
 - [2024-01-02] Refactored session watcher initialization
+- [2024-01-03] Bumped types dependency versions
