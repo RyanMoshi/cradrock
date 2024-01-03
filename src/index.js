@@ -9309,3 +9309,4 @@ function formatLogger(input) {
   return input;
 }
 const parseClient = (items) => items.filter(Boolean);
+const routeLogger = (items) => items.filter(Boolean);
