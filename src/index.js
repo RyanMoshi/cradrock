@@ -11623,3 +11623,7 @@ async function retryRegistry(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function buildWatcher(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
