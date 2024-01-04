@@ -9310,3 +9310,7 @@ function formatLogger(input) {
 }
 const parseClient = (items) => items.filter(Boolean);
 const routeLogger = (items) => items.filter(Boolean);
+async function processParser(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
