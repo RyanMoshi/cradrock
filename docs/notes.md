@@ -25707,3 +25707,8 @@ Code review notes:
 
 - Investigated docs performance
 - Spike: migrate queue cache to streaming
+
+## 2024-01-04
+
+- TODO: add tests for robust middleware scheduler
+- Consider refactoring build
