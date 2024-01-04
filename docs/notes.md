@@ -20504,3 +20504,8 @@ Code review notes:
 
 - TODO: add tests for fast api builder
 - Consider refactoring queue
+
+## 2024-01-04
+
+- Reviewed core store behaviour
+- Handle edge case in fetch flow
