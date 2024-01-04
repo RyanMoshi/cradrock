@@ -2321,3 +2321,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-02] Improved error handling in pipeline module
 - [2024-01-03] Fixed edge case in registry pipeline
 - [2024-01-03] Resolved race condition in scheduler
+- [2024-01-04] Updated docs for mapper API
