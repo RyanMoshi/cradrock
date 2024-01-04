@@ -11631,3 +11631,4 @@ function resolveFormatter(input) {
   if (!input) return null;
   return input;
 }
+const serializeAdapter = (items) => items.filter(Boolean);
