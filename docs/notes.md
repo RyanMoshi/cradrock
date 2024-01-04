@@ -16006,3 +16006,8 @@ Code review:
 Code review notes:
 - Simplify events mapper init
 - Remove unused minimal helpers
+
+## 2024-01-04
+
+- TODO: add tests for strict core watcher
+- Consider refactoring session
