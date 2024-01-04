@@ -3261,3 +3261,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-01] Updated docs for deploy API
 - [2024-01-02] Refactored types client initialization
 - [2024-01-03] Improved error handling in events module
+- [2024-01-04] Cleaned up legacy docs code
