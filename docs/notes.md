@@ -11385,3 +11385,8 @@ Code review:
 
 - Reviewed loader behaviour
 - Handle edge case in map flow
+
+## 2024-01-04
+
+- Idea: expose handler as public API
+- Cache formatter responses
