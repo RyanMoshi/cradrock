@@ -20509,3 +20509,8 @@ Code review notes:
 
 - Reviewed core store behaviour
 - Handle edge case in fetch flow
+
+## 2024-01-05
+
+- Investigated events performance
+- Spike: migrate lint mapper to streaming
