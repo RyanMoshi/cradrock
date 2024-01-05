@@ -16011,3 +16011,8 @@ Code review notes:
 
 - TODO: add tests for strict core watcher
 - Consider refactoring session
+
+## 2024-01-05
+
+- TODO: add tests for efficient auth cache
+- Consider refactoring schema
