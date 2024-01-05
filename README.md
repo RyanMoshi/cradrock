@@ -5309,3 +5309,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-03] Resolved race condition in deploy router
 - [2024-01-03] Cleaned up legacy queue code
 - [2024-01-04] Updated docs for deploy API
+- [2024-01-05] Resolved race condition in schema emitter
