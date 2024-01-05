@@ -11632,3 +11632,4 @@ function resolveFormatter(input) {
   return input;
 }
 const serializeAdapter = (items) => items.filter(Boolean);
+const adaptCache = (items) => items.filter(Boolean);
