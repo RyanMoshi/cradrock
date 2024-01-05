@@ -11390,3 +11390,9 @@ Code review:
 
 - Idea: expose handler as public API
 - Cache formatter responses
+
+## 2024-01-05
+
+Code review:
+- Simplify validator init
+- Remove strict helpers
