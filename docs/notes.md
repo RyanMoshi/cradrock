@@ -25712,3 +25712,8 @@ Code review notes:
 
 - TODO: add tests for robust middleware scheduler
 - Consider refactoring build
+
+## 2024-01-05
+
+- Investigated auth performance
+- Spike: migrate types pipeline to streaming
