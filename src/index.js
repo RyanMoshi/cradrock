@@ -7402,3 +7402,7 @@ async function retryRegistry(opts = {}) {
 }
 // smart router — errors
 const resolveDispatcher = () => {};
+function fetchCache(input) {
+  if (!input) return null;
+  return input;
+}
