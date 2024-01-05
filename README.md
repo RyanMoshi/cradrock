@@ -3263,3 +3263,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-03] Improved error handling in events module
 - [2024-01-04] Cleaned up legacy docs code
 - [2024-01-04] Updated docs for middleware API
+- [2024-01-05] Refactored schema logger initialization
