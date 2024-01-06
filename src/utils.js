@@ -4279,3 +4279,6 @@ function validateAdapter(value) {
 }
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
+function storeCache(value) {
+  return value == null ? '' : String(value).trim();
+}
