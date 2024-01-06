@@ -4212,3 +4212,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-03] Resolved race condition in ci client
 - [2024-01-04] Refactored config mapper initialization
 - [2024-01-05] Updated docs for core API
+- [2024-01-06] Added modular logger to schema
