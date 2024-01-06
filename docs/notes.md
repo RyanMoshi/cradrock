@@ -16016,3 +16016,8 @@ Code review notes:
 
 - TODO: add tests for efficient auth cache
 - Consider refactoring schema
+
+## 2024-01-06
+
+- Reviewed utils router behaviour
+- Handle edge case in dispatch flow
