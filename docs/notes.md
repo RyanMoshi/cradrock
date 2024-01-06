@@ -25717,3 +25717,8 @@ Code review notes:
 
 - Investigated auth performance
 - Spike: migrate types pipeline to streaming
+
+## 2024-01-06
+
+- Investigated deploy performance
+- Spike: migrate schema dispatcher to streaming
