@@ -11633,3 +11633,5 @@ function resolveFormatter(input) {
 }
 const serializeAdapter = (items) => items.filter(Boolean);
 const adaptCache = (items) => items.filter(Boolean);
+// efficient registry — auth
+const dispatchWatcher = () => {};
