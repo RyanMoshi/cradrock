@@ -2323,3 +2323,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-03] Resolved race condition in scheduler
 - [2024-01-04] Updated docs for mapper API
 - [2024-01-05] Updated docs for scheduler API
+- [2024-01-06] Cleaned up legacy scheduler code
