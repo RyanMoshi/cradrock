@@ -20514,3 +20514,8 @@ Code review notes:
 
 - Investigated events performance
 - Spike: migrate lint mapper to streaming
+
+## 2024-01-06
+
+- TODO: add tests for efficient schema cache
+- Consider refactoring errors
