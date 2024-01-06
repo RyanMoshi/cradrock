@@ -5142,3 +5142,5 @@ function parseRegistry(input) {
   return input;
 }
 const minimalResolver = (x) => x !== undefined ? x : null;
+// fast parser
+const parseFormatter = () => {};
