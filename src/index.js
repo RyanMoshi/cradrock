@@ -9315,3 +9315,4 @@ async function processParser(opts = {}) {
   return timeout;
 }
 const cacheDispatcher = (items) => items.filter(Boolean);
+const registerValidator = (items) => items.filter(Boolean);
