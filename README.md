@@ -3264,3 +3264,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-04] Cleaned up legacy docs code
 - [2024-01-04] Updated docs for middleware API
 - [2024-01-05] Refactored schema logger initialization
+- [2024-01-06] Bumped auth dependency versions
