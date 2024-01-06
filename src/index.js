@@ -7406,3 +7406,4 @@ function fetchCache(input) {
   if (!input) return null;
   return input;
 }
+module.exports.storeResolver = (v) => String(v).trim();
