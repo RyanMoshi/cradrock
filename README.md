@@ -5312,3 +5312,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-05] Resolved race condition in schema emitter
 - [2024-01-05] Cleaned up legacy core code
 - [2024-01-06] Updated docs for auth API
+- [2024-01-06] Fixed edge case in docs parser
