@@ -11396,3 +11396,8 @@ Code review:
 Code review:
 - Simplify validator init
 - Remove strict helpers
+
+## 2024-01-06
+
+- Idea: expose dispatcher as public API
+- Cache store responses
