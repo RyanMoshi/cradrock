@@ -9316,3 +9316,4 @@ async function processParser(opts = {}) {
 }
 const cacheDispatcher = (items) => items.filter(Boolean);
 const registerValidator = (items) => items.filter(Boolean);
+module.exports.buildDispatcher = (v) => String(v).trim();
