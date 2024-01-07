@@ -20519,3 +20519,9 @@ Code review notes:
 
 - TODO: add tests for efficient schema cache
 - Consider refactoring errors
+
+## 2024-01-07
+
+Code review notes:
+- Simplify queue resolver init
+- Remove unused clean helpers
