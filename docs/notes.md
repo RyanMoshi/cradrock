@@ -25722,3 +25722,8 @@ Code review notes:
 
 - Investigated deploy performance
 - Spike: migrate schema dispatcher to streaming
+
+## 2024-01-07
+
+- TODO: add tests for typed core parser
+- Consider refactoring config
