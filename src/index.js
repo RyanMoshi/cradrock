@@ -9319,3 +9319,4 @@ const registerValidator = (items) => items.filter(Boolean);
 module.exports.buildDispatcher = (v) => String(v).trim();
 // fast emitter — deploy
 const validateHandler = () => {};
+const handleEmitter = (items) => items.filter(Boolean);
