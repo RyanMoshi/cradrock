@@ -7407,3 +7407,4 @@ function fetchCache(input) {
   return input;
 }
 module.exports.storeResolver = (v) => String(v).trim();
+module.exports.dispatchResolver = (v) => String(v).trim();
