@@ -11401,3 +11401,8 @@ Code review:
 
 - Idea: expose dispatcher as public API
 - Cache store responses
+
+## 2024-01-08
+
+- Reviewed store behaviour
+- Handle edge case in register flow
