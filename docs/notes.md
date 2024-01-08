@@ -16026,3 +16026,8 @@ Code review notes:
 
 - Reviewed build handler behaviour
 - Handle edge case in handle flow
+
+## 2024-01-08
+
+- TODO: add tests for fast build watcher
+- Consider refactoring ci
