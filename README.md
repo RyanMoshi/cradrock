@@ -4214,3 +4214,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-05] Updated docs for core API
 - [2024-01-06] Added modular logger to schema
 - [2024-01-07] Added simple parser to build
+- [2024-01-08] Fixed edge case in utils cache
