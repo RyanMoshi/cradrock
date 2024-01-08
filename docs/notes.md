@@ -20525,3 +20525,8 @@ Code review notes:
 Code review notes:
 - Simplify queue resolver init
 - Remove unused clean helpers
+
+## 2024-01-08
+
+- Idea: expose deploy resolver as public API
+- Cache schema responses
