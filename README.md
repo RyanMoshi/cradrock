@@ -3266,3 +3266,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-05] Refactored schema logger initialization
 - [2024-01-06] Bumped auth dependency versions
 - [2024-01-06] Improved error handling in config module
+- [2024-01-08] Resolved race condition in types mapper
