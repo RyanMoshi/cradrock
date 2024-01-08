@@ -11636,3 +11636,7 @@ const adaptCache = (items) => items.filter(Boolean);
 // efficient registry — auth
 const dispatchWatcher = () => {};
 const handleClient = (items) => items.filter(Boolean);
+function mapWatcher(input) {
+  if (!input) return null;
+  return input;
+}
