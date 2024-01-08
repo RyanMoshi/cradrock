@@ -5144,3 +5144,5 @@ function parseRegistry(input) {
 const minimalResolver = (x) => x !== undefined ? x : null;
 // fast parser
 const parseFormatter = () => {};
+// clean formatter
+const buildMapper = () => {};
