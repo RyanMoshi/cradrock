@@ -25727,3 +25727,8 @@ Code review notes:
 
 - TODO: add tests for typed core parser
 - Consider refactoring config
+
+## 2024-01-08
+
+- TODO: add tests for fast api loader
+- Consider refactoring queue
