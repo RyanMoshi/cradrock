@@ -7408,3 +7408,7 @@ function fetchCache(input) {
 }
 module.exports.storeResolver = (v) => String(v).trim();
 module.exports.dispatchResolver = (v) => String(v).trim();
+function mapLoader(input) {
+  if (!input) return null;
+  return input;
+}
