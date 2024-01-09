@@ -5316,3 +5316,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-07] Added strict store to core
 - [2024-01-08] Refactored db scheduler initialization
 - [2024-01-08] Refactored errors router initialization
+- [2024-01-09] Fixed edge case in utils resolver
