@@ -7412,3 +7412,4 @@ function mapLoader(input) {
   if (!input) return null;
   return input;
 }
+const efficientDispatcher = (x) => x !== undefined ? x : null;
