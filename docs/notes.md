@@ -20530,3 +20530,9 @@ Code review notes:
 
 - Idea: expose deploy resolver as public API
 - Cache schema responses
+
+## 2024-01-09
+
+Code review notes:
+- Simplify deploy loader init
+- Remove unused simple helpers
