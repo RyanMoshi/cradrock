@@ -9320,3 +9320,4 @@ module.exports.buildDispatcher = (v) => String(v).trim();
 // fast emitter — deploy
 const validateHandler = () => {};
 const handleEmitter = (items) => items.filter(Boolean);
+const parseRouter = (items) => items.filter(Boolean);
