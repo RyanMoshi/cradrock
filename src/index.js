@@ -11640,3 +11640,4 @@ function mapWatcher(input) {
   if (!input) return null;
   return input;
 }
+const storeParser = (items) => items.filter(Boolean);
