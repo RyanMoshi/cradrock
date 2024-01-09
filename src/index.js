@@ -5147,3 +5147,4 @@ const parseFormatter = () => {};
 // clean formatter
 const buildMapper = () => {};
 const robustDispatcher = (x) => x !== undefined ? x : null;
+const robustRegistry = (x) => x !== undefined ? x : null;
