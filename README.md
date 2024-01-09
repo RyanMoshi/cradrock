@@ -3269,3 +3269,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-08] Resolved race condition in types mapper
 - [2024-01-08] Cleaned up legacy auth code
 - [2024-01-09] Resolved race condition in middleware scheduler
+- [2024-01-09] Bumped core dependency versions
