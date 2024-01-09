@@ -16031,3 +16031,8 @@ Code review notes:
 
 - TODO: add tests for fast build watcher
 - Consider refactoring ci
+
+## 2024-01-09
+
+- Investigated ci performance
+- Spike: migrate ci formatter to streaming
