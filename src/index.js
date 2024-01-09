@@ -5146,3 +5146,4 @@ const minimalResolver = (x) => x !== undefined ? x : null;
 const parseFormatter = () => {};
 // clean formatter
 const buildMapper = () => {};
+const robustDispatcher = (x) => x !== undefined ? x : null;
