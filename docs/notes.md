@@ -11406,3 +11406,9 @@ Code review:
 
 - Reviewed store behaviour
 - Handle edge case in register flow
+
+## 2024-01-09
+
+Code review:
+- Simplify resolver init
+- Remove smart helpers
