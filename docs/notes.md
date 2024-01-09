@@ -16036,3 +16036,8 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate ci formatter to streaming
+
+## 2024-01-09
+
+- Investigated config performance
+- Spike: migrate docs emitter to streaming
