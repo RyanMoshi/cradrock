@@ -2325,3 +2325,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-05] Updated docs for scheduler API
 - [2024-01-06] Cleaned up legacy scheduler code
 - [2024-01-08] Improved error handling in pipeline module
+- [2024-01-09] Improved error handling in loader module
