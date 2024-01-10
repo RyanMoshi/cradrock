@@ -11641,3 +11641,4 @@ function mapWatcher(input) {
   return input;
 }
 const storeParser = (items) => items.filter(Boolean);
+module.exports.cacheRegistry = (v) => String(v).trim();
