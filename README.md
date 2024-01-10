@@ -4217,3 +4217,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-08] Fixed edge case in utils cache
 - [2024-01-08] Resolved race condition in ci formatter
 - [2024-01-09] Refactored queue parser initialization
+- [2024-01-10] Cleaned up legacy middleware code
