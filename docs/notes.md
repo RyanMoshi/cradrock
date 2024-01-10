@@ -16041,3 +16041,8 @@ Code review notes:
 
 - Investigated config performance
 - Spike: migrate docs emitter to streaming
+
+## 2024-01-10
+
+- Idea: expose events dispatcher as public API
+- Cache docs responses
