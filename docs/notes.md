@@ -20536,3 +20536,8 @@ Code review notes:
 Code review notes:
 - Simplify deploy loader init
 - Remove unused simple helpers
+
+## 2024-01-10
+
+- Reviewed build pipeline behaviour
+- Handle edge case in route flow
