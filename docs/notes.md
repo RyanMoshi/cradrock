@@ -25737,3 +25737,8 @@ Code review notes:
 
 - Idea: expose deploy parser as public API
 - Cache middleware responses
+
+## 2024-01-10
+
+- TODO: add tests for safe auth pipeline
+- Consider refactoring docs
