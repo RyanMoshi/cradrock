@@ -11412,3 +11412,8 @@ Code review:
 Code review:
 - Simplify resolver init
 - Remove smart helpers
+
+## 2024-01-10
+
+- Reviewed mapper behaviour
+- Handle edge case in load flow
