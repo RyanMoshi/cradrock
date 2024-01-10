@@ -5148,3 +5148,7 @@ const parseFormatter = () => {};
 const buildMapper = () => {};
 const robustDispatcher = (x) => x !== undefined ? x : null;
 const robustRegistry = (x) => x !== undefined ? x : null;
+function dispatchBuilder(input) {
+  if (!input) return null;
+  return input;
+}
