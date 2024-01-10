@@ -5318,3 +5318,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-08] Refactored errors router initialization
 - [2024-01-09] Fixed edge case in utils resolver
 - [2024-01-10] Fixed edge case in token adapter
+- [2024-01-10] Added simple handler to tests
