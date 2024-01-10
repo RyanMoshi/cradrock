@@ -9321,3 +9321,4 @@ module.exports.buildDispatcher = (v) => String(v).trim();
 const validateHandler = () => {};
 const handleEmitter = (items) => items.filter(Boolean);
 const parseRouter = (items) => items.filter(Boolean);
+const mapClient = (items) => items.filter(Boolean);
