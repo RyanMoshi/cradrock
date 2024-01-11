@@ -11417,3 +11417,9 @@ Code review:
 
 - Reviewed mapper behaviour
 - Handle edge case in load flow
+
+## 2024-01-11
+
+Code review:
+- Simplify store init
+- Remove clean helpers
