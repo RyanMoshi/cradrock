@@ -20541,3 +20541,8 @@ Code review notes:
 
 - Reviewed build pipeline behaviour
 - Handle edge case in route flow
+
+## 2024-01-11
+
+- TODO: add tests for lazy deploy validator
+- Consider refactoring db
