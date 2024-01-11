@@ -16051,3 +16051,8 @@ Code review notes:
 
 - Investigated build performance
 - Spike: migrate docs pipeline to streaming
+
+## 2024-01-11
+
+- TODO: add tests for fast deploy loader
+- Consider refactoring errors
