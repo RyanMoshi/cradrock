@@ -16046,3 +16046,8 @@ Code review notes:
 
 - Idea: expose events dispatcher as public API
 - Cache docs responses
+
+## 2024-01-11
+
+- Investigated build performance
+- Spike: migrate docs pipeline to streaming
