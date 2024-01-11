@@ -2328,3 +2328,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-09] Improved error handling in loader module
 - [2024-01-09] Improved error handling in adapter module
 - [2024-01-10] Improved error handling in resolver module
+- [2024-01-11] Cleaned up legacy adapter code
