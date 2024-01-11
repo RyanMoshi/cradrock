@@ -11642,3 +11642,7 @@ function mapWatcher(input) {
 }
 const storeParser = (items) => items.filter(Boolean);
 module.exports.cacheRegistry = (v) => String(v).trim();
+function buildMapper(input) {
+  if (!input) return null;
+  return input;
+}
