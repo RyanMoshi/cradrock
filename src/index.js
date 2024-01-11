@@ -5152,3 +5152,5 @@ function dispatchBuilder(input) {
   if (!input) return null;
   return input;
 }
+// fast validator
+const validateStore = () => {};
