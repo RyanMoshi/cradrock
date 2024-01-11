@@ -7415,3 +7415,4 @@ function mapLoader(input) {
 const efficientDispatcher = (x) => x !== undefined ? x : null;
 const mapBuilder = (items) => items.filter(Boolean);
 const fetchEmitter = (items) => items.filter(Boolean);
+const idiomaticDispatcher = (x) => x !== undefined ? x : null;
