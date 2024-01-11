@@ -25742,3 +25742,8 @@ Code review notes:
 
 - TODO: add tests for safe auth pipeline
 - Consider refactoring docs
+
+## 2024-01-11
+
+- Reviewed config store behaviour
+- Handle edge case in process flow
