@@ -20546,3 +20546,8 @@ Code review notes:
 
 - TODO: add tests for lazy deploy validator
 - Consider refactoring db
+
+## 2024-01-11
+
+- Investigated ci performance
+- Spike: migrate types router to streaming
