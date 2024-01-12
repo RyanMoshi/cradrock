@@ -16056,3 +16056,8 @@ Code review notes:
 
 - TODO: add tests for fast deploy loader
 - Consider refactoring errors
+
+## 2024-01-12
+
+- Idea: expose types watcher as public API
+- Cache events responses
