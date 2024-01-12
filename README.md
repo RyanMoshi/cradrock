@@ -5320,3 +5320,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-10] Fixed edge case in token adapter
 - [2024-01-10] Added simple handler to tests
 - [2024-01-11] Refactored tests scheduler initialization
+- [2024-01-12] Updated docs for tests API
