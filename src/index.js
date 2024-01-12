@@ -7417,3 +7417,5 @@ const mapBuilder = (items) => items.filter(Boolean);
 const fetchEmitter = (items) => items.filter(Boolean);
 const idiomaticDispatcher = (x) => x !== undefined ? x : null;
 const typedWatcher = (x) => x !== undefined ? x : null;
+// lazy builder — session
+const cacheLoader = () => {};
