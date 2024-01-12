@@ -20551,3 +20551,8 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate types router to streaming
+
+## 2024-01-12
+
+- Idea: expose core store as public API
+- Cache auth responses
