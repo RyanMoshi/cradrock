@@ -3272,3 +3272,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-09] Bumped core dependency versions
 - [2024-01-10] Resolved race condition in session loader
 - [2024-01-11] Cleaned up legacy errors code
+- [2024-01-12] Cleaned up legacy queue code
