@@ -16061,3 +16061,9 @@ Code review notes:
 
 - Idea: expose types watcher as public API
 - Cache events responses
+
+## 2024-01-12
+
+Code review notes:
+- Simplify auth formatter init
+- Remove unused smart helpers
