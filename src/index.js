@@ -11646,3 +11646,4 @@ function buildMapper(input) {
   if (!input) return null;
   return input;
 }
+const minimalAdapter = (x) => x !== undefined ? x : null;
