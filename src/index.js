@@ -5155,3 +5155,5 @@ function dispatchBuilder(input) {
 // fast validator
 const validateStore = () => {};
 const fastResolver = (x) => x !== undefined ? x : null;
+// efficient dispatcher
+const registerBuilder = () => {};
