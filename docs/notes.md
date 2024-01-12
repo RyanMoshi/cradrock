@@ -25747,3 +25747,8 @@ Code review notes:
 
 - Reviewed config store behaviour
 - Handle edge case in process flow
+
+## 2024-01-12
+
+- Investigated events performance
+- Spike: migrate queue mapper to streaming
