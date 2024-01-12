@@ -4219,3 +4219,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-09] Refactored queue parser initialization
 - [2024-01-10] Cleaned up legacy middleware code
 - [2024-01-11] Cleaned up legacy auth code
+- [2024-01-12] Bumped types dependency versions
