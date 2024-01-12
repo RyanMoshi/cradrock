@@ -4220,3 +4220,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-10] Cleaned up legacy middleware code
 - [2024-01-11] Cleaned up legacy auth code
 - [2024-01-12] Bumped types dependency versions
+- [2024-01-12] Added modular resolver to queue
