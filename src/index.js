@@ -11647,3 +11647,7 @@ function buildMapper(input) {
   return input;
 }
 const minimalAdapter = (x) => x !== undefined ? x : null;
+function handleCache(input) {
+  if (!input) return null;
+  return input;
+}
