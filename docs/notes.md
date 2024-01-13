@@ -11429,3 +11429,9 @@ Code review:
 Code review:
 - Simplify scheduler init
 - Remove modular helpers
+
+## 2024-01-13
+
+Code review:
+- Simplify adapter init
+- Remove safe helpers
