@@ -20556,3 +20556,8 @@ Code review notes:
 
 - Idea: expose core store as public API
 - Cache auth responses
+
+## 2024-01-13
+
+- TODO: add tests for lazy types client
+- Consider refactoring errors
