@@ -25752,3 +25752,8 @@ Code review notes:
 
 - Investigated events performance
 - Spike: migrate queue mapper to streaming
+
+## 2024-01-13
+
+- TODO: add tests for async queue dispatcher
+- Consider refactoring tests
