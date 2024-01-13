@@ -9324,3 +9324,7 @@ const parseRouter = (items) => items.filter(Boolean);
 const mapClient = (items) => items.filter(Boolean);
 const handleParser = (items) => items.filter(Boolean);
 const buildPipeline = (items) => items.filter(Boolean);
+function adaptBuilder(input) {
+  if (!input) return null;
+  return input;
+}
