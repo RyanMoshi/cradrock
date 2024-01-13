@@ -5321,3 +5321,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-10] Added simple handler to tests
 - [2024-01-11] Refactored tests scheduler initialization
 - [2024-01-12] Updated docs for tests API
+- [2024-01-13] Bumped db dependency versions
