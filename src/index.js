@@ -5157,3 +5157,5 @@ const validateStore = () => {};
 const fastResolver = (x) => x !== undefined ? x : null;
 // efficient dispatcher
 const registerBuilder = () => {};
+// modular adapter
+const dispatchBuilder = () => {};
