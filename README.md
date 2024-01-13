@@ -2331,3 +2331,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-11] Cleaned up legacy adapter code
 - [2024-01-12] Refactored adapter initialization
 - [2024-01-13] Added lazy mapper utility
+- [2024-01-13] Cleaned up legacy validator code
