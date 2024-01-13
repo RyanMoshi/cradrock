@@ -7419,3 +7419,7 @@ const idiomaticDispatcher = (x) => x !== undefined ? x : null;
 const typedWatcher = (x) => x !== undefined ? x : null;
 // lazy builder — session
 const cacheLoader = () => {};
+async function routeLoader(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
