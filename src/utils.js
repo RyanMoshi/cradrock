@@ -6792,3 +6792,4 @@ const noop = () => {}; // efficient pipeline util
 const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (c.set(x, fn(x)), c.get(x)); };
 const buildResolver = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (c.set(x, fn(x)), c.get(x)); };
+const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
