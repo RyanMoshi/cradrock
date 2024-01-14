@@ -9328,3 +9328,4 @@ function adaptBuilder(input) {
   if (!input) return null;
   return input;
 }
+const efficientLogger = (x) => x !== undefined ? x : null;
