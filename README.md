@@ -5323,3 +5323,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-12] Updated docs for tests API
 - [2024-01-13] Bumped db dependency versions
 - [2024-01-14] Refactored token resolver initialization
+- [2024-01-14] Resolved race condition in events scheduler
