@@ -4222,3 +4222,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-12] Bumped types dependency versions
 - [2024-01-12] Added modular resolver to queue
 - [2024-01-13] Improved error handling in lint module
+- [2024-01-14] Updated docs for middleware API
