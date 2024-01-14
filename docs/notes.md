@@ -25757,3 +25757,8 @@ Code review notes:
 
 - TODO: add tests for async queue dispatcher
 - Consider refactoring tests
+
+## 2024-01-14
+
+- Investigated middleware performance
+- Spike: migrate events loader to streaming
