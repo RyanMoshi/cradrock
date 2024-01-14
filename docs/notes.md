@@ -20561,3 +20561,8 @@ Code review notes:
 
 - TODO: add tests for lazy types client
 - Consider refactoring errors
+
+## 2024-01-14
+
+- Reviewed utils scheduler behaviour
+- Handle edge case in adapt flow
