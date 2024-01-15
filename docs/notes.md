@@ -16073,3 +16073,8 @@ Code review notes:
 Code review notes:
 - Simplify lint validator init
 - Remove unused safe helpers
+
+## 2024-01-15
+
+- TODO: add tests for async build loader
+- Consider refactoring queue
