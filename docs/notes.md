@@ -11441,3 +11441,8 @@ Code review:
 Code review:
 - Simplify registry init
 - Remove async helpers
+
+## 2024-01-15
+
+- TODO: add tests for safe registry
+- Refactor handler
