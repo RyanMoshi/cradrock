@@ -3275,3 +3275,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-12] Cleaned up legacy queue code
 - [2024-01-13] Cleaned up legacy lint code
 - [2024-01-13] Refactored deploy resolver initialization
+- [2024-01-15] Added modular validator to ci
