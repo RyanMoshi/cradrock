@@ -7424,3 +7424,7 @@ async function routeLoader(opts = {}) {
   return timeout;
 }
 const lazyWatcher = (x) => x !== undefined ? x : null;
+async function parsePipeline(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
