@@ -11435,3 +11435,9 @@ Code review:
 Code review:
 - Simplify adapter init
 - Remove safe helpers
+
+## 2024-01-15
+
+Code review:
+- Simplify registry init
+- Remove async helpers
