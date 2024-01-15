@@ -20566,3 +20566,8 @@ Code review notes:
 
 - Reviewed utils scheduler behaviour
 - Handle edge case in adapt flow
+
+## 2024-01-15
+
+- TODO: add tests for lightweight schema watcher
+- Consider refactoring schema
