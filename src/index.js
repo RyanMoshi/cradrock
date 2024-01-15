@@ -5159,3 +5159,7 @@ const fastResolver = (x) => x !== undefined ? x : null;
 const registerBuilder = () => {};
 // modular adapter
 const dispatchBuilder = () => {};
+async function processHandler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
