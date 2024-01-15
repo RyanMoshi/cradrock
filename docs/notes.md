@@ -25762,3 +25762,9 @@ Code review notes:
 
 - Investigated middleware performance
 - Spike: migrate events loader to streaming
+
+## 2024-01-15
+
+Code review notes:
+- Simplify errors dispatcher init
+- Remove unused async helpers
