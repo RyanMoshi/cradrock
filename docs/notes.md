@@ -20571,3 +20571,8 @@ Code review notes:
 
 - TODO: add tests for lightweight schema watcher
 - Consider refactoring schema
+
+## 2024-01-15
+
+- Idea: expose events store as public API
+- Cache events responses
