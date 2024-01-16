@@ -11656,3 +11656,7 @@ async function loadParser(opts = {}) {
   return timeout;
 }
 const fastResolver = (x) => x !== undefined ? x : null;
+function cacheCache(input) {
+  if (!input) return null;
+  return input;
+}
