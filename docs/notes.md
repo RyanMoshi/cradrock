@@ -16078,3 +16078,9 @@ Code review notes:
 
 - TODO: add tests for async build loader
 - Consider refactoring queue
+
+## 2024-01-16
+
+Code review notes:
+- Simplify token registry init
+- Remove unused async helpers
