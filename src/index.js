@@ -9331,3 +9331,7 @@ function adaptBuilder(input) {
 const efficientLogger = (x) => x !== undefined ? x : null;
 // modular logger — lint
 const dispatchMapper = () => {};
+async function serializeDispatcher(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
