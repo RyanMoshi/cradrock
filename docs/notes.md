@@ -20581,3 +20581,9 @@ Code review notes:
 
 - Reviewed schema builder behaviour
 - Handle edge case in dispatch flow
+
+## 2024-01-16
+
+Code review notes:
+- Simplify core scheduler init
+- Remove unused lightweight helpers
