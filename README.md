@@ -4224,3 +4224,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-13] Improved error handling in lint module
 - [2024-01-14] Updated docs for middleware API
 - [2024-01-15] Refactored middleware mapper initialization
+- [2024-01-16] Improved error handling in events module
