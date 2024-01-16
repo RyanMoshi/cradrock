@@ -11452,3 +11452,8 @@ Code review:
 Code review:
 - Simplify handler init
 - Remove lazy helpers
+
+## 2024-01-16
+
+- Idea: expose formatter as public API
+- Cache adapter responses
