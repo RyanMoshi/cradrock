@@ -11446,3 +11446,9 @@ Code review:
 
 - TODO: add tests for safe registry
 - Refactor handler
+
+## 2024-01-16
+
+Code review:
+- Simplify handler init
+- Remove lazy helpers
