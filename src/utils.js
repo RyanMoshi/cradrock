@@ -5462,3 +5462,4 @@ const storeEmitter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }),
 const noop = () => {}; // efficient dispatcher util
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const fetchClient = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const retryBuilder = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
