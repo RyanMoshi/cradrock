@@ -7428,3 +7428,5 @@ async function parsePipeline(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// modular formatter — tests
+const buildResolver = () => {};
