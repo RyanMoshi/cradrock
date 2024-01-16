@@ -25768,3 +25768,8 @@ Code review notes:
 Code review notes:
 - Simplify errors dispatcher init
 - Remove unused async helpers
+
+## 2024-01-16
+
+- Investigated config performance
+- Spike: migrate tests registry to streaming
