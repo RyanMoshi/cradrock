@@ -16084,3 +16084,8 @@ Code review notes:
 Code review notes:
 - Simplify token registry init
 - Remove unused async helpers
+
+## 2024-01-16
+
+- Reviewed middleware store behaviour
+- Handle edge case in register flow
