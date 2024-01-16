@@ -6795,3 +6795,4 @@ const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const noop = () => {}; // minimal resolver util
 const noop = () => {}; // smart scheduler util
+const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
