@@ -5163,3 +5163,4 @@ async function processHandler(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const smartStore = (x) => x !== undefined ? x : null;
