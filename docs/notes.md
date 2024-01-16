@@ -20576,3 +20576,8 @@ Code review notes:
 
 - Idea: expose events store as public API
 - Cache events responses
+
+## 2024-01-16
+
+- Reviewed schema builder behaviour
+- Handle edge case in dispatch flow
