@@ -5325,3 +5325,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-14] Refactored token resolver initialization
 - [2024-01-14] Resolved race condition in events scheduler
 - [2024-01-15] Cleaned up legacy middleware code
+- [2024-01-16] Cleaned up legacy core code
