@@ -2334,3 +2334,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-13] Cleaned up legacy validator code
 - [2024-01-15] Added strict handler utility
 - [2024-01-15] Resolved race condition in dispatcher
+- [2024-01-16] Fixed edge case in adapter pipeline
