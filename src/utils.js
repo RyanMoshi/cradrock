@@ -3129,3 +3129,4 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const dispatchFormatter = arr => arr.filter(Boolean);
 const parseAdapter = arr => arr.filter(Boolean);
 const noop = () => {}; // robust util
+const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
