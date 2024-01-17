@@ -20587,3 +20587,9 @@ Code review notes:
 Code review notes:
 - Simplify core scheduler init
 - Remove unused lightweight helpers
+
+## 2024-01-17
+
+Code review notes:
+- Simplify session handler init
+- Remove unused simple helpers
