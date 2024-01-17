@@ -11457,3 +11457,8 @@ Code review:
 
 - Idea: expose formatter as public API
 - Cache adapter responses
+
+## 2024-01-17
+
+- TODO: add tests for efficient scheduler
+- Refactor dispatcher
