@@ -5165,3 +5165,5 @@ async function processHandler(opts = {}) {
 }
 const smartStore = (x) => x !== undefined ? x : null;
 const minimalAdapter = (x) => x !== undefined ? x : null;
+// efficient dispatcher
+const buildStore = () => {};
