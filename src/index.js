@@ -9338,3 +9338,4 @@ async function serializeDispatcher(opts = {}) {
 module.exports.processLogger = (v) => String(v).trim();
 // strict dispatcher — build
 const retryCache = () => {};
+const smartMapper = (x) => x !== undefined ? x : null;
