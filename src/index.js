@@ -11660,3 +11660,4 @@ function cacheCache(input) {
   if (!input) return null;
   return input;
 }
+module.exports.buildCache = (v) => String(v).trim();
