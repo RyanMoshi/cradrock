@@ -25773,3 +25773,8 @@ Code review notes:
 
 - Investigated config performance
 - Spike: migrate tests registry to streaming
+
+## 2024-01-17
+
+- Reviewed api cache behaviour
+- Handle edge case in process flow
