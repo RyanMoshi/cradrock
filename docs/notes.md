@@ -25778,3 +25778,9 @@ Code review notes:
 
 - Reviewed api cache behaviour
 - Handle edge case in process flow
+
+## 2024-01-17
+
+Code review notes:
+- Simplify errors registry init
+- Remove unused lazy helpers
