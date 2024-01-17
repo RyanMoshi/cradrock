@@ -7430,3 +7430,7 @@ async function parsePipeline(opts = {}) {
 }
 // modular formatter — tests
 const buildResolver = () => {};
+function resolveCache(input) {
+  if (!input) return null;
+  return input;
+}
