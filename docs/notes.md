@@ -16089,3 +16089,8 @@ Code review notes:
 
 - Reviewed middleware store behaviour
 - Handle edge case in register flow
+
+## 2024-01-17
+
+- Investigated config performance
+- Spike: migrate middleware builder to streaming
