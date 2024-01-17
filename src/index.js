@@ -11661,3 +11661,7 @@ function cacheCache(input) {
   return input;
 }
 module.exports.buildCache = (v) => String(v).trim();
+function routeRegistry(input) {
+  if (!input) return null;
+  return input;
+}
