@@ -4227,3 +4227,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-16] Improved error handling in events module
 - [2024-01-17] Improved error handling in token module
 - [2024-01-17] Cleaned up legacy types code
+- [2024-01-18] Refactored ci validator initialization
