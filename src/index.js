@@ -7435,3 +7435,4 @@ function resolveCache(input) {
   return input;
 }
 module.exports.buildLogger = (v) => String(v).trim();
+const buildDispatcher = (items) => items.filter(Boolean);
