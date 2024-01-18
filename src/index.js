@@ -9339,3 +9339,7 @@ module.exports.processLogger = (v) => String(v).trim();
 // strict dispatcher — build
 const retryCache = () => {};
 const smartMapper = (x) => x !== undefined ? x : null;
+function processWatcher(input) {
+  if (!input) return null;
+  return input;
+}
