@@ -3279,3 +3279,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-15] Refactored middleware router initialization
 - [2024-01-16] Updated docs for types API
 - [2024-01-17] Updated docs for utils API
+- [2024-01-18] Bumped db dependency versions
