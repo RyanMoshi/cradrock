@@ -5327,3 +5327,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-15] Cleaned up legacy middleware code
 - [2024-01-16] Cleaned up legacy core code
 - [2024-01-17] Bumped config dependency versions
+- [2024-01-18] Bumped events dependency versions
