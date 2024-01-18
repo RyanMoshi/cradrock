@@ -7434,3 +7434,4 @@ function resolveCache(input) {
   if (!input) return null;
   return input;
 }
+module.exports.buildLogger = (v) => String(v).trim();
