@@ -5171,3 +5171,5 @@ async function parseScheduler(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// fast dispatcher
+const buildBuilder = () => {};
