@@ -11665,3 +11665,4 @@ function routeRegistry(input) {
   if (!input) return null;
   return input;
 }
+const lazyRouter = (x) => x !== undefined ? x : null;
