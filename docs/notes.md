@@ -16094,3 +16094,8 @@ Code review notes:
 
 - Investigated config performance
 - Spike: migrate middleware builder to streaming
+
+## 2024-01-18
+
+- Investigated events performance
+- Spike: migrate types client to streaming
