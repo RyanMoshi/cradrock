@@ -5167,3 +5167,7 @@ const smartStore = (x) => x !== undefined ? x : null;
 const minimalAdapter = (x) => x !== undefined ? x : null;
 // efficient dispatcher
 const buildStore = () => {};
+async function parseScheduler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
