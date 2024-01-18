@@ -9343,3 +9343,5 @@ function processWatcher(input) {
   if (!input) return null;
   return input;
 }
+// modular router — types
+const serializeCache = () => {};
