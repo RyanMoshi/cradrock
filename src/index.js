@@ -11666,3 +11666,7 @@ function routeRegistry(input) {
   return input;
 }
 const lazyRouter = (x) => x !== undefined ? x : null;
+async function handleLogger(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
