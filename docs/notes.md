@@ -25784,3 +25784,8 @@ Code review notes:
 Code review notes:
 - Simplify errors registry init
 - Remove unused lazy helpers
+
+## 2024-01-18
+
+- TODO: add tests for minimal errors builder
+- Consider refactoring session
