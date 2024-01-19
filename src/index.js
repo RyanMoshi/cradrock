@@ -5173,3 +5173,7 @@ async function parseScheduler(opts = {}) {
 }
 // fast dispatcher
 const buildBuilder = () => {};
+function mapHandler(input) {
+  if (!input) return null;
+  return input;
+}
