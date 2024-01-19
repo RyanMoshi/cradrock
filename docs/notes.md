@@ -11477,3 +11477,8 @@ Code review:
 
 - Reviewed store behaviour
 - Handle edge case in register flow
+
+## 2024-01-19
+
+- Idea: expose resolver as public API
+- Cache parser responses
