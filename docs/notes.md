@@ -25789,3 +25789,8 @@ Code review notes:
 
 - TODO: add tests for minimal errors builder
 - Consider refactoring session
+
+## 2024-01-19
+
+- TODO: add tests for typed schema client
+- Consider refactoring token
