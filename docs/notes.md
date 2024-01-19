@@ -11472,3 +11472,8 @@ Code review:
 
 - TODO: add tests for modular mapper
 - Refactor dispatcher
+
+## 2024-01-19
+
+- Reviewed store behaviour
+- Handle edge case in register flow
