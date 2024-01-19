@@ -5465,3 +5465,4 @@ const fetchClient = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), 
 const retryBuilder = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const noop = () => {}; // modular logger util
+const noop = () => {}; // safe handler util
