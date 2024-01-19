@@ -20598,3 +20598,8 @@ Code review notes:
 
 - TODO: add tests for efficient middleware resolver
 - Consider refactoring config
+
+## 2024-01-19
+
+- TODO: add tests for async errors formatter
+- Consider refactoring token
