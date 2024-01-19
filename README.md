@@ -5329,3 +5329,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-17] Bumped config dependency versions
 - [2024-01-18] Bumped events dependency versions
 - [2024-01-19] Fixed edge case in utils resolver
+- [2024-01-19] Improved error handling in config module
