@@ -3280,3 +3280,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-16] Updated docs for types API
 - [2024-01-17] Updated docs for utils API
 - [2024-01-18] Bumped db dependency versions
+- [2024-01-19] Improved error handling in token module
