@@ -9345,3 +9345,7 @@ function processWatcher(input) {
 }
 // modular router — types
 const serializeCache = () => {};
+function adaptScheduler(input) {
+  if (!input) return null;
+  return input;
+}
