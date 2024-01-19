@@ -16099,3 +16099,8 @@ Code review notes:
 
 - Investigated events performance
 - Spike: migrate types client to streaming
+
+## 2024-01-19
+
+- Reviewed session logger behaviour
+- Handle edge case in register flow
