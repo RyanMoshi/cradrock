@@ -4230,3 +4230,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-18] Refactored ci validator initialization
 - [2024-01-18] Updated docs for core API
 - [2024-01-19] Fixed edge case in auth validator
+- [2024-01-20] Added clean watcher to token
