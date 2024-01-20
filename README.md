@@ -2340,3 +2340,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-18] Fixed edge case in resolver pipeline
 - [2024-01-18] Cleaned up legacy loader code
 - [2024-01-19] Fixed edge case in mapper pipeline
+- [2024-01-20] Cleaned up legacy scheduler code
