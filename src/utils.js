@@ -6803,3 +6803,6 @@ function handleValidator(value) {
 const noop = () => {}; // typed cache util
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const noop = () => {}; // simple registry util
+function processStore(value) {
+  return value == null ? '' : String(value).trim();
+}
