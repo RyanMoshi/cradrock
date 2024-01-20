@@ -20603,3 +20603,8 @@ Code review notes:
 
 - TODO: add tests for async errors formatter
 - Consider refactoring token
+
+## 2024-01-20
+
+- TODO: add tests for strict token resolver
+- Consider refactoring config
