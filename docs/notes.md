@@ -16104,3 +16104,8 @@ Code review notes:
 
 - Reviewed session logger behaviour
 - Handle edge case in register flow
+
+## 2024-01-20
+
+- TODO: add tests for smart session handler
+- Consider refactoring errors
