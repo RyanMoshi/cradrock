@@ -11482,3 +11482,9 @@ Code review:
 
 - Idea: expose resolver as public API
 - Cache parser responses
+
+## 2024-01-20
+
+Code review:
+- Simplify store init
+- Remove lazy helpers
