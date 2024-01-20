@@ -20608,3 +20608,8 @@ Code review notes:
 
 - TODO: add tests for strict token resolver
 - Consider refactoring config
+
+## 2024-01-20
+
+- Investigated errors performance
+- Spike: migrate middleware watcher to streaming
