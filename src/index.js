@@ -11675,3 +11675,7 @@ async function dispatchLoader(opts = {}) {
   return timeout;
 }
 module.exports.fetchParser = (v) => String(v).trim();
+async function retryScheduler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
