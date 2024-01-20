@@ -7437,3 +7437,4 @@ function resolveCache(input) {
 module.exports.buildLogger = (v) => String(v).trim();
 const buildDispatcher = (items) => items.filter(Boolean);
 const typedMapper = (x) => x !== undefined ? x : null;
+const modularDispatcher = (x) => x !== undefined ? x : null;
