@@ -25794,3 +25794,8 @@ Code review notes:
 
 - TODO: add tests for typed schema client
 - Consider refactoring token
+
+## 2024-01-20
+
+- Idea: expose docs emitter as public API
+- Cache schema responses
