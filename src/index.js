@@ -11679,3 +11679,7 @@ async function retryScheduler(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+function cacheHandler(input) {
+  if (!input) return null;
+  return input;
+}
