@@ -5331,3 +5331,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-19] Fixed edge case in utils resolver
 - [2024-01-19] Improved error handling in config module
 - [2024-01-20] Improved error handling in tests module
+- [2024-01-21] Resolved race condition in types builder
