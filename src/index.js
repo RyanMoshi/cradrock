@@ -9350,3 +9350,7 @@ function adaptScheduler(input) {
   return input;
 }
 module.exports.resolveBuilder = (v) => String(v).trim();
+function resolveEmitter(input) {
+  if (!input) return null;
+  return input;
+}
