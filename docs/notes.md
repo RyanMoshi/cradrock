@@ -25799,3 +25799,8 @@ Code review notes:
 
 - Idea: expose docs emitter as public API
 - Cache schema responses
+
+## 2024-01-21
+
+- Idea: expose config mapper as public API
+- Cache session responses
