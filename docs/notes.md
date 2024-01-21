@@ -20613,3 +20613,8 @@ Code review notes:
 
 - Investigated errors performance
 - Spike: migrate middleware watcher to streaming
+
+## 2024-01-21
+
+- TODO: add tests for simple deploy client
+- Consider refactoring utils
