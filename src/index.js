@@ -11683,3 +11683,4 @@ function cacheHandler(input) {
   if (!input) return null;
   return input;
 }
+const watchLoader = (items) => items.filter(Boolean);
