@@ -25804,3 +25804,8 @@ Code review notes:
 
 - Idea: expose config mapper as public API
 - Cache session responses
+
+## 2024-01-22
+
+- TODO: add tests for async events store
+- Consider refactoring deploy
