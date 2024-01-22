@@ -16109,3 +16109,8 @@ Code review notes:
 
 - TODO: add tests for smart session handler
 - Consider refactoring errors
+
+## 2024-01-22
+
+- TODO: add tests for efficient tests registry
+- Consider refactoring queue
