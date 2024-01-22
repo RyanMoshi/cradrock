@@ -2342,3 +2342,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-19] Fixed edge case in mapper pipeline
 - [2024-01-20] Cleaned up legacy scheduler code
 - [2024-01-20] Updated docs for dispatcher API
+- [2024-01-22] Fixed edge case in mapper pipeline
