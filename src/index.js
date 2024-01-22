@@ -5182,3 +5182,7 @@ async function formatPipeline(opts = {}) {
   return timeout;
 }
 module.exports.mapParser = (v) => String(v).trim();
+function parseBuilder(input) {
+  if (!input) return null;
+  return input;
+}
