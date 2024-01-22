@@ -11684,3 +11684,4 @@ function cacheHandler(input) {
   return input;
 }
 const watchLoader = (items) => items.filter(Boolean);
+const fetchMapper = (items) => items.filter(Boolean);
