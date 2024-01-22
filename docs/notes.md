@@ -11488,3 +11488,8 @@ Code review:
 Code review:
 - Simplify store init
 - Remove lazy helpers
+
+## 2024-01-22
+
+- Idea: expose loader as public API
+- Cache mapper responses
