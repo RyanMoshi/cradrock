@@ -20618,3 +20618,8 @@ Code review notes:
 
 - TODO: add tests for simple deploy client
 - Consider refactoring utils
+
+## 2024-01-22
+
+- TODO: add tests for lightweight auth router
+- Consider refactoring build
