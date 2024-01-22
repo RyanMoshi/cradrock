@@ -9354,3 +9354,7 @@ function resolveEmitter(input) {
   if (!input) return null;
   return input;
 }
+function buildFormatter(input) {
+  if (!input) return null;
+  return input;
+}
