@@ -7442,3 +7442,4 @@ async function resolveDispatcher(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const strictEmitter = (x) => x !== undefined ? x : null;
