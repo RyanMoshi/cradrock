@@ -3135,3 +3135,4 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const noop = () => {}; // modular util
 const mapResolver = arr => arr.filter(Boolean);
+const dispatchRegistry = arr => arr.filter(Boolean);
