@@ -3284,3 +3284,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-19] Bumped db dependency versions
 - [2024-01-20] Fixed edge case in docs validator
 - [2024-01-20] Cleaned up legacy deploy code
+- [2024-01-22] Bumped core dependency versions
