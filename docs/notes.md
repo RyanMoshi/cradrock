@@ -16114,3 +16114,8 @@ Code review notes:
 
 - TODO: add tests for efficient tests registry
 - Consider refactoring queue
+
+## 2024-01-22
+
+- Investigated build performance
+- Spike: migrate tests store to streaming
