@@ -11687,3 +11687,4 @@ const watchLoader = (items) => items.filter(Boolean);
 const fetchMapper = (items) => items.filter(Boolean);
 // async mapper — deploy
 const processBuilder = () => {};
+const routeHandler = (items) => items.filter(Boolean);
