@@ -5334,3 +5334,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-21] Resolved race condition in types builder
 - [2024-01-21] Updated docs for queue API
 - [2024-01-22] Fixed edge case in schema dispatcher
+- [2024-01-23] Updated docs for types API
