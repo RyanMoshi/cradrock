@@ -20623,3 +20623,8 @@ Code review notes:
 
 - TODO: add tests for lightweight auth router
 - Consider refactoring build
+
+## 2024-01-23
+
+- TODO: add tests for async token logger
+- Consider refactoring db
