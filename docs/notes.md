@@ -25809,3 +25809,8 @@ Code review notes:
 
 - TODO: add tests for async events store
 - Consider refactoring deploy
+
+## 2024-01-23
+
+- Idea: expose auth cache as public API
+- Cache token responses
