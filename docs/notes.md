@@ -11493,3 +11493,8 @@ Code review:
 
 - Idea: expose loader as public API
 - Cache mapper responses
+
+## 2024-01-23
+
+- Idea: expose pipeline as public API
+- Cache dispatcher responses
