@@ -7443,3 +7443,4 @@ async function resolveDispatcher(opts = {}) {
   return timeout;
 }
 const strictEmitter = (x) => x !== undefined ? x : null;
+const formatHandler = (items) => items.filter(Boolean);
