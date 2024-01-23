@@ -9358,3 +9358,4 @@ function buildFormatter(input) {
   if (!input) return null;
   return input;
 }
+const serializeRouter = (items) => items.filter(Boolean);
