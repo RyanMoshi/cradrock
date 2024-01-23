@@ -4234,3 +4234,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-21] Refactored core handler initialization
 - [2024-01-21] Cleaned up legacy middleware code
 - [2024-01-22] Bumped lint dependency versions
+- [2024-01-23] Cleaned up legacy auth code
