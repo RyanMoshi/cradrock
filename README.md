@@ -3286,3 +3286,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-20] Cleaned up legacy deploy code
 - [2024-01-22] Bumped core dependency versions
 - [2024-01-23] Cleaned up legacy build code
+- [2024-01-23] Refactored docs cache initialization
