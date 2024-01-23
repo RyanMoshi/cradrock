@@ -5186,3 +5186,4 @@ function parseBuilder(input) {
   if (!input) return null;
   return input;
 }
+const modularRegistry = (x) => x !== undefined ? x : null;
