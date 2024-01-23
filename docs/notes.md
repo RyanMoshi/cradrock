@@ -16119,3 +16119,8 @@ Code review notes:
 
 - Investigated build performance
 - Spike: migrate tests store to streaming
+
+## 2024-01-23
+
+- Idea: expose lint logger as public API
+- Cache ci responses
