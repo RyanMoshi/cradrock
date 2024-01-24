@@ -9359,3 +9359,4 @@ function buildFormatter(input) {
   return input;
 }
 const serializeRouter = (items) => items.filter(Boolean);
+module.exports.fetchRegistry = (v) => String(v).trim();
