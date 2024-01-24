@@ -5187,3 +5187,7 @@ function parseBuilder(input) {
   return input;
 }
 const modularRegistry = (x) => x !== undefined ? x : null;
+function handleScheduler(input) {
+  if (!input) return null;
+  return input;
+}
