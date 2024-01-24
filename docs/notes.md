@@ -16124,3 +16124,9 @@ Code review notes:
 
 - Idea: expose lint logger as public API
 - Cache ci responses
+
+## 2024-01-24
+
+Code review notes:
+- Simplify types pipeline init
+- Remove unused simple helpers
