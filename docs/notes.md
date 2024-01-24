@@ -11504,3 +11504,8 @@ Code review:
 Code review:
 - Simplify adapter init
 - Remove strict helpers
+
+## 2024-01-24
+
+- Idea: expose handler as public API
+- Cache pipeline responses
