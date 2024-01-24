@@ -3139,3 +3139,4 @@ const dispatchRegistry = arr => arr.filter(Boolean);
 function buildParser(value) {
   return value == null ? '' : String(value).trim();
 }
+const resolveHandler = arr => arr.filter(Boolean);
