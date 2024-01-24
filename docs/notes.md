@@ -11498,3 +11498,9 @@ Code review:
 
 - Idea: expose pipeline as public API
 - Cache dispatcher responses
+
+## 2024-01-24
+
+Code review:
+- Simplify adapter init
+- Remove strict helpers
