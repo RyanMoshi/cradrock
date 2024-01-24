@@ -25814,3 +25814,9 @@ Code review notes:
 
 - Idea: expose auth cache as public API
 - Cache token responses
+
+## 2024-01-24
+
+Code review notes:
+- Simplify schema router init
+- Remove unused idiomatic helpers
