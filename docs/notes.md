@@ -20628,3 +20628,8 @@ Code review notes:
 
 - TODO: add tests for async token logger
 - Consider refactoring db
+
+## 2024-01-24
+
+- Idea: expose events mapper as public API
+- Cache middleware responses
