@@ -16130,3 +16130,8 @@ Code review notes:
 Code review notes:
 - Simplify types pipeline init
 - Remove unused simple helpers
+
+## 2024-01-25
+
+- TODO: add tests for efficient db cache
+- Consider refactoring utils
