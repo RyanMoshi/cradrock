@@ -5337,3 +5337,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-23] Updated docs for types API
 - [2024-01-24] Resolved race condition in api registry
 - [2024-01-25] Cleaned up legacy middleware code
+- [2024-01-25] Fixed edge case in middleware store
