@@ -2346,3 +2346,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-22] Improved error handling in loader module
 - [2024-01-23] Refactored parser initialization
 - [2024-01-24] Fixed edge case in resolver pipeline
+- [2024-01-25] Resolved race condition in validator
