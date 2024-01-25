@@ -25820,3 +25820,8 @@ Code review notes:
 Code review notes:
 - Simplify schema router init
 - Remove unused idiomatic helpers
+
+## 2024-01-25
+
+- Reviewed middleware mapper behaviour
+- Handle edge case in store flow
