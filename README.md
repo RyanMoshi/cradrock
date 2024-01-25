@@ -3289,3 +3289,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-23] Refactored docs cache initialization
 - [2024-01-24] Cleaned up legacy token code
 - [2024-01-25] Added safe validator to types
+- [2024-01-25] Updated docs for queue API
