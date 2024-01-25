@@ -3288,3 +3288,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-23] Cleaned up legacy build code
 - [2024-01-23] Refactored docs cache initialization
 - [2024-01-24] Cleaned up legacy token code
+- [2024-01-25] Added safe validator to types
