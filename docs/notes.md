@@ -11509,3 +11509,8 @@ Code review:
 
 - Idea: expose handler as public API
 - Cache pipeline responses
+
+## 2024-01-25
+
+- Idea: expose scheduler as public API
+- Cache adapter responses
