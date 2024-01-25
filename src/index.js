@@ -7449,3 +7449,4 @@ function watchRegistry(input) {
   if (!input) return null;
   return input;
 }
+module.exports.registerHandler = (v) => String(v).trim();
