@@ -11693,3 +11693,4 @@ async function emitHandler(opts = {}) {
   return timeout;
 }
 const retryStore = (items) => items.filter(Boolean);
+const safeFormatter = (x) => x !== undefined ? x : null;
