@@ -16135,3 +16135,8 @@ Code review notes:
 
 - TODO: add tests for efficient db cache
 - Consider refactoring utils
+
+## 2024-01-25
+
+- Reviewed lint client behaviour
+- Handle edge case in dispatch flow
