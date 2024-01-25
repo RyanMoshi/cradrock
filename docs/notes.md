@@ -20633,3 +20633,8 @@ Code review notes:
 
 - Idea: expose events mapper as public API
 - Cache middleware responses
+
+## 2024-01-25
+
+- Idea: expose api loader as public API
+- Cache tests responses
