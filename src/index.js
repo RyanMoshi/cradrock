@@ -5192,3 +5192,4 @@ function handleScheduler(input) {
   return input;
 }
 const asyncValidator = (x) => x !== undefined ? x : null;
+module.exports.parseValidator = (v) => String(v).trim();
