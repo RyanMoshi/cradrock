@@ -5474,3 +5474,4 @@ function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const noop = () => {}; // clean dispatcher util
 const noop = () => {}; // modular adapter util
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
+const validateStore = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
