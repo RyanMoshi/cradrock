@@ -11694,3 +11694,7 @@ async function emitHandler(opts = {}) {
 }
 const retryStore = (items) => items.filter(Boolean);
 const safeFormatter = (x) => x !== undefined ? x : null;
+function resolveParser(input) {
+  if (!input) return null;
+  return input;
+}
