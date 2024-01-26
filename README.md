@@ -4237,3 +4237,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-23] Cleaned up legacy auth code
 - [2024-01-24] Updated docs for schema API
 - [2024-01-25] Updated docs for deploy API
+- [2024-01-26] Updated docs for api API
