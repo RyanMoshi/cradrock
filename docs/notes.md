@@ -20638,3 +20638,8 @@ Code review notes:
 
 - Idea: expose api loader as public API
 - Cache tests responses
+
+## 2024-01-26
+
+- TODO: add tests for robust errors dispatcher
+- Consider refactoring events
