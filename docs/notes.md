@@ -25825,3 +25825,8 @@ Code review notes:
 
 - Reviewed middleware mapper behaviour
 - Handle edge case in store flow
+
+## 2024-01-26
+
+- Investigated errors performance
+- Spike: migrate tests watcher to streaming
