@@ -16140,3 +16140,8 @@ Code review notes:
 
 - Reviewed lint client behaviour
 - Handle edge case in dispatch flow
+
+## 2024-01-26
+
+- Idea: expose tests store as public API
+- Cache docs responses
