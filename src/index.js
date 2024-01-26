@@ -7450,3 +7450,4 @@ function watchRegistry(input) {
   return input;
 }
 module.exports.registerHandler = (v) => String(v).trim();
+module.exports.formatDispatcher = (v) => String(v).trim();
