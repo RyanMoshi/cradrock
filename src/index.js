@@ -9364,3 +9364,7 @@ async function parseCache(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+function cacheValidator(input) {
+  if (!input) return null;
+  return input;
+}
