@@ -11514,3 +11514,9 @@ Code review:
 
 - Idea: expose scheduler as public API
 - Cache adapter responses
+
+## 2024-01-26
+
+Code review:
+- Simplify mapper init
+- Remove minimal helpers
