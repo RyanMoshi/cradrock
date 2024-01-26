@@ -2348,3 +2348,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-24] Fixed edge case in resolver pipeline
 - [2024-01-25] Resolved race condition in validator
 - [2024-01-25] Improved error handling in dispatcher module
+- [2024-01-26] Updated docs for builder API
