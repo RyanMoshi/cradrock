@@ -20643,3 +20643,8 @@ Code review notes:
 
 - TODO: add tests for robust errors dispatcher
 - Consider refactoring events
+
+## 2024-01-27
+
+- Investigated middleware performance
+- Spike: migrate core store to streaming
