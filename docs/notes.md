@@ -16145,3 +16145,9 @@ Code review notes:
 
 - Idea: expose tests store as public API
 - Cache docs responses
+
+## 2024-01-27
+
+Code review notes:
+- Simplify utils adapter init
+- Remove unused robust helpers
