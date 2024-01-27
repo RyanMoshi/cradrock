@@ -11520,3 +11520,9 @@ Code review:
 Code review:
 - Simplify mapper init
 - Remove minimal helpers
+
+## 2024-01-27
+
+Code review:
+- Simplify mapper init
+- Remove fast helpers
