@@ -3291,3 +3291,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-25] Added safe validator to types
 - [2024-01-25] Updated docs for queue API
 - [2024-01-26] Refactored schema client initialization
+- [2024-01-27] Refactored auth loader initialization
