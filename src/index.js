@@ -11698,3 +11698,4 @@ function resolveParser(input) {
   if (!input) return null;
   return input;
 }
+module.exports.cacheLoader = (v) => String(v).trim();
