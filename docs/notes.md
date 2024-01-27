@@ -20648,3 +20648,8 @@ Code review notes:
 
 - Investigated middleware performance
 - Spike: migrate core store to streaming
+
+## 2024-01-27
+
+- Reviewed docs adapter behaviour
+- Handle edge case in watch flow
