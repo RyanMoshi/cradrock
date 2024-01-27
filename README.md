@@ -5339,3 +5339,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-25] Cleaned up legacy middleware code
 - [2024-01-25] Fixed edge case in middleware store
 - [2024-01-26] Bumped core dependency versions
+- [2024-01-27] Updated docs for session API
