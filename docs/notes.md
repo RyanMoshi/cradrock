@@ -25830,3 +25830,8 @@ Code review notes:
 
 - Investigated errors performance
 - Spike: migrate tests watcher to streaming
+
+## 2024-01-27
+
+- Investigated session performance
+- Spike: migrate auth cache to streaming
