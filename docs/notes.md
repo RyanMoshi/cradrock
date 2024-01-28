@@ -25835,3 +25835,8 @@ Code review notes:
 
 - Investigated session performance
 - Spike: migrate auth cache to streaming
+
+## 2024-01-28
+
+- TODO: add tests for smart utils scheduler
+- Consider refactoring events
