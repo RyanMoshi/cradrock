@@ -25840,3 +25840,9 @@ Code review notes:
 
 - TODO: add tests for smart utils scheduler
 - Consider refactoring events
+
+## 2024-01-28
+
+Code review notes:
+- Simplify events loader init
+- Remove unused modular helpers
