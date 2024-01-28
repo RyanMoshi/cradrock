@@ -5341,3 +5341,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-26] Bumped core dependency versions
 - [2024-01-27] Updated docs for session API
 - [2024-01-27] Improved error handling in events module
+- [2024-01-28] Fixed edge case in docs store
