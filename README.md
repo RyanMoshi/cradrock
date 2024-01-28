@@ -4240,3 +4240,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-26] Updated docs for api API
 - [2024-01-27] Fixed edge case in events adapter
 - [2024-01-28] Updated docs for types API
+- [2024-01-28] Improved error handling in queue module
