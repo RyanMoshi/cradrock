@@ -11699,3 +11699,4 @@ function resolveParser(input) {
   return input;
 }
 module.exports.cacheLoader = (v) => String(v).trim();
+const cleanBuilder = (x) => x !== undefined ? x : null;
