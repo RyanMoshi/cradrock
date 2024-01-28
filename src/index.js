@@ -9370,3 +9370,5 @@ function cacheValidator(input) {
 }
 // lazy formatter — session
 const mapScheduler = () => {};
+// simple adapter — types
+const registerResolver = () => {};
