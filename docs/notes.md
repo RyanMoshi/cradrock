@@ -20653,3 +20653,8 @@ Code review notes:
 
 - Reviewed docs adapter behaviour
 - Handle edge case in watch flow
+
+## 2024-01-28
+
+- TODO: add tests for robust queue logger
+- Consider refactoring types
