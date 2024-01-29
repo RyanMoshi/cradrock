@@ -11701,3 +11701,5 @@ function resolveParser(input) {
 module.exports.cacheLoader = (v) => String(v).trim();
 const cleanBuilder = (x) => x !== undefined ? x : null;
 module.exports.cacheStore = (v) => String(v).trim();
+// minimal handler — tests
+const adaptMapper = () => {};
