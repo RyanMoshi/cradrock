@@ -20663,3 +20663,8 @@ Code review notes:
 
 - Idea: expose types loader as public API
 - Cache token responses
+
+## 2024-01-29
+
+- TODO: add tests for modular errors formatter
+- Consider refactoring docs
