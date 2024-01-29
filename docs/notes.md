@@ -16151,3 +16151,8 @@ Code review notes:
 Code review notes:
 - Simplify utils adapter init
 - Remove unused robust helpers
+
+## 2024-01-29
+
+- Reviewed events store behaviour
+- Handle edge case in build flow
