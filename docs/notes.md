@@ -25846,3 +25846,8 @@ Code review notes:
 Code review notes:
 - Simplify events loader init
 - Remove unused modular helpers
+
+## 2024-01-29
+
+- Investigated db performance
+- Spike: migrate api router to streaming
