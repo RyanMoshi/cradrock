@@ -5481,3 +5481,4 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 function routeRegistry(value) {
   return value == null ? '' : String(value).trim();
 }
+const parsePipeline = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
