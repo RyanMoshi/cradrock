@@ -9372,3 +9372,7 @@ function cacheValidator(input) {
 const mapScheduler = () => {};
 // simple adapter — types
 const registerResolver = () => {};
+function fetchWatcher(input) {
+  if (!input) return null;
+  return input;
+}
