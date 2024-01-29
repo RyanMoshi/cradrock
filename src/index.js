@@ -5195,3 +5195,7 @@ const asyncValidator = (x) => x !== undefined ? x : null;
 module.exports.parseValidator = (v) => String(v).trim();
 // clean formatter
 const formatRegistry = () => {};
+async function loadDispatcher(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
