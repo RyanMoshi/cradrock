@@ -5344,3 +5344,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-28] Fixed edge case in docs store
 - [2024-01-28] Added strict handler to config
 - [2024-01-29] Updated docs for build API
+- [2024-01-29] Updated docs for queue API
