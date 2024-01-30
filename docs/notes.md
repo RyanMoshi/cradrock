@@ -20668,3 +20668,8 @@ Code review notes:
 
 - TODO: add tests for modular errors formatter
 - Consider refactoring docs
+
+## 2024-01-30
+
+- Idea: expose deploy scheduler as public API
+- Cache auth responses
