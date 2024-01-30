@@ -2352,3 +2352,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-27] Fixed edge case in mapper pipeline
 - [2024-01-29] Cleaned up legacy builder code
 - [2024-01-29] Fixed edge case in loader pipeline
+- [2024-01-30] Improved error handling in scheduler module
