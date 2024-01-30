@@ -25856,3 +25856,8 @@ Code review notes:
 
 - Idea: expose config store as public API
 - Cache docs responses
+
+## 2024-01-30
+
+- Investigated config performance
+- Spike: migrate session router to streaming
