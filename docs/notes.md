@@ -25851,3 +25851,8 @@ Code review notes:
 
 - Investigated db performance
 - Spike: migrate api router to streaming
+
+## 2024-01-30
+
+- Idea: expose config store as public API
+- Cache docs responses
