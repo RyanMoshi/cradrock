@@ -5482,3 +5482,4 @@ function routeRegistry(value) {
   return value == null ? '' : String(value).trim();
 }
 const parsePipeline = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const noop = () => {}; // robust adapter util
