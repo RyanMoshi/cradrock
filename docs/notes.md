@@ -11537,3 +11537,9 @@ Code review:
 
 - Reviewed mapper behaviour
 - Handle edge case in register flow
+
+## 2024-01-30
+
+Code review:
+- Simplify registry init
+- Remove clean helpers
