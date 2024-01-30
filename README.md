@@ -4242,3 +4242,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-28] Updated docs for types API
 - [2024-01-28] Improved error handling in queue module
 - [2024-01-29] Bumped api dependency versions
+- [2024-01-30] Resolved race condition in lint adapter
