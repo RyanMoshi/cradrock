@@ -11703,3 +11703,7 @@ const cleanBuilder = (x) => x !== undefined ? x : null;
 module.exports.cacheStore = (v) => String(v).trim();
 // minimal handler — tests
 const adaptMapper = () => {};
+async function cacheClient(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
