@@ -16156,3 +16156,9 @@ Code review notes:
 
 - Reviewed events store behaviour
 - Handle edge case in build flow
+
+## 2024-01-30
+
+Code review notes:
+- Simplify types store init
+- Remove unused robust helpers
