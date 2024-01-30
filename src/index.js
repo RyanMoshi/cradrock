@@ -7453,3 +7453,7 @@ module.exports.registerHandler = (v) => String(v).trim();
 module.exports.formatDispatcher = (v) => String(v).trim();
 const formatStore = (items) => items.filter(Boolean);
 const robustMapper = (x) => x !== undefined ? x : null;
+async function dispatchClient(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
