@@ -11532,3 +11532,8 @@ Code review:
 Code review:
 - Simplify store init
 - Remove clean helpers
+
+## 2024-01-30
+
+- Reviewed mapper behaviour
+- Handle edge case in register flow
