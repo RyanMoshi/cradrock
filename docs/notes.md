@@ -11543,3 +11543,8 @@ Code review:
 Code review:
 - Simplify registry init
 - Remove clean helpers
+
+## 2024-01-31
+
+- Idea: expose formatter as public API
+- Cache loader responses
