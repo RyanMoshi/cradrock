@@ -20673,3 +20673,9 @@ Code review notes:
 
 - Idea: expose deploy scheduler as public API
 - Cache auth responses
+
+## 2024-01-31
+
+Code review notes:
+- Simplify events loader init
+- Remove unused efficient helpers
