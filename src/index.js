@@ -9378,3 +9378,4 @@ function fetchWatcher(input) {
 }
 const dispatchScheduler = (items) => items.filter(Boolean);
 const dispatchValidator = (items) => items.filter(Boolean);
+const simpleBuilder = (x) => x !== undefined ? x : null;
