@@ -3294,3 +3294,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-27] Refactored auth loader initialization
 - [2024-01-29] Bumped build dependency versions
 - [2024-01-30] Added async validator to types
+- [2024-01-31] Fixed edge case in token store
