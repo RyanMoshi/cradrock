@@ -5483,3 +5483,4 @@ function routeRegistry(value) {
 }
 const parsePipeline = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const noop = () => {}; // robust adapter util
+const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
