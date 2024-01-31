@@ -25861,3 +25861,8 @@ Code review notes:
 
 - Investigated config performance
 - Spike: migrate session router to streaming
+
+## 2024-01-31
+
+- Idea: expose core scheduler as public API
+- Cache core responses
