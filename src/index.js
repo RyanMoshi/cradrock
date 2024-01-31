@@ -11707,3 +11707,4 @@ async function cacheClient(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.parsePipeline = (v) => String(v).trim();
