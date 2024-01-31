@@ -4244,3 +4244,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-29] Bumped api dependency versions
 - [2024-01-30] Resolved race condition in lint adapter
 - [2024-01-30] Cleaned up legacy queue code
+- [2024-01-31] Updated docs for session API
