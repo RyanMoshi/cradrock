@@ -7459,3 +7459,4 @@ async function dispatchClient(opts = {}) {
 }
 // clean handler — db
 const storeRouter = () => {};
+const validateStore = (items) => items.filter(Boolean);
