@@ -16162,3 +16162,8 @@ Code review notes:
 Code review notes:
 - Simplify types store init
 - Remove unused robust helpers
+
+## 2024-01-31
+
+- Investigated session performance
+- Spike: migrate session emitter to streaming
