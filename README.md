@@ -3297,3 +3297,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-31] Fixed edge case in token store
 - [2024-01-31] Added fast store to api
 - [2024-02-01] Refactored session client initialization
+- [2024-02-01] Resolved race condition in errors scheduler
