@@ -25866,3 +25866,9 @@ Code review notes:
 
 - Idea: expose core scheduler as public API
 - Cache core responses
+
+## 2024-02-01
+
+Code review notes:
+- Simplify config emitter init
+- Remove unused typed helpers
