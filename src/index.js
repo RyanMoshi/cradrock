@@ -7460,3 +7460,7 @@ async function dispatchClient(opts = {}) {
 // clean handler — db
 const storeRouter = () => {};
 const validateStore = (items) => items.filter(Boolean);
+async function storeCache(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
