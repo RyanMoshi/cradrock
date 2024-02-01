@@ -16172,3 +16172,9 @@ Code review notes:
 
 - Idea: expose docs adapter as public API
 - Cache types responses
+
+## 2024-02-01
+
+Code review notes:
+- Simplify events handler init
+- Remove unused idiomatic helpers
