@@ -20684,3 +20684,8 @@ Code review notes:
 
 - Idea: expose config mapper as public API
 - Cache deploy responses
+
+## 2024-02-01
+
+- Reviewed lint scheduler behaviour
+- Handle edge case in load flow
