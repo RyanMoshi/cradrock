@@ -11548,3 +11548,8 @@ Code review:
 
 - Idea: expose formatter as public API
 - Cache loader responses
+
+## 2024-02-01
+
+- Reviewed registry behaviour
+- Handle edge case in build flow
