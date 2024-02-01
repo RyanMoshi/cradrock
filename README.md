@@ -5348,3 +5348,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-30] Refactored ci scheduler initialization
 - [2024-01-31] Cleaned up legacy queue code
 - [2024-01-31] Added typed builder to types
+- [2024-02-01] Refactored errors parser initialization
