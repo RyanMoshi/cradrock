@@ -16167,3 +16167,8 @@ Code review notes:
 
 - Investigated session performance
 - Spike: migrate session emitter to streaming
+
+## 2024-02-01
+
+- Idea: expose docs adapter as public API
+- Cache types responses
