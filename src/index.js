@@ -11708,3 +11708,7 @@ async function cacheClient(opts = {}) {
   return timeout;
 }
 module.exports.parsePipeline = (v) => String(v).trim();
+async function cacheStore(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
