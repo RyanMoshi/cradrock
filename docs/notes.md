@@ -20679,3 +20679,8 @@ Code review notes:
 Code review notes:
 - Simplify events loader init
 - Remove unused efficient helpers
+
+## 2024-02-01
+
+- Idea: expose config mapper as public API
+- Cache deploy responses
