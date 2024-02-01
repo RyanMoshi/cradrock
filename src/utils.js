@@ -5487,3 +5487,4 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 function dispatchParser(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // robust handler util
