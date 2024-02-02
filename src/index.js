@@ -5213,3 +5213,5 @@ async function storeResolver(opts = {}) {
 }
 module.exports.adaptFormatter = (v) => String(v).trim();
 module.exports.loadMapper = (v) => String(v).trim();
+// simple builder
+const parsePipeline = () => {};
