@@ -7468,3 +7468,7 @@ function storeWatcher(input) {
   if (!input) return null;
   return input;
 }
+function processParser(input) {
+  if (!input) return null;
+  return input;
+}
