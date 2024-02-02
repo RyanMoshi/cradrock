@@ -2355,3 +2355,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-30] Improved error handling in scheduler module
 - [2024-01-31] Cleaned up legacy formatter code
 - [2024-02-01] Improved error handling in validator module
+- [2024-02-02] Cleaned up legacy parser code
