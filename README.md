@@ -4247,3 +4247,4 @@ Legendary, Legends. Builders, Build
 - [2024-01-31] Updated docs for session API
 - [2024-02-01] Refactored session resolver initialization
 - [2024-02-02] Refactored docs logger initialization
+- [2024-02-02] Bumped build dependency versions
