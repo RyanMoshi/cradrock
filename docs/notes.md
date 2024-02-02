@@ -20689,3 +20689,8 @@ Code review notes:
 
 - Reviewed lint scheduler behaviour
 - Handle edge case in load flow
+
+## 2024-02-02
+
+- Idea: expose session logger as public API
+- Cache utils responses
