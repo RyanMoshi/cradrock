@@ -9384,3 +9384,4 @@ function watchFormatter(input) {
   if (!input) return null;
   return input;
 }
+const retryLogger = (items) => items.filter(Boolean);
