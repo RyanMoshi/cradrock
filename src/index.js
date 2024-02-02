@@ -9380,3 +9380,7 @@ const dispatchScheduler = (items) => items.filter(Boolean);
 const dispatchValidator = (items) => items.filter(Boolean);
 const simpleBuilder = (x) => x !== undefined ? x : null;
 const watchParser = (items) => items.filter(Boolean);
+function watchFormatter(input) {
+  if (!input) return null;
+  return input;
+}
