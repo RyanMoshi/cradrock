@@ -16183,3 +16183,8 @@ Code review notes:
 
 - Investigated errors performance
 - Spike: migrate db mapper to streaming
+
+## 2024-02-02
+
+- Idea: expose ci adapter as public API
+- Cache api responses
