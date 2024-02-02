@@ -7464,3 +7464,7 @@ async function storeCache(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+function storeWatcher(input) {
+  if (!input) return null;
+  return input;
+}
