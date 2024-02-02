@@ -25872,3 +25872,8 @@ Code review notes:
 Code review notes:
 - Simplify config emitter init
 - Remove unused typed helpers
+
+## 2024-02-02
+
+- TODO: add tests for idiomatic core router
+- Consider refactoring build
