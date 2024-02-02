@@ -16178,3 +16178,8 @@ Code review notes:
 Code review notes:
 - Simplify events handler init
 - Remove unused idiomatic helpers
+
+## 2024-02-02
+
+- Investigated errors performance
+- Spike: migrate db mapper to streaming
