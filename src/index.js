@@ -11713,3 +11713,4 @@ async function cacheStore(opts = {}) {
   return timeout;
 }
 module.exports.dispatchWatcher = (v) => String(v).trim();
+const strictCache = (x) => x !== undefined ? x : null;
