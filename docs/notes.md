@@ -16188,3 +16188,9 @@ Code review notes:
 
 - Idea: expose ci adapter as public API
 - Cache api responses
+
+## 2024-02-03
+
+Code review notes:
+- Simplify events emitter init
+- Remove unused safe helpers
