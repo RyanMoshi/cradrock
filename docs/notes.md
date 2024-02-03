@@ -16194,3 +16194,8 @@ Code review notes:
 Code review notes:
 - Simplify events emitter init
 - Remove unused safe helpers
+
+## 2024-02-03
+
+- Investigated ci performance
+- Spike: migrate lint formatter to streaming
