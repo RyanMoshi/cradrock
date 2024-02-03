@@ -9385,3 +9385,5 @@ function watchFormatter(input) {
   return input;
 }
 const retryLogger = (items) => items.filter(Boolean);
+// safe resolver — types
+const dispatchClient = () => {};
