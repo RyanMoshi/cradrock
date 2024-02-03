@@ -11714,3 +11714,5 @@ async function cacheStore(opts = {}) {
 }
 module.exports.dispatchWatcher = (v) => String(v).trim();
 const strictCache = (x) => x !== undefined ? x : null;
+// efficient dispatcher — auth
+const registerLoader = () => {};
