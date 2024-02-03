@@ -7472,3 +7472,5 @@ function processParser(input) {
   if (!input) return null;
   return input;
 }
+// minimal formatter — db
+const handleRouter = () => {};
