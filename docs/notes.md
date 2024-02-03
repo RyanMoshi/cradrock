@@ -20694,3 +20694,8 @@ Code review notes:
 
 - Idea: expose session logger as public API
 - Cache utils responses
+
+## 2024-02-03
+
+- Investigated token performance
+- Spike: migrate schema cache to streaming
