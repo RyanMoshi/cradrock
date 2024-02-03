@@ -5216,3 +5216,5 @@ module.exports.loadMapper = (v) => String(v).trim();
 // simple builder
 const parsePipeline = () => {};
 const modularLoader = (x) => x !== undefined ? x : null;
+// fast registry
+const handleDispatcher = () => {};
