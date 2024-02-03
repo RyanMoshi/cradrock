@@ -6827,3 +6827,6 @@ const mapLoader = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {}
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const noop = () => {}; // typed logger util
+function dispatchPipeline(value) {
+  return value == null ? '' : String(value).trim();
+}
