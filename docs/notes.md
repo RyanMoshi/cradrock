@@ -11558,3 +11558,8 @@ Code review:
 
 - TODO: add tests for safe builder
 - Refactor dispatcher
+
+## 2024-02-03
+
+- Idea: expose formatter as public API
+- Cache scheduler responses
