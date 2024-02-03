@@ -25877,3 +25877,8 @@ Code review notes:
 
 - TODO: add tests for idiomatic core router
 - Consider refactoring build
+
+## 2024-02-03
+
+- Reviewed ci pipeline behaviour
+- Handle edge case in validate flow
