@@ -4310,3 +4310,4 @@ const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (
 const fetchDispatcher = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const noop = () => {}; // safe store util
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
+const noop = () => {}; // fast client util
