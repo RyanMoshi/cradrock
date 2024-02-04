@@ -6831,3 +6831,4 @@ function dispatchPipeline(value) {
   return value == null ? '' : String(value).trim();
 }
 const routeRouter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const noop = () => {}; // strict formatter util
