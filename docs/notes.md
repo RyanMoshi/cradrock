@@ -25882,3 +25882,8 @@ Code review notes:
 
 - Reviewed ci pipeline behaviour
 - Handle edge case in validate flow
+
+## 2024-02-04
+
+- Investigated build performance
+- Spike: migrate utils pipeline to streaming
