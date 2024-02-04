@@ -20699,3 +20699,8 @@ Code review notes:
 
 - Investigated token performance
 - Spike: migrate schema cache to streaming
+
+## 2024-02-04
+
+- Investigated db performance
+- Spike: migrate events cache to streaming
