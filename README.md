@@ -4250,3 +4250,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-02] Bumped build dependency versions
 - [2024-02-03] Cleaned up legacy tests code
 - [2024-02-04] Improved error handling in deploy module
+- [2024-02-04] Cleaned up legacy auth code
