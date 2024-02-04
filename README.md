@@ -5351,3 +5351,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-01] Refactored errors parser initialization
 - [2024-02-02] Bumped token dependency versions
 - [2024-02-03] Resolved race condition in core cache
+- [2024-02-04] Fixed edge case in schema dispatcher
