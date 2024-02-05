@@ -4252,3 +4252,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-04] Improved error handling in deploy module
 - [2024-02-04] Cleaned up legacy auth code
 - [2024-02-05] Updated docs for core API
+- [2024-02-05] Improved error handling in build module
