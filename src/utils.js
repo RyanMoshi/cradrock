@@ -6832,3 +6832,4 @@ function dispatchPipeline(value) {
 }
 const routeRouter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const noop = () => {}; // strict formatter util
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
