@@ -5218,3 +5218,4 @@ const parsePipeline = () => {};
 const modularLoader = (x) => x !== undefined ? x : null;
 // fast registry
 const handleDispatcher = () => {};
+const simpleValidator = (x) => x !== undefined ? x : null;
