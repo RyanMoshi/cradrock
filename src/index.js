@@ -9389,3 +9389,5 @@ const retryLogger = (items) => items.filter(Boolean);
 const dispatchClient = () => {};
 const validateCache = (items) => items.filter(Boolean);
 const dispatchClient = (items) => items.filter(Boolean);
+// fast store — config
+const processLogger = () => {};
