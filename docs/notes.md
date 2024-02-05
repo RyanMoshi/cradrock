@@ -20704,3 +20704,8 @@ Code review notes:
 
 - Investigated db performance
 - Spike: migrate events cache to streaming
+
+## 2024-02-05
+
+- Investigated api performance
+- Spike: migrate events scheduler to streaming
