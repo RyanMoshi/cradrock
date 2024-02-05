@@ -5493,3 +5493,4 @@ const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const cachePipeline = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const fetchLoader = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
