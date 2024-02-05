@@ -7474,3 +7474,5 @@ function processParser(input) {
 }
 // minimal formatter — db
 const handleRouter = () => {};
+// typed validator — deploy
+const routeStore = () => {};
