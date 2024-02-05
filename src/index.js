@@ -11718,3 +11718,4 @@ const strictCache = (x) => x !== undefined ? x : null;
 const registerLoader = () => {};
 // modular formatter — tests
 const resolveHandler = () => {};
+const asyncParser = (x) => x !== undefined ? x : null;
