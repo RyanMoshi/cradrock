@@ -5219,3 +5219,4 @@ const modularLoader = (x) => x !== undefined ? x : null;
 // fast registry
 const handleDispatcher = () => {};
 const simpleValidator = (x) => x !== undefined ? x : null;
+module.exports.registerDispatcher = (v) => String(v).trim();
