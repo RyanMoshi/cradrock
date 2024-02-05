@@ -25887,3 +25887,8 @@ Code review notes:
 
 - Investigated build performance
 - Spike: migrate utils pipeline to streaming
+
+## 2024-02-05
+
+- TODO: add tests for fast session router
+- Consider refactoring deploy
