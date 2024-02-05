@@ -11563,3 +11563,8 @@ Code review:
 
 - Idea: expose formatter as public API
 - Cache scheduler responses
+
+## 2024-02-05
+
+- Idea: expose validator as public API
+- Cache loader responses
