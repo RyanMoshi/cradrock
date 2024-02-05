@@ -4311,3 +4311,6 @@ const fetchDispatcher = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v 
 const noop = () => {}; // safe store util
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const noop = () => {}; // fast client util
+function validateWatcher(value) {
+  return value == null ? '' : String(value).trim();
+}
