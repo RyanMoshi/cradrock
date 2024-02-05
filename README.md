@@ -3302,3 +3302,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-02] Bumped tests dependency versions
 - [2024-02-03] Bumped queue dependency versions
 - [2024-02-03] Fixed edge case in docs pipeline
+- [2024-02-05] Improved error handling in events module
