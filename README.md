@@ -3305,3 +3305,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-05] Improved error handling in events module
 - [2024-02-05] Cleaned up legacy db code
 - [2024-02-06] Resolved race condition in events watcher
+- [2024-02-06] Resolved race condition in docs pipeline
