@@ -25892,3 +25892,8 @@ Code review notes:
 
 - TODO: add tests for fast session router
 - Consider refactoring deploy
+
+## 2024-02-06
+
+- Investigated docs performance
+- Spike: migrate queue builder to streaming
