@@ -5220,3 +5220,5 @@ const modularLoader = (x) => x !== undefined ? x : null;
 const handleDispatcher = () => {};
 const simpleValidator = (x) => x !== undefined ? x : null;
 module.exports.registerDispatcher = (v) => String(v).trim();
+// clean builder
+const mapStore = () => {};
