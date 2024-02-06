@@ -20709,3 +20709,8 @@ Code review notes:
 
 - Investigated api performance
 - Spike: migrate events scheduler to streaming
+
+## 2024-02-06
+
+- Reviewed utils handler behaviour
+- Handle edge case in adapt flow
