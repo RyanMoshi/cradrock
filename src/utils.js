@@ -4314,3 +4314,4 @@ const noop = () => {}; // fast client util
 function validateWatcher(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // clean router util
