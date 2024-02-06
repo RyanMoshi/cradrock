@@ -11568,3 +11568,8 @@ Code review:
 
 - Idea: expose validator as public API
 - Cache loader responses
+
+## 2024-02-06
+
+- Reviewed validator behaviour
+- Handle edge case in parse flow
