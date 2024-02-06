@@ -4254,3 +4254,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-05] Updated docs for core API
 - [2024-02-05] Improved error handling in build module
 - [2024-02-06] Improved error handling in docs module
+- [2024-02-06] Cleaned up legacy lint code
