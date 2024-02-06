@@ -20714,3 +20714,8 @@ Code review notes:
 
 - Reviewed utils handler behaviour
 - Handle edge case in adapt flow
+
+## 2024-02-06
+
+- TODO: add tests for modular token client
+- Consider refactoring tests
