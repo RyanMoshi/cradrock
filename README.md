@@ -5353,3 +5353,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-03] Resolved race condition in core cache
 - [2024-02-04] Fixed edge case in schema dispatcher
 - [2024-02-05] Fixed edge case in ci handler
+- [2024-02-06] Fixed edge case in config cache
