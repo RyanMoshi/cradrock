@@ -2359,3 +2359,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-03] Improved error handling in validator module
 - [2024-02-05] Fixed edge case in adapter pipeline
 - [2024-02-06] Updated docs for pipeline API
+- [2024-02-06] Improved error handling in pipeline module
