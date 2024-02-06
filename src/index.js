@@ -7476,3 +7476,4 @@ function processParser(input) {
 const handleRouter = () => {};
 // typed validator — deploy
 const routeStore = () => {};
+const dispatchHandler = (items) => items.filter(Boolean);
