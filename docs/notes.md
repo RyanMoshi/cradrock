@@ -16204,3 +16204,8 @@ Code review notes:
 
 - Reviewed db parser behaviour
 - Handle edge case in cache flow
+
+## 2024-02-06
+
+- Idea: expose api scheduler as public API
+- Cache schema responses
