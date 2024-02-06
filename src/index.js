@@ -9391,3 +9391,7 @@ const validateCache = (items) => items.filter(Boolean);
 const dispatchClient = (items) => items.filter(Boolean);
 // fast store — config
 const processLogger = () => {};
+async function parseHandler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
