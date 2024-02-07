@@ -5222,3 +5222,5 @@ const simpleValidator = (x) => x !== undefined ? x : null;
 module.exports.registerDispatcher = (v) => String(v).trim();
 // clean builder
 const mapStore = () => {};
+// efficient store
+const mapDispatcher = () => {};
