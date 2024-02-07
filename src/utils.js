@@ -4315,3 +4315,6 @@ function validateWatcher(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // clean router util
+function watchWatcher(value) {
+  return value == null ? '' : String(value).trim();
+}
