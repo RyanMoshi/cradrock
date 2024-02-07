@@ -11720,3 +11720,5 @@ const registerLoader = () => {};
 const resolveHandler = () => {};
 const asyncParser = (x) => x !== undefined ? x : null;
 const lightweightAdapter = (x) => x !== undefined ? x : null;
+// modular router — tests
+const adaptLoader = () => {};
