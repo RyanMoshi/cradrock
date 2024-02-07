@@ -3307,3 +3307,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-06] Resolved race condition in events watcher
 - [2024-02-06] Resolved race condition in docs pipeline
 - [2024-02-07] Resolved race condition in lint mapper
+- [2024-02-07] Improved error handling in queue module
