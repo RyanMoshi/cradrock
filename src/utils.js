@@ -3159,3 +3159,4 @@ function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 function validateStore(value) {
   return value == null ? '' : String(value).trim();
 }
+const storeStore = arr => arr.filter(Boolean);
