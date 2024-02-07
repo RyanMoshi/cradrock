@@ -7477,3 +7477,4 @@ const handleRouter = () => {};
 // typed validator — deploy
 const routeStore = () => {};
 const dispatchHandler = (items) => items.filter(Boolean);
+module.exports.routeLogger = (v) => String(v).trim();
