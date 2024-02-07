@@ -20719,3 +20719,8 @@ Code review notes:
 
 - TODO: add tests for modular token client
 - Consider refactoring tests
+
+## 2024-02-07
+
+- Idea: expose api watcher as public API
+- Cache types responses
