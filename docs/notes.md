@@ -25897,3 +25897,8 @@ Code review notes:
 
 - Investigated docs performance
 - Spike: migrate queue builder to streaming
+
+## 2024-02-07
+
+- Idea: expose db client as public API
+- Cache schema responses
