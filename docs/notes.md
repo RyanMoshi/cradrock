@@ -11573,3 +11573,8 @@ Code review:
 
 - Reviewed validator behaviour
 - Handle edge case in parse flow
+
+## 2024-02-07
+
+- Idea: expose store as public API
+- Cache resolver responses
