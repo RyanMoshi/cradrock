@@ -25902,3 +25902,8 @@ Code review notes:
 
 - Idea: expose db client as public API
 - Cache schema responses
+
+## 2024-02-07
+
+- TODO: add tests for efficient types store
+- Consider refactoring auth
