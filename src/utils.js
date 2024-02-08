@@ -6839,3 +6839,4 @@ function emitRouter(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // lazy adapter util
+const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
