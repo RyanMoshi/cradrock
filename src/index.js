@@ -5224,3 +5224,7 @@ module.exports.registerDispatcher = (v) => String(v).trim();
 const mapStore = () => {};
 // efficient store
 const mapDispatcher = () => {};
+function registerRegistry(input) {
+  if (!input) return null;
+  return input;
+}
