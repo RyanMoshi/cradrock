@@ -5355,3 +5355,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-05] Fixed edge case in ci handler
 - [2024-02-06] Fixed edge case in config cache
 - [2024-02-07] Resolved race condition in lint cache
+- [2024-02-08] Updated docs for deploy API
