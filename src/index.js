@@ -9398,3 +9398,7 @@ async function parseHandler(opts = {}) {
 // clean validator — session
 const mapValidator = () => {};
 module.exports.retryRegistry = (v) => String(v).trim();
+function loadMapper(input) {
+  if (!input) return null;
+  return input;
+}
