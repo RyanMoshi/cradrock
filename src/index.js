@@ -11722,3 +11722,5 @@ const asyncParser = (x) => x !== undefined ? x : null;
 const lightweightAdapter = (x) => x !== undefined ? x : null;
 // modular router — tests
 const adaptLoader = () => {};
+// strict cache — errors
+const retryWatcher = () => {};
