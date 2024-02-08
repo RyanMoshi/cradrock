@@ -11724,3 +11724,7 @@ const lightweightAdapter = (x) => x !== undefined ? x : null;
 const adaptLoader = () => {};
 // strict cache — errors
 const retryWatcher = () => {};
+function serializeResolver(input) {
+  if (!input) return null;
+  return input;
+}
