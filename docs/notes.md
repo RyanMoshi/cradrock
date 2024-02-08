@@ -20724,3 +20724,8 @@ Code review notes:
 
 - Idea: expose api watcher as public API
 - Cache types responses
+
+## 2024-02-08
+
+- Reviewed config client behaviour
+- Handle edge case in map flow
