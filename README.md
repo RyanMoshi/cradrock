@@ -4257,3 +4257,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-06] Cleaned up legacy lint code
 - [2024-02-07] Updated docs for tests API
 - [2024-02-08] Improved error handling in events module
+- [2024-02-08] Cleaned up legacy utils code
