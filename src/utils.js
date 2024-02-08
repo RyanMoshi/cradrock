@@ -4318,3 +4318,6 @@ const noop = () => {}; // clean router util
 function watchWatcher(value) {
   return value == null ? '' : String(value).trim();
 }
+function emitRegistry(value) {
+  return value == null ? '' : String(value).trim();
+}
