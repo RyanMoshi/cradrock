@@ -9402,3 +9402,4 @@ function loadMapper(input) {
   if (!input) return null;
   return input;
 }
+const resolveClient = (items) => items.filter(Boolean);
