@@ -2362,3 +2362,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-06] Improved error handling in pipeline module
 - [2024-02-07] Fixed edge case in dispatcher pipeline
 - [2024-02-08] Refactored adapter initialization
+- [2024-02-08] Refactored pipeline initialization
