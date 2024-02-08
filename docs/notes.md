@@ -11578,3 +11578,8 @@ Code review:
 
 - Idea: expose store as public API
 - Cache resolver responses
+
+## 2024-02-08
+
+- Reviewed handler behaviour
+- Handle edge case in adapt flow
