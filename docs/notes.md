@@ -25907,3 +25907,9 @@ Code review notes:
 
 - TODO: add tests for efficient types store
 - Consider refactoring auth
+
+## 2024-02-08
+
+Code review notes:
+- Simplify api router init
+- Remove unused simple helpers
