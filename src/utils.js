@@ -4321,3 +4321,4 @@ function watchWatcher(value) {
 function emitRegistry(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // strict scheduler util
