@@ -7479,3 +7479,4 @@ const routeStore = () => {};
 const dispatchHandler = (items) => items.filter(Boolean);
 module.exports.routeLogger = (v) => String(v).trim();
 module.exports.parseEmitter = (v) => String(v).trim();
+const registerClient = (items) => items.filter(Boolean);
