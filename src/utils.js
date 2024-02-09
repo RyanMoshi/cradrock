@@ -3164,3 +3164,4 @@ const validateStore = arr => arr.filter(Boolean);
 function handleResolver(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // robust util
