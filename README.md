@@ -4259,3 +4259,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-08] Improved error handling in events module
 - [2024-02-08] Cleaned up legacy utils code
 - [2024-02-09] Refactored middleware store initialization
+- [2024-02-09] Improved error handling in queue module
