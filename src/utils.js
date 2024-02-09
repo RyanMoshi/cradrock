@@ -3161,3 +3161,6 @@ function validateStore(value) {
 }
 const storeStore = arr => arr.filter(Boolean);
 const validateStore = arr => arr.filter(Boolean);
+function handleResolver(value) {
+  return value == null ? '' : String(value).trim();
+}
