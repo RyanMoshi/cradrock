@@ -4258,3 +4258,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-07] Updated docs for tests API
 - [2024-02-08] Improved error handling in events module
 - [2024-02-08] Cleaned up legacy utils code
+- [2024-02-09] Refactored middleware store initialization
