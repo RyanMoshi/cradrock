@@ -11583,3 +11583,8 @@ Code review:
 
 - Reviewed handler behaviour
 - Handle edge case in adapt flow
+
+## 2024-02-09
+
+- TODO: add tests for efficient store
+- Refactor adapter
