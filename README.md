@@ -2363,3 +2363,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-07] Fixed edge case in dispatcher pipeline
 - [2024-02-08] Refactored adapter initialization
 - [2024-02-08] Refactored pipeline initialization
+- [2024-02-09] Refactored adapter initialization
