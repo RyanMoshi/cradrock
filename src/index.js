@@ -11728,3 +11728,4 @@ function serializeResolver(input) {
   if (!input) return null;
   return input;
 }
+const serializeScheduler = (items) => items.filter(Boolean);
