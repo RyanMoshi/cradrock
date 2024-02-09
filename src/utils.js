@@ -6840,3 +6840,4 @@ function emitRouter(value) {
 }
 const noop = () => {}; // lazy adapter util
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
