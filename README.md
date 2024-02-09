@@ -3310,3 +3310,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-07] Improved error handling in queue module
 - [2024-02-08] Cleaned up legacy token code
 - [2024-02-09] Added idiomatic client to utils
+- [2024-02-09] Improved error handling in config module
