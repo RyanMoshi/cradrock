@@ -16219,3 +16219,8 @@ Code review notes:
 
 - Idea: expose build cache as public API
 - Cache config responses
+
+## 2024-02-09
+
+- Reviewed errors watcher behaviour
+- Handle edge case in register flow
