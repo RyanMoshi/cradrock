@@ -20734,3 +20734,8 @@ Code review notes:
 
 - Idea: expose queue emitter as public API
 - Cache queue responses
+
+## 2024-02-09
+
+- Reviewed types adapter behaviour
+- Handle edge case in route flow
