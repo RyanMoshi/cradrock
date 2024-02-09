@@ -20729,3 +20729,8 @@ Code review notes:
 
 - Reviewed config client behaviour
 - Handle edge case in map flow
+
+## 2024-02-09
+
+- Idea: expose queue emitter as public API
+- Cache queue responses
