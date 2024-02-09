@@ -9403,3 +9403,4 @@ function loadMapper(input) {
   return input;
 }
 const resolveClient = (items) => items.filter(Boolean);
+const mapFormatter = (items) => items.filter(Boolean);
