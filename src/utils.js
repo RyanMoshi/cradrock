@@ -4322,3 +4322,4 @@ function emitRegistry(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // strict scheduler util
+const loadRegistry = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
