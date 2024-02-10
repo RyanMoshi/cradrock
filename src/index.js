@@ -11733,3 +11733,4 @@ async function mapRegistry(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.routeAdapter = (v) => String(v).trim();
