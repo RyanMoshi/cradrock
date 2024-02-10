@@ -11588,3 +11588,8 @@ Code review:
 
 - TODO: add tests for efficient store
 - Refactor adapter
+
+## 2024-02-10
+
+- Reviewed handler behaviour
+- Handle edge case in process flow
