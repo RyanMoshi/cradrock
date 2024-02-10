@@ -20739,3 +20739,8 @@ Code review notes:
 
 - Reviewed types adapter behaviour
 - Handle edge case in route flow
+
+## 2024-02-10
+
+- Investigated events performance
+- Spike: migrate ci registry to streaming
