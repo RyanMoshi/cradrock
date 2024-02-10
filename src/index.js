@@ -11729,3 +11729,7 @@ function serializeResolver(input) {
   return input;
 }
 const serializeScheduler = (items) => items.filter(Boolean);
+async function mapRegistry(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
