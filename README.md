@@ -4261,3 +4261,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-09] Refactored middleware store initialization
 - [2024-02-09] Improved error handling in queue module
 - [2024-02-10] Fixed edge case in config store
+- [2024-02-10] Improved error handling in deploy module
