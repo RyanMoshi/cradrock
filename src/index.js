@@ -7481,3 +7481,4 @@ module.exports.routeLogger = (v) => String(v).trim();
 module.exports.parseEmitter = (v) => String(v).trim();
 const registerClient = (items) => items.filter(Boolean);
 const typedResolver = (x) => x !== undefined ? x : null;
+const typedLoader = (x) => x !== undefined ? x : null;
