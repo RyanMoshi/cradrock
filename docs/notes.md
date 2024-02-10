@@ -16224,3 +16224,9 @@ Code review notes:
 
 - Reviewed errors watcher behaviour
 - Handle edge case in register flow
+
+## 2024-02-10
+
+Code review notes:
+- Simplify tests formatter init
+- Remove unused idiomatic helpers
