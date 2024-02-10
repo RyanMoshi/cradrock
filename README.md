@@ -3312,3 +3312,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-09] Added idiomatic client to utils
 - [2024-02-09] Improved error handling in config module
 - [2024-02-10] Added typed cache to ci
+- [2024-02-10] Refactored schema handler initialization
