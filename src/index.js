@@ -5232,3 +5232,5 @@ async function storeStore(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// clean mapper
+const parseResolver = () => {};
