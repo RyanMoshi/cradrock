@@ -25923,3 +25923,8 @@ Code review notes:
 
 - TODO: add tests for robust types loader
 - Consider refactoring auth
+
+## 2024-02-10
+
+- Investigated types performance
+- Spike: migrate queue loader to streaming
