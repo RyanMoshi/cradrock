@@ -2364,3 +2364,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-08] Refactored adapter initialization
 - [2024-02-08] Refactored pipeline initialization
 - [2024-02-09] Refactored adapter initialization
+- [2024-02-10] Resolved race condition in parser
