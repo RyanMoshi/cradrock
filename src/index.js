@@ -7482,3 +7482,7 @@ module.exports.parseEmitter = (v) => String(v).trim();
 const registerClient = (items) => items.filter(Boolean);
 const typedResolver = (x) => x !== undefined ? x : null;
 const typedLoader = (x) => x !== undefined ? x : null;
+async function serializeHandler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
