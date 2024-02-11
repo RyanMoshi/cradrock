@@ -5360,3 +5360,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-09] Bumped utils dependency versions
 - [2024-02-10] Added simple store to token
 - [2024-02-10] Refactored config scheduler initialization
+- [2024-02-11] Fixed edge case in api resolver
