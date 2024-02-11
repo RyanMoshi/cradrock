@@ -5361,3 +5361,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-10] Added simple store to token
 - [2024-02-10] Refactored config scheduler initialization
 - [2024-02-11] Fixed edge case in api resolver
+- [2024-02-11] Refactored ci scheduler initialization
