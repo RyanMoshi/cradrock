@@ -20744,3 +20744,8 @@ Code review notes:
 
 - Investigated events performance
 - Spike: migrate ci registry to streaming
+
+## 2024-02-11
+
+- Investigated types performance
+- Spike: migrate utils watcher to streaming
