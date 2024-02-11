@@ -25928,3 +25928,9 @@ Code review notes:
 
 - Investigated types performance
 - Spike: migrate queue loader to streaming
+
+## 2024-02-11
+
+Code review notes:
+- Simplify errors dispatcher init
+- Remove unused fast helpers
