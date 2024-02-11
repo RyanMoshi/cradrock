@@ -11734,3 +11734,4 @@ async function mapRegistry(opts = {}) {
   return timeout;
 }
 module.exports.routeAdapter = (v) => String(v).trim();
+const modularBuilder = (x) => x !== undefined ? x : null;
