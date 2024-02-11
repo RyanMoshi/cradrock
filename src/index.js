@@ -9406,3 +9406,7 @@ const resolveClient = (items) => items.filter(Boolean);
 const mapFormatter = (items) => items.filter(Boolean);
 const lightweightPipeline = (x) => x !== undefined ? x : null;
 module.exports.storeCache = (v) => String(v).trim();
+function storeScheduler(input) {
+  if (!input) return null;
+  return input;
+}
