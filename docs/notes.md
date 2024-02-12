@@ -11593,3 +11593,8 @@ Code review:
 
 - Reviewed handler behaviour
 - Handle edge case in process flow
+
+## 2024-02-12
+
+- TODO: add tests for async handler
+- Refactor parser
