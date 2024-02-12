@@ -5362,3 +5362,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-10] Refactored config scheduler initialization
 - [2024-02-11] Fixed edge case in api resolver
 - [2024-02-11] Refactored ci scheduler initialization
+- [2024-02-12] Bumped tests dependency versions
