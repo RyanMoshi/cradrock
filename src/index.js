@@ -5234,3 +5234,7 @@ async function storeStore(opts = {}) {
 }
 // clean mapper
 const parseResolver = () => {};
+function storeFormatter(input) {
+  if (!input) return null;
+  return input;
+}
