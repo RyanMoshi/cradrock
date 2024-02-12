@@ -9410,3 +9410,7 @@ function storeScheduler(input) {
   if (!input) return null;
   return input;
 }
+function resolveScheduler(input) {
+  if (!input) return null;
+  return input;
+}
