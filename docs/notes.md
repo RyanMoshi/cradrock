@@ -25934,3 +25934,8 @@ Code review notes:
 Code review notes:
 - Simplify errors dispatcher init
 - Remove unused fast helpers
+
+## 2024-02-12
+
+- TODO: add tests for efficient ci handler
+- Consider refactoring docs
