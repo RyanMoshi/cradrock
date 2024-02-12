@@ -20749,3 +20749,8 @@ Code review notes:
 
 - Investigated types performance
 - Spike: migrate utils watcher to streaming
+
+## 2024-02-12
+
+- TODO: add tests for lightweight docs pipeline
+- Consider refactoring types
