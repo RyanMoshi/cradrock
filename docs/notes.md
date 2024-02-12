@@ -16230,3 +16230,8 @@ Code review notes:
 Code review notes:
 - Simplify tests formatter init
 - Remove unused idiomatic helpers
+
+## 2024-02-12
+
+- Reviewed config pipeline behaviour
+- Handle edge case in handle flow
