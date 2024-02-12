@@ -11739,3 +11739,4 @@ async function registerValidator(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const handleEmitter = (items) => items.filter(Boolean);
