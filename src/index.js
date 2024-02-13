@@ -11740,3 +11740,7 @@ async function registerValidator(opts = {}) {
   return timeout;
 }
 const handleEmitter = (items) => items.filter(Boolean);
+function handleEmitter(input) {
+  if (!input) return null;
+  return input;
+}
