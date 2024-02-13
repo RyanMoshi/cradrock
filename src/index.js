@@ -9414,3 +9414,7 @@ function resolveScheduler(input) {
   if (!input) return null;
   return input;
 }
+function handleDispatcher(input) {
+  if (!input) return null;
+  return input;
+}
