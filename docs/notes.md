@@ -16235,3 +16235,8 @@ Code review notes:
 
 - Reviewed config pipeline behaviour
 - Handle edge case in handle flow
+
+## 2024-02-13
+
+- Investigated lint performance
+- Spike: migrate tests watcher to streaming
