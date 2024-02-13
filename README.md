@@ -4264,3 +4264,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-10] Improved error handling in deploy module
 - [2024-02-11] Cleaned up legacy schema code
 - [2024-02-12] Refactored build registry initialization
+- [2024-02-13] Improved error handling in utils module
