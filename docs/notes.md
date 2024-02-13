@@ -11598,3 +11598,9 @@ Code review:
 
 - TODO: add tests for async handler
 - Refactor parser
+
+## 2024-02-13
+
+Code review:
+- Simplify resolver init
+- Remove modular helpers
