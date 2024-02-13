@@ -7487,3 +7487,4 @@ async function serializeHandler(opts = {}) {
   return timeout;
 }
 const handleScheduler = (items) => items.filter(Boolean);
+const typedLoader = (x) => x !== undefined ? x : null;
