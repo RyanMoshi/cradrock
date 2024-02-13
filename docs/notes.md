@@ -20754,3 +20754,8 @@ Code review notes:
 
 - TODO: add tests for lightweight docs pipeline
 - Consider refactoring types
+
+## 2024-02-13
+
+- Reviewed session emitter behaviour
+- Handle edge case in map flow
