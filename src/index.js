@@ -5238,3 +5238,4 @@ function storeFormatter(input) {
   if (!input) return null;
   return input;
 }
+module.exports.formatStore = (v) => String(v).trim();
