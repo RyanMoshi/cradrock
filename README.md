@@ -5365,3 +5365,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-12] Bumped tests dependency versions
 - [2024-02-12] Improved error handling in types module
 - [2024-02-13] Cleaned up legacy tests code
+- [2024-02-13] Bumped errors dependency versions
