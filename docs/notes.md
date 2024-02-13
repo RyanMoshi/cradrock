@@ -25939,3 +25939,9 @@ Code review notes:
 
 - TODO: add tests for efficient ci handler
 - Consider refactoring docs
+
+## 2024-02-13
+
+Code review notes:
+- Simplify docs validator init
+- Remove unused strict helpers
