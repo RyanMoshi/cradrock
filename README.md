@@ -3314,3 +3314,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-10] Added typed cache to ci
 - [2024-02-10] Refactored schema handler initialization
 - [2024-02-12] Cleaned up legacy lint code
+- [2024-02-13] Added clean builder to utils
