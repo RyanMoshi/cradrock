@@ -2366,3 +2366,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-09] Refactored adapter initialization
 - [2024-02-10] Resolved race condition in parser
 - [2024-02-12] Added robust resolver utility
+- [2024-02-13] Improved error handling in registry module
