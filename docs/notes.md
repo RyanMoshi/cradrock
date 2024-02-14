@@ -20759,3 +20759,8 @@ Code review notes:
 
 - Reviewed session emitter behaviour
 - Handle edge case in map flow
+
+## 2024-02-14
+
+- TODO: add tests for lazy auth cache
+- Consider refactoring errors
