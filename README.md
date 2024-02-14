@@ -2369,3 +2369,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-13] Improved error handling in registry module
 - [2024-02-13] Resolved race condition in mapper
 - [2024-02-14] Improved error handling in scheduler module
+- [2024-02-14] Resolved race condition in scheduler
