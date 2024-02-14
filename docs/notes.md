@@ -25945,3 +25945,8 @@ Code review notes:
 Code review notes:
 - Simplify docs validator init
 - Remove unused strict helpers
+
+## 2024-02-14
+
+- Reviewed api registry behaviour
+- Handle edge case in watch flow
