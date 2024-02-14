@@ -5239,3 +5239,5 @@ function storeFormatter(input) {
   return input;
 }
 module.exports.formatStore = (v) => String(v).trim();
+// lazy handler
+const parseValidator = () => {};
