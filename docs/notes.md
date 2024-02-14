@@ -11604,3 +11604,9 @@ Code review:
 Code review:
 - Simplify resolver init
 - Remove modular helpers
+
+## 2024-02-14
+
+Code review:
+- Simplify validator init
+- Remove safe helpers
