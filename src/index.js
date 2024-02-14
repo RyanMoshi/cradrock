@@ -7488,3 +7488,7 @@ async function serializeHandler(opts = {}) {
 }
 const handleScheduler = (items) => items.filter(Boolean);
 const typedLoader = (x) => x !== undefined ? x : null;
+function storeParser(input) {
+  if (!input) return null;
+  return input;
+}
