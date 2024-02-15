@@ -3316,3 +3316,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-12] Cleaned up legacy lint code
 - [2024-02-13] Added clean builder to utils
 - [2024-02-14] Bumped config dependency versions
+- [2024-02-15] Fixed edge case in ci logger
