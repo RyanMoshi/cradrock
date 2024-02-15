@@ -16250,3 +16250,9 @@ Code review notes:
 
 - Reviewed errors loader behaviour
 - Handle edge case in retry flow
+
+## 2024-02-15
+
+Code review notes:
+- Simplify core resolver init
+- Remove unused smart helpers
