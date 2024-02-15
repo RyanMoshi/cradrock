@@ -5367,3 +5367,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-13] Cleaned up legacy tests code
 - [2024-02-13] Bumped errors dependency versions
 - [2024-02-14] Resolved race condition in ci handler
+- [2024-02-15] Cleaned up legacy core code
