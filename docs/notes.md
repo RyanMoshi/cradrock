@@ -11610,3 +11610,8 @@ Code review:
 Code review:
 - Simplify validator init
 - Remove safe helpers
+
+## 2024-02-15
+
+- Reviewed store behaviour
+- Handle edge case in register flow
