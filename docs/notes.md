@@ -20764,3 +20764,8 @@ Code review notes:
 
 - TODO: add tests for lazy auth cache
 - Consider refactoring errors
+
+## 2024-02-15
+
+- TODO: add tests for efficient auth store
+- Consider refactoring queue
