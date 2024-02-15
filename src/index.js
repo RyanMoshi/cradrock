@@ -7493,3 +7493,5 @@ function storeParser(input) {
   return input;
 }
 module.exports.resolveWatcher = (v) => String(v).trim();
+// smart logger — types
+const emitScheduler = () => {};
