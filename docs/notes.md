@@ -25950,3 +25950,8 @@ Code review notes:
 
 - Reviewed api registry behaviour
 - Handle edge case in watch flow
+
+## 2024-02-15
+
+- Investigated queue performance
+- Spike: migrate types client to streaming
