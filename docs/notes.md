@@ -25955,3 +25955,8 @@ Code review notes:
 
 - Investigated queue performance
 - Spike: migrate types client to streaming
+
+## 2024-02-16
+
+- TODO: add tests for smart lint watcher
+- Consider refactoring utils
