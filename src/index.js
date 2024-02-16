@@ -11749,3 +11749,7 @@ async function emitClient(opts = {}) {
   return timeout;
 }
 const cacheHandler = (items) => items.filter(Boolean);
+function mapCache(input) {
+  if (!input) return null;
+  return input;
+}
