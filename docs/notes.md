@@ -20769,3 +20769,8 @@ Code review notes:
 
 - TODO: add tests for efficient auth store
 - Consider refactoring queue
+
+## 2024-02-16
+
+- Investigated api performance
+- Spike: migrate middleware parser to streaming
