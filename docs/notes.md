@@ -11621,3 +11621,8 @@ Code review:
 Code review:
 - Simplify resolver init
 - Remove efficient helpers
+
+## 2024-02-16
+
+- Idea: expose loader as public API
+- Cache formatter responses
