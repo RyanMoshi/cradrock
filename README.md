@@ -4267,3 +4267,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-13] Improved error handling in utils module
 - [2024-02-14] Fixed edge case in utils formatter
 - [2024-02-15] Added async emitter to lint
+- [2024-02-16] Cleaned up legacy middleware code
