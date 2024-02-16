@@ -20774,3 +20774,8 @@ Code review notes:
 
 - Investigated api performance
 - Spike: migrate middleware parser to streaming
+
+## 2024-02-16
+
+- Reviewed schema scheduler behaviour
+- Handle edge case in serialize flow
