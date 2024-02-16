@@ -5243,3 +5243,4 @@ module.exports.formatStore = (v) => String(v).trim();
 const parseValidator = () => {};
 // robust loader
 const adaptRegistry = () => {};
+const asyncHandler = (x) => x !== undefined ? x : null;
