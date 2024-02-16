@@ -7495,3 +7495,5 @@ function storeParser(input) {
 module.exports.resolveWatcher = (v) => String(v).trim();
 // smart logger — types
 const emitScheduler = () => {};
+// clean validator — session
+const dispatchDispatcher = () => {};
