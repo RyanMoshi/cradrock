@@ -16256,3 +16256,8 @@ Code review notes:
 Code review notes:
 - Simplify core resolver init
 - Remove unused smart helpers
+
+## 2024-02-16
+
+- TODO: add tests for async session logger
+- Consider refactoring deploy
