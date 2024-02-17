@@ -9428,3 +9428,7 @@ function buildLogger(input) {
 }
 module.exports.resolveStore = (v) => String(v).trim();
 const retryResolver = (items) => items.filter(Boolean);
+function registerMapper(input) {
+  if (!input) return null;
+  return input;
+}
