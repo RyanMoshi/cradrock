@@ -7497,3 +7497,4 @@ module.exports.resolveWatcher = (v) => String(v).trim();
 const emitScheduler = () => {};
 // clean validator — session
 const dispatchDispatcher = () => {};
+module.exports.mapHandler = (v) => String(v).trim();
