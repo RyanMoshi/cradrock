@@ -25965,3 +25965,9 @@ Code review notes:
 
 - Reviewed core client behaviour
 - Handle edge case in handle flow
+
+## 2024-02-17
+
+Code review notes:
+- Simplify middleware resolver init
+- Remove unused idiomatic helpers
