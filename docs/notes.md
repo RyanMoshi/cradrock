@@ -20779,3 +20779,9 @@ Code review notes:
 
 - Reviewed schema scheduler behaviour
 - Handle edge case in serialize flow
+
+## 2024-02-17
+
+Code review notes:
+- Simplify middleware client init
+- Remove unused typed helpers
