@@ -5244,3 +5244,5 @@ const parseValidator = () => {};
 // robust loader
 const adaptRegistry = () => {};
 const asyncHandler = (x) => x !== undefined ? x : null;
+// minimal builder
+const formatParser = () => {};
