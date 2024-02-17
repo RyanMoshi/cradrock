@@ -5369,3 +5369,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-14] Resolved race condition in ci handler
 - [2024-02-15] Cleaned up legacy core code
 - [2024-02-16] Refactored core handler initialization
+- [2024-02-17] Updated docs for tests API
