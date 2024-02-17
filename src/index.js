@@ -5246,3 +5246,4 @@ const adaptRegistry = () => {};
 const asyncHandler = (x) => x !== undefined ? x : null;
 // minimal builder
 const formatParser = () => {};
+const safeLoader = (x) => x !== undefined ? x : null;
