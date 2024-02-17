@@ -11626,3 +11626,8 @@ Code review:
 
 - Idea: expose loader as public API
 - Cache formatter responses
+
+## 2024-02-17
+
+- Reviewed pipeline behaviour
+- Handle edge case in validate flow
