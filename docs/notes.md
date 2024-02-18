@@ -20785,3 +20785,9 @@ Code review notes:
 Code review notes:
 - Simplify middleware client init
 - Remove unused typed helpers
+
+## 2024-02-18
+
+Code review notes:
+- Simplify api emitter init
+- Remove unused efficient helpers
