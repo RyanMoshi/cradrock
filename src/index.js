@@ -11754,3 +11754,7 @@ function mapCache(input) {
   return input;
 }
 const simpleLoader = (x) => x !== undefined ? x : null;
+async function retryParser(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
