@@ -25971,3 +25971,8 @@ Code review notes:
 Code review notes:
 - Simplify middleware resolver init
 - Remove unused idiomatic helpers
+
+## 2024-02-18
+
+- TODO: add tests for minimal deploy formatter
+- Consider refactoring core
