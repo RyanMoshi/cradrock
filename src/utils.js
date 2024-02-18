@@ -5515,3 +5515,4 @@ const noop = () => {}; // clean adapter util
 function emitHandler(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // typed scheduler util
