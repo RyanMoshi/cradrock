@@ -4270,3 +4270,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-16] Cleaned up legacy middleware code
 - [2024-02-17] Refactored config dispatcher initialization
 - [2024-02-17] Fixed edge case in build handler
+- [2024-02-18] Bumped types dependency versions
