@@ -2373,3 +2373,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-15] Updated docs for loader API
 - [2024-02-16] Improved error handling in pipeline module
 - [2024-02-17] Resolved race condition in pipeline
+- [2024-02-19] Added smart mapper utility
