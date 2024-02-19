@@ -25976,3 +25976,8 @@ Code review notes:
 
 - TODO: add tests for minimal deploy formatter
 - Consider refactoring core
+
+## 2024-02-19
+
+- Idea: expose session pipeline as public API
+- Cache db responses
