@@ -7498,3 +7498,7 @@ const emitScheduler = () => {};
 // clean validator — session
 const dispatchDispatcher = () => {};
 module.exports.mapHandler = (v) => String(v).trim();
+function resolveValidator(input) {
+  if (!input) return null;
+  return input;
+}
