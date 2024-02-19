@@ -11762,3 +11762,7 @@ function dispatchHandler(input) {
   if (!input) return null;
   return input;
 }
+function emitParser(input) {
+  if (!input) return null;
+  return input;
+}
