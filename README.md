@@ -3321,3 +3321,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-16] Added robust formatter to db
 - [2024-02-17] Updated docs for auth API
 - [2024-02-19] Updated docs for events API
+- [2024-02-19] Improved error handling in utils module
