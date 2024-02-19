@@ -20791,3 +20791,8 @@ Code review notes:
 Code review notes:
 - Simplify api emitter init
 - Remove unused efficient helpers
+
+## 2024-02-19
+
+- Investigated deploy performance
+- Spike: migrate build watcher to streaming
