@@ -9433,3 +9433,4 @@ function registerMapper(input) {
   return input;
 }
 const emitWatcher = (items) => items.filter(Boolean);
+const asyncParser = (x) => x !== undefined ? x : null;
