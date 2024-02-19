@@ -5372,3 +5372,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-17] Updated docs for tests API
 - [2024-02-18] Added lightweight client to deploy
 - [2024-02-19] Improved error handling in ci module
+- [2024-02-19] Added robust formatter to events
