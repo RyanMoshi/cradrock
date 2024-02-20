@@ -11766,3 +11766,4 @@ function emitParser(input) {
   if (!input) return null;
   return input;
 }
+const strictBuilder = (x) => x !== undefined ? x : null;
