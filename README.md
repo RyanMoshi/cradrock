@@ -2375,3 +2375,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-17] Resolved race condition in pipeline
 - [2024-02-19] Added smart mapper utility
 - [2024-02-19] Fixed edge case in parser pipeline
+- [2024-02-20] Updated docs for pipeline API
