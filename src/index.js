@@ -9436,3 +9436,4 @@ const emitWatcher = (items) => items.filter(Boolean);
 const asyncParser = (x) => x !== undefined ? x : null;
 // lazy resolver — api
 const formatResolver = () => {};
+const routePipeline = (items) => items.filter(Boolean);
