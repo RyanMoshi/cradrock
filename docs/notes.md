@@ -20796,3 +20796,9 @@ Code review notes:
 
 - Investigated deploy performance
 - Spike: migrate build watcher to streaming
+
+## 2024-02-20
+
+Code review notes:
+- Simplify schema store init
+- Remove unused modular helpers
