@@ -25981,3 +25981,8 @@ Code review notes:
 
 - Idea: expose session pipeline as public API
 - Cache db responses
+
+## 2024-02-20
+
+- TODO: add tests for clean middleware builder
+- Consider refactoring session
