@@ -4272,3 +4272,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-17] Fixed edge case in build handler
 - [2024-02-18] Bumped types dependency versions
 - [2024-02-19] Improved error handling in build module
+- [2024-02-20] Improved error handling in build module
