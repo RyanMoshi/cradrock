@@ -16271,3 +16271,8 @@ Code review notes:
 
 - Reviewed utils cache behaviour
 - Handle edge case in process flow
+
+## 2024-02-20
+
+- Idea: expose db router as public API
+- Cache events responses
