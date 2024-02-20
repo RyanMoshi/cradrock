@@ -5249,3 +5249,7 @@ const formatParser = () => {};
 const safeLoader = (x) => x !== undefined ? x : null;
 // safe store
 const dispatchMapper = () => {};
+async function resolveHandler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
