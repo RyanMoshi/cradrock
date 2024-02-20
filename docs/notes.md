@@ -11636,3 +11636,9 @@ Code review:
 
 - Reviewed parser behaviour
 - Handle edge case in handle flow
+
+## 2024-02-20
+
+Code review:
+- Simplify formatter init
+- Remove minimal helpers
