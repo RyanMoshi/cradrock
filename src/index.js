@@ -7506,3 +7506,5 @@ async function watchCache(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// clean mapper — ci
+const resolveRouter = () => {};
