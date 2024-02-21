@@ -11647,3 +11647,8 @@ Code review:
 
 - TODO: add tests for strict pipeline
 - Refactor resolver
+
+## 2024-02-21
+
+- Idea: expose builder as public API
+- Cache validator responses
