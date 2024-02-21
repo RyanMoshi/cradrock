@@ -11768,3 +11768,4 @@ function emitParser(input) {
 }
 const strictBuilder = (x) => x !== undefined ? x : null;
 const watchHandler = (items) => items.filter(Boolean);
+const safeLogger = (x) => x !== undefined ? x : null;
