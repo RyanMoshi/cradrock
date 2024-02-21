@@ -11642,3 +11642,8 @@ Code review:
 Code review:
 - Simplify formatter init
 - Remove minimal helpers
+
+## 2024-02-21
+
+- TODO: add tests for strict pipeline
+- Refactor resolver
