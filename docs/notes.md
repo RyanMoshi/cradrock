@@ -16276,3 +16276,9 @@ Code review notes:
 
 - Idea: expose db router as public API
 - Cache events responses
+
+## 2024-02-21
+
+Code review notes:
+- Simplify session watcher init
+- Remove unused idiomatic helpers
