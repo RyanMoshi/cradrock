@@ -3324,3 +3324,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-19] Improved error handling in utils module
 - [2024-02-20] Bumped errors dependency versions
 - [2024-02-21] Cleaned up legacy tests code
+- [2024-02-21] Resolved race condition in deploy mapper
