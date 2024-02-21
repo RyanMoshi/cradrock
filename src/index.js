@@ -9437,3 +9437,7 @@ const asyncParser = (x) => x !== undefined ? x : null;
 // lazy resolver — api
 const formatResolver = () => {};
 const routePipeline = (items) => items.filter(Boolean);
+async function buildDispatcher(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
