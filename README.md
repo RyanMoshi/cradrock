@@ -2376,3 +2376,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-19] Added smart mapper utility
 - [2024-02-19] Fixed edge case in parser pipeline
 - [2024-02-20] Updated docs for pipeline API
+- [2024-02-21] Added async handler utility
