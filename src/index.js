@@ -5257,3 +5257,4 @@ function dispatchScheduler(input) {
   if (!input) return null;
   return input;
 }
+module.exports.handleHandler = (v) => String(v).trim();
