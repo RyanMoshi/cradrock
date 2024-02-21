@@ -9441,3 +9441,7 @@ async function buildDispatcher(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+function mapDispatcher(input) {
+  if (!input) return null;
+  return input;
+}
