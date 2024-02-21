@@ -5253,3 +5253,7 @@ async function resolveHandler(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+function dispatchScheduler(input) {
+  if (!input) return null;
+  return input;
+}
