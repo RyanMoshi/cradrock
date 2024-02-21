@@ -16282,3 +16282,8 @@ Code review notes:
 Code review notes:
 - Simplify session watcher init
 - Remove unused idiomatic helpers
+
+## 2024-02-21
+
+- TODO: add tests for strict utils logger
+- Consider refactoring events
