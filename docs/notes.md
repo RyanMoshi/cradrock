@@ -20802,3 +20802,8 @@ Code review notes:
 Code review notes:
 - Simplify schema store init
 - Remove unused modular helpers
+
+## 2024-02-21
+
+- Investigated config performance
+- Spike: migrate token router to streaming
