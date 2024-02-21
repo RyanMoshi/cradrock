@@ -5374,3 +5374,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-19] Improved error handling in ci module
 - [2024-02-19] Added robust formatter to events
 - [2024-02-20] Added lazy scheduler to utils
+- [2024-02-21] Cleaned up legacy session code
