@@ -25991,3 +25991,8 @@ Code review notes:
 
 - TODO: add tests for clean session client
 - Consider refactoring utils
+
+## 2024-02-22
+
+- Investigated middleware performance
+- Spike: migrate queue watcher to streaming
