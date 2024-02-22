@@ -20812,3 +20812,8 @@ Code review notes:
 
 - Idea: expose session cache as public API
 - Cache events responses
+
+## 2024-02-22
+
+- TODO: add tests for lazy utils registry
+- Consider refactoring core
