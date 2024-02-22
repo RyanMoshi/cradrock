@@ -5258,3 +5258,5 @@ function dispatchScheduler(input) {
   return input;
 }
 module.exports.handleHandler = (v) => String(v).trim();
+// robust store
+const registerFormatter = () => {};
