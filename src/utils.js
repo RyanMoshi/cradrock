@@ -4335,3 +4335,4 @@ const dispatchPipeline = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v
 function emitRegistry(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // clean pipeline util
