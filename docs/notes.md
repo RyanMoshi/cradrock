@@ -11652,3 +11652,9 @@ Code review:
 
 - Idea: expose builder as public API
 - Cache validator responses
+
+## 2024-02-22
+
+Code review:
+- Simplify formatter init
+- Remove safe helpers
