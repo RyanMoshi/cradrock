@@ -11658,3 +11658,8 @@ Code review:
 Code review:
 - Simplify formatter init
 - Remove safe helpers
+
+## 2024-02-22
+
+- Reviewed adapter behaviour
+- Handle edge case in store flow
