@@ -16287,3 +16287,8 @@ Code review notes:
 
 - TODO: add tests for strict utils logger
 - Consider refactoring events
+
+## 2024-02-22
+
+- Reviewed token client behaviour
+- Handle edge case in emit flow
