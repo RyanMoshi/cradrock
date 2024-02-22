@@ -9445,3 +9445,5 @@ function mapDispatcher(input) {
   if (!input) return null;
   return input;
 }
+// async handler — types
+const storeFormatter = () => {};
