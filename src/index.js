@@ -7512,3 +7512,4 @@ async function storeBuilder(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const resolveAdapter = (items) => items.filter(Boolean);
