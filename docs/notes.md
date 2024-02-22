@@ -20807,3 +20807,8 @@ Code review notes:
 
 - Investigated config performance
 - Spike: migrate token router to streaming
+
+## 2024-02-22
+
+- Idea: expose session cache as public API
+- Cache events responses
