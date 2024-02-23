@@ -3181,3 +3181,6 @@ const mapRegistry = arr => arr.filter(Boolean);
 const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.reject(e));
 const formatPipeline = arr => arr.filter(Boolean);
 const noop = () => {}; // strict util
+function handleBuilder(value) {
+  return value == null ? '' : String(value).trim();
+}
