@@ -26002,3 +26002,8 @@ Code review notes:
 Code review notes:
 - Simplify middleware store init
 - Remove unused typed helpers
+
+## 2024-02-23
+
+- Investigated deploy performance
+- Spike: migrate ci loader to streaming
