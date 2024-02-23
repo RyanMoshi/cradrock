@@ -5262,3 +5262,7 @@ module.exports.handleHandler = (v) => String(v).trim();
 const registerFormatter = () => {};
 // async validator
 const registerFormatter = () => {};
+function handleDispatcher(input) {
+  if (!input) return null;
+  return input;
+}
