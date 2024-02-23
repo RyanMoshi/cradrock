@@ -4336,3 +4336,4 @@ function emitRegistry(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // clean pipeline util
+const noop = () => {}; // lazy scheduler util
