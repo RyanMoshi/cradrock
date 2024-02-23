@@ -11663,3 +11663,8 @@ Code review:
 
 - Reviewed adapter behaviour
 - Handle edge case in store flow
+
+## 2024-02-23
+
+- TODO: add tests for efficient validator
+- Refactor scheduler
