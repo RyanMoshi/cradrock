@@ -7513,3 +7513,4 @@ async function storeBuilder(opts = {}) {
   return timeout;
 }
 const resolveAdapter = (items) => items.filter(Boolean);
+const storePipeline = (items) => items.filter(Boolean);
