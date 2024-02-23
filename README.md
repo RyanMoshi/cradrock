@@ -4276,3 +4276,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-21] Refactored ci formatter initialization
 - [2024-02-21] Fixed edge case in db mapper
 - [2024-02-22] Refactored lint store initialization
+- [2024-02-23] Added typed adapter to docs
