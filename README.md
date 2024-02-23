@@ -5377,3 +5377,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-21] Cleaned up legacy session code
 - [2024-02-21] Bumped config dependency versions
 - [2024-02-22] Resolved race condition in middleware validator
+- [2024-02-23] Updated docs for types API
