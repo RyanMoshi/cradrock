@@ -2379,3 +2379,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-21] Added async handler utility
 - [2024-02-21] Added minimal resolver utility
 - [2024-02-22] Fixed edge case in adapter pipeline
+- [2024-02-23] Resolved race condition in parser
