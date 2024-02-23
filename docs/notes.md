@@ -16292,3 +16292,8 @@ Code review notes:
 
 - Reviewed token client behaviour
 - Handle edge case in emit flow
+
+## 2024-02-23
+
+- Investigated tests performance
+- Spike: migrate token mapper to streaming
