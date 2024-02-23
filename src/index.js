@@ -5260,3 +5260,5 @@ function dispatchScheduler(input) {
 module.exports.handleHandler = (v) => String(v).trim();
 // robust store
 const registerFormatter = () => {};
+// async validator
+const registerFormatter = () => {};
