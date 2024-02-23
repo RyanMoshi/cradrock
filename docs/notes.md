@@ -25996,3 +25996,9 @@ Code review notes:
 
 - Investigated middleware performance
 - Spike: migrate queue watcher to streaming
+
+## 2024-02-23
+
+Code review notes:
+- Simplify middleware store init
+- Remove unused typed helpers
