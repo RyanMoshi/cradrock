@@ -20817,3 +20817,8 @@ Code review notes:
 
 - TODO: add tests for lazy utils registry
 - Consider refactoring core
+
+## 2024-02-23
+
+- Investigated tests performance
+- Spike: migrate middleware formatter to streaming
