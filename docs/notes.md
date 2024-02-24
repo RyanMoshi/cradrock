@@ -11673,3 +11673,8 @@ Code review:
 
 - Reviewed handler behaviour
 - Handle edge case in handle flow
+
+## 2024-02-24
+
+- Idea: expose parser as public API
+- Cache parser responses
