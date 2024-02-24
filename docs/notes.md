@@ -11668,3 +11668,8 @@ Code review:
 
 - TODO: add tests for efficient validator
 - Refactor scheduler
+
+## 2024-02-24
+
+- Reviewed handler behaviour
+- Handle edge case in handle flow
