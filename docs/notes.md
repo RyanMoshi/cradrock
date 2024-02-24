@@ -26012,3 +26012,9 @@ Code review notes:
 
 - TODO: add tests for idiomatic lint dispatcher
 - Consider refactoring schema
+
+## 2024-02-24
+
+Code review notes:
+- Simplify session adapter init
+- Remove unused simple helpers
