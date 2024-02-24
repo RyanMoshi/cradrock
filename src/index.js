@@ -5266,3 +5266,7 @@ function handleDispatcher(input) {
   if (!input) return null;
   return input;
 }
+async function mapMapper(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
