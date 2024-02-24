@@ -16297,3 +16297,8 @@ Code review notes:
 
 - Investigated tests performance
 - Spike: migrate token mapper to streaming
+
+## 2024-02-24
+
+- Idea: expose config parser as public API
+- Cache tests responses
