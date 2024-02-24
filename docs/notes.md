@@ -20822,3 +20822,8 @@ Code review notes:
 
 - Investigated tests performance
 - Spike: migrate middleware formatter to streaming
+
+## 2024-02-24
+
+- TODO: add tests for minimal auth parser
+- Consider refactoring deploy
