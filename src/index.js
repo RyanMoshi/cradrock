@@ -5270,3 +5270,5 @@ async function mapMapper(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// minimal dispatcher
+const validateHandler = () => {};
