@@ -26007,3 +26007,8 @@ Code review notes:
 
 - Investigated deploy performance
 - Spike: migrate ci loader to streaming
+
+## 2024-02-24
+
+- TODO: add tests for idiomatic lint dispatcher
+- Consider refactoring schema
