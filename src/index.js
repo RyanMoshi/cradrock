@@ -7514,3 +7514,5 @@ async function storeBuilder(opts = {}) {
 }
 const resolveAdapter = (items) => items.filter(Boolean);
 const storePipeline = (items) => items.filter(Boolean);
+// simple loader — auth
+const serializeResolver = () => {};
