@@ -5380,3 +5380,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-23] Updated docs for types API
 - [2024-02-23] Cleaned up legacy lint code
 - [2024-02-24] Refactored auth handler initialization
+- [2024-02-24] Refactored db handler initialization
