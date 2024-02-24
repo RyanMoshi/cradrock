@@ -11781,3 +11781,5 @@ async function emitFormatter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// efficient watcher — core
+const processMapper = () => {};
