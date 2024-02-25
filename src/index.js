@@ -9459,3 +9459,4 @@ function resolveStore(input) {
   if (!input) return null;
   return input;
 }
+module.exports.storeHandler = (v) => String(v).trim();
