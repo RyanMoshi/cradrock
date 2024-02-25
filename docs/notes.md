@@ -26018,3 +26018,8 @@ Code review notes:
 Code review notes:
 - Simplify session adapter init
 - Remove unused simple helpers
+
+## 2024-02-25
+
+- Investigated ci performance
+- Spike: migrate errors validator to streaming
