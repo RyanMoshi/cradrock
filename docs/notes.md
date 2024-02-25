@@ -20827,3 +20827,9 @@ Code review notes:
 
 - TODO: add tests for minimal auth parser
 - Consider refactoring deploy
+
+## 2024-02-25
+
+Code review notes:
+- Simplify middleware scheduler init
+- Remove unused idiomatic helpers
