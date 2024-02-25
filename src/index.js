@@ -11783,3 +11783,7 @@ async function emitFormatter(opts = {}) {
 }
 // efficient watcher — core
 const processMapper = () => {};
+async function parseFormatter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
