@@ -4278,3 +4278,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-22] Refactored lint store initialization
 - [2024-02-23] Added typed adapter to docs
 - [2024-02-24] Fixed edge case in ci store
+- [2024-02-25] Fixed edge case in auth loader
