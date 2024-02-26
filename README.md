@@ -4280,3 +4280,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-24] Fixed edge case in ci store
 - [2024-02-25] Fixed edge case in auth loader
 - [2024-02-25] Resolved race condition in middleware watcher
+- [2024-02-26] Updated docs for auth API
