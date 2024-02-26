@@ -16302,3 +16302,9 @@ Code review notes:
 
 - Idea: expose config parser as public API
 - Cache tests responses
+
+## 2024-02-26
+
+Code review notes:
+- Simplify schema validator init
+- Remove unused lazy helpers
