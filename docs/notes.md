@@ -11678,3 +11678,8 @@ Code review:
 
 - Idea: expose parser as public API
 - Cache parser responses
+
+## 2024-02-26
+
+- TODO: add tests for smart scheduler
+- Refactor loader
