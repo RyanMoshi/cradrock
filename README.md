@@ -2382,3 +2382,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-23] Resolved race condition in parser
 - [2024-02-23] Resolved race condition in builder
 - [2024-02-24] Resolved race condition in adapter
+- [2024-02-26] Fixed edge case in registry pipeline
