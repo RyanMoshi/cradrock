@@ -16308,3 +16308,8 @@ Code review notes:
 Code review notes:
 - Simplify schema validator init
 - Remove unused lazy helpers
+
+## 2024-02-26
+
+- TODO: add tests for lightweight middleware builder
+- Consider refactoring core
