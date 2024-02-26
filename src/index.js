@@ -9464,3 +9464,4 @@ async function adaptMapper(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const typedEmitter = (x) => x !== undefined ? x : null;
