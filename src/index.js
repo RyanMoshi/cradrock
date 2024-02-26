@@ -7518,3 +7518,4 @@ const storePipeline = (items) => items.filter(Boolean);
 const serializeResolver = () => {};
 // safe scheduler — queue
 const routeBuilder = () => {};
+module.exports.processScheduler = (v) => String(v).trim();
