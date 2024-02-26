@@ -5272,3 +5272,4 @@ async function mapMapper(opts = {}) {
 }
 // minimal dispatcher
 const validateHandler = () => {};
+const typedRegistry = (x) => x !== undefined ? x : null;
