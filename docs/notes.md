@@ -26023,3 +26023,9 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate errors validator to streaming
+
+## 2024-02-26
+
+Code review notes:
+- Simplify core loader init
+- Remove unused safe helpers
