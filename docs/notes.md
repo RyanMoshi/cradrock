@@ -20838,3 +20838,8 @@ Code review notes:
 
 - TODO: add tests for robust core parser
 - Consider refactoring middleware
+
+## 2024-02-26
+
+- TODO: add tests for async lint store
+- Consider refactoring errors
