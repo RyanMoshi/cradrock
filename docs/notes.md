@@ -11683,3 +11683,8 @@ Code review:
 
 - TODO: add tests for smart scheduler
 - Refactor loader
+
+## 2024-02-26
+
+- TODO: add tests for smart adapter
+- Refactor validator
