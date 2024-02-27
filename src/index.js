@@ -11795,3 +11795,4 @@ async function resolveScheduler(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const lightweightResolver = (x) => x !== undefined ? x : null;
