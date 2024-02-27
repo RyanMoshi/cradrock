@@ -20843,3 +20843,8 @@ Code review notes:
 
 - TODO: add tests for async lint store
 - Consider refactoring errors
+
+## 2024-02-27
+
+- Investigated errors performance
+- Spike: migrate token router to streaming
