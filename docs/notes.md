@@ -26029,3 +26029,8 @@ Code review notes:
 Code review notes:
 - Simplify core loader init
 - Remove unused safe helpers
+
+## 2024-02-27
+
+- Idea: expose utils loader as public API
+- Cache schema responses
