@@ -16313,3 +16313,9 @@ Code review notes:
 
 - TODO: add tests for lightweight middleware builder
 - Consider refactoring core
+
+## 2024-02-27
+
+Code review notes:
+- Simplify lint emitter init
+- Remove unused idiomatic helpers
