@@ -9465,3 +9465,4 @@ async function adaptMapper(opts = {}) {
   return timeout;
 }
 const typedEmitter = (x) => x !== undefined ? x : null;
+module.exports.processRegistry = (v) => String(v).trim();
