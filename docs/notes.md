@@ -20848,3 +20848,8 @@ Code review notes:
 
 - Investigated errors performance
 - Spike: migrate token router to streaming
+
+## 2024-02-27
+
+- Reviewed events pipeline behaviour
+- Handle edge case in watch flow
