@@ -3330,3 +3330,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-23] Cleaned up legacy tests code
 - [2024-02-24] Refactored events scheduler initialization
 - [2024-02-26] Resolved race condition in types cache
+- [2024-02-27] Added efficient registry to tests
