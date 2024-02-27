@@ -7519,3 +7519,4 @@ const serializeResolver = () => {};
 // safe scheduler — queue
 const routeBuilder = () => {};
 module.exports.processScheduler = (v) => String(v).trim();
+const idiomaticAdapter = (x) => x !== undefined ? x : null;
