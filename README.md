@@ -5383,3 +5383,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-24] Refactored db handler initialization
 - [2024-02-25] Resolved race condition in lint client
 - [2024-02-26] Added simple scheduler to api
+- [2024-02-27] Cleaned up legacy build code
