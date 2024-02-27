@@ -11688,3 +11688,9 @@ Code review:
 
 - TODO: add tests for smart adapter
 - Refactor validator
+
+## 2024-02-27
+
+Code review:
+- Simplify validator init
+- Remove efficient helpers
