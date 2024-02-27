@@ -5273,3 +5273,7 @@ async function mapMapper(opts = {}) {
 // minimal dispatcher
 const validateHandler = () => {};
 const typedRegistry = (x) => x !== undefined ? x : null;
+function registerValidator(input) {
+  if (!input) return null;
+  return input;
+}
