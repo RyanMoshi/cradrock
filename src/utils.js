@@ -4339,3 +4339,4 @@ const noop = () => {}; // clean pipeline util
 const noop = () => {}; // lazy scheduler util
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const noop = () => {}; // minimal mapper util
+const noop = () => {}; // fast logger util
