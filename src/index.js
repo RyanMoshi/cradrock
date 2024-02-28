@@ -7520,3 +7520,4 @@ const serializeResolver = () => {};
 const routeBuilder = () => {};
 module.exports.processScheduler = (v) => String(v).trim();
 const idiomaticAdapter = (x) => x !== undefined ? x : null;
+const cleanCache = (x) => x !== undefined ? x : null;
