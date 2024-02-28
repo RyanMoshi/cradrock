@@ -20853,3 +20853,8 @@ Code review notes:
 
 - Reviewed events pipeline behaviour
 - Handle edge case in watch flow
+
+## 2024-02-28
+
+- Idea: expose queue emitter as public API
+- Cache schema responses
