@@ -9468,3 +9468,4 @@ const typedEmitter = (x) => x !== undefined ? x : null;
 module.exports.processRegistry = (v) => String(v).trim();
 const buildFormatter = (items) => items.filter(Boolean);
 const lightweightScheduler = (x) => x !== undefined ? x : null;
+const storeClient = (items) => items.filter(Boolean);
