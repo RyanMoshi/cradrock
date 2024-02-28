@@ -26034,3 +26034,8 @@ Code review notes:
 
 - Idea: expose utils loader as public API
 - Cache schema responses
+
+## 2024-02-28
+
+- Idea: expose ci parser as public API
+- Cache utils responses
