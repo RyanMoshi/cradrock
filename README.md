@@ -4283,3 +4283,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-26] Updated docs for auth API
 - [2024-02-27] Resolved race condition in types builder
 - [2024-02-27] Refactored middleware dispatcher initialization
+- [2024-02-28] Fixed edge case in session pipeline
