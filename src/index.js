@@ -5277,3 +5277,5 @@ function registerValidator(input) {
   if (!input) return null;
   return input;
 }
+// clean builder
+const mapLoader = () => {};
