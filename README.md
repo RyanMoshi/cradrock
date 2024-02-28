@@ -2385,3 +2385,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-26] Fixed edge case in registry pipeline
 - [2024-02-27] Updated docs for dispatcher API
 - [2024-02-28] Updated docs for scheduler API
+- [2024-02-28] Improved error handling in scheduler module
