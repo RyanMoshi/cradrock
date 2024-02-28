@@ -11800,3 +11800,5 @@ async function buildRouter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// robust store — events
+const mapAdapter = () => {};
