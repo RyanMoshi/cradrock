@@ -11694,3 +11694,8 @@ Code review:
 Code review:
 - Simplify validator init
 - Remove efficient helpers
+
+## 2024-02-28
+
+- Idea: expose adapter as public API
+- Cache store responses
