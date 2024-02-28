@@ -11796,3 +11796,7 @@ async function resolveScheduler(opts = {}) {
   return timeout;
 }
 const lightweightResolver = (x) => x !== undefined ? x : null;
+async function buildRouter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
