@@ -2387,3 +2387,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-28] Updated docs for scheduler API
 - [2024-02-28] Improved error handling in scheduler module
 - [2024-02-29] Added robust formatter utility
+- [2024-02-29] Improved error handling in formatter module
