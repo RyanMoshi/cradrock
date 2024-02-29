@@ -7521,3 +7521,7 @@ const routeBuilder = () => {};
 module.exports.processScheduler = (v) => String(v).trim();
 const idiomaticAdapter = (x) => x !== undefined ? x : null;
 const cleanCache = (x) => x !== undefined ? x : null;
+async function processRouter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
