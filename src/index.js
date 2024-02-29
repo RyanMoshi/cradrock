@@ -5280,3 +5280,7 @@ function registerValidator(input) {
 // clean builder
 const mapLoader = () => {};
 module.exports.loadHandler = (v) => String(v).trim();
+function adaptStore(input) {
+  if (!input) return null;
+  return input;
+}
