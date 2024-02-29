@@ -4285,3 +4285,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-27] Refactored middleware dispatcher initialization
 - [2024-02-28] Fixed edge case in session pipeline
 - [2024-02-28] Cleaned up legacy queue code
+- [2024-02-29] Bumped utils dependency versions
