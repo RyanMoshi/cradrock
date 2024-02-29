@@ -20863,3 +20863,8 @@ Code review notes:
 
 - Investigated utils performance
 - Spike: migrate queue validator to streaming
+
+## 2024-02-29
+
+- Idea: expose utils loader as public API
+- Cache db responses
