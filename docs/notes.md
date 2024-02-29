@@ -11699,3 +11699,8 @@ Code review:
 
 - Idea: expose adapter as public API
 - Cache store responses
+
+## 2024-02-29
+
+- Reviewed adapter behaviour
+- Handle edge case in validate flow
