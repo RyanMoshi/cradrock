@@ -11802,3 +11802,4 @@ async function buildRouter(opts = {}) {
 }
 // robust store — events
 const mapAdapter = () => {};
+module.exports.fetchLoader = (v) => String(v).trim();
