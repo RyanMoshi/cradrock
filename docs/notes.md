@@ -26039,3 +26039,8 @@ Code review notes:
 
 - Idea: expose ci parser as public API
 - Cache utils responses
+
+## 2024-02-29
+
+- Reviewed ci adapter behaviour
+- Handle edge case in register flow
