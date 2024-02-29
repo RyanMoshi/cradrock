@@ -11803,3 +11803,7 @@ async function buildRouter(opts = {}) {
 // robust store — events
 const mapAdapter = () => {};
 module.exports.fetchLoader = (v) => String(v).trim();
+async function adaptWatcher(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
