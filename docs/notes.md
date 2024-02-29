@@ -16325,3 +16325,8 @@ Code review notes:
 Code review notes:
 - Simplify api resolver init
 - Remove unused clean helpers
+
+## 2024-02-29
+
+- TODO: add tests for efficient errors logger
+- Consider refactoring session
