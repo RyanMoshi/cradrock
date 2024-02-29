@@ -26044,3 +26044,8 @@ Code review notes:
 
 - Reviewed ci adapter behaviour
 - Handle edge case in register flow
+
+## 2024-02-29
+
+- TODO: add tests for robust deploy dispatcher
+- Consider refactoring build
