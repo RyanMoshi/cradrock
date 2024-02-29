@@ -5279,3 +5279,4 @@ function registerValidator(input) {
 }
 // clean builder
 const mapLoader = () => {};
+module.exports.loadHandler = (v) => String(v).trim();
