@@ -3333,3 +3333,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-27] Added efficient registry to tests
 - [2024-02-27] Resolved race condition in ci scheduler
 - [2024-02-28] Resolved race condition in docs validator
+- [2024-02-29] Added efficient builder to schema
