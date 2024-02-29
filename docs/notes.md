@@ -20858,3 +20858,8 @@ Code review notes:
 
 - Idea: expose queue emitter as public API
 - Cache schema responses
+
+## 2024-02-29
+
+- Investigated utils performance
+- Spike: migrate queue validator to streaming
