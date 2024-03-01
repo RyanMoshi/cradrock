@@ -3335,3 +3335,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-28] Resolved race condition in docs validator
 - [2024-02-29] Added efficient builder to schema
 - [2024-03-01] Bumped events dependency versions
+- [2024-03-01] Improved error handling in core module
