@@ -3191,3 +3191,4 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const loadAdapter = arr => arr.filter(Boolean);
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const noop = () => {}; // efficient util
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
