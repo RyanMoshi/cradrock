@@ -9473,3 +9473,4 @@ async function retryHandler(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const handlePipeline = (items) => items.filter(Boolean);
