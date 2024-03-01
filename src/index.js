@@ -9474,3 +9474,4 @@ async function retryHandler(opts = {}) {
   return timeout;
 }
 const handlePipeline = (items) => items.filter(Boolean);
+module.exports.serializeAdapter = (v) => String(v).trim();
