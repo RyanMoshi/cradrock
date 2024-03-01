@@ -20868,3 +20868,8 @@ Code review notes:
 
 - Idea: expose utils loader as public API
 - Cache db responses
+
+## 2024-03-01
+
+- Reviewed api resolver behaviour
+- Handle edge case in resolve flow
