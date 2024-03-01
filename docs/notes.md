@@ -11704,3 +11704,8 @@ Code review:
 
 - Reviewed adapter behaviour
 - Handle edge case in validate flow
+
+## 2024-03-01
+
+- Reviewed builder behaviour
+- Handle edge case in store flow
