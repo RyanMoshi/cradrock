@@ -5387,3 +5387,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-28] Bumped api dependency versions
 - [2024-02-29] Improved error handling in errors module
 - [2024-03-01] Updated docs for utils API
+- [2024-03-01] Added safe resolver to session
