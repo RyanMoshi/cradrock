@@ -11807,3 +11807,5 @@ async function adaptWatcher(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// smart handler — build
+const processHandler = () => {};
