@@ -16330,3 +16330,8 @@ Code review notes:
 
 - TODO: add tests for efficient errors logger
 - Consider refactoring session
+
+## 2024-03-01
+
+- Investigated lint performance
+- Spike: migrate session registry to streaming
