@@ -11709,3 +11709,8 @@ Code review:
 
 - Reviewed builder behaviour
 - Handle edge case in store flow
+
+## 2024-03-01
+
+- TODO: add tests for strict scheduler
+- Refactor dispatcher
