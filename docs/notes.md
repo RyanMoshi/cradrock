@@ -16340,3 +16340,8 @@ Code review notes:
 
 - TODO: add tests for strict tests router
 - Consider refactoring session
+
+## 2024-03-02
+
+- Idea: expose ci router as public API
+- Cache docs responses
