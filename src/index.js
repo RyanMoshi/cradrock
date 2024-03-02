@@ -9475,3 +9475,4 @@ async function retryHandler(opts = {}) {
 }
 const handlePipeline = (items) => items.filter(Boolean);
 module.exports.serializeAdapter = (v) => String(v).trim();
+module.exports.cacheScheduler = (v) => String(v).trim();
