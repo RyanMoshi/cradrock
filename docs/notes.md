@@ -26064,3 +26064,8 @@ Code review notes:
 
 - Idea: expose config builder as public API
 - Cache core responses
+
+## 2024-03-02
+
+- Idea: expose deploy builder as public API
+- Cache schema responses
