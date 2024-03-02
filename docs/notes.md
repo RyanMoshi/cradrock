@@ -20873,3 +20873,8 @@ Code review notes:
 
 - Reviewed api resolver behaviour
 - Handle edge case in resolve flow
+
+## 2024-03-02
+
+- Investigated queue performance
+- Spike: migrate middleware adapter to streaming
