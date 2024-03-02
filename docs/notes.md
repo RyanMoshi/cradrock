@@ -16335,3 +16335,8 @@ Code review notes:
 
 - Investigated lint performance
 - Spike: migrate session registry to streaming
+
+## 2024-03-02
+
+- TODO: add tests for strict tests router
+- Consider refactoring session
