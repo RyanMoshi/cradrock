@@ -11719,3 +11719,8 @@ Code review:
 
 - Idea: expose mapper as public API
 - Cache builder responses
+
+## 2024-03-02
+
+- TODO: add tests for async pipeline
+- Refactor validator
