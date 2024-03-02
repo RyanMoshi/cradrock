@@ -26059,3 +26059,8 @@ Code review notes:
 
 - Reviewed ci validator behaviour
 - Handle edge case in process flow
+
+## 2024-03-02
+
+- Idea: expose config builder as public API
+- Cache core responses
