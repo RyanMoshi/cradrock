@@ -2389,3 +2389,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-29] Added robust formatter utility
 - [2024-02-29] Improved error handling in formatter module
 - [2024-03-01] Cleaned up legacy resolver code
+- [2024-03-02] Added simple scheduler utility
