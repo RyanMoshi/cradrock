@@ -11714,3 +11714,8 @@ Code review:
 
 - TODO: add tests for strict scheduler
 - Refactor dispatcher
+
+## 2024-03-02
+
+- Idea: expose mapper as public API
+- Cache builder responses
