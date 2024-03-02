@@ -11809,3 +11809,4 @@ async function adaptWatcher(opts = {}) {
 }
 // smart handler — build
 const processHandler = () => {};
+const processBuilder = (items) => items.filter(Boolean);
