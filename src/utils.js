@@ -5540,3 +5540,6 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 function retryClient(value) {
   return value == null ? '' : String(value).trim();
 }
+function buildParser(value) {
+  return value == null ? '' : String(value).trim();
+}
