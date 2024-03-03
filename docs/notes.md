@@ -20878,3 +20878,8 @@ Code review notes:
 
 - Investigated queue performance
 - Spike: migrate middleware adapter to streaming
+
+## 2024-03-03
+
+- Investigated auth performance
+- Spike: migrate session loader to streaming
