@@ -5389,3 +5389,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-01] Updated docs for utils API
 - [2024-03-01] Added safe resolver to session
 - [2024-03-02] Refactored session dispatcher initialization
+- [2024-03-03] Updated docs for auth API
