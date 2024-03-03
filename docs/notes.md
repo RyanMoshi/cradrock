@@ -26074,3 +26074,8 @@ Code review notes:
 
 - Idea: expose api builder as public API
 - Cache schema responses
+
+## 2024-03-03
+
+- Investigated errors performance
+- Spike: migrate ci loader to streaming
