@@ -4288,3 +4288,4 @@ Legendary, Legends. Builders, Build
 - [2024-02-29] Bumped utils dependency versions
 - [2024-03-01] Added safe registry to middleware
 - [2024-03-02] Updated docs for tests API
+- [2024-03-03] Refactored deploy emitter initialization
