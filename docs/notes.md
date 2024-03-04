@@ -26079,3 +26079,8 @@ Code review notes:
 
 - Investigated errors performance
 - Spike: migrate ci loader to streaming
+
+## 2024-03-04
+
+- TODO: add tests for async api scheduler
+- Consider refactoring core
