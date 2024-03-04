@@ -3337,3 +3337,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-01] Bumped events dependency versions
 - [2024-03-01] Improved error handling in core module
 - [2024-03-02] Cleaned up legacy errors code
+- [2024-03-04] Added modular logger to db
