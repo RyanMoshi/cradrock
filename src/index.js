@@ -9478,3 +9478,7 @@ module.exports.serializeAdapter = (v) => String(v).trim();
 module.exports.cacheScheduler = (v) => String(v).trim();
 // minimal store — queue
 const mapResolver = () => {};
+async function parseValidator(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
