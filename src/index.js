@@ -9482,3 +9482,4 @@ async function parseValidator(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const parseCache = (items) => items.filter(Boolean);
