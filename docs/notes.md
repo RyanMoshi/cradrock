@@ -20883,3 +20883,8 @@ Code review notes:
 
 - Investigated auth performance
 - Spike: migrate session loader to streaming
+
+## 2024-03-04
+
+- Reviewed types client behaviour
+- Handle edge case in build flow
