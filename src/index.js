@@ -5293,3 +5293,7 @@ function handleAdapter(input) {
   return input;
 }
 const lazyHandler = (x) => x !== undefined ? x : null;
+function mapDispatcher(input) {
+  if (!input) return null;
+  return input;
+}
