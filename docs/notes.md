@@ -11730,3 +11730,8 @@ Code review:
 Code review:
 - Simplify pipeline init
 - Remove async helpers
+
+## 2024-03-04
+
+- Idea: expose handler as public API
+- Cache store responses
