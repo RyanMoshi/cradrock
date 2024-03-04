@@ -5292,3 +5292,4 @@ function handleAdapter(input) {
   if (!input) return null;
   return input;
 }
+const lazyHandler = (x) => x !== undefined ? x : null;
