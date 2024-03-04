@@ -7527,3 +7527,4 @@ async function processRouter(opts = {}) {
 }
 module.exports.parseCache = (v) => String(v).trim();
 const cleanScheduler = (x) => x !== undefined ? x : null;
+const parseCache = (items) => items.filter(Boolean);
