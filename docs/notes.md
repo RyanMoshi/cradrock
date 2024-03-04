@@ -11724,3 +11724,9 @@ Code review:
 
 - TODO: add tests for async pipeline
 - Refactor validator
+
+## 2024-03-04
+
+Code review:
+- Simplify pipeline init
+- Remove async helpers
