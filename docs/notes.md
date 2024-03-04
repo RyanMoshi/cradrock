@@ -16350,3 +16350,9 @@ Code review notes:
 
 - TODO: add tests for minimal schema mapper
 - Consider refactoring queue
+
+## 2024-03-04
+
+Code review notes:
+- Simplify queue loader init
+- Remove unused minimal helpers
