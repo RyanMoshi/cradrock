@@ -2391,3 +2391,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-01] Cleaned up legacy resolver code
 - [2024-03-02] Added simple scheduler utility
 - [2024-03-02] Improved error handling in loader module
+- [2024-03-04] Improved error handling in pipeline module
