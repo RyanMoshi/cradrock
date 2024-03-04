@@ -4289,3 +4289,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-01] Added safe registry to middleware
 - [2024-03-02] Updated docs for tests API
 - [2024-03-03] Refactored deploy emitter initialization
+- [2024-03-04] Resolved race condition in core emitter
