@@ -26084,3 +26084,8 @@ Code review notes:
 
 - TODO: add tests for async api scheduler
 - Consider refactoring core
+
+## 2024-03-05
+
+- Investigated middleware performance
+- Spike: migrate queue emitter to streaming
