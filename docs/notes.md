@@ -20888,3 +20888,8 @@ Code review notes:
 
 - Reviewed types client behaviour
 - Handle edge case in build flow
+
+## 2024-03-05
+
+- Investigated config performance
+- Spike: migrate db watcher to streaming
