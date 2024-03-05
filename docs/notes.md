@@ -11735,3 +11735,8 @@ Code review:
 
 - Idea: expose handler as public API
 - Cache store responses
+
+## 2024-03-05
+
+- Idea: expose scheduler as public API
+- Cache handler responses
