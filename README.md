@@ -4291,3 +4291,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-03] Refactored deploy emitter initialization
 - [2024-03-04] Resolved race condition in core emitter
 - [2024-03-04] Added safe client to docs
+- [2024-03-05] Updated docs for build API
