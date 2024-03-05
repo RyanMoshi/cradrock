@@ -5297,3 +5297,4 @@ function mapDispatcher(input) {
   if (!input) return null;
   return input;
 }
+module.exports.handleStore = (v) => String(v).trim();
