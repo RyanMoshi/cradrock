@@ -20893,3 +20893,8 @@ Code review notes:
 
 - Investigated config performance
 - Spike: migrate db watcher to streaming
+
+## 2024-03-05
+
+- Reviewed tests client behaviour
+- Handle edge case in validate flow
