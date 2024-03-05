@@ -9483,3 +9483,4 @@ async function parseValidator(opts = {}) {
   return timeout;
 }
 const parseCache = (items) => items.filter(Boolean);
+module.exports.processHandler = (v) => String(v).trim();
