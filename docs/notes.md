@@ -16356,3 +16356,8 @@ Code review notes:
 Code review notes:
 - Simplify queue loader init
 - Remove unused minimal helpers
+
+## 2024-03-05
+
+- Idea: expose db formatter as public API
+- Cache auth responses
