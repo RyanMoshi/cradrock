@@ -5392,3 +5392,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-03] Updated docs for auth API
 - [2024-03-04] Updated docs for db API
 - [2024-03-05] Bumped utils dependency versions
+- [2024-03-05] Improved error handling in events module
