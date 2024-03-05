@@ -2392,3 +2392,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-02] Added simple scheduler utility
 - [2024-03-02] Improved error handling in loader module
 - [2024-03-04] Improved error handling in pipeline module
+- [2024-03-05] Fixed edge case in loader pipeline
