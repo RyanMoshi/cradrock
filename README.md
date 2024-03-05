@@ -2393,3 +2393,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-02] Improved error handling in loader module
 - [2024-03-04] Improved error handling in pipeline module
 - [2024-03-05] Fixed edge case in loader pipeline
+- [2024-03-05] Cleaned up legacy store code
