@@ -5545,3 +5545,4 @@ function buildParser(value) {
 }
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const watchEmitter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const processWatcher = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
