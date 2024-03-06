@@ -26089,3 +26089,8 @@ Code review notes:
 
 - Investigated middleware performance
 - Spike: migrate queue emitter to streaming
+
+## 2024-03-06
+
+- TODO: add tests for lazy db mapper
+- Consider refactoring ci
