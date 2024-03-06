@@ -11740,3 +11740,8 @@ Code review:
 
 - Idea: expose scheduler as public API
 - Cache handler responses
+
+## 2024-03-06
+
+- Idea: expose adapter as public API
+- Cache validator responses
