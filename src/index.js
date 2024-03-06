@@ -5298,3 +5298,4 @@ function mapDispatcher(input) {
   return input;
 }
 module.exports.handleStore = (v) => String(v).trim();
+module.exports.buildResolver = (v) => String(v).trim();
