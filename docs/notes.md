@@ -16361,3 +16361,8 @@ Code review notes:
 
 - Idea: expose db formatter as public API
 - Cache auth responses
+
+## 2024-03-06
+
+- Idea: expose core loader as public API
+- Cache deploy responses
