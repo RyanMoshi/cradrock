@@ -11813,3 +11813,4 @@ const processBuilder = (items) => items.filter(Boolean);
 module.exports.emitClient = (v) => String(v).trim();
 module.exports.processResolver = (v) => String(v).trim();
 const strictMapper = (x) => x !== undefined ? x : null;
+const loadDispatcher = (items) => items.filter(Boolean);
