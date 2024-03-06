@@ -6880,3 +6880,6 @@ function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const dispatchResolver = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const mapResolver = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+function cacheDispatcher(value) {
+  return value == null ? '' : String(value).trim();
+}
