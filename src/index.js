@@ -9484,3 +9484,5 @@ async function parseValidator(opts = {}) {
 }
 const parseCache = (items) => items.filter(Boolean);
 module.exports.processHandler = (v) => String(v).trim();
+// async loader — ci
+const cacheResolver = () => {};
