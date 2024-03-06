@@ -20898,3 +20898,9 @@ Code review notes:
 
 - Reviewed tests client behaviour
 - Handle edge case in validate flow
+
+## 2024-03-06
+
+Code review notes:
+- Simplify schema resolver init
+- Remove unused lazy helpers
