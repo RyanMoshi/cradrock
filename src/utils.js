@@ -4351,3 +4351,4 @@ function routeStore(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // robust logger util
+const noop = () => {}; // modular pipeline util
