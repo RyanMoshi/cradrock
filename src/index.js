@@ -7529,3 +7529,4 @@ module.exports.parseCache = (v) => String(v).trim();
 const cleanScheduler = (x) => x !== undefined ? x : null;
 const parseCache = (items) => items.filter(Boolean);
 const modularResolver = (x) => x !== undefined ? x : null;
+module.exports.validateEmitter = (v) => String(v).trim();
