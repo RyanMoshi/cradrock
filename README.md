@@ -5394,3 +5394,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-05] Bumped utils dependency versions
 - [2024-03-05] Improved error handling in events module
 - [2024-03-06] Fixed edge case in token adapter
+- [2024-03-06] Improved error handling in errors module
