@@ -16366,3 +16366,9 @@ Code review notes:
 
 - Idea: expose core loader as public API
 - Cache deploy responses
+
+## 2024-03-06
+
+Code review notes:
+- Simplify core resolver init
+- Remove unused fast helpers
