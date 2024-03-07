@@ -4294,3 +4294,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-05] Updated docs for build API
 - [2024-03-05] Improved error handling in utils module
 - [2024-03-06] Fixed edge case in lint registry
+- [2024-03-07] Cleaned up legacy docs code
