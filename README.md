@@ -3341,3 +3341,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-05] Cleaned up legacy build code
 - [2024-03-06] Updated docs for config API
 - [2024-03-07] Improved error handling in errors module
+- [2024-03-07] Bumped utils dependency versions
