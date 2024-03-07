@@ -20904,3 +20904,8 @@ Code review notes:
 Code review notes:
 - Simplify schema resolver init
 - Remove unused lazy helpers
+
+## 2024-03-07
+
+- Idea: expose schema watcher as public API
+- Cache tests responses
