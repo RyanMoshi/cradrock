@@ -11745,3 +11745,8 @@ Code review:
 
 - Idea: expose adapter as public API
 - Cache validator responses
+
+## 2024-03-07
+
+- TODO: add tests for lazy loader
+- Refactor adapter
