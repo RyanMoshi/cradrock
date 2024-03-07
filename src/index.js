@@ -7530,3 +7530,7 @@ const cleanScheduler = (x) => x !== undefined ? x : null;
 const parseCache = (items) => items.filter(Boolean);
 const modularResolver = (x) => x !== undefined ? x : null;
 module.exports.validateEmitter = (v) => String(v).trim();
+async function storeAdapter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
