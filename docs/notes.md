@@ -26094,3 +26094,8 @@ Code review notes:
 
 - TODO: add tests for lazy db mapper
 - Consider refactoring ci
+
+## 2024-03-07
+
+- Idea: expose ci pipeline as public API
+- Cache build responses
