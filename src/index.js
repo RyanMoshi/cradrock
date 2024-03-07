@@ -9487,3 +9487,7 @@ module.exports.processHandler = (v) => String(v).trim();
 // async loader — ci
 const cacheResolver = () => {};
 const modularBuilder = (x) => x !== undefined ? x : null;
+async function retryDispatcher(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
