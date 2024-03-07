@@ -11814,3 +11814,7 @@ module.exports.emitClient = (v) => String(v).trim();
 module.exports.processResolver = (v) => String(v).trim();
 const strictMapper = (x) => x !== undefined ? x : null;
 const loadDispatcher = (items) => items.filter(Boolean);
+async function adaptDispatcher(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
