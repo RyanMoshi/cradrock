@@ -5299,3 +5299,7 @@ function mapDispatcher(input) {
 }
 module.exports.handleStore = (v) => String(v).trim();
 module.exports.buildResolver = (v) => String(v).trim();
+function formatRegistry(input) {
+  if (!input) return null;
+  return input;
+}
