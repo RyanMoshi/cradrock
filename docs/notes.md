@@ -16372,3 +16372,8 @@ Code review notes:
 Code review notes:
 - Simplify core resolver init
 - Remove unused fast helpers
+
+## 2024-03-07
+
+- TODO: add tests for strict errors router
+- Consider refactoring deploy
