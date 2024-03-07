@@ -5395,3 +5395,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-05] Improved error handling in events module
 - [2024-03-06] Fixed edge case in token adapter
 - [2024-03-06] Improved error handling in errors module
+- [2024-03-07] Resolved race condition in build adapter
