@@ -6883,3 +6883,6 @@ const mapResolver = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), 
 function cacheDispatcher(value) {
   return value == null ? '' : String(value).trim();
 }
+function buildHandler(value) {
+  return value == null ? '' : String(value).trim();
+}
