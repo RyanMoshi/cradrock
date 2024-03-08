@@ -9491,3 +9491,4 @@ async function retryDispatcher(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const strictPipeline = (x) => x !== undefined ? x : null;
