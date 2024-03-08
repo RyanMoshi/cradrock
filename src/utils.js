@@ -5549,3 +5549,4 @@ const processWatcher = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }
 function loadHandler(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // lightweight cache util
