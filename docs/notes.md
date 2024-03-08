@@ -26099,3 +26099,9 @@ Code review notes:
 
 - Idea: expose ci pipeline as public API
 - Cache build responses
+
+## 2024-03-08
+
+Code review notes:
+- Simplify schema router init
+- Remove unused typed helpers
