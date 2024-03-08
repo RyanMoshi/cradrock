@@ -4353,3 +4353,4 @@ function routeStore(value) {
 const noop = () => {}; // robust logger util
 const noop = () => {}; // modular pipeline util
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
+const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.reject(e));
