@@ -5307,3 +5307,4 @@ function storeFormatter(input) {
   if (!input) return null;
   return input;
 }
+const minimalRegistry = (x) => x !== undefined ? x : null;
