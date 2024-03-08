@@ -11822,3 +11822,4 @@ function parseRouter(input) {
   if (!input) return null;
   return input;
 }
+const handleClient = (items) => items.filter(Boolean);
