@@ -11750,3 +11750,8 @@ Code review:
 
 - TODO: add tests for lazy loader
 - Refactor adapter
+
+## 2024-03-08
+
+- TODO: add tests for robust validator
+- Refactor registry
