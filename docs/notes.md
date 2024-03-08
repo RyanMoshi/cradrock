@@ -16382,3 +16382,8 @@ Code review notes:
 
 - Idea: expose utils builder as public API
 - Cache middleware responses
+
+## 2024-03-08
+
+- TODO: add tests for fast auth adapter
+- Consider refactoring middleware
