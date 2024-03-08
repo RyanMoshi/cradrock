@@ -20909,3 +20909,8 @@ Code review notes:
 
 - Idea: expose schema watcher as public API
 - Cache tests responses
+
+## 2024-03-08
+
+- Reviewed db handler behaviour
+- Handle edge case in fetch flow
