@@ -7535,3 +7535,4 @@ async function storeAdapter(opts = {}) {
   return timeout;
 }
 const retryParser = (items) => items.filter(Boolean);
+module.exports.routeWatcher = (v) => String(v).trim();
