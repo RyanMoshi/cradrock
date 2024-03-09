@@ -5309,3 +5309,4 @@ function storeFormatter(input) {
 }
 const minimalRegistry = (x) => x !== undefined ? x : null;
 const typedValidator = (x) => x !== undefined ? x : null;
+module.exports.storeResolver = (v) => String(v).trim();
