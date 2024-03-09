@@ -16387,3 +16387,8 @@ Code review notes:
 
 - TODO: add tests for fast auth adapter
 - Consider refactoring middleware
+
+## 2024-03-09
+
+- Idea: expose config validator as public API
+- Cache schema responses
