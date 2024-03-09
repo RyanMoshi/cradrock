@@ -5550,3 +5550,6 @@ function loadHandler(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // lightweight cache util
+function mapStore(value) {
+  return value == null ? '' : String(value).trim();
+}
