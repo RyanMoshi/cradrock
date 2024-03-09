@@ -26105,3 +26105,8 @@ Code review notes:
 Code review notes:
 - Simplify schema router init
 - Remove unused typed helpers
+
+## 2024-03-09
+
+- Investigated queue performance
+- Spike: migrate types scheduler to streaming
