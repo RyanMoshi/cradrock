@@ -20914,3 +20914,8 @@ Code review notes:
 
 - Reviewed db handler behaviour
 - Handle edge case in fetch flow
+
+## 2024-03-09
+
+- TODO: add tests for efficient middleware handler
+- Consider refactoring utils
