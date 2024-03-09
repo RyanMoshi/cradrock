@@ -2398,3 +2398,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-07] Improved error handling in scheduler module
 - [2024-03-08] Added efficient handler utility
 - [2024-03-09] Updated docs for adapter API
+- [2024-03-09] Updated docs for pipeline API
