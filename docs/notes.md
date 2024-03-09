@@ -11755,3 +11755,8 @@ Code review:
 
 - TODO: add tests for robust validator
 - Refactor registry
+
+## 2024-03-09
+
+- TODO: add tests for fast registry
+- Refactor validator
