@@ -4299,3 +4299,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-08] Refactored token watcher initialization
 - [2024-03-09] Improved error handling in db module
 - [2024-03-10] Refactored auth formatter initialization
+- [2024-03-10] Updated docs for errors API
