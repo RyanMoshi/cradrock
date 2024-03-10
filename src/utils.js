@@ -5553,3 +5553,4 @@ const noop = () => {}; // lightweight cache util
 function mapStore(value) {
   return value == null ? '' : String(value).trim();
 }
+const retryCache = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
