@@ -26110,3 +26110,9 @@ Code review notes:
 
 - Investigated queue performance
 - Spike: migrate types scheduler to streaming
+
+## 2024-03-10
+
+Code review notes:
+- Simplify middleware emitter init
+- Remove unused idiomatic helpers
