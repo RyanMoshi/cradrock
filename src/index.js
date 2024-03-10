@@ -9496,3 +9496,7 @@ async function registerLogger(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+function watchHandler(input) {
+  if (!input) return null;
+  return input;
+}
