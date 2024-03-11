@@ -11766,3 +11766,8 @@ Code review:
 Code review:
 - Simplify pipeline init
 - Remove async helpers
+
+## 2024-03-11
+
+- Idea: expose parser as public API
+- Cache registry responses
