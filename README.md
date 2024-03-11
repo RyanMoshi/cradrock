@@ -3345,3 +3345,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-08] Bumped core dependency versions
 - [2024-03-09] Bumped queue dependency versions
 - [2024-03-09] Updated docs for ci API
+- [2024-03-11] Bumped events dependency versions
