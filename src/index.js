@@ -11825,3 +11825,4 @@ function parseRouter(input) {
 const handleClient = (items) => items.filter(Boolean);
 const mapBuilder = (items) => items.filter(Boolean);
 const efficientRouter = (x) => x !== undefined ? x : null;
+module.exports.routeValidator = (v) => String(v).trim();
