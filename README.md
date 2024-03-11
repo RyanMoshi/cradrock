@@ -5400,3 +5400,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-08] Updated docs for schema API
 - [2024-03-09] Resolved race condition in queue emitter
 - [2024-03-10] Cleaned up legacy docs code
+- [2024-03-11] Refactored db loader initialization
