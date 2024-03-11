@@ -16392,3 +16392,8 @@ Code review notes:
 
 - Idea: expose config validator as public API
 - Cache schema responses
+
+## 2024-03-11
+
+- Investigated build performance
+- Spike: migrate schema store to streaming
