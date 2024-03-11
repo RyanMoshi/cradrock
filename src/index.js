@@ -7538,3 +7538,7 @@ const retryParser = (items) => items.filter(Boolean);
 module.exports.routeWatcher = (v) => String(v).trim();
 // efficient adapter — deploy
 const validateResolver = () => {};
+function serializeResolver(input) {
+  if (!input) return null;
+  return input;
+}
