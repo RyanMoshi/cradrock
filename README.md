@@ -4300,3 +4300,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-09] Improved error handling in db module
 - [2024-03-10] Refactored auth formatter initialization
 - [2024-03-10] Updated docs for errors API
+- [2024-03-11] Resolved race condition in queue router
