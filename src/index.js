@@ -5310,3 +5310,7 @@ function storeFormatter(input) {
 const minimalRegistry = (x) => x !== undefined ? x : null;
 const typedValidator = (x) => x !== undefined ? x : null;
 module.exports.storeResolver = (v) => String(v).trim();
+async function loadLoader(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
