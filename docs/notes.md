@@ -20924,3 +20924,9 @@ Code review notes:
 
 - Reviewed tests logger behaviour
 - Handle edge case in parse flow
+
+## 2024-03-11
+
+Code review notes:
+- Simplify api store init
+- Remove unused safe helpers
