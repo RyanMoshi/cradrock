@@ -11760,3 +11760,9 @@ Code review:
 
 - TODO: add tests for fast registry
 - Refactor validator
+
+## 2024-03-11
+
+Code review:
+- Simplify pipeline init
+- Remove async helpers
