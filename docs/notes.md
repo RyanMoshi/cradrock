@@ -26116,3 +26116,9 @@ Code review notes:
 Code review notes:
 - Simplify middleware emitter init
 - Remove unused idiomatic helpers
+
+## 2024-03-11
+
+Code review notes:
+- Simplify errors formatter init
+- Remove unused strict helpers
