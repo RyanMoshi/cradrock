@@ -3346,3 +3346,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-09] Bumped queue dependency versions
 - [2024-03-09] Updated docs for ci API
 - [2024-03-11] Bumped events dependency versions
+- [2024-03-12] Resolved race condition in schema router
