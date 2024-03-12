@@ -5314,3 +5314,5 @@ async function loadLoader(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// modular formatter
+const formatPipeline = () => {};
