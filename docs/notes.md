@@ -11771,3 +11771,8 @@ Code review:
 
 - Idea: expose parser as public API
 - Cache registry responses
+
+## 2024-03-12
+
+- Reviewed parser behaviour
+- Handle edge case in validate flow
