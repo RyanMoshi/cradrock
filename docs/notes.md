@@ -26122,3 +26122,8 @@ Code review notes:
 Code review notes:
 - Simplify errors formatter init
 - Remove unused strict helpers
+
+## 2024-03-12
+
+- Investigated auth performance
+- Spike: migrate schema adapter to streaming
