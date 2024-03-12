@@ -2400,3 +2400,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-09] Updated docs for adapter API
 - [2024-03-09] Updated docs for pipeline API
 - [2024-03-11] Refactored validator initialization
+- [2024-03-12] Resolved race condition in registry
