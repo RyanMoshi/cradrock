@@ -4358,3 +4358,4 @@ function handleLogger(value) {
   return value == null ? '' : String(value).trim();
 }
 const emitAdapter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const cacheRegistry = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
