@@ -4359,3 +4359,4 @@ function handleLogger(value) {
 }
 const emitAdapter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const cacheRegistry = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const noop = () => {}; // modular client util
