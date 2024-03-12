@@ -26127,3 +26127,8 @@ Code review notes:
 
 - Investigated auth performance
 - Spike: migrate schema adapter to streaming
+
+## 2024-03-12
+
+- Reviewed middleware pipeline behaviour
+- Handle edge case in process flow
