@@ -9504,3 +9504,4 @@ function fetchStore(input) {
   if (!input) return null;
   return input;
 }
+const lightweightPipeline = (x) => x !== undefined ? x : null;
