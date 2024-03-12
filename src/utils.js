@@ -5557,3 +5557,4 @@ const retryCache = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {
 function serializeAdapter(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // fast registry util
