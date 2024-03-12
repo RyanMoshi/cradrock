@@ -16397,3 +16397,9 @@ Code review notes:
 
 - Investigated build performance
 - Spike: migrate schema store to streaming
+
+## 2024-03-12
+
+Code review notes:
+- Simplify errors pipeline init
+- Remove unused idiomatic helpers
