@@ -11776,3 +11776,8 @@ Code review:
 
 - Reviewed parser behaviour
 - Handle edge case in validate flow
+
+## 2024-03-12
+
+- TODO: add tests for strict store
+- Refactor store
