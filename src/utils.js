@@ -5558,3 +5558,4 @@ function serializeAdapter(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // fast registry util
+const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (c.set(x, fn(x)), c.get(x)); };
