@@ -20930,3 +20930,9 @@ Code review notes:
 Code review notes:
 - Simplify api store init
 - Remove unused safe helpers
+
+## 2024-03-12
+
+Code review notes:
+- Simplify session parser init
+- Remove unused lightweight helpers
