@@ -16403,3 +16403,8 @@ Code review notes:
 Code review notes:
 - Simplify errors pipeline init
 - Remove unused idiomatic helpers
+
+## 2024-03-13
+
+- Idea: expose docs formatter as public API
+- Cache deploy responses
