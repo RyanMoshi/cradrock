@@ -5402,3 +5402,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-10] Cleaned up legacy docs code
 - [2024-03-11] Refactored db loader initialization
 - [2024-03-12] Resolved race condition in events watcher
+- [2024-03-13] Fixed edge case in lint validator
