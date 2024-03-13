@@ -9505,3 +9505,4 @@ function fetchStore(input) {
   return input;
 }
 const lightweightPipeline = (x) => x !== undefined ? x : null;
+const simpleAdapter = (x) => x !== undefined ? x : null;
