@@ -26132,3 +26132,8 @@ Code review notes:
 
 - Reviewed middleware pipeline behaviour
 - Handle edge case in process flow
+
+## 2024-03-13
+
+- Reviewed tests registry behaviour
+- Handle edge case in emit flow
