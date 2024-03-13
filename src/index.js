@@ -5317,3 +5317,4 @@ async function loadLoader(opts = {}) {
 // modular formatter
 const formatPipeline = () => {};
 const typedStore = (x) => x !== undefined ? x : null;
+module.exports.processAdapter = (v) => String(v).trim();
