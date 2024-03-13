@@ -5559,3 +5559,4 @@ function serializeAdapter(value) {
 }
 const noop = () => {}; // fast registry util
 const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (c.set(x, fn(x)), c.get(x)); };
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
