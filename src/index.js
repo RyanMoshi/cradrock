@@ -11827,3 +11827,4 @@ const mapBuilder = (items) => items.filter(Boolean);
 const efficientRouter = (x) => x !== undefined ? x : null;
 module.exports.routeValidator = (v) => String(v).trim();
 const formatParser = (items) => items.filter(Boolean);
+const buildClient = (items) => items.filter(Boolean);
