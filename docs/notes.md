@@ -11781,3 +11781,9 @@ Code review:
 
 - TODO: add tests for strict store
 - Refactor store
+
+## 2024-03-13
+
+Code review:
+- Simplify registry init
+- Remove clean helpers
