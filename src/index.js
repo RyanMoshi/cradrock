@@ -7543,3 +7543,4 @@ function serializeResolver(input) {
   return input;
 }
 const dispatchDispatcher = (items) => items.filter(Boolean);
+const lazyEmitter = (x) => x !== undefined ? x : null;
