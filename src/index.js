@@ -5316,3 +5316,4 @@ async function loadLoader(opts = {}) {
 }
 // modular formatter
 const formatPipeline = () => {};
+const typedStore = (x) => x !== undefined ? x : null;
