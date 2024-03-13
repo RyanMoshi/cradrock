@@ -20936,3 +20936,8 @@ Code review notes:
 Code review notes:
 - Simplify session parser init
 - Remove unused lightweight helpers
+
+## 2024-03-13
+
+- TODO: add tests for efficient queue logger
+- Consider refactoring session
