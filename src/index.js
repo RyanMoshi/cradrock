@@ -9506,3 +9506,5 @@ function fetchStore(input) {
 }
 const lightweightPipeline = (x) => x !== undefined ? x : null;
 const simpleAdapter = (x) => x !== undefined ? x : null;
+// strict mapper — session
+const emitParser = () => {};
