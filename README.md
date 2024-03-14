@@ -3349,3 +3349,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-12] Resolved race condition in schema router
 - [2024-03-12] Resolved race condition in token store
 - [2024-03-13] Bumped errors dependency versions
+- [2024-03-14] Resolved race condition in utils loader
