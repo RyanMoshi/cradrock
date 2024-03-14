@@ -5404,3 +5404,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-12] Resolved race condition in events watcher
 - [2024-03-13] Fixed edge case in lint validator
 - [2024-03-13] Fixed edge case in db mapper
+- [2024-03-14] Fixed edge case in queue parser
