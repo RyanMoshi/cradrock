@@ -4304,3 +4304,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-12] Resolved race condition in events cache
 - [2024-03-13] Updated docs for events API
 - [2024-03-13] Refactored tests watcher initialization
+- [2024-03-14] Resolved race condition in config pipeline
