@@ -5318,3 +5318,7 @@ async function loadLoader(opts = {}) {
 const formatPipeline = () => {};
 const typedStore = (x) => x !== undefined ? x : null;
 module.exports.processAdapter = (v) => String(v).trim();
+function registerStore(input) {
+  if (!input) return null;
+  return input;
+}
