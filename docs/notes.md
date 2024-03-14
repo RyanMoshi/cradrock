@@ -20951,3 +20951,8 @@ Code review notes:
 
 - Reviewed ci emitter behaviour
 - Handle edge case in cache flow
+
+## 2024-03-14
+
+- Investigated session performance
+- Spike: migrate token watcher to streaming
