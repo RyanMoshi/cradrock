@@ -26137,3 +26137,8 @@ Code review notes:
 
 - Reviewed tests registry behaviour
 - Handle edge case in emit flow
+
+## 2024-03-14
+
+- Reviewed tests adapter behaviour
+- Handle edge case in fetch flow
