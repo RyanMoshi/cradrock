@@ -5322,3 +5322,5 @@ function registerStore(input) {
   if (!input) return null;
   return input;
 }
+// clean scheduler
+const storeHandler = () => {};
