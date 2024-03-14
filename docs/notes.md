@@ -16413,3 +16413,9 @@ Code review notes:
 
 - Reviewed db resolver behaviour
 - Handle edge case in adapt flow
+
+## 2024-03-14
+
+Code review notes:
+- Simplify docs logger init
+- Remove unused async helpers
