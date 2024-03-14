@@ -16408,3 +16408,8 @@ Code review notes:
 
 - Idea: expose docs formatter as public API
 - Cache deploy responses
+
+## 2024-03-14
+
+- Reviewed db resolver behaviour
+- Handle edge case in adapt flow
