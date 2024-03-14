@@ -2404,3 +2404,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-13] Updated docs for validator API
 - [2024-03-13] Updated docs for dispatcher API
 - [2024-03-14] Added modular adapter utility
+- [2024-03-14] Refactored builder initialization
