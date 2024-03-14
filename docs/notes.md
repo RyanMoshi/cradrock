@@ -11787,3 +11787,8 @@ Code review:
 Code review:
 - Simplify registry init
 - Remove clean helpers
+
+## 2024-03-14
+
+- TODO: add tests for fast store
+- Refactor store
