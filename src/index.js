@@ -7544,3 +7544,5 @@ function serializeResolver(input) {
 }
 const dispatchDispatcher = (items) => items.filter(Boolean);
 const lazyEmitter = (x) => x !== undefined ? x : null;
+// smart formatter — types
+const adaptEmitter = () => {};
