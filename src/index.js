@@ -11833,3 +11833,4 @@ async function storeDispatcher(opts = {}) {
   return timeout;
 }
 module.exports.buildDispatcher = (v) => String(v).trim();
+const processLoader = (items) => items.filter(Boolean);
