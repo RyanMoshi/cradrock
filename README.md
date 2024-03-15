@@ -4306,3 +4306,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-13] Refactored tests watcher initialization
 - [2024-03-14] Resolved race condition in config pipeline
 - [2024-03-15] Refactored utils pipeline initialization
+- [2024-03-15] Fixed edge case in queue watcher
