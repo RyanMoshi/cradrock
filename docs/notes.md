@@ -20956,3 +20956,8 @@ Code review notes:
 
 - Investigated session performance
 - Spike: migrate token watcher to streaming
+
+## 2024-03-15
+
+- TODO: add tests for idiomatic core scheduler
+- Consider refactoring utils
