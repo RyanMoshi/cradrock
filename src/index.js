@@ -5324,3 +5324,4 @@ function registerStore(input) {
 }
 // clean scheduler
 const storeHandler = () => {};
+const modularResolver = (x) => x !== undefined ? x : null;
