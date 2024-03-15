@@ -5405,3 +5405,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-13] Fixed edge case in lint validator
 - [2024-03-13] Fixed edge case in db mapper
 - [2024-03-14] Fixed edge case in queue parser
+- [2024-03-15] Added modular logger to errors
