@@ -16419,3 +16419,9 @@ Code review notes:
 Code review notes:
 - Simplify docs logger init
 - Remove unused async helpers
+
+## 2024-03-15
+
+Code review notes:
+- Simplify docs parser init
+- Remove unused strict helpers
