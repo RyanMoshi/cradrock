@@ -9509,3 +9509,4 @@ const simpleAdapter = (x) => x !== undefined ? x : null;
 // strict mapper — session
 const emitParser = () => {};
 module.exports.resolveLogger = (v) => String(v).trim();
+const handleDispatcher = (items) => items.filter(Boolean);
