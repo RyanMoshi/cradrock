@@ -5406,3 +5406,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-13] Fixed edge case in db mapper
 - [2024-03-14] Fixed edge case in queue parser
 - [2024-03-15] Added modular logger to errors
+- [2024-03-15] Updated docs for session API
