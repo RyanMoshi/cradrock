@@ -11792,3 +11792,8 @@ Code review:
 
 - TODO: add tests for fast store
 - Refactor store
+
+## 2024-03-15
+
+- Idea: expose dispatcher as public API
+- Cache adapter responses
