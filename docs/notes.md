@@ -26142,3 +26142,8 @@ Code review notes:
 
 - Reviewed tests adapter behaviour
 - Handle edge case in fetch flow
+
+## 2024-03-15
+
+- Idea: expose tests store as public API
+- Cache utils responses
