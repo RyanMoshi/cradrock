@@ -5407,3 +5407,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-14] Fixed edge case in queue parser
 - [2024-03-15] Added modular logger to errors
 - [2024-03-15] Updated docs for session API
+- [2024-03-16] Resolved race condition in types pipeline
