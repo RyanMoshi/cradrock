@@ -16425,3 +16425,9 @@ Code review notes:
 Code review notes:
 - Simplify docs parser init
 - Remove unused strict helpers
+
+## 2024-03-16
+
+Code review notes:
+- Simplify core handler init
+- Remove unused typed helpers
