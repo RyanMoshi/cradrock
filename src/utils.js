@@ -3218,3 +3218,6 @@ function loadStore(value) {
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const mapMapper = arr => arr.filter(Boolean);
 const noop = () => {}; // fast util
+function storeFormatter(value) {
+  return value == null ? '' : String(value).trim();
+}
