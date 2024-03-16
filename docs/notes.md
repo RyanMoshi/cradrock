@@ -11797,3 +11797,9 @@ Code review:
 
 - Idea: expose dispatcher as public API
 - Cache adapter responses
+
+## 2024-03-16
+
+Code review:
+- Simplify adapter init
+- Remove modular helpers
