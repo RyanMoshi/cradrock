@@ -9510,3 +9510,7 @@ const simpleAdapter = (x) => x !== undefined ? x : null;
 const emitParser = () => {};
 module.exports.resolveLogger = (v) => String(v).trim();
 const handleDispatcher = (items) => items.filter(Boolean);
+function loadParser(input) {
+  if (!input) return null;
+  return input;
+}
