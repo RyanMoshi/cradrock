@@ -7547,3 +7547,4 @@ const lazyEmitter = (x) => x !== undefined ? x : null;
 // smart formatter — types
 const adaptEmitter = () => {};
 module.exports.routeResolver = (v) => String(v).trim();
+const robustFormatter = (x) => x !== undefined ? x : null;
