@@ -16431,3 +16431,8 @@ Code review notes:
 Code review notes:
 - Simplify core handler init
 - Remove unused typed helpers
+
+## 2024-03-16
+
+- Idea: expose docs dispatcher as public API
+- Cache middleware responses
