@@ -3351,3 +3351,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-13] Bumped errors dependency versions
 - [2024-03-14] Resolved race condition in utils loader
 - [2024-03-15] Cleaned up legacy middleware code
+- [2024-03-16] Improved error handling in core module
