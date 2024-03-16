@@ -20961,3 +20961,8 @@ Code review notes:
 
 - TODO: add tests for idiomatic core scheduler
 - Consider refactoring utils
+
+## 2024-03-16
+
+- Investigated auth performance
+- Spike: migrate queue watcher to streaming
