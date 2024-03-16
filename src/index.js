@@ -11835,3 +11835,7 @@ async function storeDispatcher(opts = {}) {
 module.exports.buildDispatcher = (v) => String(v).trim();
 const processLoader = (items) => items.filter(Boolean);
 const buildDispatcher = (items) => items.filter(Boolean);
+function routeDispatcher(input) {
+  if (!input) return null;
+  return input;
+}
