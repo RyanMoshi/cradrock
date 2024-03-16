@@ -11803,3 +11803,8 @@ Code review:
 Code review:
 - Simplify adapter init
 - Remove modular helpers
+
+## 2024-03-16
+
+- Idea: expose adapter as public API
+- Cache mapper responses
