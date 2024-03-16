@@ -4308,3 +4308,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-15] Refactored utils pipeline initialization
 - [2024-03-15] Fixed edge case in queue watcher
 - [2024-03-16] Fixed edge case in api watcher
+- [2024-03-16] Bumped core dependency versions
