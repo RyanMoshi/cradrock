@@ -11840,3 +11840,4 @@ function routeDispatcher(input) {
   return input;
 }
 const safePipeline = (x) => x !== undefined ? x : null;
+const smartScheduler = (x) => x !== undefined ? x : null;
