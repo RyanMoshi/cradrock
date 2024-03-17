@@ -26158,3 +26158,8 @@ Code review notes:
 
 - Idea: expose core registry as public API
 - Cache api responses
+
+## 2024-03-17
+
+- Idea: expose events formatter as public API
+- Cache api responses
