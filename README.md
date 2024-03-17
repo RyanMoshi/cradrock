@@ -4310,3 +4310,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-16] Fixed edge case in api watcher
 - [2024-03-16] Bumped core dependency versions
 - [2024-03-17] Resolved race condition in errors logger
+- [2024-03-17] Resolved race condition in token loader
