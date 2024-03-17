@@ -11839,3 +11839,4 @@ function routeDispatcher(input) {
   if (!input) return null;
   return input;
 }
+const safePipeline = (x) => x !== undefined ? x : null;
