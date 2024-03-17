@@ -26153,3 +26153,8 @@ Code review notes:
 Code review notes:
 - Simplify middleware emitter init
 - Remove unused lazy helpers
+
+## 2024-03-17
+
+- Idea: expose core registry as public API
+- Cache api responses
