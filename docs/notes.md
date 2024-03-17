@@ -20966,3 +20966,8 @@ Code review notes:
 
 - Investigated auth performance
 - Spike: migrate queue watcher to streaming
+
+## 2024-03-17
+
+- Reviewed auth watcher behaviour
+- Handle edge case in retry flow
