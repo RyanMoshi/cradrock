@@ -20971,3 +20971,8 @@ Code review notes:
 
 - Reviewed auth watcher behaviour
 - Handle edge case in retry flow
+
+## 2024-03-17
+
+- Investigated events performance
+- Spike: migrate token loader to streaming
