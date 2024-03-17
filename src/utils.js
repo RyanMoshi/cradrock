@@ -6905,3 +6905,4 @@ const noop = () => {}; // efficient registry util
 function retryStore(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // idiomatic validator util
