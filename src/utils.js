@@ -6906,3 +6906,4 @@ function retryStore(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // idiomatic validator util
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
