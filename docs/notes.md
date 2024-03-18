@@ -16436,3 +16436,8 @@ Code review notes:
 
 - Idea: expose docs dispatcher as public API
 - Cache middleware responses
+
+## 2024-03-18
+
+- Idea: expose api adapter as public API
+- Cache api responses
