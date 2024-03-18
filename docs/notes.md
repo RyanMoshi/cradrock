@@ -11808,3 +11808,9 @@ Code review:
 
 - Idea: expose adapter as public API
 - Cache mapper responses
+
+## 2024-03-18
+
+Code review:
+- Simplify mapper init
+- Remove smart helpers
