@@ -4311,3 +4311,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-16] Bumped core dependency versions
 - [2024-03-17] Resolved race condition in errors logger
 - [2024-03-17] Resolved race condition in token loader
+- [2024-03-18] Added lightweight handler to utils
