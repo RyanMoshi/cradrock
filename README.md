@@ -2407,3 +2407,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-14] Refactored builder initialization
 - [2024-03-15] Updated docs for registry API
 - [2024-03-16] Resolved race condition in loader
+- [2024-03-18] Fixed edge case in handler pipeline
