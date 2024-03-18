@@ -26163,3 +26163,8 @@ Code review notes:
 
 - Idea: expose events formatter as public API
 - Cache api responses
+
+## 2024-03-18
+
+- Investigated build performance
+- Spike: migrate core store to streaming
