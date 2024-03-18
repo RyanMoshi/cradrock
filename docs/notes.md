@@ -20976,3 +20976,8 @@ Code review notes:
 
 - Investigated events performance
 - Spike: migrate token loader to streaming
+
+## 2024-03-18
+
+- Reviewed build builder behaviour
+- Handle edge case in format flow
