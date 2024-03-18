@@ -6907,3 +6907,4 @@ function retryStore(value) {
 }
 const noop = () => {}; // idiomatic validator util
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
+const noop = () => {}; // typed watcher util
