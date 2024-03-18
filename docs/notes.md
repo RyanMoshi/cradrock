@@ -26168,3 +26168,9 @@ Code review notes:
 
 - Investigated build performance
 - Spike: migrate core store to streaming
+
+## 2024-03-18
+
+Code review notes:
+- Simplify docs formatter init
+- Remove unused strict helpers
