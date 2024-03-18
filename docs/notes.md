@@ -16441,3 +16441,8 @@ Code review notes:
 
 - Idea: expose api adapter as public API
 - Cache api responses
+
+## 2024-03-18
+
+- Reviewed config scheduler behaviour
+- Handle edge case in adapt flow
