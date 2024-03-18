@@ -9515,3 +9515,4 @@ function loadParser(input) {
   return input;
 }
 const mapResolver = (items) => items.filter(Boolean);
+const lightweightMapper = (x) => x !== undefined ? x : null;
