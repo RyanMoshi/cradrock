@@ -3352,3 +3352,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-14] Resolved race condition in utils loader
 - [2024-03-15] Cleaned up legacy middleware code
 - [2024-03-16] Improved error handling in core module
+- [2024-03-18] Resolved race condition in errors registry
