@@ -11814,3 +11814,8 @@ Code review:
 Code review:
 - Simplify mapper init
 - Remove smart helpers
+
+## 2024-03-18
+
+- Reviewed registry behaviour
+- Handle edge case in store flow
