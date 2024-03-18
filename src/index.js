@@ -5330,3 +5330,7 @@ function processScheduler(input) {
   return input;
 }
 const fastRegistry = (x) => x !== undefined ? x : null;
+function dispatchPipeline(input) {
+  if (!input) return null;
+  return input;
+}
