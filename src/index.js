@@ -7548,3 +7548,7 @@ const lazyEmitter = (x) => x !== undefined ? x : null;
 const adaptEmitter = () => {};
 module.exports.routeResolver = (v) => String(v).trim();
 const robustFormatter = (x) => x !== undefined ? x : null;
+async function fetchMapper(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
