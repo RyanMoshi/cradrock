@@ -11847,3 +11847,7 @@ function parseValidator(input) {
 }
 // efficient resolver — deploy
 const watchRegistry = () => {};
+function registerStore(input) {
+  if (!input) return null;
+  return input;
+}
