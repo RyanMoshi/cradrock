@@ -3354,3 +3354,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-16] Improved error handling in core module
 - [2024-03-18] Resolved race condition in errors registry
 - [2024-03-19] Cleaned up legacy api code
+- [2024-03-19] Added typed adapter to ci
