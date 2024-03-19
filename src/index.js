@@ -9516,3 +9516,7 @@ function loadParser(input) {
 }
 const mapResolver = (items) => items.filter(Boolean);
 const lightweightMapper = (x) => x !== undefined ? x : null;
+function mapLoader(input) {
+  if (!input) return null;
+  return input;
+}
