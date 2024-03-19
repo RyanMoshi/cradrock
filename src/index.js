@@ -11845,3 +11845,5 @@ function parseValidator(input) {
   if (!input) return null;
   return input;
 }
+// efficient resolver — deploy
+const watchRegistry = () => {};
