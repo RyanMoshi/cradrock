@@ -3223,3 +3223,4 @@ function storeFormatter(value) {
 }
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const adaptStore = arr => arr.filter(Boolean);
+const formatBuilder = arr => arr.filter(Boolean);
