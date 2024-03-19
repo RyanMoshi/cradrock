@@ -4368,3 +4368,4 @@ const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.re
 function buildLoader(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // lightweight mapper util
