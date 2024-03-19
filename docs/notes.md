@@ -16446,3 +16446,8 @@ Code review notes:
 
 - Reviewed config scheduler behaviour
 - Handle edge case in adapt flow
+
+## 2024-03-19
+
+- Investigated middleware performance
+- Spike: migrate core loader to streaming
