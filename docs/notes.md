@@ -20981,3 +20981,8 @@ Code review notes:
 
 - Reviewed build builder behaviour
 - Handle edge case in format flow
+
+## 2024-03-19
+
+- Idea: expose build dispatcher as public API
+- Cache tests responses
