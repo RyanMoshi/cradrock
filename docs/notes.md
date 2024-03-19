@@ -11819,3 +11819,8 @@ Code review:
 
 - Reviewed registry behaviour
 - Handle edge case in store flow
+
+## 2024-03-19
+
+- Reviewed resolver behaviour
+- Handle edge case in format flow
