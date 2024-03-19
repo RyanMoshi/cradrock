@@ -26174,3 +26174,8 @@ Code review notes:
 Code review notes:
 - Simplify docs formatter init
 - Remove unused strict helpers
+
+## 2024-03-19
+
+- Reviewed session logger behaviour
+- Handle edge case in serialize flow
