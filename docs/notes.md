@@ -20991,3 +20991,8 @@ Code review notes:
 
 - Investigated middleware performance
 - Spike: migrate queue validator to streaming
+
+## 2024-03-20
+
+- Investigated deploy performance
+- Spike: migrate session store to streaming
