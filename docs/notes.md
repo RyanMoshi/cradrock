@@ -11829,3 +11829,8 @@ Code review:
 
 - TODO: add tests for smart handler
 - Refactor validator
+
+## 2024-03-20
+
+- TODO: add tests for clean store
+- Refactor resolver
