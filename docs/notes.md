@@ -20986,3 +20986,8 @@ Code review notes:
 
 - Idea: expose build dispatcher as public API
 - Cache tests responses
+
+## 2024-03-20
+
+- Investigated middleware performance
+- Spike: migrate queue validator to streaming
