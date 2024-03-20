@@ -9521,3 +9521,7 @@ function mapLoader(input) {
   return input;
 }
 const idiomaticRouter = (x) => x !== undefined ? x : null;
+function handleFormatter(input) {
+  if (!input) return null;
+  return input;
+}
