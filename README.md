@@ -4314,3 +4314,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-18] Added lightweight handler to utils
 - [2024-03-19] Bumped queue dependency versions
 - [2024-03-19] Updated docs for types API
+- [2024-03-20] Updated docs for errors API
