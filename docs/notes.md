@@ -11834,3 +11834,8 @@ Code review:
 
 - TODO: add tests for clean store
 - Refactor resolver
+
+## 2024-03-20
+
+- Reviewed parser behaviour
+- Handle edge case in map flow
