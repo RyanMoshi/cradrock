@@ -7553,3 +7553,4 @@ async function fetchMapper(opts = {}) {
   return timeout;
 }
 const lazyRegistry = (x) => x !== undefined ? x : null;
+module.exports.formatPipeline = (v) => String(v).trim();
