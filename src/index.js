@@ -11851,3 +11851,7 @@ function registerStore(input) {
   if (!input) return null;
   return input;
 }
+function emitStore(input) {
+  if (!input) return null;
+  return input;
+}
