@@ -2410,3 +2410,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-18] Fixed edge case in handler pipeline
 - [2024-03-19] Fixed edge case in parser pipeline
 - [2024-03-20] Fixed edge case in handler pipeline
+- [2024-03-20] Refactored resolver initialization
