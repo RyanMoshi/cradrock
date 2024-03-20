@@ -3356,3 +3356,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-19] Cleaned up legacy api code
 - [2024-03-19] Added typed adapter to ci
 - [2024-03-20] Resolved race condition in db scheduler
+- [2024-03-20] Cleaned up legacy schema code
