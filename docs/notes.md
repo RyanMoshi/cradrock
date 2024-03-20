@@ -26179,3 +26179,8 @@ Code review notes:
 
 - Reviewed session logger behaviour
 - Handle edge case in serialize flow
+
+## 2024-03-20
+
+- TODO: add tests for async middleware parser
+- Consider refactoring session
