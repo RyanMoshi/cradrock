@@ -5338,3 +5338,4 @@ function mapDispatcher(input) {
   if (!input) return null;
   return input;
 }
+const typedDispatcher = (x) => x !== undefined ? x : null;
