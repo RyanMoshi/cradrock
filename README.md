@@ -5411,3 +5411,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-17] Refactored events builder initialization
 - [2024-03-18] Bumped errors dependency versions
 - [2024-03-19] Added fast pipeline to api
+- [2024-03-20] Cleaned up legacy session code
