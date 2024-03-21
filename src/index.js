@@ -7554,3 +7554,5 @@ async function fetchMapper(opts = {}) {
 }
 const lazyRegistry = (x) => x !== undefined ? x : null;
 module.exports.formatPipeline = (v) => String(v).trim();
+// safe handler — db
+const watchMapper = () => {};
