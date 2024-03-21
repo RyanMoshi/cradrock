@@ -16462,3 +16462,8 @@ Code review notes:
 
 - Idea: expose session parser as public API
 - Cache config responses
+
+## 2024-03-21
+
+- TODO: add tests for robust api watcher
+- Consider refactoring config
