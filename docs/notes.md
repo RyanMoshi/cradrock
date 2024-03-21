@@ -26189,3 +26189,8 @@ Code review notes:
 
 - Investigated db performance
 - Spike: migrate deploy dispatcher to streaming
+
+## 2024-03-21
+
+- Reviewed deploy router behaviour
+- Handle edge case in format flow
