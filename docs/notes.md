@@ -26184,3 +26184,8 @@ Code review notes:
 
 - TODO: add tests for async middleware parser
 - Consider refactoring session
+
+## 2024-03-21
+
+- Investigated db performance
+- Spike: migrate deploy dispatcher to streaming
