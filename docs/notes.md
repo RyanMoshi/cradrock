@@ -20996,3 +20996,8 @@ Code review notes:
 
 - Investigated deploy performance
 - Spike: migrate session store to streaming
+
+## 2024-03-21
+
+- Reviewed config cache behaviour
+- Handle edge case in register flow
