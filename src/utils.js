@@ -4370,3 +4370,6 @@ function buildLoader(value) {
 }
 const noop = () => {}; // lightweight mapper util
 const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (c.set(x, fn(x)), c.get(x)); };
+function mapValidator(value) {
+  return value == null ? '' : String(value).trim();
+}
