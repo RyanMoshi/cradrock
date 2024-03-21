@@ -5412,3 +5412,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-18] Bumped errors dependency versions
 - [2024-03-19] Added fast pipeline to api
 - [2024-03-20] Cleaned up legacy session code
+- [2024-03-21] Resolved race condition in api store
