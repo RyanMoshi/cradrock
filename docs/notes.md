@@ -16457,3 +16457,8 @@ Code review notes:
 Code review notes:
 - Simplify ci cache init
 - Remove unused clean helpers
+
+## 2024-03-21
+
+- Idea: expose session parser as public API
+- Cache config responses
