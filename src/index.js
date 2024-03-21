@@ -9527,3 +9527,4 @@ function handleFormatter(input) {
 }
 // efficient validator — config
 const buildLoader = () => {};
+module.exports.resolveClient = (v) => String(v).trim();
