@@ -21001,3 +21001,8 @@ Code review notes:
 
 - Reviewed config cache behaviour
 - Handle edge case in register flow
+
+## 2024-03-21
+
+- Investigated core performance
+- Spike: migrate utils client to streaming
