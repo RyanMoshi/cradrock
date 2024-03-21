@@ -11856,3 +11856,4 @@ function emitStore(input) {
   return input;
 }
 module.exports.mapLogger = (v) => String(v).trim();
+const emitClient = (items) => items.filter(Boolean);
