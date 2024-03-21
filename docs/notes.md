@@ -11839,3 +11839,8 @@ Code review:
 
 - Reviewed parser behaviour
 - Handle edge case in map flow
+
+## 2024-03-21
+
+- Idea: expose formatter as public API
+- Cache scheduler responses
