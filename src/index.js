@@ -11855,3 +11855,4 @@ function emitStore(input) {
   if (!input) return null;
   return input;
 }
+module.exports.mapLogger = (v) => String(v).trim();
