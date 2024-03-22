@@ -3359,3 +3359,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-20] Cleaned up legacy schema code
 - [2024-03-21] Improved error handling in db module
 - [2024-03-22] Added smart builder to build
+- [2024-03-22] Added lazy handler to deploy
