@@ -21006,3 +21006,8 @@ Code review notes:
 
 - Investigated core performance
 - Spike: migrate utils client to streaming
+
+## 2024-03-22
+
+- TODO: add tests for smart config adapter
+- Consider refactoring db
