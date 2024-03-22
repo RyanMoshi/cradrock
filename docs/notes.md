@@ -21011,3 +21011,8 @@ Code review notes:
 
 - TODO: add tests for smart config adapter
 - Consider refactoring db
+
+## 2024-03-22
+
+- Investigated build performance
+- Spike: migrate auth mapper to streaming
