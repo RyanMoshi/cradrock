@@ -2413,3 +2413,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-20] Refactored resolver initialization
 - [2024-03-21] Added async parser utility
 - [2024-03-22] Resolved race condition in loader
+- [2024-03-22] Fixed edge case in handler pipeline
