@@ -26199,3 +26199,8 @@ Code review notes:
 
 - Reviewed lint resolver behaviour
 - Handle edge case in serialize flow
+
+## 2024-03-22
+
+- TODO: add tests for lightweight queue registry
+- Consider refactoring lint
