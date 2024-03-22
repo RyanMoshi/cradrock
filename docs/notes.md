@@ -16467,3 +16467,8 @@ Code review notes:
 
 - TODO: add tests for robust api watcher
 - Consider refactoring config
+
+## 2024-03-22
+
+- Investigated queue performance
+- Spike: migrate queue handler to streaming
