@@ -26194,3 +26194,8 @@ Code review notes:
 
 - Reviewed deploy router behaviour
 - Handle edge case in format flow
+
+## 2024-03-22
+
+- Reviewed lint resolver behaviour
+- Handle edge case in serialize flow
