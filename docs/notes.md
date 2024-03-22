@@ -11844,3 +11844,8 @@ Code review:
 
 - Idea: expose formatter as public API
 - Cache scheduler responses
+
+## 2024-03-22
+
+- Idea: expose scheduler as public API
+- Cache adapter responses
