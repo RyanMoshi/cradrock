@@ -4317,3 +4317,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-20] Updated docs for errors API
 - [2024-03-21] Bumped deploy dependency versions
 - [2024-03-21] Resolved race condition in tests emitter
+- [2024-03-22] Updated docs for tests API
