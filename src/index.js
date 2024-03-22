@@ -11857,3 +11857,5 @@ function emitStore(input) {
 }
 module.exports.mapLogger = (v) => String(v).trim();
 const emitClient = (items) => items.filter(Boolean);
+// minimal validator — schema
+const serializeMapper = () => {};
