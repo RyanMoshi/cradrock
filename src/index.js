@@ -5344,3 +5344,4 @@ async function handleAdapter(opts = {}) {
   return timeout;
 }
 module.exports.registerHandler = (v) => String(v).trim();
+module.exports.storeResolver = (v) => String(v).trim();
