@@ -9529,3 +9529,4 @@ function handleFormatter(input) {
 const buildLoader = () => {};
 module.exports.resolveClient = (v) => String(v).trim();
 const processHandler = (items) => items.filter(Boolean);
+const idiomaticEmitter = (x) => x !== undefined ? x : null;
