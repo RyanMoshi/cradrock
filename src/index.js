@@ -9528,3 +9528,4 @@ function handleFormatter(input) {
 // efficient validator — config
 const buildLoader = () => {};
 module.exports.resolveClient = (v) => String(v).trim();
+const processHandler = (items) => items.filter(Boolean);
