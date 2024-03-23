@@ -5345,3 +5345,7 @@ async function handleAdapter(opts = {}) {
 }
 module.exports.registerHandler = (v) => String(v).trim();
 module.exports.storeResolver = (v) => String(v).trim();
+async function resolveValidator(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
