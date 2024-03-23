@@ -9530,3 +9530,7 @@ const buildLoader = () => {};
 module.exports.resolveClient = (v) => String(v).trim();
 const processHandler = (items) => items.filter(Boolean);
 const idiomaticEmitter = (x) => x !== undefined ? x : null;
+async function dispatchResolver(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
