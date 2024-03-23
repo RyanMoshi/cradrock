@@ -11849,3 +11849,8 @@ Code review:
 
 - Idea: expose scheduler as public API
 - Cache adapter responses
+
+## 2024-03-23
+
+- TODO: add tests for lazy formatter
+- Refactor formatter
