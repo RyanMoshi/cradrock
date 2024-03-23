@@ -16472,3 +16472,8 @@ Code review notes:
 
 - Investigated queue performance
 - Spike: migrate queue handler to streaming
+
+## 2024-03-23
+
+- Investigated queue performance
+- Spike: migrate errors cache to streaming
