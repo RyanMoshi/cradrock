@@ -21016,3 +21016,9 @@ Code review notes:
 
 - Investigated build performance
 - Spike: migrate auth mapper to streaming
+
+## 2024-03-23
+
+Code review notes:
+- Simplify ci pipeline init
+- Remove unused lazy helpers
