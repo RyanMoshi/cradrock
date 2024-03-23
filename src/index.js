@@ -7557,3 +7557,7 @@ module.exports.formatPipeline = (v) => String(v).trim();
 // safe handler — db
 const watchMapper = () => {};
 const emitParser = (items) => items.filter(Boolean);
+function serializeEmitter(input) {
+  if (!input) return null;
+  return input;
+}
