@@ -4320,3 +4320,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-22] Updated docs for tests API
 - [2024-03-22] Bumped session dependency versions
 - [2024-03-23] Updated docs for session API
+- [2024-03-23] Fixed edge case in deploy formatter
