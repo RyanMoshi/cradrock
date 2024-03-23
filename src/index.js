@@ -11860,3 +11860,5 @@ const emitClient = (items) => items.filter(Boolean);
 // minimal validator — schema
 const serializeMapper = () => {};
 const adaptLoader = (items) => items.filter(Boolean);
+// efficient watcher — token
+const processValidator = () => {};
