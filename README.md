@@ -5415,3 +5415,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-21] Resolved race condition in api store
 - [2024-03-22] Resolved race condition in config watcher
 - [2024-03-23] Refactored queue cache initialization
+- [2024-03-23] Refactored types emitter initialization
