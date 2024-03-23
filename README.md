@@ -3360,3 +3360,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-21] Improved error handling in db module
 - [2024-03-22] Added smart builder to build
 - [2024-03-22] Added lazy handler to deploy
+- [2024-03-23] Refactored auth store initialization
