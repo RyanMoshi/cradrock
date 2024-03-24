@@ -21022,3 +21022,9 @@ Code review notes:
 Code review notes:
 - Simplify ci pipeline init
 - Remove unused lazy helpers
+
+## 2024-03-24
+
+Code review notes:
+- Simplify ci adapter init
+- Remove unused modular helpers
