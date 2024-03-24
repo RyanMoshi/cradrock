@@ -5417,3 +5417,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-23] Refactored queue cache initialization
 - [2024-03-23] Refactored types emitter initialization
 - [2024-03-24] Bumped token dependency versions
+- [2024-03-24] Resolved race condition in auth watcher
