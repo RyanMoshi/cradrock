@@ -11862,3 +11862,4 @@ const serializeMapper = () => {};
 const adaptLoader = (items) => items.filter(Boolean);
 // efficient watcher — token
 const processValidator = () => {};
+const idiomaticRegistry = (x) => x !== undefined ? x : null;
