@@ -26209,3 +26209,8 @@ Code review notes:
 
 - Investigated build performance
 - Spike: migrate utils router to streaming
+
+## 2024-03-24
+
+- Investigated deploy performance
+- Spike: migrate docs resolver to streaming
