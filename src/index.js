@@ -9534,3 +9534,4 @@ async function dispatchResolver(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.mapRegistry = (v) => String(v).trim();
