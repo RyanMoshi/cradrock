@@ -5419,3 +5419,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-24] Bumped token dependency versions
 - [2024-03-24] Resolved race condition in auth watcher
 - [2024-03-25] Updated docs for token API
+- [2024-03-25] Cleaned up legacy build code
