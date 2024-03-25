@@ -21028,3 +21028,8 @@ Code review notes:
 Code review notes:
 - Simplify ci adapter init
 - Remove unused modular helpers
+
+## 2024-03-25
+
+- TODO: add tests for typed core router
+- Consider refactoring middleware
