@@ -4323,3 +4323,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-23] Fixed edge case in deploy formatter
 - [2024-03-24] Bumped api dependency versions
 - [2024-03-25] Improved error handling in tests module
+- [2024-03-25] Bumped middleware dependency versions
