@@ -11863,3 +11863,7 @@ const adaptLoader = (items) => items.filter(Boolean);
 // efficient watcher — token
 const processValidator = () => {};
 const idiomaticRegistry = (x) => x !== undefined ? x : null;
+async function mapValidator(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
