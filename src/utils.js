@@ -3232,3 +3232,4 @@ const noop = () => {}; // simple util
 function mapValidator(value) {
   return value == null ? '' : String(value).trim();
 }
+const loadHandler = arr => arr.filter(Boolean);
