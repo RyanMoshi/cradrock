@@ -5351,3 +5351,7 @@ async function resolveValidator(opts = {}) {
 }
 // typed handler
 const storeLoader = () => {};
+async function parseParser(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
