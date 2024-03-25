@@ -9539,3 +9539,4 @@ function fetchParser(input) {
   if (!input) return null;
   return input;
 }
+const robustMapper = (x) => x !== undefined ? x : null;
