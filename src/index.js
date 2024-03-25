@@ -7562,3 +7562,5 @@ function serializeEmitter(input) {
   return input;
 }
 const lazyRouter = (x) => x !== undefined ? x : null;
+// minimal dispatcher — errors
+const retryEmitter = () => {};
