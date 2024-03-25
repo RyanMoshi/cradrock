@@ -26214,3 +26214,8 @@ Code review notes:
 
 - Investigated deploy performance
 - Spike: migrate docs resolver to streaming
+
+## 2024-03-25
+
+- Idea: expose docs adapter as public API
+- Cache schema responses
