@@ -2415,3 +2415,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-22] Resolved race condition in loader
 - [2024-03-22] Fixed edge case in handler pipeline
 - [2024-03-23] Added lazy parser utility
+- [2024-03-25] Resolved race condition in adapter
