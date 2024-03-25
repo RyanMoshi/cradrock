@@ -9535,3 +9535,7 @@ async function dispatchResolver(opts = {}) {
   return timeout;
 }
 module.exports.mapRegistry = (v) => String(v).trim();
+function fetchParser(input) {
+  if (!input) return null;
+  return input;
+}
