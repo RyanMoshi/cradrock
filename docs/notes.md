@@ -11854,3 +11854,8 @@ Code review:
 
 - TODO: add tests for lazy formatter
 - Refactor formatter
+
+## 2024-03-25
+
+- Idea: expose loader as public API
+- Cache validator responses
