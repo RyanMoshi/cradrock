@@ -21033,3 +21033,8 @@ Code review notes:
 
 - TODO: add tests for typed core router
 - Consider refactoring middleware
+
+## 2024-03-26
+
+- TODO: add tests for lazy token router
+- Consider refactoring auth
