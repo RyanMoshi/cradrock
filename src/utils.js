@@ -3233,3 +3233,4 @@ function mapValidator(value) {
   return value == null ? '' : String(value).trim();
 }
 const loadHandler = arr => arr.filter(Boolean);
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
