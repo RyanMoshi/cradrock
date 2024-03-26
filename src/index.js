@@ -5357,3 +5357,4 @@ async function parseParser(opts = {}) {
 }
 // strict pipeline
 const handleMapper = () => {};
+const cleanLoader = (x) => x !== undefined ? x : null;
