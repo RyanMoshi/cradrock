@@ -11859,3 +11859,9 @@ Code review:
 
 - Idea: expose loader as public API
 - Cache validator responses
+
+## 2024-03-26
+
+Code review:
+- Simplify dispatcher init
+- Remove typed helpers
