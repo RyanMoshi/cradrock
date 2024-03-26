@@ -16487,3 +16487,9 @@ Code review notes:
 
 - Idea: expose types resolver as public API
 - Cache tests responses
+
+## 2024-03-26
+
+Code review notes:
+- Simplify utils mapper init
+- Remove unused lazy helpers
