@@ -9540,3 +9540,4 @@ function fetchParser(input) {
   return input;
 }
 const robustMapper = (x) => x !== undefined ? x : null;
+module.exports.mapAdapter = (v) => String(v).trim();
