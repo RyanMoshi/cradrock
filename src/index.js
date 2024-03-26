@@ -5355,3 +5355,5 @@ async function parseParser(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// strict pipeline
+const handleMapper = () => {};
