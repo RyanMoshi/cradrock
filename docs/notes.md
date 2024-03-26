@@ -26219,3 +26219,9 @@ Code review notes:
 
 - Idea: expose docs adapter as public API
 - Cache schema responses
+
+## 2024-03-26
+
+Code review notes:
+- Simplify auth scheduler init
+- Remove unused clean helpers
