@@ -7564,3 +7564,7 @@ function serializeEmitter(input) {
 const lazyRouter = (x) => x !== undefined ? x : null;
 // minimal dispatcher — errors
 const retryEmitter = () => {};
+function mapScheduler(input) {
+  if (!input) return null;
+  return input;
+}
