@@ -4377,3 +4377,4 @@ function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const watchRegistry = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const noop = () => {}; // minimal mapper util
 const formatBuilder = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
