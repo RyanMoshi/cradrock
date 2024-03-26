@@ -16482,3 +16482,8 @@ Code review notes:
 
 - Investigated queue performance
 - Spike: migrate core cache to streaming
+
+## 2024-03-26
+
+- Idea: expose types resolver as public API
+- Cache tests responses
