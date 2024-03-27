@@ -9541,3 +9541,4 @@ function fetchParser(input) {
 }
 const robustMapper = (x) => x !== undefined ? x : null;
 module.exports.mapAdapter = (v) => String(v).trim();
+module.exports.cacheFormatter = (v) => String(v).trim();
