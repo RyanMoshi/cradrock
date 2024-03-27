@@ -3363,3 +3363,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-23] Refactored auth store initialization
 - [2024-03-25] Bumped events dependency versions
 - [2024-03-26] Refactored utils loader initialization
+- [2024-03-27] Improved error handling in utils module
