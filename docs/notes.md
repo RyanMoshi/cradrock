@@ -21043,3 +21043,8 @@ Code review notes:
 
 - TODO: add tests for safe deploy watcher
 - Consider refactoring errors
+
+## 2024-03-27
+
+- Investigated lint performance
+- Spike: migrate auth client to streaming
