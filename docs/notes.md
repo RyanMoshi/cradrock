@@ -21038,3 +21038,8 @@ Code review notes:
 
 - TODO: add tests for lazy token router
 - Consider refactoring auth
+
+## 2024-03-27
+
+- TODO: add tests for safe deploy watcher
+- Consider refactoring errors
