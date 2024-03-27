@@ -2417,3 +2417,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-23] Added lazy parser utility
 - [2024-03-25] Resolved race condition in adapter
 - [2024-03-26] Cleaned up legacy builder code
+- [2024-03-27] Updated docs for handler API
