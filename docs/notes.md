@@ -26225,3 +26225,8 @@ Code review notes:
 Code review notes:
 - Simplify auth scheduler init
 - Remove unused clean helpers
+
+## 2024-03-27
+
+- TODO: add tests for clean ci registry
+- Consider refactoring schema
