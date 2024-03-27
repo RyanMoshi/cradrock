@@ -11869,3 +11869,4 @@ async function mapValidator(opts = {}) {
 }
 const processDispatcher = (items) => items.filter(Boolean);
 const lazyPipeline = (x) => x !== undefined ? x : null;
+module.exports.formatStore = (v) => String(v).trim();
