@@ -16493,3 +16493,8 @@ Code review notes:
 Code review notes:
 - Simplify utils mapper init
 - Remove unused lazy helpers
+
+## 2024-03-27
+
+- Idea: expose events emitter as public API
+- Cache events responses
