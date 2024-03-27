@@ -4326,3 +4326,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-25] Bumped middleware dependency versions
 - [2024-03-26] Bumped db dependency versions
 - [2024-03-27] Fixed edge case in lint mapper
+- [2024-03-27] Resolved race condition in middleware emitter
