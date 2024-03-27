@@ -5358,3 +5358,7 @@ async function parseParser(opts = {}) {
 // strict pipeline
 const handleMapper = () => {};
 const cleanLoader = (x) => x !== undefined ? x : null;
+function parseBuilder(input) {
+  if (!input) return null;
+  return input;
+}
