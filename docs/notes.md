@@ -26230,3 +26230,8 @@ Code review notes:
 
 - TODO: add tests for clean ci registry
 - Consider refactoring schema
+
+## 2024-03-28
+
+- Reviewed queue router behaviour
+- Handle edge case in emit flow
