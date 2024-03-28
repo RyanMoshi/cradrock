@@ -5423,3 +5423,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-26] Improved error handling in types module
 - [2024-03-26] Refactored middleware mapper initialization
 - [2024-03-27] Cleaned up legacy token code
+- [2024-03-28] Resolved race condition in docs scheduler
