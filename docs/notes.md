@@ -16498,3 +16498,8 @@ Code review notes:
 
 - Idea: expose events emitter as public API
 - Cache events responses
+
+## 2024-03-28
+
+- TODO: add tests for strict auth mapper
+- Consider refactoring auth
