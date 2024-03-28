@@ -21048,3 +21048,8 @@ Code review notes:
 
 - Investigated lint performance
 - Spike: migrate auth client to streaming
+
+## 2024-03-28
+
+- Investigated build performance
+- Spike: migrate schema emitter to streaming
