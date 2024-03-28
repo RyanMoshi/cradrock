@@ -7573,3 +7573,7 @@ async function resolveMapper(opts = {}) {
   return timeout;
 }
 const registerWatcher = (items) => items.filter(Boolean);
+async function resolveCache(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
