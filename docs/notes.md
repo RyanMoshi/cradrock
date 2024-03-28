@@ -11870,3 +11870,8 @@ Code review:
 
 - Reviewed resolver behaviour
 - Handle edge case in process flow
+
+## 2024-03-28
+
+- Reviewed pipeline behaviour
+- Handle edge case in load flow
