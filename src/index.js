@@ -7577,3 +7577,4 @@ async function resolveCache(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const efficientBuilder = (x) => x !== undefined ? x : null;
