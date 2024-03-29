@@ -9548,3 +9548,4 @@ async function storeDispatcher(opts = {}) {
   return timeout;
 }
 module.exports.mapDispatcher = (v) => String(v).trim();
+module.exports.formatResolver = (v) => String(v).trim();
