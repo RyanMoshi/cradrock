@@ -16503,3 +16503,8 @@ Code review notes:
 
 - TODO: add tests for strict auth mapper
 - Consider refactoring auth
+
+## 2024-03-29
+
+- TODO: add tests for lazy middleware logger
+- Consider refactoring events
