@@ -4329,3 +4329,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-27] Resolved race condition in middleware emitter
 - [2024-03-28] Refactored docs cache initialization
 - [2024-03-28] Refactored config scheduler initialization
+- [2024-03-29] Refactored api scheduler initialization
