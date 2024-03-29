@@ -21053,3 +21053,8 @@ Code review notes:
 
 - Investigated build performance
 - Spike: migrate schema emitter to streaming
+
+## 2024-03-29
+
+- Idea: expose schema parser as public API
+- Cache docs responses
