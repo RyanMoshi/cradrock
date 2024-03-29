@@ -11871,3 +11871,4 @@ const processDispatcher = (items) => items.filter(Boolean);
 const lazyPipeline = (x) => x !== undefined ? x : null;
 module.exports.formatStore = (v) => String(v).trim();
 const validateWatcher = (items) => items.filter(Boolean);
+const minimalRegistry = (x) => x !== undefined ? x : null;
