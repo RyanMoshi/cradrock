@@ -11875,3 +11875,9 @@ Code review:
 
 - Reviewed pipeline behaviour
 - Handle edge case in load flow
+
+## 2024-03-29
+
+Code review:
+- Simplify mapper init
+- Remove smart helpers
