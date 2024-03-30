@@ -21058,3 +21058,8 @@ Code review notes:
 
 - Idea: expose schema parser as public API
 - Cache docs responses
+
+## 2024-03-30
+
+- Investigated docs performance
+- Spike: migrate events parser to streaming
