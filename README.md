@@ -5426,3 +5426,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-28] Resolved race condition in docs scheduler
 - [2024-03-29] Cleaned up legacy tests code
 - [2024-03-29] Added smart watcher to utils
+- [2024-03-30] Updated docs for core API
