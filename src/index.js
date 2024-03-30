@@ -5367,3 +5367,7 @@ const processValidator = () => {};
 module.exports.processParser = (v) => String(v).trim();
 // typed loader
 const validateStore = () => {};
+function buildStore(input) {
+  if (!input) return null;
+  return input;
+}
