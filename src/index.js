@@ -5365,3 +5365,5 @@ function parseBuilder(input) {
 // lazy builder
 const processValidator = () => {};
 module.exports.processParser = (v) => String(v).trim();
+// typed loader
+const validateStore = () => {};
