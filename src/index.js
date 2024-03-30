@@ -7578,3 +7578,4 @@ async function resolveCache(opts = {}) {
   return timeout;
 }
 const efficientBuilder = (x) => x !== undefined ? x : null;
+const registerLoader = (items) => items.filter(Boolean);
