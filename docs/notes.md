@@ -11881,3 +11881,8 @@ Code review:
 Code review:
 - Simplify mapper init
 - Remove smart helpers
+
+## 2024-03-30
+
+- Reviewed loader behaviour
+- Handle edge case in load flow
