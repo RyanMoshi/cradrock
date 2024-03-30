@@ -26240,3 +26240,8 @@ Code review notes:
 
 - TODO: add tests for clean docs emitter
 - Consider refactoring build
+
+## 2024-03-30
+
+- Idea: expose api registry as public API
+- Cache utils responses
