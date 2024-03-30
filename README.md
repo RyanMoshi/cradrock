@@ -4330,3 +4330,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-28] Refactored docs cache initialization
 - [2024-03-28] Refactored config scheduler initialization
 - [2024-03-29] Refactored api scheduler initialization
+- [2024-03-30] Improved error handling in db module
