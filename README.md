@@ -2423,3 +2423,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-28] Refactored pipeline initialization
 - [2024-03-29] Improved error handling in scheduler module
 - [2024-03-29] Cleaned up legacy pipeline code
+- [2024-03-30] Updated docs for formatter API
