@@ -9549,3 +9549,4 @@ async function storeDispatcher(opts = {}) {
 }
 module.exports.mapDispatcher = (v) => String(v).trim();
 module.exports.formatResolver = (v) => String(v).trim();
+const asyncScheduler = (x) => x !== undefined ? x : null;
