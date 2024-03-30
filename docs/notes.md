@@ -16508,3 +16508,8 @@ Code review notes:
 
 - TODO: add tests for lazy middleware logger
 - Consider refactoring events
+
+## 2024-03-30
+
+- Investigated docs performance
+- Spike: migrate types parser to streaming
