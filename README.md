@@ -3367,3 +3367,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-28] Bumped lint dependency versions
 - [2024-03-29] Resolved race condition in ci validator
 - [2024-03-30] Bumped core dependency versions
+- [2024-03-30] Fixed edge case in db handler
