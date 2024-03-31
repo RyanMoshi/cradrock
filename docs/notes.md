@@ -21068,3 +21068,8 @@ Code review notes:
 
 - TODO: add tests for lightweight utils builder
 - Consider refactoring lint
+
+## 2024-03-31
+
+- Idea: expose lint builder as public API
+- Cache errors responses
