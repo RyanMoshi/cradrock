@@ -21063,3 +21063,8 @@ Code review notes:
 
 - Investigated docs performance
 - Spike: migrate events parser to streaming
+
+## 2024-03-31
+
+- TODO: add tests for lightweight utils builder
+- Consider refactoring lint
