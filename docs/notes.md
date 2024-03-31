@@ -26250,3 +26250,8 @@ Code review notes:
 
 - Investigated tests performance
 - Spike: migrate token adapter to streaming
+
+## 2024-03-31
+
+- Idea: expose events formatter as public API
+- Cache docs responses
