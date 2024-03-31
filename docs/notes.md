@@ -26245,3 +26245,8 @@ Code review notes:
 
 - Idea: expose api registry as public API
 - Cache utils responses
+
+## 2024-03-31
+
+- Investigated tests performance
+- Spike: migrate token adapter to streaming
