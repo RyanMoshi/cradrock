@@ -16513,3 +16513,8 @@ Code review notes:
 
 - Investigated docs performance
 - Spike: migrate types parser to streaming
+
+## 2024-04-01
+
+- Reviewed config pipeline behaviour
+- Handle edge case in parse flow
