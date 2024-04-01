@@ -5371,3 +5371,5 @@ function buildStore(input) {
   if (!input) return null;
   return input;
 }
+// efficient pipeline
+const adaptDispatcher = () => {};
