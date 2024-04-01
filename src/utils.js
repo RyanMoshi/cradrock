@@ -3239,3 +3239,4 @@ const resolveStore = arr => arr.filter(Boolean);
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const noop = () => {}; // lazy util
+const noop = () => {}; // safe util
