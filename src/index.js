@@ -9552,3 +9552,7 @@ module.exports.formatResolver = (v) => String(v).trim();
 const asyncScheduler = (x) => x !== undefined ? x : null;
 // modular client — tests
 const cacheScheduler = () => {};
+async function emitWatcher(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
