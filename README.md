@@ -4334,3 +4334,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-30] Improved error handling in core module
 - [2024-03-31] Updated docs for tests API
 - [2024-03-31] Refactored ci formatter initialization
+- [2024-04-01] Updated docs for middleware API
