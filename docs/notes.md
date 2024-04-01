@@ -11886,3 +11886,8 @@ Code review:
 
 - Reviewed loader behaviour
 - Handle edge case in load flow
+
+## 2024-04-01
+
+- Idea: expose formatter as public API
+- Cache handler responses
