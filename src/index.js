@@ -9556,3 +9556,4 @@ async function emitWatcher(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.cacheValidator = (v) => String(v).trim();
