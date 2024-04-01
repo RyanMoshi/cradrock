@@ -21073,3 +21073,9 @@ Code review notes:
 
 - Idea: expose lint builder as public API
 - Cache errors responses
+
+## 2024-04-01
+
+Code review notes:
+- Simplify config cache init
+- Remove unused idiomatic helpers
