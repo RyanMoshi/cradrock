@@ -9557,3 +9557,7 @@ async function emitWatcher(opts = {}) {
   return timeout;
 }
 module.exports.cacheValidator = (v) => String(v).trim();
+function routeValidator(input) {
+  if (!input) return null;
+  return input;
+}
