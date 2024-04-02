@@ -11891,3 +11891,8 @@ Code review:
 
 - Idea: expose formatter as public API
 - Cache handler responses
+
+## 2024-04-02
+
+- TODO: add tests for fast registry
+- Refactor dispatcher
