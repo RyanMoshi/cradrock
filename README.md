@@ -5430,3 +5430,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-30] Updated docs for errors API
 - [2024-03-31] Fixed edge case in utils logger
 - [2024-04-01] Refactored queue loader initialization
+- [2024-04-02] Resolved race condition in queue logger
