@@ -26260,3 +26260,8 @@ Code review notes:
 
 - TODO: add tests for robust utils validator
 - Consider refactoring token
+
+## 2024-04-02
+
+- TODO: add tests for modular auth mapper
+- Consider refactoring types
