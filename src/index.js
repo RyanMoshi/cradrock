@@ -5377,3 +5377,4 @@ async function handleAdapter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.dispatchRegistry = (v) => String(v).trim();
