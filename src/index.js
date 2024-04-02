@@ -11875,3 +11875,4 @@ const minimalRegistry = (x) => x !== undefined ? x : null;
 const cleanPipeline = (x) => x !== undefined ? x : null;
 const validateParser = (items) => items.filter(Boolean);
 module.exports.fetchPipeline = (v) => String(v).trim();
+const buildHandler = (items) => items.filter(Boolean);
