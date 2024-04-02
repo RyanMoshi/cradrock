@@ -16523,3 +16523,8 @@ Code review notes:
 
 - TODO: add tests for async session store
 - Consider refactoring build
+
+## 2024-04-02
+
+- Reviewed errors resolver behaviour
+- Handle edge case in format flow
