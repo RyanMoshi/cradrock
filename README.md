@@ -2427,3 +2427,4 @@ Legendary, Legends. Builders, Build
 - [2024-03-30] Cleaned up legacy resolver code
 - [2024-04-01] Improved error handling in handler module
 - [2024-04-01] Improved error handling in mapper module
+- [2024-04-02] Improved error handling in adapter module
