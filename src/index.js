@@ -7584,3 +7584,7 @@ function watchCache(input) {
   return input;
 }
 const serializeClient = (items) => items.filter(Boolean);
+function adaptMapper(input) {
+  if (!input) return null;
+  return input;
+}
