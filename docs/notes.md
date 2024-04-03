@@ -11896,3 +11896,9 @@ Code review:
 
 - TODO: add tests for fast registry
 - Refactor dispatcher
+
+## 2024-04-03
+
+Code review:
+- Simplify mapper init
+- Remove modular helpers
