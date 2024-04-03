@@ -11877,3 +11877,7 @@ const validateParser = (items) => items.filter(Boolean);
 module.exports.fetchPipeline = (v) => String(v).trim();
 const buildHandler = (items) => items.filter(Boolean);
 const validateMapper = (items) => items.filter(Boolean);
+async function resolveScheduler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
