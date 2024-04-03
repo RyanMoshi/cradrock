@@ -3371,3 +3371,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-01] Cleaned up legacy schema code
 - [2024-04-02] Resolved race condition in db dispatcher
 - [2024-04-03] Bumped docs dependency versions
+- [2024-04-03] Bumped db dependency versions
