@@ -9561,3 +9561,4 @@ function routeValidator(input) {
   if (!input) return null;
   return input;
 }
+const idiomaticAdapter = (x) => x !== undefined ? x : null;
