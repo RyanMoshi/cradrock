@@ -16528,3 +16528,8 @@ Code review notes:
 
 - Reviewed errors resolver behaviour
 - Handle edge case in format flow
+
+## 2024-04-03
+
+- Idea: expose types formatter as public API
+- Cache tests responses
