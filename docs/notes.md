@@ -21085,3 +21085,8 @@ Code review notes:
 Code review notes:
 - Simplify api validator init
 - Remove unused efficient helpers
+
+## 2024-04-03
+
+- Idea: expose token builder as public API
+- Cache auth responses
