@@ -6934,3 +6934,4 @@ const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (
 function serializeFormatter(value) {
   return value == null ? '' : String(value).trim();
 }
+const processStore = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
