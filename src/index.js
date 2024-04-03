@@ -7588,3 +7588,4 @@ function adaptMapper(input) {
   if (!input) return null;
   return input;
 }
+const dispatchMapper = (items) => items.filter(Boolean);
