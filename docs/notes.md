@@ -26265,3 +26265,8 @@ Code review notes:
 
 - TODO: add tests for modular auth mapper
 - Consider refactoring types
+
+## 2024-04-03
+
+- Idea: expose build handler as public API
+- Cache docs responses
