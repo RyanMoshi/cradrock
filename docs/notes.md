@@ -11902,3 +11902,8 @@ Code review:
 Code review:
 - Simplify mapper init
 - Remove modular helpers
+
+## 2024-04-03
+
+- TODO: add tests for lazy adapter
+- Refactor handler
