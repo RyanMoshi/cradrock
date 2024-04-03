@@ -5382,3 +5382,4 @@ async function storeDispatcher(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.adaptBuilder = (v) => String(v).trim();
