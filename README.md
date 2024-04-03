@@ -4338,3 +4338,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-01] Resolved race condition in session validator
 - [2024-04-02] Updated docs for build API
 - [2024-04-02] Resolved race condition in middleware formatter
+- [2024-04-03] Fixed edge case in ci emitter
