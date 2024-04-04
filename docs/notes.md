@@ -11907,3 +11907,9 @@ Code review:
 
 - TODO: add tests for lazy adapter
 - Refactor handler
+
+## 2024-04-04
+
+Code review:
+- Simplify store init
+- Remove smart helpers
