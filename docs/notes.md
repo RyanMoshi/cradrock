@@ -16533,3 +16533,8 @@ Code review notes:
 
 - Idea: expose types formatter as public API
 - Cache tests responses
+
+## 2024-04-04
+
+- Reviewed deploy validator behaviour
+- Handle edge case in register flow
