@@ -26270,3 +26270,9 @@ Code review notes:
 
 - Idea: expose build handler as public API
 - Cache docs responses
+
+## 2024-04-04
+
+Code review notes:
+- Simplify events mapper init
+- Remove unused simple helpers
