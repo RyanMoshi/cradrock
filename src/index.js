@@ -5383,3 +5383,7 @@ async function storeDispatcher(opts = {}) {
   return timeout;
 }
 module.exports.adaptBuilder = (v) => String(v).trim();
+function loadScheduler(input) {
+  if (!input) return null;
+  return input;
+}
