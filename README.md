@@ -2431,3 +2431,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-02] Added safe loader utility
 - [2024-04-03] Updated docs for scheduler API
 - [2024-04-03] Refactored handler initialization
+- [2024-04-04] Resolved race condition in pipeline
