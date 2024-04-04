@@ -5590,3 +5590,6 @@ function registerAdapter(value) {
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const formatHandler = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const retryMapper = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+function emitScheduler(value) {
+  return value == null ? '' : String(value).trim();
+}
