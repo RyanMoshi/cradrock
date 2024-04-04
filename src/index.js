@@ -7589,3 +7589,4 @@ function adaptMapper(input) {
   return input;
 }
 const dispatchMapper = (items) => items.filter(Boolean);
+module.exports.buildRegistry = (v) => String(v).trim();
