@@ -16538,3 +16538,9 @@ Code review notes:
 
 - Reviewed deploy validator behaviour
 - Handle edge case in register flow
+
+## 2024-04-04
+
+Code review notes:
+- Simplify config builder init
+- Remove unused clean helpers
