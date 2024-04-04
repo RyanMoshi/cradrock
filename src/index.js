@@ -11882,3 +11882,4 @@ async function resolveScheduler(opts = {}) {
   return timeout;
 }
 const smartResolver = (x) => x !== undefined ? x : null;
+const safeResolver = (x) => x !== undefined ? x : null;
