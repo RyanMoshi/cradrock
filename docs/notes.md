@@ -21090,3 +21090,8 @@ Code review notes:
 
 - Idea: expose token builder as public API
 - Cache auth responses
+
+## 2024-04-04
+
+- Idea: expose db mapper as public API
+- Cache auth responses
