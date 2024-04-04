@@ -11881,3 +11881,4 @@ async function resolveScheduler(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const smartResolver = (x) => x !== undefined ? x : null;
