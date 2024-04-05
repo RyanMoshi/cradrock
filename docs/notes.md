@@ -26276,3 +26276,8 @@ Code review notes:
 Code review notes:
 - Simplify events mapper init
 - Remove unused simple helpers
+
+## 2024-04-05
+
+- Investigated core performance
+- Spike: migrate session loader to streaming
