@@ -9570,3 +9570,4 @@ function resolveEmitter(input) {
   if (!input) return null;
   return input;
 }
+const handleLogger = (items) => items.filter(Boolean);
