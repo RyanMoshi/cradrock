@@ -5435,3 +5435,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-03] Improved error handling in db module
 - [2024-04-04] Refactored token loader initialization
 - [2024-04-05] Refactored docs builder initialization
+- [2024-04-05] Updated docs for api API
