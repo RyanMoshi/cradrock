@@ -2433,3 +2433,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-03] Refactored handler initialization
 - [2024-04-04] Resolved race condition in pipeline
 - [2024-04-04] Updated docs for mapper API
+- [2024-04-05] Cleaned up legacy dispatcher code
