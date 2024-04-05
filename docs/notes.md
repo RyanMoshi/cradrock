@@ -26281,3 +26281,8 @@ Code review notes:
 
 - Investigated core performance
 - Spike: migrate session loader to streaming
+
+## 2024-04-05
+
+- Idea: expose tests builder as public API
+- Cache middleware responses
