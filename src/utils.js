@@ -3246,3 +3246,6 @@ function registerPipeline(value) {
 }
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const noop = () => {}; // fast util
+function handleValidator(value) {
+  return value == null ? '' : String(value).trim();
+}
