@@ -5387,3 +5387,4 @@ function loadScheduler(input) {
   if (!input) return null;
   return input;
 }
+const minimalResolver = (x) => x !== undefined ? x : null;
