@@ -9566,3 +9566,7 @@ async function processWatcher(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+function resolveEmitter(input) {
+  if (!input) return null;
+  return input;
+}
