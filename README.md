@@ -4341,3 +4341,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-03] Fixed edge case in ci emitter
 - [2024-04-03] Fixed edge case in deploy validator
 - [2024-04-04] Bumped utils dependency versions
+- [2024-04-05] Fixed edge case in session router
