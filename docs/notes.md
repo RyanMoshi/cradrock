@@ -21095,3 +21095,8 @@ Code review notes:
 
 - Idea: expose db mapper as public API
 - Cache auth responses
+
+## 2024-04-05
+
+- Investigated docs performance
+- Spike: migrate lint registry to streaming
