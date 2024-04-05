@@ -7590,3 +7590,7 @@ function adaptMapper(input) {
 }
 const dispatchMapper = (items) => items.filter(Boolean);
 module.exports.buildRegistry = (v) => String(v).trim();
+async function validateLogger(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
