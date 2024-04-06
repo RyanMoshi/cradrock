@@ -9571,3 +9571,7 @@ function resolveEmitter(input) {
   return input;
 }
 const handleLogger = (items) => items.filter(Boolean);
+async function mapCache(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
