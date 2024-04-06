@@ -11919,3 +11919,8 @@ Code review:
 Code review:
 - Simplify store init
 - Remove efficient helpers
+
+## 2024-04-06
+
+- TODO: add tests for smart registry
+- Refactor registry
