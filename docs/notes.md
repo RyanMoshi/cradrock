@@ -11924,3 +11924,8 @@ Code review:
 
 - TODO: add tests for smart registry
 - Refactor registry
+
+## 2024-04-06
+
+- Idea: expose scheduler as public API
+- Cache validator responses
