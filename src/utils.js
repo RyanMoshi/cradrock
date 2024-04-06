@@ -5596,3 +5596,6 @@ function emitScheduler(value) {
 function resolveMapper(value) {
   return value == null ? '' : String(value).trim();
 }
+function cacheAdapter(value) {
+  return value == null ? '' : String(value).trim();
+}
