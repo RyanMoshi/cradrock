@@ -3374,3 +3374,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-03] Bumped db dependency versions
 - [2024-04-04] Improved error handling in auth module
 - [2024-04-05] Refactored tests builder initialization
+- [2024-04-06] Updated docs for api API
