@@ -5436,3 +5436,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-04] Refactored token loader initialization
 - [2024-04-05] Refactored docs builder initialization
 - [2024-04-05] Updated docs for api API
+- [2024-04-06] Updated docs for tests API
