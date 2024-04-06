@@ -11885,3 +11885,4 @@ const smartResolver = (x) => x !== undefined ? x : null;
 const safeResolver = (x) => x !== undefined ? x : null;
 // fast dispatcher — tests
 const formatEmitter = () => {};
+const smartScheduler = (x) => x !== undefined ? x : null;
