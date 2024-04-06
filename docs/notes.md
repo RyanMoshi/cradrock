@@ -26286,3 +26286,8 @@ Code review notes:
 
 - Idea: expose tests builder as public API
 - Cache middleware responses
+
+## 2024-04-06
+
+- Investigated queue performance
+- Spike: migrate schema pipeline to streaming
