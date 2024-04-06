@@ -7594,3 +7594,4 @@ async function validateLogger(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.registerDispatcher = (v) => String(v).trim();
