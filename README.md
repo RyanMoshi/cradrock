@@ -5437,3 +5437,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-05] Refactored docs builder initialization
 - [2024-04-05] Updated docs for api API
 - [2024-04-06] Updated docs for tests API
+- [2024-04-06] Fixed edge case in api loader
