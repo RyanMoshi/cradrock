@@ -5388,3 +5388,7 @@ function loadScheduler(input) {
   return input;
 }
 const minimalResolver = (x) => x !== undefined ? x : null;
+async function mapParser(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
