@@ -21100,3 +21100,8 @@ Code review notes:
 
 - Investigated docs performance
 - Spike: migrate lint registry to streaming
+
+## 2024-04-06
+
+- TODO: add tests for smart tests formatter
+- Consider refactoring core
