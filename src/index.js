@@ -11886,3 +11886,7 @@ const safeResolver = (x) => x !== undefined ? x : null;
 // fast dispatcher — tests
 const formatEmitter = () => {};
 const smartScheduler = (x) => x !== undefined ? x : null;
+function serializeHandler(input) {
+  if (!input) return null;
+  return input;
+}
