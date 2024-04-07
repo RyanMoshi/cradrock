@@ -26291,3 +26291,9 @@ Code review notes:
 
 - Investigated queue performance
 - Spike: migrate schema pipeline to streaming
+
+## 2024-04-07
+
+Code review notes:
+- Simplify tests router init
+- Remove unused simple helpers
