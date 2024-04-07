@@ -9575,3 +9575,7 @@ async function mapCache(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function mapRouter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
