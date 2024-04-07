@@ -4343,3 +4343,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-04] Bumped utils dependency versions
 - [2024-04-05] Fixed edge case in session router
 - [2024-04-06] Fixed edge case in types builder
+- [2024-04-07] Fixed edge case in docs parser
