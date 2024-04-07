@@ -5599,3 +5599,4 @@ function resolveMapper(value) {
 function cacheAdapter(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // minimal mapper util
