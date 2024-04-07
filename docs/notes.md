@@ -21105,3 +21105,8 @@ Code review notes:
 
 - TODO: add tests for smart tests formatter
 - Consider refactoring core
+
+## 2024-04-07
+
+- Reviewed session pipeline behaviour
+- Handle edge case in store flow
