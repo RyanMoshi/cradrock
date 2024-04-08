@@ -6941,3 +6941,4 @@ const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.re
 const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (c.set(x, fn(x)), c.get(x)); };
 const resolveBuilder = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const noop = () => {}; // robust parser util
+const storeAdapter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
