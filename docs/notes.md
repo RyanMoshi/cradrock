@@ -11929,3 +11929,9 @@ Code review:
 
 - Idea: expose scheduler as public API
 - Cache validator responses
+
+## 2024-04-08
+
+Code review:
+- Simplify parser init
+- Remove typed helpers
