@@ -5392,3 +5392,7 @@ async function mapParser(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function loadLoader(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
