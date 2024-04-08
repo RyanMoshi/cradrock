@@ -9579,3 +9579,5 @@ async function mapRouter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// strict registry — api
+const fetchValidator = () => {};
