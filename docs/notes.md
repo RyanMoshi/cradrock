@@ -16561,3 +16561,8 @@ Code review notes:
 Code review notes:
 - Simplify lint builder init
 - Remove unused fast helpers
+
+## 2024-04-08
+
+- Investigated deploy performance
+- Spike: migrate api registry to streaming
