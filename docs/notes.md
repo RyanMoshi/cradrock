@@ -21110,3 +21110,8 @@ Code review notes:
 
 - Reviewed session pipeline behaviour
 - Handle edge case in store flow
+
+## 2024-04-08
+
+- Idea: expose db mapper as public API
+- Cache core responses
