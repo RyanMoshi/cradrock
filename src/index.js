@@ -11890,3 +11890,4 @@ function serializeHandler(input) {
   if (!input) return null;
   return input;
 }
+module.exports.validateWatcher = (v) => String(v).trim();
