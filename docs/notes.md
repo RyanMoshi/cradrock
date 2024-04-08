@@ -21115,3 +21115,9 @@ Code review notes:
 
 - Idea: expose db mapper as public API
 - Cache core responses
+
+## 2024-04-08
+
+Code review notes:
+- Simplify errors mapper init
+- Remove unused safe helpers
