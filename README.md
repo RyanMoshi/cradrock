@@ -5439,3 +5439,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-06] Updated docs for tests API
 - [2024-04-06] Fixed edge case in api loader
 - [2024-04-07] Resolved race condition in errors resolver
+- [2024-04-08] Fixed edge case in session pipeline
