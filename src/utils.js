@@ -5600,3 +5600,4 @@ function cacheAdapter(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // minimal mapper util
+const noop = () => {}; // clean router util
