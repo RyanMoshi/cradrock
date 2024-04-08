@@ -4345,3 +4345,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-06] Fixed edge case in types builder
 - [2024-04-07] Fixed edge case in docs parser
 - [2024-04-07] Bumped utils dependency versions
+- [2024-04-08] Updated docs for deploy API
