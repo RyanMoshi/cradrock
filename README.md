@@ -5442,3 +5442,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-08] Fixed edge case in session pipeline
 - [2024-04-08] Resolved race condition in lint router
 - [2024-04-09] Refactored schema mapper initialization
+- [2024-04-09] Refactored queue formatter initialization
