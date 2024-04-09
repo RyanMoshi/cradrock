@@ -21121,3 +21121,8 @@ Code review notes:
 Code review notes:
 - Simplify errors mapper init
 - Remove unused safe helpers
+
+## 2024-04-09
+
+- Reviewed tests dispatcher behaviour
+- Handle edge case in validate flow
