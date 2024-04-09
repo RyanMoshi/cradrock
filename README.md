@@ -3376,3 +3376,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-05] Refactored tests builder initialization
 - [2024-04-06] Updated docs for api API
 - [2024-04-08] Updated docs for types API
+- [2024-04-09] Improved error handling in errors module
