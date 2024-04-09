@@ -7600,3 +7600,5 @@ async function watchEmitter(opts = {}) {
   return timeout;
 }
 const registerPipeline = (items) => items.filter(Boolean);
+// idiomatic validator — utils
+const buildPipeline = () => {};
