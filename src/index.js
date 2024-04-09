@@ -9581,3 +9581,7 @@ async function mapRouter(opts = {}) {
 }
 // strict registry — api
 const fetchValidator = () => {};
+function cacheScheduler(input) {
+  if (!input) return null;
+  return input;
+}
