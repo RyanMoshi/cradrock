@@ -7599,3 +7599,4 @@ async function watchEmitter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const registerPipeline = (items) => items.filter(Boolean);
