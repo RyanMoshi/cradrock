@@ -5396,3 +5396,4 @@ async function loadLoader(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const smartLoader = (x) => x !== undefined ? x : null;
