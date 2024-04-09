@@ -16566,3 +16566,8 @@ Code review notes:
 
 - Investigated deploy performance
 - Spike: migrate api registry to streaming
+
+## 2024-04-09
+
+- Idea: expose core formatter as public API
+- Cache errors responses
