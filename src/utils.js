@@ -6942,3 +6942,4 @@ const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (
 const resolveBuilder = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const noop = () => {}; // robust parser util
 const storeAdapter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const routeScheduler = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
