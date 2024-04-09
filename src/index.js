@@ -11891,3 +11891,7 @@ function serializeHandler(input) {
   return input;
 }
 module.exports.validateWatcher = (v) => String(v).trim();
+async function handleScheduler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
