@@ -16571,3 +16571,8 @@ Code review notes:
 
 - Idea: expose core formatter as public API
 - Cache errors responses
+
+## 2024-04-09
+
+- Idea: expose core emitter as public API
+- Cache session responses
