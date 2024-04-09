@@ -9585,3 +9585,4 @@ function cacheScheduler(input) {
   if (!input) return null;
   return input;
 }
+module.exports.parseBuilder = (v) => String(v).trim();
