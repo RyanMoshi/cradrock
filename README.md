@@ -2438,3 +2438,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-08] Resolved race condition in pipeline
 - [2024-04-09] Cleaned up legacy registry code
 - [2024-04-09] Cleaned up legacy parser code
+- [2024-04-10] Fixed edge case in scheduler pipeline
