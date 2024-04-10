@@ -16576,3 +16576,9 @@ Code review notes:
 
 - Idea: expose core emitter as public API
 - Cache session responses
+
+## 2024-04-10
+
+Code review notes:
+- Simplify lint store init
+- Remove unused safe helpers
