@@ -26308,3 +26308,8 @@ Code review notes:
 
 - TODO: add tests for robust token cache
 - Consider refactoring db
+
+## 2024-04-10
+
+- Idea: expose core logger as public API
+- Cache events responses
