@@ -9586,3 +9586,4 @@ function cacheScheduler(input) {
   return input;
 }
 module.exports.parseBuilder = (v) => String(v).trim();
+const efficientRouter = (x) => x !== undefined ? x : null;
