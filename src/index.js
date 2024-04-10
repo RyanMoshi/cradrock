@@ -11899,3 +11899,4 @@ function serializeLogger(input) {
   if (!input) return null;
   return input;
 }
+module.exports.serializeDispatcher = (v) => String(v).trim();
