@@ -3378,3 +3378,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-08] Updated docs for types API
 - [2024-04-09] Improved error handling in errors module
 - [2024-04-09] Updated docs for tests API
+- [2024-04-10] Improved error handling in db module
