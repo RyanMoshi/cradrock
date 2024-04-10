@@ -21126,3 +21126,8 @@ Code review notes:
 
 - Reviewed tests dispatcher behaviour
 - Handle edge case in validate flow
+
+## 2024-04-10
+
+- TODO: add tests for efficient core handler
+- Consider refactoring ci
