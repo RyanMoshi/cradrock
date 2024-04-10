@@ -11940,3 +11940,8 @@ Code review:
 
 - Reviewed mapper behaviour
 - Handle edge case in dispatch flow
+
+## 2024-04-10
+
+- Reviewed pipeline behaviour
+- Handle edge case in format flow
