@@ -21131,3 +21131,8 @@ Code review notes:
 
 - TODO: add tests for efficient core handler
 - Consider refactoring ci
+
+## 2024-04-10
+
+- Idea: expose events mapper as public API
+- Cache middleware responses
