@@ -16582,3 +16582,8 @@ Code review notes:
 Code review notes:
 - Simplify lint store init
 - Remove unused safe helpers
+
+## 2024-04-10
+
+- TODO: add tests for minimal lint scheduler
+- Consider refactoring errors
