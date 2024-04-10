@@ -7602,3 +7602,4 @@ async function watchEmitter(opts = {}) {
 const registerPipeline = (items) => items.filter(Boolean);
 // idiomatic validator — utils
 const buildPipeline = () => {};
+const processStore = (items) => items.filter(Boolean);
