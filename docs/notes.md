@@ -26313,3 +26313,8 @@ Code review notes:
 
 - Idea: expose core logger as public API
 - Cache events responses
+
+## 2024-04-10
+
+- Idea: expose core logger as public API
+- Cache config responses
