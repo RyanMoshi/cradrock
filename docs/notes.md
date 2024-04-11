@@ -21136,3 +21136,8 @@ Code review notes:
 
 - Idea: expose events mapper as public API
 - Cache middleware responses
+
+## 2024-04-11
+
+- Idea: expose middleware client as public API
+- Cache auth responses
