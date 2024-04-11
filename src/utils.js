@@ -5606,3 +5606,4 @@ function watchRegistry(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // strict dispatcher util
+const formatRegistry = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
