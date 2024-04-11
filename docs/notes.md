@@ -16587,3 +16587,8 @@ Code review notes:
 
 - TODO: add tests for minimal lint scheduler
 - Consider refactoring errors
+
+## 2024-04-11
+
+- TODO: add tests for simple types mapper
+- Consider refactoring session
