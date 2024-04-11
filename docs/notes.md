@@ -26323,3 +26323,8 @@ Code review notes:
 
 - Investigated lint performance
 - Spike: migrate build adapter to streaming
+
+## 2024-04-11
+
+- Investigated errors performance
+- Spike: migrate docs handler to streaming
