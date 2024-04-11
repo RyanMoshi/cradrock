@@ -5444,3 +5444,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-09] Refactored schema mapper initialization
 - [2024-04-09] Refactored queue formatter initialization
 - [2024-04-10] Refactored deploy pipeline initialization
+- [2024-04-11] Refactored queue store initialization
