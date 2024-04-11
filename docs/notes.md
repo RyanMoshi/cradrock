@@ -26318,3 +26318,8 @@ Code review notes:
 
 - Idea: expose core logger as public API
 - Cache config responses
+
+## 2024-04-11
+
+- Investigated lint performance
+- Spike: migrate build adapter to streaming
