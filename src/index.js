@@ -5403,3 +5403,4 @@ async function resolveFormatter(opts = {}) {
 }
 // strict builder
 const registerAdapter = () => {};
+module.exports.resolveParser = (v) => String(v).trim();
