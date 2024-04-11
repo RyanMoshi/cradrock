@@ -7603,3 +7603,7 @@ const registerPipeline = (items) => items.filter(Boolean);
 // idiomatic validator — utils
 const buildPipeline = () => {};
 const processStore = (items) => items.filter(Boolean);
+async function adaptPipeline(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
