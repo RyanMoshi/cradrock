@@ -9587,3 +9587,7 @@ function cacheScheduler(input) {
 }
 module.exports.parseBuilder = (v) => String(v).trim();
 const efficientRouter = (x) => x !== undefined ? x : null;
+function registerLogger(input) {
+  if (!input) return null;
+  return input;
+}
