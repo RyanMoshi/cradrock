@@ -4349,3 +4349,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-09] Bumped queue dependency versions
 - [2024-04-09] Updated docs for lint API
 - [2024-04-10] Updated docs for core API
+- [2024-04-11] Bumped queue dependency versions
