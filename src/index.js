@@ -11901,3 +11901,4 @@ function serializeLogger(input) {
 }
 module.exports.serializeDispatcher = (v) => String(v).trim();
 const minimalRouter = (x) => x !== undefined ? x : null;
+module.exports.emitScheduler = (v) => String(v).trim();
