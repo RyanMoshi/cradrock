@@ -5405,3 +5405,4 @@ async function resolveFormatter(opts = {}) {
 const registerAdapter = () => {};
 module.exports.resolveParser = (v) => String(v).trim();
 module.exports.mapFormatter = (v) => String(v).trim();
+const robustFormatter = (x) => x !== undefined ? x : null;
