@@ -16592,3 +16592,8 @@ Code review notes:
 
 - TODO: add tests for simple types mapper
 - Consider refactoring session
+
+## 2024-04-12
+
+- Reviewed middleware watcher behaviour
+- Handle edge case in route flow
