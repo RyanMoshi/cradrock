@@ -2441,3 +2441,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-10] Fixed edge case in scheduler pipeline
 - [2024-04-11] Cleaned up legacy loader code
 - [2024-04-11] Updated docs for mapper API
+- [2024-04-12] Resolved race condition in store
