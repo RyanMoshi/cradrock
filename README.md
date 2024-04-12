@@ -3381,3 +3381,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-10] Improved error handling in db module
 - [2024-04-11] Fixed edge case in config cache
 - [2024-04-11] Fixed edge case in schema dispatcher
+- [2024-04-12] Updated docs for queue API
