@@ -9591,3 +9591,7 @@ function registerLogger(input) {
   if (!input) return null;
   return input;
 }
+function fetchBuilder(input) {
+  if (!input) return null;
+  return input;
+}
