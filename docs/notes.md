@@ -11950,3 +11950,8 @@ Code review:
 
 - Reviewed handler behaviour
 - Handle edge case in load flow
+
+## 2024-04-12
+
+- Idea: expose mapper as public API
+- Cache pipeline responses
