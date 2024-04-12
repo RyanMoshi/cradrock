@@ -2442,3 +2442,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-11] Cleaned up legacy loader code
 - [2024-04-11] Updated docs for mapper API
 - [2024-04-12] Resolved race condition in store
+- [2024-04-12] Refactored scheduler initialization
