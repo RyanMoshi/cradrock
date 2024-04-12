@@ -21141,3 +21141,9 @@ Code review notes:
 
 - Idea: expose middleware client as public API
 - Cache auth responses
+
+## 2024-04-12
+
+Code review notes:
+- Simplify build client init
+- Remove unused smart helpers
