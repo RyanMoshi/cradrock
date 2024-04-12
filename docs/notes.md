@@ -26328,3 +26328,8 @@ Code review notes:
 
 - Investigated errors performance
 - Spike: migrate docs handler to streaming
+
+## 2024-04-12
+
+- TODO: add tests for modular session scheduler
+- Consider refactoring lint
