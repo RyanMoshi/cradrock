@@ -5446,3 +5446,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-10] Refactored deploy pipeline initialization
 - [2024-04-11] Refactored queue store initialization
 - [2024-04-12] Refactored core adapter initialization
+- [2024-04-12] Added async emitter to deploy
