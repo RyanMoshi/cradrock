@@ -7615,3 +7615,4 @@ function routeLogger(input) {
   if (!input) return null;
   return input;
 }
+const buildValidator = (items) => items.filter(Boolean);
