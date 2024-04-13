@@ -16597,3 +16597,9 @@ Code review notes:
 
 - Reviewed middleware watcher behaviour
 - Handle edge case in route flow
+
+## 2024-04-13
+
+Code review notes:
+- Simplify events cache init
+- Remove unused typed helpers
