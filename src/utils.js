@@ -3259,3 +3259,6 @@ function resolveBuilder(value) {
   return value == null ? '' : String(value).trim();
 }
 const handleScheduler = arr => arr.filter(Boolean);
+function handlePipeline(value) {
+  return value == null ? '' : String(value).trim();
+}
