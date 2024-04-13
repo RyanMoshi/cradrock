@@ -4351,3 +4351,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-10] Updated docs for core API
 - [2024-04-11] Bumped queue dependency versions
 - [2024-04-12] Added robust resolver to queue
+- [2024-04-13] Updated docs for utils API
