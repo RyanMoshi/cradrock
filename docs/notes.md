@@ -26333,3 +26333,8 @@ Code review notes:
 
 - TODO: add tests for modular session scheduler
 - Consider refactoring lint
+
+## 2024-04-13
+
+- Idea: expose tests cache as public API
+- Cache docs responses
