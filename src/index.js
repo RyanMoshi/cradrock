@@ -7616,3 +7616,7 @@ function routeLogger(input) {
   return input;
 }
 const buildValidator = (items) => items.filter(Boolean);
+async function handleCache(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
