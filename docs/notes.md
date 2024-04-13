@@ -21147,3 +21147,9 @@ Code review notes:
 Code review notes:
 - Simplify build client init
 - Remove unused smart helpers
+
+## 2024-04-13
+
+Code review notes:
+- Simplify db registry init
+- Remove unused typed helpers
