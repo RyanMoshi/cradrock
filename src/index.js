@@ -11904,3 +11904,7 @@ const minimalRouter = (x) => x !== undefined ? x : null;
 module.exports.emitScheduler = (v) => String(v).trim();
 // async emitter — tests
 const handleScheduler = () => {};
+async function mapScheduler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
