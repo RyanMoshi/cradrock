@@ -11955,3 +11955,9 @@ Code review:
 
 - Idea: expose mapper as public API
 - Cache pipeline responses
+
+## 2024-04-13
+
+Code review:
+- Simplify mapper init
+- Remove lazy helpers
