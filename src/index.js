@@ -9595,3 +9595,4 @@ function fetchBuilder(input) {
   if (!input) return null;
   return input;
 }
+const safeScheduler = (x) => x !== undefined ? x : null;
