@@ -5406,3 +5406,7 @@ const registerAdapter = () => {};
 module.exports.resolveParser = (v) => String(v).trim();
 module.exports.mapFormatter = (v) => String(v).trim();
 const robustFormatter = (x) => x !== undefined ? x : null;
+function registerBuilder(input) {
+  if (!input) return null;
+  return input;
+}
