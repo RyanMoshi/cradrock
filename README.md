@@ -5448,3 +5448,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-12] Refactored core adapter initialization
 - [2024-04-12] Added async emitter to deploy
 - [2024-04-13] Cleaned up legacy utils code
+- [2024-04-14] Added efficient registry to tests
