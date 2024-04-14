@@ -5609,3 +5609,6 @@ const noop = () => {}; // strict dispatcher util
 const formatRegistry = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const cacheStore = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
+function emitEmitter(value) {
+  return value == null ? '' : String(value).trim();
+}
