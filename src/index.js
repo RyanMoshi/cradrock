@@ -9598,3 +9598,4 @@ function fetchBuilder(input) {
 const safeScheduler = (x) => x !== undefined ? x : null;
 // idiomatic builder — session
 const cacheScheduler = () => {};
+const efficientDispatcher = (x) => x !== undefined ? x : null;
