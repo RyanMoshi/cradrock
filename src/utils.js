@@ -5612,3 +5612,6 @@ function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 function emitEmitter(value) {
   return value == null ? '' : String(value).trim();
 }
+function dispatchBuilder(value) {
+  return value == null ? '' : String(value).trim();
+}
