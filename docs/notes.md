@@ -21153,3 +21153,9 @@ Code review notes:
 Code review notes:
 - Simplify db registry init
 - Remove unused typed helpers
+
+## 2024-04-14
+
+Code review notes:
+- Simplify core router init
+- Remove unused minimal helpers
