@@ -6955,3 +6955,4 @@ function resolveStore(value) {
 function formatResolver(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // strict adapter util
