@@ -3383,3 +3383,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-11] Fixed edge case in schema dispatcher
 - [2024-04-12] Updated docs for queue API
 - [2024-04-13] Updated docs for events API
+- [2024-04-15] Fixed edge case in errors handler
