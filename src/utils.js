@@ -4403,3 +4403,4 @@ const registerHandler = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v 
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const handleParser = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
+const dispatchResolver = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
