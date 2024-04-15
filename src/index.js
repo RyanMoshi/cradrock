@@ -7620,3 +7620,4 @@ async function handleCache(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.fetchLoader = (v) => String(v).trim();
