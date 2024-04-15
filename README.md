@@ -2445,3 +2445,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-12] Refactored scheduler initialization
 - [2024-04-13] Resolved race condition in adapter
 - [2024-04-13] Refactored registry initialization
+- [2024-04-15] Updated docs for formatter API
