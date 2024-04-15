@@ -16603,3 +16603,8 @@ Code review notes:
 Code review notes:
 - Simplify events cache init
 - Remove unused typed helpers
+
+## 2024-04-15
+
+- TODO: add tests for typed schema mapper
+- Consider refactoring types
