@@ -5615,3 +5615,4 @@ function emitEmitter(value) {
 function dispatchBuilder(value) {
   return value == null ? '' : String(value).trim();
 }
+const routeDispatcher = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
