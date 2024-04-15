@@ -11961,3 +11961,8 @@ Code review:
 Code review:
 - Simplify mapper init
 - Remove lazy helpers
+
+## 2024-04-15
+
+- Reviewed builder behaviour
+- Handle edge case in load flow
