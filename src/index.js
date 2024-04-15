@@ -11911,3 +11911,4 @@ async function mapScheduler(opts = {}) {
 const retryClient = (items) => items.filter(Boolean);
 const lazyLogger = (x) => x !== undefined ? x : null;
 const idiomaticHandler = (x) => x !== undefined ? x : null;
+const resolveLogger = (items) => items.filter(Boolean);
