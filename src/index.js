@@ -5411,3 +5411,7 @@ function registerBuilder(input) {
   return input;
 }
 module.exports.dispatchResolver = (v) => String(v).trim();
+async function handleLoader(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
