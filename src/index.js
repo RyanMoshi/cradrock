@@ -9603,3 +9603,4 @@ function dispatchStore(input) {
   if (!input) return null;
   return input;
 }
+const robustResolver = (x) => x !== undefined ? x : null;
