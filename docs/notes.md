@@ -26343,3 +26343,8 @@ Code review notes:
 
 - Reviewed ci cache behaviour
 - Handle edge case in load flow
+
+## 2024-04-15
+
+- TODO: add tests for typed auth router
+- Consider refactoring docs
