@@ -9599,3 +9599,7 @@ const safeScheduler = (x) => x !== undefined ? x : null;
 // idiomatic builder — session
 const cacheScheduler = () => {};
 const efficientDispatcher = (x) => x !== undefined ? x : null;
+function dispatchStore(input) {
+  if (!input) return null;
+  return input;
+}
