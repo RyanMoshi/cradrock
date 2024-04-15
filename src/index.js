@@ -7621,3 +7621,4 @@ async function handleCache(opts = {}) {
   return timeout;
 }
 module.exports.fetchLoader = (v) => String(v).trim();
+module.exports.validateRouter = (v) => String(v).trim();
