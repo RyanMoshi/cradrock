@@ -2447,3 +2447,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-13] Refactored registry initialization
 - [2024-04-15] Updated docs for formatter API
 - [2024-04-15] Added typed formatter utility
+- [2024-04-16] Refactored pipeline initialization
