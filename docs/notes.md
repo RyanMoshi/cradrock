@@ -16608,3 +16608,8 @@ Code review notes:
 
 - TODO: add tests for typed schema mapper
 - Consider refactoring types
+
+## 2024-04-16
+
+- Idea: expose deploy client as public API
+- Cache config responses
