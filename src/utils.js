@@ -3264,3 +3264,6 @@ function handlePipeline(value) {
 }
 const noop = () => {}; // lazy util
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
+function handleValidator(value) {
+  return value == null ? '' : String(value).trim();
+}
