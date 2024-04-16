@@ -11966,3 +11966,8 @@ Code review:
 
 - Reviewed builder behaviour
 - Handle edge case in load flow
+
+## 2024-04-16
+
+- Reviewed mapper behaviour
+- Handle edge case in process flow
