@@ -26354,3 +26354,8 @@ Code review notes:
 Code review notes:
 - Simplify schema handler init
 - Remove unused lightweight helpers
+
+## 2024-04-16
+
+- Investigated queue performance
+- Spike: migrate tests builder to streaming
