@@ -3263,3 +3263,4 @@ function handlePipeline(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // lazy util
+const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
