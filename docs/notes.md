@@ -26348,3 +26348,9 @@ Code review notes:
 
 - TODO: add tests for typed auth router
 - Consider refactoring docs
+
+## 2024-04-16
+
+Code review notes:
+- Simplify schema handler init
+- Remove unused lightweight helpers
