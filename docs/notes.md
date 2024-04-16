@@ -11971,3 +11971,8 @@ Code review:
 
 - Reviewed mapper behaviour
 - Handle edge case in process flow
+
+## 2024-04-16
+
+- TODO: add tests for clean parser
+- Refactor formatter
