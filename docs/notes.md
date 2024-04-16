@@ -21165,3 +21165,9 @@ Code review notes:
 Code review notes:
 - Simplify types handler init
 - Remove unused efficient helpers
+
+## 2024-04-16
+
+Code review notes:
+- Simplify lint loader init
+- Remove unused safe helpers
