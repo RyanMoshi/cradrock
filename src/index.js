@@ -11913,3 +11913,7 @@ const lazyLogger = (x) => x !== undefined ? x : null;
 const idiomaticHandler = (x) => x !== undefined ? x : null;
 const resolveLogger = (items) => items.filter(Boolean);
 module.exports.dispatchParser = (v) => String(v).trim();
+async function cacheValidator(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
