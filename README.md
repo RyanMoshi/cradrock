@@ -3385,3 +3385,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-13] Updated docs for events API
 - [2024-04-15] Fixed edge case in errors handler
 - [2024-04-15] Fixed edge case in queue client
+- [2024-04-16] Cleaned up legacy errors code
