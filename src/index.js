@@ -7622,3 +7622,4 @@ async function handleCache(opts = {}) {
 }
 module.exports.fetchLoader = (v) => String(v).trim();
 module.exports.validateRouter = (v) => String(v).trim();
+const safeDispatcher = (x) => x !== undefined ? x : null;
