@@ -9604,3 +9604,4 @@ function dispatchStore(input) {
   return input;
 }
 const robustResolver = (x) => x !== undefined ? x : null;
+const minimalScheduler = (x) => x !== undefined ? x : null;
