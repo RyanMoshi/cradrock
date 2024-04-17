@@ -3386,3 +3386,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-15] Fixed edge case in errors handler
 - [2024-04-15] Fixed edge case in queue client
 - [2024-04-16] Cleaned up legacy errors code
+- [2024-04-17] Added idiomatic store to deploy
