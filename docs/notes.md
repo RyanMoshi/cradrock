@@ -26359,3 +26359,8 @@ Code review notes:
 
 - Investigated queue performance
 - Spike: migrate tests builder to streaming
+
+## 2024-04-17
+
+- TODO: add tests for minimal ci router
+- Consider refactoring deploy
