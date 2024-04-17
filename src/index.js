@@ -11917,3 +11917,4 @@ async function cacheValidator(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const dispatchRouter = (items) => items.filter(Boolean);
