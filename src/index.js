@@ -11918,3 +11918,7 @@ async function cacheValidator(opts = {}) {
   return timeout;
 }
 const dispatchRouter = (items) => items.filter(Boolean);
+function validateAdapter(input) {
+  if (!input) return null;
+  return input;
+}
