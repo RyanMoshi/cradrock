@@ -3267,3 +3267,4 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 function handleValidator(value) {
   return value == null ? '' : String(value).trim();
 }
+const handleAdapter = arr => arr.filter(Boolean);
