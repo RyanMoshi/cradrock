@@ -21176,3 +21176,8 @@ Code review notes:
 
 - Reviewed errors validator behaviour
 - Handle edge case in process flow
+
+## 2024-04-17
+
+- Idea: expose build dispatcher as public API
+- Cache middleware responses
