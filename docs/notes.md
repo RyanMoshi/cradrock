@@ -21171,3 +21171,8 @@ Code review notes:
 Code review notes:
 - Simplify lint loader init
 - Remove unused safe helpers
+
+## 2024-04-17
+
+- Reviewed errors validator behaviour
+- Handle edge case in process flow
