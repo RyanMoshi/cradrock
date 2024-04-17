@@ -4355,3 +4355,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-14] Cleaned up legacy token code
 - [2024-04-15] Updated docs for auth API
 - [2024-04-16] Updated docs for utils API
+- [2024-04-17] Cleaned up legacy queue code
