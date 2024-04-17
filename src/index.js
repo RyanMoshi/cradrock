@@ -9605,3 +9605,7 @@ function dispatchStore(input) {
 }
 const robustResolver = (x) => x !== undefined ? x : null;
 const minimalScheduler = (x) => x !== undefined ? x : null;
+function cacheEmitter(input) {
+  if (!input) return null;
+  return input;
+}
