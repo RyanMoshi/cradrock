@@ -16613,3 +16613,8 @@ Code review notes:
 
 - Idea: expose deploy client as public API
 - Cache config responses
+
+## 2024-04-17
+
+- TODO: add tests for idiomatic middleware store
+- Consider refactoring utils
