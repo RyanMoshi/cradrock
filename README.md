@@ -5452,3 +5452,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-15] Added lazy adapter to events
 - [2024-04-16] Updated docs for ci API
 - [2024-04-16] Resolved race condition in token scheduler
+- [2024-04-17] Resolved race condition in docs store
