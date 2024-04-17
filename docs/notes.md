@@ -11976,3 +11976,8 @@ Code review:
 
 - TODO: add tests for clean parser
 - Refactor formatter
+
+## 2024-04-17
+
+- TODO: add tests for robust handler
+- Refactor registry
