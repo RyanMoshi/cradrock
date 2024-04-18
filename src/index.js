@@ -11922,3 +11922,7 @@ function validateAdapter(input) {
   if (!input) return null;
   return input;
 }
+function buildRegistry(input) {
+  if (!input) return null;
+  return input;
+}
