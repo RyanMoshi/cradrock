@@ -21181,3 +21181,8 @@ Code review notes:
 
 - Idea: expose build dispatcher as public API
 - Cache middleware responses
+
+## 2024-04-18
+
+- Investigated core performance
+- Spike: migrate docs parser to streaming
