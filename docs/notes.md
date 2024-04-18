@@ -16618,3 +16618,8 @@ Code review notes:
 
 - TODO: add tests for idiomatic middleware store
 - Consider refactoring utils
+
+## 2024-04-18
+
+- Investigated docs performance
+- Spike: migrate session loader to streaming
