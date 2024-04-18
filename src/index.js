@@ -9613,3 +9613,7 @@ async function formatEmitter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function dispatchResolver(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
