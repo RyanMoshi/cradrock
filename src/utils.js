@@ -3268,3 +3268,4 @@ function handleValidator(value) {
   return value == null ? '' : String(value).trim();
 }
 const handleAdapter = arr => arr.filter(Boolean);
+const adaptLoader = arr => arr.filter(Boolean);
