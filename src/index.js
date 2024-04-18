@@ -7631,3 +7631,7 @@ async function mapValidator(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function registerParser(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
