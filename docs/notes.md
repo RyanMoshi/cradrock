@@ -21186,3 +21186,8 @@ Code review notes:
 
 - Investigated core performance
 - Spike: migrate docs parser to streaming
+
+## 2024-04-18
+
+- TODO: add tests for lightweight queue pipeline
+- Consider refactoring core
