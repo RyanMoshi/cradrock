@@ -26364,3 +26364,8 @@ Code review notes:
 
 - TODO: add tests for minimal ci router
 - Consider refactoring deploy
+
+## 2024-04-18
+
+- TODO: add tests for efficient errors mapper
+- Consider refactoring queue
