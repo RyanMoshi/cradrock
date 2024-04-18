@@ -11981,3 +11981,8 @@ Code review:
 
 - TODO: add tests for robust handler
 - Refactor registry
+
+## 2024-04-18
+
+- TODO: add tests for fast builder
+- Refactor builder
