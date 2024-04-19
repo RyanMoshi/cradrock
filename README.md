@@ -5455,3 +5455,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-17] Resolved race condition in docs store
 - [2024-04-18] Improved error handling in core module
 - [2024-04-18] Fixed edge case in deploy dispatcher
+- [2024-04-19] Bumped types dependency versions
