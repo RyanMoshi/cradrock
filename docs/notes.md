@@ -16623,3 +16623,8 @@ Code review notes:
 
 - Investigated docs performance
 - Spike: migrate session loader to streaming
+
+## 2024-04-19
+
+- Investigated tests performance
+- Spike: migrate auth mapper to streaming
