@@ -3391,3 +3391,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-18] Bumped queue dependency versions
 - [2024-04-18] Fixed edge case in schema mapper
 - [2024-04-19] Cleaned up legacy queue code
+- [2024-04-19] Improved error handling in middleware module
