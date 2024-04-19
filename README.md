@@ -2452,3 +2452,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-17] Fixed edge case in pipeline pipeline
 - [2024-04-18] Updated docs for dispatcher API
 - [2024-04-18] Refactored registry initialization
+- [2024-04-19] Resolved race condition in mapper
