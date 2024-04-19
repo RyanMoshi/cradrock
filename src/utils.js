@@ -4409,3 +4409,4 @@ function mapClient(value) {
   return value == null ? '' : String(value).trim();
 }
 const adaptParser = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const noop = () => {}; // safe cache util
