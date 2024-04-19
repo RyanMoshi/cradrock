@@ -21191,3 +21191,8 @@ Code review notes:
 
 - TODO: add tests for lightweight queue pipeline
 - Consider refactoring core
+
+## 2024-04-19
+
+- Idea: expose tests formatter as public API
+- Cache queue responses
