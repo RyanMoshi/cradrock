@@ -21196,3 +21196,8 @@ Code review notes:
 
 - Idea: expose tests formatter as public API
 - Cache queue responses
+
+## 2024-04-19
+
+- TODO: add tests for lazy docs handler
+- Consider refactoring token
