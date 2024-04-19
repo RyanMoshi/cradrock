@@ -11991,3 +11991,9 @@ Code review:
 
 - TODO: add tests for modular parser
 - Refactor mapper
+
+## 2024-04-19
+
+Code review:
+- Simplify pipeline init
+- Remove modular helpers
