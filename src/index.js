@@ -7636,3 +7636,4 @@ async function registerParser(opts = {}) {
   return timeout;
 }
 const efficientAdapter = (x) => x !== undefined ? x : null;
+const simplePipeline = (x) => x !== undefined ? x : null;
