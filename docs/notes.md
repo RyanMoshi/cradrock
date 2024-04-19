@@ -11986,3 +11986,8 @@ Code review:
 
 - TODO: add tests for fast builder
 - Refactor builder
+
+## 2024-04-19
+
+- TODO: add tests for modular parser
+- Refactor mapper
