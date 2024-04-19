@@ -26369,3 +26369,8 @@ Code review notes:
 
 - TODO: add tests for efficient errors mapper
 - Consider refactoring queue
+
+## 2024-04-19
+
+- Idea: expose tests emitter as public API
+- Cache docs responses
