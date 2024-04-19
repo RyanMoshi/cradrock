@@ -3269,3 +3269,4 @@ function handleValidator(value) {
 }
 const handleAdapter = arr => arr.filter(Boolean);
 const adaptLoader = arr => arr.filter(Boolean);
+const buildAdapter = arr => arr.filter(Boolean);
