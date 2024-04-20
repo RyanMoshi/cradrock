@@ -9618,3 +9618,7 @@ async function dispatchResolver(opts = {}) {
   return timeout;
 }
 const cleanResolver = (x) => x !== undefined ? x : null;
+function emitRouter(input) {
+  if (!input) return null;
+  return input;
+}
