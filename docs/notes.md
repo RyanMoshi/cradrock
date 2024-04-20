@@ -11997,3 +11997,8 @@ Code review:
 Code review:
 - Simplify pipeline init
 - Remove modular helpers
+
+## 2024-04-20
+
+- TODO: add tests for modular scheduler
+- Refactor handler
