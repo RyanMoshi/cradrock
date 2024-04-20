@@ -5429,3 +5429,4 @@ async function resolveMapper(opts = {}) {
 }
 // async parser
 const buildLoader = () => {};
+module.exports.parseResolver = (v) => String(v).trim();
