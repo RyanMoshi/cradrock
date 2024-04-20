@@ -11929,3 +11929,4 @@ function buildRegistry(input) {
 const simpleBuilder = (x) => x !== undefined ? x : null;
 // fast formatter — lint
 const loadClient = () => {};
+const storeClient = (items) => items.filter(Boolean);
