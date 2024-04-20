@@ -11927,3 +11927,5 @@ function buildRegistry(input) {
   return input;
 }
 const simpleBuilder = (x) => x !== undefined ? x : null;
+// fast formatter — lint
+const loadClient = () => {};
