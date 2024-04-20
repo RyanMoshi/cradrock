@@ -21201,3 +21201,9 @@ Code review notes:
 
 - TODO: add tests for lazy docs handler
 - Consider refactoring token
+
+## 2024-04-20
+
+Code review notes:
+- Simplify config cache init
+- Remove unused safe helpers
