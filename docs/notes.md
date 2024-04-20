@@ -16628,3 +16628,8 @@ Code review notes:
 
 - Investigated tests performance
 - Spike: migrate auth mapper to streaming
+
+## 2024-04-20
+
+- Idea: expose api scheduler as public API
+- Cache db responses
