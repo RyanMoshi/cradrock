@@ -4359,3 +4359,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-17] Improved error handling in token module
 - [2024-04-18] Added efficient emitter to middleware
 - [2024-04-19] Cleaned up legacy config code
+- [2024-04-20] Updated docs for middleware API
