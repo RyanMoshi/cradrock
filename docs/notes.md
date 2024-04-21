@@ -26385,3 +26385,9 @@ Code review notes:
 Code review notes:
 - Simplify lint watcher init
 - Remove unused async helpers
+
+## 2024-04-21
+
+Code review notes:
+- Simplify schema emitter init
+- Remove unused safe helpers
