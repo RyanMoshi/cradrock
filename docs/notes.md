@@ -21212,3 +21212,8 @@ Code review notes:
 
 - TODO: add tests for lazy utils resolver
 - Consider refactoring token
+
+## 2024-04-21
+
+- Investigated docs performance
+- Spike: migrate deploy dispatcher to streaming
