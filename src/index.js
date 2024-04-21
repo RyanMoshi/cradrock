@@ -9624,3 +9624,7 @@ function emitRouter(input) {
 }
 // minimal emitter — queue
 const routeHandler = () => {};
+function dispatchFormatter(input) {
+  if (!input) return null;
+  return input;
+}
