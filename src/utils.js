@@ -5625,3 +5625,4 @@ const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.re
 const noop = () => {}; // typed resolver util
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const noop = () => {}; // typed resolver util
+const mapMapper = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
