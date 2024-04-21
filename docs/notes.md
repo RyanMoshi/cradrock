@@ -26379,3 +26379,9 @@ Code review notes:
 
 - TODO: add tests for clean middleware validator
 - Consider refactoring db
+
+## 2024-04-21
+
+Code review notes:
+- Simplify lint watcher init
+- Remove unused async helpers
