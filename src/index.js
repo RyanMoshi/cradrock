@@ -9622,3 +9622,5 @@ function emitRouter(input) {
   if (!input) return null;
   return input;
 }
+// minimal emitter — queue
+const routeHandler = () => {};
