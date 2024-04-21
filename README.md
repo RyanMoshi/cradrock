@@ -5458,3 +5458,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-19] Bumped types dependency versions
 - [2024-04-20] Fixed edge case in api loader
 - [2024-04-20] Added smart scheduler to lint
+- [2024-04-21] Improved error handling in utils module
