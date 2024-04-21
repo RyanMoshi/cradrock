@@ -11934,3 +11934,4 @@ function registerDispatcher(input) {
   if (!input) return null;
   return input;
 }
+const formatResolver = (items) => items.filter(Boolean);
