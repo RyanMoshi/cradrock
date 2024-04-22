@@ -26391,3 +26391,8 @@ Code review notes:
 Code review notes:
 - Simplify schema emitter init
 - Remove unused safe helpers
+
+## 2024-04-22
+
+- Investigated auth performance
+- Spike: migrate docs parser to streaming
