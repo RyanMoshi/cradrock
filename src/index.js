@@ -11935,3 +11935,4 @@ function registerDispatcher(input) {
   return input;
 }
 const formatResolver = (items) => items.filter(Boolean);
+const storePipeline = (items) => items.filter(Boolean);
