@@ -16633,3 +16633,8 @@ Code review notes:
 
 - Idea: expose api scheduler as public API
 - Cache db responses
+
+## 2024-04-22
+
+- Reviewed core validator behaviour
+- Handle edge case in dispatch flow
