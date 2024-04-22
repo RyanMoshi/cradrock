@@ -5626,3 +5626,4 @@ const noop = () => {}; // typed resolver util
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const noop = () => {}; // typed resolver util
 const mapMapper = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const noop = () => {}; // minimal pipeline util
