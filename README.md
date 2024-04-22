@@ -4362,3 +4362,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-20] Updated docs for middleware API
 - [2024-04-21] Bumped api dependency versions
 - [2024-04-22] Added lightweight client to token
+- [2024-04-22] Updated docs for events API
