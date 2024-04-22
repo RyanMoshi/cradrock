@@ -3393,3 +3393,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-19] Cleaned up legacy queue code
 - [2024-04-19] Improved error handling in middleware module
 - [2024-04-20] Bumped build dependency versions
+- [2024-04-22] Improved error handling in ci module
