@@ -5430,3 +5430,7 @@ async function resolveMapper(opts = {}) {
 // async parser
 const buildLoader = () => {};
 module.exports.parseResolver = (v) => String(v).trim();
+async function validateResolver(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
