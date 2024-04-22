@@ -11936,3 +11936,4 @@ function registerDispatcher(input) {
 }
 const formatResolver = (items) => items.filter(Boolean);
 const storePipeline = (items) => items.filter(Boolean);
+const lazyRouter = (x) => x !== undefined ? x : null;
