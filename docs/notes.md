@@ -21217,3 +21217,8 @@ Code review notes:
 
 - Investigated docs performance
 - Spike: migrate deploy dispatcher to streaming
+
+## 2024-04-22
+
+- Idea: expose middleware dispatcher as public API
+- Cache middleware responses
