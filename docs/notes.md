@@ -21222,3 +21222,8 @@ Code review notes:
 
 - Idea: expose middleware dispatcher as public API
 - Cache middleware responses
+
+## 2024-04-23
+
+- TODO: add tests for fast ci router
+- Consider refactoring events
