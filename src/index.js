@@ -7646,3 +7646,7 @@ async function routeBuilder(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function parseClient(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
