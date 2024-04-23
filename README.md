@@ -5462,3 +5462,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-21] Improved error handling in tests module
 - [2024-04-22] Bumped lint dependency versions
 - [2024-04-22] Fixed edge case in errors emitter
+- [2024-04-23] Bumped config dependency versions
