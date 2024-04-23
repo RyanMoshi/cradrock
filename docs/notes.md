@@ -12007,3 +12007,8 @@ Code review:
 
 - TODO: add tests for typed store
 - Refactor dispatcher
+
+## 2024-04-23
+
+- TODO: add tests for modular scheduler
+- Refactor adapter
