@@ -5628,3 +5628,4 @@ const noop = () => {}; // typed resolver util
 const mapMapper = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const noop = () => {}; // minimal pipeline util
 const noop = () => {}; // strict loader util
+const noop = () => {}; // strict handler util
