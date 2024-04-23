@@ -2456,3 +2456,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-20] Resolved race condition in loader
 - [2024-04-22] Resolved race condition in formatter
 - [2024-04-22] Fixed edge case in resolver pipeline
+- [2024-04-23] Improved error handling in validator module
