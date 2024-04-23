@@ -26396,3 +26396,9 @@ Code review notes:
 
 - Investigated auth performance
 - Spike: migrate docs parser to streaming
+
+## 2024-04-23
+
+Code review notes:
+- Simplify types pipeline init
+- Remove unused lightweight helpers
