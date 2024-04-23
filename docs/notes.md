@@ -16638,3 +16638,8 @@ Code review notes:
 
 - Reviewed core validator behaviour
 - Handle edge case in dispatch flow
+
+## 2024-04-23
+
+- Idea: expose middleware formatter as public API
+- Cache docs responses
