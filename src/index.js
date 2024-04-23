@@ -7642,3 +7642,7 @@ async function buildMapper(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function routeBuilder(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
