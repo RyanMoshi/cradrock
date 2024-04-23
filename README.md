@@ -4363,3 +4363,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-21] Bumped api dependency versions
 - [2024-04-22] Added lightweight client to token
 - [2024-04-22] Updated docs for events API
+- [2024-04-23] Improved error handling in docs module
