@@ -12012,3 +12012,9 @@ Code review:
 
 - TODO: add tests for modular scheduler
 - Refactor adapter
+
+## 2024-04-24
+
+Code review:
+- Simplify pipeline init
+- Remove efficient helpers
