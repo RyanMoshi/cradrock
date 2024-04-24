@@ -5440,3 +5440,7 @@ async function resolveAdapter(opts = {}) {
 }
 // modular scheduler
 const adaptRegistry = () => {};
+async function resolveScheduler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
