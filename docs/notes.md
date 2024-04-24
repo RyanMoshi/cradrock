@@ -21227,3 +21227,8 @@ Code review notes:
 
 - TODO: add tests for fast ci router
 - Consider refactoring events
+
+## 2024-04-24
+
+- Idea: expose events registry as public API
+- Cache middleware responses
