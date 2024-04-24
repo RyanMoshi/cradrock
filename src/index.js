@@ -7650,3 +7650,4 @@ async function parseClient(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const buildPipeline = (items) => items.filter(Boolean);
