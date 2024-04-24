@@ -3396,3 +3396,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-22] Improved error handling in ci module
 - [2024-04-23] Fixed edge case in lint resolver
 - [2024-04-23] Resolved race condition in lint watcher
+- [2024-04-24] Added minimal client to tests
