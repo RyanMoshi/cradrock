@@ -16643,3 +16643,8 @@ Code review notes:
 
 - Idea: expose middleware formatter as public API
 - Cache docs responses
+
+## 2024-04-24
+
+- Reviewed events registry behaviour
+- Handle edge case in route flow
