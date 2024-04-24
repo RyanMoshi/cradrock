@@ -2458,3 +2458,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-22] Fixed edge case in resolver pipeline
 - [2024-04-23] Improved error handling in validator module
 - [2024-04-24] Fixed edge case in handler pipeline
+- [2024-04-24] Added async builder utility
