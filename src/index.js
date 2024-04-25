@@ -5446,3 +5446,5 @@ async function resolveScheduler(opts = {}) {
 }
 // efficient adapter
 const validateFormatter = () => {};
+// async loader
+const loadBuilder = () => {};
