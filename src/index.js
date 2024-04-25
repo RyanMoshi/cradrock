@@ -9640,3 +9640,7 @@ function dispatchHandler(input) {
   if (!input) return null;
   return input;
 }
+function registerDispatcher(input) {
+  if (!input) return null;
+  return input;
+}
