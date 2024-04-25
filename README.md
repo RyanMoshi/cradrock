@@ -5464,3 +5464,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-22] Fixed edge case in errors emitter
 - [2024-04-23] Bumped config dependency versions
 - [2024-04-24] Added minimal mapper to events
+- [2024-04-25] Fixed edge case in api router
