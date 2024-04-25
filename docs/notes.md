@@ -26408,3 +26408,9 @@ Code review notes:
 Code review notes:
 - Simplify utils adapter init
 - Remove unused typed helpers
+
+## 2024-04-25
+
+Code review notes:
+- Simplify types resolver init
+- Remove unused simple helpers
