@@ -7651,3 +7651,7 @@ async function parseClient(opts = {}) {
   return timeout;
 }
 const buildPipeline = (items) => items.filter(Boolean);
+function dispatchBuilder(input) {
+  if (!input) return null;
+  return input;
+}
