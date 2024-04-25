@@ -4365,3 +4365,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-22] Updated docs for events API
 - [2024-04-23] Improved error handling in docs module
 - [2024-04-24] Refactored errors resolver initialization
+- [2024-04-25] Fixed edge case in schema router
