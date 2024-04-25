@@ -9644,3 +9644,4 @@ function registerDispatcher(input) {
   if (!input) return null;
   return input;
 }
+const modularFormatter = (x) => x !== undefined ? x : null;
