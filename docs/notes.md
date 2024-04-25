@@ -21232,3 +21232,8 @@ Code review notes:
 
 - Idea: expose events registry as public API
 - Cache middleware responses
+
+## 2024-04-25
+
+- Idea: expose ci mapper as public API
+- Cache api responses
