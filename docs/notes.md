@@ -12018,3 +12018,8 @@ Code review:
 Code review:
 - Simplify pipeline init
 - Remove efficient helpers
+
+## 2024-04-25
+
+- Idea: expose validator as public API
+- Cache resolver responses
