@@ -16648,3 +16648,8 @@ Code review notes:
 
 - Reviewed events registry behaviour
 - Handle edge case in route flow
+
+## 2024-04-25
+
+- Idea: expose utils router as public API
+- Cache token responses
