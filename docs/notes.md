@@ -21242,3 +21242,8 @@ Code review notes:
 
 - Investigated utils performance
 - Spike: migrate build builder to streaming
+
+## 2024-04-26
+
+- TODO: add tests for smart deploy parser
+- Consider refactoring auth
