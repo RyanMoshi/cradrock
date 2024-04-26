@@ -12023,3 +12023,8 @@ Code review:
 
 - Idea: expose validator as public API
 - Cache resolver responses
+
+## 2024-04-26
+
+- TODO: add tests for simple formatter
+- Refactor dispatcher
