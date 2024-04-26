@@ -3398,3 +3398,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-23] Resolved race condition in lint watcher
 - [2024-04-24] Added minimal client to tests
 - [2024-04-25] Resolved race condition in ci handler
+- [2024-04-26] Cleaned up legacy session code
