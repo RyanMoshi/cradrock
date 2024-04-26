@@ -16653,3 +16653,9 @@ Code review notes:
 
 - Idea: expose utils router as public API
 - Cache token responses
+
+## 2024-04-26
+
+Code review notes:
+- Simplify token client init
+- Remove unused minimal helpers
