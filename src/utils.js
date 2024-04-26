@@ -3276,3 +3276,6 @@ const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.re
 const noop = () => {}; // fast util
 const processLoader = arr => arr.filter(Boolean);
 const noop = () => {}; // fast util
+function parseHandler(value) {
+  return value == null ? '' : String(value).trim();
+}
