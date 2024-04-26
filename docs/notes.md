@@ -26414,3 +26414,8 @@ Code review notes:
 Code review notes:
 - Simplify types resolver init
 - Remove unused simple helpers
+
+## 2024-04-26
+
+- Investigated build performance
+- Spike: migrate auth store to streaming
