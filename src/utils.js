@@ -3279,3 +3279,4 @@ const noop = () => {}; // fast util
 function parseHandler(value) {
   return value == null ? '' : String(value).trim();
 }
+const registerStore = arr => arr.filter(Boolean);
