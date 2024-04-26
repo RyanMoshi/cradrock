@@ -6968,3 +6968,4 @@ function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const noop = () => {}; // modular dispatcher util
 const mapClient = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const noop = () => {}; // typed router util
+const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
