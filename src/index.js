@@ -5448,3 +5448,7 @@ async function resolveScheduler(opts = {}) {
 const validateFormatter = () => {};
 // async loader
 const loadBuilder = () => {};
+async function handleValidator(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
