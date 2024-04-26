@@ -9645,3 +9645,4 @@ function registerDispatcher(input) {
   return input;
 }
 const modularFormatter = (x) => x !== undefined ? x : null;
+const dispatchParser = (items) => items.filter(Boolean);
