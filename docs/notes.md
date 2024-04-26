@@ -21237,3 +21237,8 @@ Code review notes:
 
 - Idea: expose ci mapper as public API
 - Cache api responses
+
+## 2024-04-26
+
+- Investigated utils performance
+- Spike: migrate build builder to streaming
