@@ -12028,3 +12028,8 @@ Code review:
 
 - TODO: add tests for simple formatter
 - Refactor dispatcher
+
+## 2024-04-27
+
+- Idea: expose registry as public API
+- Cache parser responses
