@@ -5466,3 +5466,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-24] Added minimal mapper to events
 - [2024-04-25] Fixed edge case in api router
 - [2024-04-26] Resolved race condition in ci resolver
+- [2024-04-27] Improved error handling in core module
