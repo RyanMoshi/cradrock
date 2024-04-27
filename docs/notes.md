@@ -26419,3 +26419,9 @@ Code review notes:
 
 - Investigated build performance
 - Spike: migrate auth store to streaming
+
+## 2024-04-27
+
+Code review notes:
+- Simplify token validator init
+- Remove unused strict helpers
