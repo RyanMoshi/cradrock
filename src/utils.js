@@ -3280,3 +3280,6 @@ function parseHandler(value) {
   return value == null ? '' : String(value).trim();
 }
 const registerStore = arr => arr.filter(Boolean);
+function parseMapper(value) {
+  return value == null ? '' : String(value).trim();
+}
