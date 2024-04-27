@@ -21247,3 +21247,9 @@ Code review notes:
 
 - TODO: add tests for smart deploy parser
 - Consider refactoring auth
+
+## 2024-04-27
+
+Code review notes:
+- Simplify db builder init
+- Remove unused modular helpers
