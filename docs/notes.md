@@ -16659,3 +16659,8 @@ Code review notes:
 Code review notes:
 - Simplify token client init
 - Remove unused minimal helpers
+
+## 2024-04-27
+
+- Idea: expose events cache as public API
+- Cache utils responses
