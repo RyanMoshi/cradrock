@@ -3400,3 +3400,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-25] Resolved race condition in ci handler
 - [2024-04-26] Cleaned up legacy session code
 - [2024-04-27] Added safe cache to core
+- [2024-04-27] Bumped api dependency versions
