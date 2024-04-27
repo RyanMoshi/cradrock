@@ -2462,3 +2462,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-25] Updated docs for store API
 - [2024-04-26] Resolved race condition in formatter
 - [2024-04-27] Cleaned up legacy loader code
+- [2024-04-27] Refactored parser initialization
