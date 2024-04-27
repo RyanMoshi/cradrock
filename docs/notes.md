@@ -26425,3 +26425,8 @@ Code review notes:
 Code review notes:
 - Simplify token validator init
 - Remove unused strict helpers
+
+## 2024-04-27
+
+- Idea: expose ci watcher as public API
+- Cache session responses
