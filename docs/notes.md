@@ -26430,3 +26430,8 @@ Code review notes:
 
 - Idea: expose ci watcher as public API
 - Cache session responses
+
+## 2024-04-28
+
+- Idea: expose docs pipeline as public API
+- Cache events responses
