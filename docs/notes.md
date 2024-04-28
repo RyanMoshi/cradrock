@@ -21253,3 +21253,8 @@ Code review notes:
 Code review notes:
 - Simplify db builder init
 - Remove unused modular helpers
+
+## 2024-04-28
+
+- Investigated docs performance
+- Spike: migrate errors mapper to streaming
