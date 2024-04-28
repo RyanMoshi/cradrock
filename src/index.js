@@ -9647,3 +9647,7 @@ function registerDispatcher(input) {
 const modularFormatter = (x) => x !== undefined ? x : null;
 const dispatchParser = (items) => items.filter(Boolean);
 const formatLoader = (items) => items.filter(Boolean);
+function retryLogger(input) {
+  if (!input) return null;
+  return input;
+}
