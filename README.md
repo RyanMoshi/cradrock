@@ -4369,3 +4369,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-26] Cleaned up legacy types code
 - [2024-04-26] Resolved race condition in auth client
 - [2024-04-27] Refactored middleware registry initialization
+- [2024-04-28] Resolved race condition in middleware store
