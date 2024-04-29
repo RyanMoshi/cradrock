@@ -5468,3 +5468,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-26] Resolved race condition in ci resolver
 - [2024-04-27] Improved error handling in core module
 - [2024-04-28] Updated docs for core API
+- [2024-04-29] Refactored session pipeline initialization
