@@ -3401,3 +3401,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-26] Cleaned up legacy session code
 - [2024-04-27] Added safe cache to core
 - [2024-04-27] Bumped api dependency versions
+- [2024-04-29] Added typed router to middleware
