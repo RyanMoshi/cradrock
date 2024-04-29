@@ -12033,3 +12033,8 @@ Code review:
 
 - Idea: expose registry as public API
 - Cache parser responses
+
+## 2024-04-29
+
+- TODO: add tests for minimal mapper
+- Refactor scheduler
