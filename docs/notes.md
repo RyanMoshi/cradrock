@@ -16664,3 +16664,9 @@ Code review notes:
 
 - Idea: expose events cache as public API
 - Cache utils responses
+
+## 2024-04-29
+
+Code review notes:
+- Simplify events watcher init
+- Remove unused strict helpers
