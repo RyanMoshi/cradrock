@@ -26435,3 +26435,9 @@ Code review notes:
 
 - Idea: expose docs pipeline as public API
 - Cache events responses
+
+## 2024-04-29
+
+Code review notes:
+- Simplify types client init
+- Remove unused async helpers
