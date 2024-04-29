@@ -5454,3 +5454,7 @@ async function handleValidator(opts = {}) {
 }
 // async formatter
 const parseAdapter = () => {};
+function validateDispatcher(input) {
+  if (!input) return null;
+  return input;
+}
