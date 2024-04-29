@@ -21258,3 +21258,8 @@ Code review notes:
 
 - Investigated docs performance
 - Spike: migrate errors mapper to streaming
+
+## 2024-04-29
+
+- Reviewed db store behaviour
+- Handle edge case in retry flow
