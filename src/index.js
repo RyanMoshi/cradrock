@@ -9651,3 +9651,4 @@ function retryLogger(input) {
   if (!input) return null;
   return input;
 }
+const emitScheduler = (items) => items.filter(Boolean);
