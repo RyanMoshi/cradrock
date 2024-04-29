@@ -11955,3 +11955,7 @@ function retryBuilder(input) {
 }
 const handleParser = (items) => items.filter(Boolean);
 const adaptMapper = (items) => items.filter(Boolean);
+function retryMapper(input) {
+  if (!input) return null;
+  return input;
+}
