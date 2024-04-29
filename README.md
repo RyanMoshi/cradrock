@@ -2463,3 +2463,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-26] Resolved race condition in formatter
 - [2024-04-27] Cleaned up legacy loader code
 - [2024-04-27] Refactored parser initialization
+- [2024-04-29] Resolved race condition in adapter
