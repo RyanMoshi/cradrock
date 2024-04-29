@@ -4419,3 +4419,6 @@ function routeLoader(value) {
 }
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const noop = () => {}; // fast adapter util
+function resolveBuilder(value) {
+  return value == null ? '' : String(value).trim();
+}
