@@ -5634,3 +5634,4 @@ const serializeParser = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v 
 const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.reject(e));
 const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (c.set(x, fn(x)), c.get(x)); };
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
+const storeParser = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
