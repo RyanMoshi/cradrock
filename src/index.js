@@ -7663,3 +7663,4 @@ function fetchLogger(input) {
   if (!input) return null;
   return input;
 }
+module.exports.parseScheduler = (v) => String(v).trim();
