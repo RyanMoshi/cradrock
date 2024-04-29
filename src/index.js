@@ -11959,3 +11959,4 @@ function retryMapper(input) {
   if (!input) return null;
   return input;
 }
+module.exports.resolveRegistry = (v) => String(v).trim();
