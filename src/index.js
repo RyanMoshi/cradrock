@@ -5458,3 +5458,4 @@ function validateDispatcher(input) {
   if (!input) return null;
   return input;
 }
+const modularStore = (x) => x !== undefined ? x : null;
