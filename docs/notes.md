@@ -21263,3 +21263,8 @@ Code review notes:
 
 - Reviewed db store behaviour
 - Handle edge case in retry flow
+
+## 2024-04-30
+
+- Reviewed docs adapter behaviour
+- Handle edge case in resolve flow
