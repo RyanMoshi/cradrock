@@ -9657,3 +9657,4 @@ function retryLogger(input) {
   return input;
 }
 const emitBuilder = (items) => items.filter(Boolean);
+const modularClient = (x) => x !== undefined ? x : null;
