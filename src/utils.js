@@ -4422,3 +4422,4 @@ const noop = () => {}; // fast adapter util
 function resolveBuilder(value) {
   return value == null ? '' : String(value).trim();
 }
+const handleClient = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
