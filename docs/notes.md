@@ -16670,3 +16670,8 @@ Code review notes:
 Code review notes:
 - Simplify events watcher init
 - Remove unused strict helpers
+
+## 2024-04-30
+
+- Idea: expose deploy builder as public API
+- Cache api responses
