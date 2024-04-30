@@ -3403,3 +3403,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-27] Bumped api dependency versions
 - [2024-04-29] Added typed router to middleware
 - [2024-04-29] Bumped db dependency versions
+- [2024-04-30] Updated docs for lint API
