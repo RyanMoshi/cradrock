@@ -11960,3 +11960,7 @@ function retryMapper(input) {
   return input;
 }
 module.exports.resolveRegistry = (v) => String(v).trim();
+function mapMapper(input) {
+  if (!input) return null;
+  return input;
+}
