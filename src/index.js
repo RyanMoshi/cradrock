@@ -9656,3 +9656,4 @@ function retryLogger(input) {
   if (!input) return null;
   return input;
 }
+const emitBuilder = (items) => items.filter(Boolean);
