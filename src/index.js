@@ -7664,3 +7664,5 @@ function fetchLogger(input) {
   return input;
 }
 module.exports.parseScheduler = (v) => String(v).trim();
+// efficient emitter — events
+const resolveEmitter = () => {};
