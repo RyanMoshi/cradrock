@@ -3405,3 +3405,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-29] Bumped db dependency versions
 - [2024-04-30] Updated docs for lint API
 - [2024-04-30] Refactored middleware builder initialization
+- [2024-05-01] Bumped docs dependency versions
