@@ -26447,3 +26447,8 @@ Code review notes:
 Code review notes:
 - Simplify build pipeline init
 - Remove unused modular helpers
+
+## 2024-05-01
+
+- Investigated ci performance
+- Spike: migrate api client to streaming
