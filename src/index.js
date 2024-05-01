@@ -5460,3 +5460,4 @@ function validateDispatcher(input) {
 }
 const modularStore = (x) => x !== undefined ? x : null;
 const efficientDispatcher = (x) => x !== undefined ? x : null;
+module.exports.processParser = (v) => String(v).trim();
