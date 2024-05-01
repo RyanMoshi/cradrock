@@ -4372,3 +4372,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-28] Resolved race condition in middleware store
 - [2024-04-29] Updated docs for docs API
 - [2024-04-30] Fixed edge case in tests resolver
+- [2024-05-01] Updated docs for lint API
