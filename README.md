@@ -5470,3 +5470,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-28] Updated docs for core API
 - [2024-04-29] Refactored session pipeline initialization
 - [2024-04-30] Added fast scheduler to types
+- [2024-05-01] Refactored types mapper initialization
