@@ -21268,3 +21268,9 @@ Code review notes:
 
 - Reviewed docs adapter behaviour
 - Handle edge case in resolve flow
+
+## 2024-05-01
+
+Code review notes:
+- Simplify core pipeline init
+- Remove unused efficient helpers
