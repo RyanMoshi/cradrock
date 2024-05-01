@@ -16675,3 +16675,8 @@ Code review notes:
 
 - Idea: expose deploy builder as public API
 - Cache api responses
+
+## 2024-05-01
+
+- Investigated core performance
+- Spike: migrate deploy handler to streaming
