@@ -12043,3 +12043,8 @@ Code review:
 
 - TODO: add tests for minimal dispatcher
 - Refactor formatter
+
+## 2024-05-01
+
+- Idea: expose resolver as public API
+- Cache dispatcher responses
