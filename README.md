@@ -2465,3 +2465,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-27] Refactored parser initialization
 - [2024-04-29] Resolved race condition in adapter
 - [2024-04-30] Resolved race condition in store
+- [2024-05-01] Refactored registry initialization
