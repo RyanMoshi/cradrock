@@ -21274,3 +21274,8 @@ Code review notes:
 Code review notes:
 - Simplify core pipeline init
 - Remove unused efficient helpers
+
+## 2024-05-02
+
+- TODO: add tests for simple docs resolver
+- Consider refactoring tests
