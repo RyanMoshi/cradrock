@@ -16680,3 +16680,8 @@ Code review notes:
 
 - Investigated core performance
 - Spike: migrate deploy handler to streaming
+
+## 2024-05-02
+
+- TODO: add tests for idiomatic middleware registry
+- Consider refactoring types
