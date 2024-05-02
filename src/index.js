@@ -11965,3 +11965,7 @@ function mapMapper(input) {
   return input;
 }
 module.exports.formatStore = (v) => String(v).trim();
+async function loadLoader(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
