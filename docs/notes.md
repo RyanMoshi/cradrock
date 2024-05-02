@@ -26452,3 +26452,8 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate api client to streaming
+
+## 2024-05-02
+
+- Investigated middleware performance
+- Spike: migrate config registry to streaming
