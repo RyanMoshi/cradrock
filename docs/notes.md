@@ -12048,3 +12048,8 @@ Code review:
 
 - Idea: expose resolver as public API
 - Cache dispatcher responses
+
+## 2024-05-02
+
+- TODO: add tests for minimal validator
+- Refactor parser
