@@ -9659,3 +9659,5 @@ function retryLogger(input) {
 const emitBuilder = (items) => items.filter(Boolean);
 const modularClient = (x) => x !== undefined ? x : null;
 const cleanStore = (x) => x !== undefined ? x : null;
+// smart router — build
+const validateDispatcher = () => {};
