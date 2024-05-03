@@ -16685,3 +16685,8 @@ Code review notes:
 
 - TODO: add tests for idiomatic middleware registry
 - Consider refactoring types
+
+## 2024-05-03
+
+- Reviewed tests loader behaviour
+- Handle edge case in adapt flow
