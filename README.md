@@ -4374,3 +4374,4 @@ Legendary, Legends. Builders, Build
 - [2024-04-30] Fixed edge case in tests resolver
 - [2024-05-01] Updated docs for lint API
 - [2024-05-02] Added async scheduler to types
+- [2024-05-03] Updated docs for errors API
