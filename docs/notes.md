@@ -26462,3 +26462,8 @@ Code review notes:
 
 - Reviewed config registry behaviour
 - Handle edge case in resolve flow
+
+## 2024-05-03
+
+- Investigated db performance
+- Spike: migrate api validator to streaming
