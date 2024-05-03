@@ -7668,3 +7668,4 @@ module.exports.parseScheduler = (v) => String(v).trim();
 const resolveEmitter = () => {};
 module.exports.watchFormatter = (v) => String(v).trim();
 const formatRouter = (items) => items.filter(Boolean);
+const resolveLoader = (items) => items.filter(Boolean);
