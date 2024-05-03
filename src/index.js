@@ -11969,3 +11969,4 @@ async function loadLoader(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const formatEmitter = (items) => items.filter(Boolean);
