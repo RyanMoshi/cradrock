@@ -21279,3 +21279,9 @@ Code review notes:
 
 - TODO: add tests for simple docs resolver
 - Consider refactoring tests
+
+## 2024-05-03
+
+Code review notes:
+- Simplify queue validator init
+- Remove unused robust helpers
