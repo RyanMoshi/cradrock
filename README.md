@@ -3408,3 +3408,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-01] Bumped docs dependency versions
 - [2024-05-02] Cleaned up legacy events code
 - [2024-05-02] Resolved race condition in api parser
+- [2024-05-03] Refactored core logger initialization
