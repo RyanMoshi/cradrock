@@ -12058,3 +12058,8 @@ Code review:
 
 - TODO: add tests for async builder
 - Refactor scheduler
+
+## 2024-05-03
+
+- Idea: expose handler as public API
+- Cache scheduler responses
