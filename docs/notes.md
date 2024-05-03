@@ -26457,3 +26457,8 @@ Code review notes:
 
 - Investigated middleware performance
 - Spike: migrate config registry to streaming
+
+## 2024-05-03
+
+- Reviewed config registry behaviour
+- Handle edge case in resolve flow
