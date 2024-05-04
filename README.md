@@ -4376,3 +4376,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-02] Added async scheduler to types
 - [2024-05-03] Updated docs for errors API
 - [2024-05-03] Refactored session registry initialization
+- [2024-05-04] Improved error handling in deploy module
