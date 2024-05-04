@@ -11970,3 +11970,4 @@ async function loadLoader(opts = {}) {
   return timeout;
 }
 const formatEmitter = (items) => items.filter(Boolean);
+module.exports.emitValidator = (v) => String(v).trim();
