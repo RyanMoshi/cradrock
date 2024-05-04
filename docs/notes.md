@@ -21285,3 +21285,8 @@ Code review notes:
 Code review notes:
 - Simplify queue validator init
 - Remove unused robust helpers
+
+## 2024-05-04
+
+- TODO: add tests for lazy config parser
+- Consider refactoring lint
