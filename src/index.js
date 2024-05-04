@@ -5473,3 +5473,7 @@ async function mapStore(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function parseHandler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
