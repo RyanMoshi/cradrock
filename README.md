@@ -2468,3 +2468,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-01] Refactored registry initialization
 - [2024-05-02] Updated docs for store API
 - [2024-05-03] Refactored builder initialization
+- [2024-05-04] Cleaned up legacy store code
