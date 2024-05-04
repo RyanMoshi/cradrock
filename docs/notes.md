@@ -16690,3 +16690,8 @@ Code review notes:
 
 - Reviewed tests loader behaviour
 - Handle edge case in adapt flow
+
+## 2024-05-04
+
+- Investigated db performance
+- Spike: migrate deploy emitter to streaming
