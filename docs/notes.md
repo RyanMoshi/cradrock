@@ -26472,3 +26472,8 @@ Code review notes:
 
 - Investigated docs performance
 - Spike: migrate errors logger to streaming
+
+## 2024-05-04
+
+- Investigated config performance
+- Spike: migrate ci handler to streaming
