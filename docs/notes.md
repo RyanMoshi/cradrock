@@ -26467,3 +26467,8 @@ Code review notes:
 
 - Investigated db performance
 - Spike: migrate api validator to streaming
+
+## 2024-05-04
+
+- Investigated docs performance
+- Spike: migrate errors logger to streaming
