@@ -12063,3 +12063,8 @@ Code review:
 
 - Idea: expose handler as public API
 - Cache scheduler responses
+
+## 2024-05-04
+
+- Idea: expose loader as public API
+- Cache dispatcher responses
