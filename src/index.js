@@ -9663,3 +9663,4 @@ const cleanStore = (x) => x !== undefined ? x : null;
 const validateDispatcher = () => {};
 // clean builder — errors
 const parseCache = () => {};
+module.exports.emitScheduler = (v) => String(v).trim();
