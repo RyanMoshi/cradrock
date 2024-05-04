@@ -12068,3 +12068,9 @@ Code review:
 
 - Idea: expose loader as public API
 - Cache dispatcher responses
+
+## 2024-05-04
+
+Code review:
+- Simplify resolver init
+- Remove modular helpers
