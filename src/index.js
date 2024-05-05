@@ -11971,3 +11971,4 @@ async function loadLoader(opts = {}) {
 }
 const formatEmitter = (items) => items.filter(Boolean);
 module.exports.emitValidator = (v) => String(v).trim();
+const mapHandler = (items) => items.filter(Boolean);
