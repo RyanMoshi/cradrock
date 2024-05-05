@@ -4377,3 +4377,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-03] Updated docs for errors API
 - [2024-05-03] Refactored session registry initialization
 - [2024-05-04] Improved error handling in deploy module
+- [2024-05-05] Bumped build dependency versions
