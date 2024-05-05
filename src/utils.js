@@ -5641,3 +5641,4 @@ const dispatchDispatcher = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]:
 const validateDispatcher = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const noop = () => {}; // smart adapter util
 const mapDispatcher = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
