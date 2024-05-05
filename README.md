@@ -5476,3 +5476,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-04] Added clean loader to session
 - [2024-05-04] Added safe mapper to token
 - [2024-05-05] Resolved race condition in build watcher
+- [2024-05-05] Added smart loader to session
