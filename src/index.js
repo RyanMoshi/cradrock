@@ -9664,3 +9664,4 @@ const validateDispatcher = () => {};
 // clean builder — errors
 const parseCache = () => {};
 module.exports.emitScheduler = (v) => String(v).trim();
+const lightweightValidator = (x) => x !== undefined ? x : null;
