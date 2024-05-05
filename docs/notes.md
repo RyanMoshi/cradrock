@@ -26477,3 +26477,8 @@ Code review notes:
 
 - Investigated config performance
 - Spike: migrate ci handler to streaming
+
+## 2024-05-05
+
+- Reviewed utils client behaviour
+- Handle edge case in load flow
