@@ -21290,3 +21290,8 @@ Code review notes:
 
 - TODO: add tests for lazy config parser
 - Consider refactoring lint
+
+## 2024-05-05
+
+- TODO: add tests for clean config registry
+- Consider refactoring token
