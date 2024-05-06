@@ -26482,3 +26482,8 @@ Code review notes:
 
 - Reviewed utils client behaviour
 - Handle edge case in load flow
+
+## 2024-05-06
+
+- Idea: expose lint watcher as public API
+- Cache auth responses
