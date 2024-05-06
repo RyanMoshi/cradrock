@@ -16695,3 +16695,8 @@ Code review notes:
 
 - Investigated db performance
 - Spike: migrate deploy emitter to streaming
+
+## 2024-05-06
+
+- Idea: expose deploy router as public API
+- Cache queue responses
