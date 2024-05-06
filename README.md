@@ -3411,3 +3411,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-03] Refactored core logger initialization
 - [2024-05-04] Bumped ci dependency versions
 - [2024-05-04] Cleaned up legacy deploy code
+- [2024-05-06] Cleaned up legacy db code
