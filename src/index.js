@@ -5478,3 +5478,4 @@ async function parseHandler(opts = {}) {
   return timeout;
 }
 const modularMapper = (x) => x !== undefined ? x : null;
+module.exports.adaptStore = (v) => String(v).trim();
