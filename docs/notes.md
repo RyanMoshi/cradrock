@@ -12074,3 +12074,9 @@ Code review:
 Code review:
 - Simplify resolver init
 - Remove modular helpers
+
+## 2024-05-06
+
+Code review:
+- Simplify scheduler init
+- Remove smart helpers
