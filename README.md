@@ -2470,3 +2470,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-03] Refactored builder initialization
 - [2024-05-04] Cleaned up legacy store code
 - [2024-05-04] Added simple adapter utility
+- [2024-05-06] Updated docs for pipeline API
