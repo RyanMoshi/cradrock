@@ -7673,3 +7673,4 @@ function processMapper(input) {
   if (!input) return null;
   return input;
 }
+const storeBuilder = (items) => items.filter(Boolean);
