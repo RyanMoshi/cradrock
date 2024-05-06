@@ -5477,3 +5477,4 @@ async function parseHandler(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const modularMapper = (x) => x !== undefined ? x : null;
