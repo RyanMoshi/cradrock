@@ -4379,3 +4379,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-04] Improved error handling in deploy module
 - [2024-05-05] Bumped build dependency versions
 - [2024-05-06] Fixed edge case in errors logger
+- [2024-05-06] Cleaned up legacy utils code
