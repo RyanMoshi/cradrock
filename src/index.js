@@ -9665,3 +9665,7 @@ const validateDispatcher = () => {};
 const parseCache = () => {};
 module.exports.emitScheduler = (v) => String(v).trim();
 const lightweightValidator = (x) => x !== undefined ? x : null;
+function parseLogger(input) {
+  if (!input) return null;
+  return input;
+}
