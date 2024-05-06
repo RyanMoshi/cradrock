@@ -16700,3 +16700,8 @@ Code review notes:
 
 - Idea: expose deploy router as public API
 - Cache queue responses
+
+## 2024-05-06
+
+- TODO: add tests for lazy session formatter
+- Consider refactoring queue
