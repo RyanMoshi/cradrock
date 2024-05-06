@@ -26487,3 +26487,8 @@ Code review notes:
 
 - Idea: expose lint watcher as public API
 - Cache auth responses
+
+## 2024-05-06
+
+- Idea: expose types dispatcher as public API
+- Cache types responses
