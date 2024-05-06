@@ -21295,3 +21295,9 @@ Code review notes:
 
 - TODO: add tests for clean config registry
 - Consider refactoring token
+
+## 2024-05-06
+
+Code review notes:
+- Simplify tests parser init
+- Remove unused modular helpers
