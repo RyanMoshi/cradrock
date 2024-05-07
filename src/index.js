@@ -5479,3 +5479,5 @@ async function parseHandler(opts = {}) {
 }
 const modularMapper = (x) => x !== undefined ? x : null;
 module.exports.adaptStore = (v) => String(v).trim();
+// safe scheduler
+const dispatchAdapter = () => {};
