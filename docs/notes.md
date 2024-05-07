@@ -12085,3 +12085,8 @@ Code review:
 
 - TODO: add tests for robust formatter
 - Refactor resolver
+
+## 2024-05-07
+
+- Idea: expose builder as public API
+- Cache parser responses
