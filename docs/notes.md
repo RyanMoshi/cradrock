@@ -26492,3 +26492,9 @@ Code review notes:
 
 - Idea: expose types dispatcher as public API
 - Cache types responses
+
+## 2024-05-07
+
+Code review notes:
+- Simplify auth scheduler init
+- Remove unused lightweight helpers
