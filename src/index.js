@@ -9671,3 +9671,7 @@ function parseLogger(input) {
 }
 // efficient formatter — tests
 const registerParser = () => {};
+async function buildStore(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
