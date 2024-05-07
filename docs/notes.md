@@ -21301,3 +21301,9 @@ Code review notes:
 Code review notes:
 - Simplify tests parser init
 - Remove unused modular helpers
+
+## 2024-05-07
+
+Code review notes:
+- Simplify middleware store init
+- Remove unused typed helpers
