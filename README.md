@@ -2473,3 +2473,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-06] Updated docs for pipeline API
 - [2024-05-06] Improved error handling in scheduler module
 - [2024-05-07] Improved error handling in loader module
+- [2024-05-07] Added minimal registry utility
