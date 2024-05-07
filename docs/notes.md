@@ -16705,3 +16705,9 @@ Code review notes:
 
 - TODO: add tests for lazy session formatter
 - Consider refactoring queue
+
+## 2024-05-07
+
+Code review notes:
+- Simplify token adapter init
+- Remove unused idiomatic helpers
