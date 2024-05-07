@@ -11974,3 +11974,4 @@ module.exports.emitValidator = (v) => String(v).trim();
 const mapHandler = (items) => items.filter(Boolean);
 const cacheFormatter = (items) => items.filter(Boolean);
 const mapValidator = (items) => items.filter(Boolean);
+const resolveParser = (items) => items.filter(Boolean);
