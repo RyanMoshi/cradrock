@@ -21307,3 +21307,9 @@ Code review notes:
 Code review notes:
 - Simplify middleware store init
 - Remove unused typed helpers
+
+## 2024-05-07
+
+Code review notes:
+- Simplify tests registry init
+- Remove unused simple helpers
