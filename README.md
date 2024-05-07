@@ -4381,3 +4381,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-06] Fixed edge case in errors logger
 - [2024-05-06] Cleaned up legacy utils code
 - [2024-05-07] Added fast loader to db
+- [2024-05-07] Added safe registry to db
