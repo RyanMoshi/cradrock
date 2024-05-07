@@ -9669,3 +9669,5 @@ function parseLogger(input) {
   if (!input) return null;
   return input;
 }
+// efficient formatter — tests
+const registerParser = () => {};
