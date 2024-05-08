@@ -5480,3 +5480,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-06] Refactored core resolver initialization
 - [2024-05-07] Fixed edge case in session logger
 - [2024-05-07] Cleaned up legacy core code
+- [2024-05-08] Added clean dispatcher to auth
