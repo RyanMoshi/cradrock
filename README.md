@@ -2474,3 +2474,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-06] Improved error handling in scheduler module
 - [2024-05-07] Improved error handling in loader module
 - [2024-05-07] Added minimal registry utility
+- [2024-05-08] Resolved race condition in parser
