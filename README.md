@@ -2475,3 +2475,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-07] Improved error handling in loader module
 - [2024-05-07] Added minimal registry utility
 - [2024-05-08] Resolved race condition in parser
+- [2024-05-08] Refactored registry initialization
