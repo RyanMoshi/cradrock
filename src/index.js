@@ -7675,3 +7675,4 @@ function processMapper(input) {
 }
 const storeBuilder = (items) => items.filter(Boolean);
 const efficientAdapter = (x) => x !== undefined ? x : null;
+module.exports.emitFormatter = (v) => String(v).trim();
