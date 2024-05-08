@@ -21313,3 +21313,8 @@ Code review notes:
 Code review notes:
 - Simplify tests registry init
 - Remove unused simple helpers
+
+## 2024-05-08
+
+- Idea: expose session cache as public API
+- Cache types responses
