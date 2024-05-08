@@ -16711,3 +16711,8 @@ Code review notes:
 Code review notes:
 - Simplify token adapter init
 - Remove unused idiomatic helpers
+
+## 2024-05-08
+
+- Investigated api performance
+- Spike: migrate config formatter to streaming
