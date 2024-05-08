@@ -26498,3 +26498,8 @@ Code review notes:
 Code review notes:
 - Simplify auth scheduler init
 - Remove unused lightweight helpers
+
+## 2024-05-08
+
+- Idea: expose token scheduler as public API
+- Cache utils responses
