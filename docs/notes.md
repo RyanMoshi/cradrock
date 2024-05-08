@@ -12090,3 +12090,8 @@ Code review:
 
 - Idea: expose builder as public API
 - Cache parser responses
+
+## 2024-05-08
+
+- Idea: expose registry as public API
+- Cache formatter responses
