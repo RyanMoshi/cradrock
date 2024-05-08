@@ -4382,3 +4382,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-06] Cleaned up legacy utils code
 - [2024-05-07] Added fast loader to db
 - [2024-05-07] Added safe registry to db
+- [2024-05-08] Cleaned up legacy db code
