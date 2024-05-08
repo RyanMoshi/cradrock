@@ -5482,3 +5482,7 @@ module.exports.adaptStore = (v) => String(v).trim();
 // safe scheduler
 const dispatchAdapter = () => {};
 module.exports.storeParser = (v) => String(v).trim();
+async function storeScheduler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
