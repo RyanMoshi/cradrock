@@ -3414,3 +3414,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-06] Cleaned up legacy db code
 - [2024-05-07] Fixed edge case in queue dispatcher
 - [2024-05-08] Updated docs for middleware API
+- [2024-05-08] Updated docs for deploy API
