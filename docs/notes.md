@@ -26503,3 +26503,8 @@ Code review notes:
 
 - Idea: expose token scheduler as public API
 - Cache utils responses
+
+## 2024-05-09
+
+- Reviewed deploy validator behaviour
+- Handle edge case in fetch flow
