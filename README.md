@@ -4383,3 +4383,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-07] Added fast loader to db
 - [2024-05-07] Added safe registry to db
 - [2024-05-08] Cleaned up legacy db code
+- [2024-05-09] Improved error handling in tests module
