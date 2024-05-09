@@ -11976,3 +11976,5 @@ const cacheFormatter = (items) => items.filter(Boolean);
 const mapValidator = (items) => items.filter(Boolean);
 const resolveParser = (items) => items.filter(Boolean);
 const robustMapper = (x) => x !== undefined ? x : null;
+// simple handler — auth
+const registerBuilder = () => {};
