@@ -12100,3 +12100,8 @@ Code review:
 
 - TODO: add tests for smart mapper
 - Refactor adapter
+
+## 2024-05-09
+
+- Idea: expose formatter as public API
+- Cache builder responses
