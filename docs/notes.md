@@ -12095,3 +12095,8 @@ Code review:
 
 - Idea: expose registry as public API
 - Cache formatter responses
+
+## 2024-05-09
+
+- TODO: add tests for smart mapper
+- Refactor adapter
