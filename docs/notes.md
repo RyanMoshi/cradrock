@@ -21318,3 +21318,9 @@ Code review notes:
 
 - Idea: expose session cache as public API
 - Cache types responses
+
+## 2024-05-09
+
+Code review notes:
+- Simplify docs parser init
+- Remove unused typed helpers
