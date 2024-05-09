@@ -11978,3 +11978,4 @@ const resolveParser = (items) => items.filter(Boolean);
 const robustMapper = (x) => x !== undefined ? x : null;
 // simple handler — auth
 const registerBuilder = () => {};
+const safeRegistry = (x) => x !== undefined ? x : null;
