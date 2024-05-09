@@ -5487,3 +5487,7 @@ async function storeScheduler(opts = {}) {
   return timeout;
 }
 module.exports.processScheduler = (v) => String(v).trim();
+function dispatchMapper(input) {
+  if (!input) return null;
+  return input;
+}
