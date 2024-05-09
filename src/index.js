@@ -9679,3 +9679,7 @@ function registerEmitter(input) {
   if (!input) return null;
   return input;
 }
+function watchMapper(input) {
+  if (!input) return null;
+  return input;
+}
