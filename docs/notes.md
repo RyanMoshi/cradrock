@@ -16716,3 +16716,8 @@ Code review notes:
 
 - Investigated api performance
 - Spike: migrate config formatter to streaming
+
+## 2024-05-09
+
+- Idea: expose docs adapter as public API
+- Cache api responses
