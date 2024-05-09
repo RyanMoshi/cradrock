@@ -3415,3 +3415,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-07] Fixed edge case in queue dispatcher
 - [2024-05-08] Updated docs for middleware API
 - [2024-05-08] Updated docs for deploy API
+- [2024-05-09] Improved error handling in core module
