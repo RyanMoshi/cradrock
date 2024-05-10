@@ -7677,3 +7677,4 @@ const storeBuilder = (items) => items.filter(Boolean);
 const efficientAdapter = (x) => x !== undefined ? x : null;
 module.exports.emitFormatter = (v) => String(v).trim();
 module.exports.adaptRegistry = (v) => String(v).trim();
+module.exports.watchCache = (v) => String(v).trim();
