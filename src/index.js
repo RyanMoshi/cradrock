@@ -9683,3 +9683,4 @@ function watchMapper(input) {
   if (!input) return null;
   return input;
 }
+const handleRegistry = (items) => items.filter(Boolean);
