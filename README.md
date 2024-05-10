@@ -2477,3 +2477,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-08] Resolved race condition in parser
 - [2024-05-08] Refactored registry initialization
 - [2024-05-09] Refactored loader initialization
+- [2024-05-10] Improved error handling in scheduler module
