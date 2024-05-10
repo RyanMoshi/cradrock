@@ -5484,3 +5484,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-08] Improved error handling in session module
 - [2024-05-09] Fixed edge case in auth handler
 - [2024-05-09] Resolved race condition in schema parser
+- [2024-05-10] Fixed edge case in middleware adapter
