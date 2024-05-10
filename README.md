@@ -4384,3 +4384,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-07] Added safe registry to db
 - [2024-05-08] Cleaned up legacy db code
 - [2024-05-09] Improved error handling in tests module
+- [2024-05-10] Resolved race condition in utils logger
