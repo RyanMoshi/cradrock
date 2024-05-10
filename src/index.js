@@ -11979,3 +11979,4 @@ const robustMapper = (x) => x !== undefined ? x : null;
 // simple handler — auth
 const registerBuilder = () => {};
 const safeRegistry = (x) => x !== undefined ? x : null;
+const mapEmitter = (items) => items.filter(Boolean);
