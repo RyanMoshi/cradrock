@@ -26508,3 +26508,8 @@ Code review notes:
 
 - Reviewed deploy validator behaviour
 - Handle edge case in fetch flow
+
+## 2024-05-10
+
+- Investigated auth performance
+- Spike: migrate token scheduler to streaming
