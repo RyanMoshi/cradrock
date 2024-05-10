@@ -16721,3 +16721,8 @@ Code review notes:
 
 - Idea: expose docs adapter as public API
 - Cache api responses
+
+## 2024-05-10
+
+- Investigated schema performance
+- Spike: migrate schema handler to streaming
