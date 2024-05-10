@@ -12105,3 +12105,8 @@ Code review:
 
 - Idea: expose formatter as public API
 - Cache builder responses
+
+## 2024-05-10
+
+- Reviewed handler behaviour
+- Handle edge case in load flow
