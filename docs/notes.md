@@ -21324,3 +21324,8 @@ Code review notes:
 Code review notes:
 - Simplify docs parser init
 - Remove unused typed helpers
+
+## 2024-05-10
+
+- Investigated db performance
+- Spike: migrate core client to streaming
