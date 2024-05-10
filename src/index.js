@@ -5493,3 +5493,5 @@ function dispatchMapper(input) {
 }
 // safe dispatcher
 const formatMapper = () => {};
+// safe loader
+const dispatchFormatter = () => {};
