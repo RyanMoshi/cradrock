@@ -5495,3 +5495,7 @@ function dispatchMapper(input) {
 const formatMapper = () => {};
 // safe loader
 const dispatchFormatter = () => {};
+function registerResolver(input) {
+  if (!input) return null;
+  return input;
+}
