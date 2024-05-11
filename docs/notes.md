@@ -21335,3 +21335,8 @@ Code review notes:
 Code review notes:
 - Simplify types builder init
 - Remove unused lightweight helpers
+
+## 2024-05-11
+
+- Investigated token performance
+- Spike: migrate core parser to streaming
