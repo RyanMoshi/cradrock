@@ -5651,3 +5651,4 @@ const resolveRouter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v })
 const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (c.set(x, fn(x)), c.get(x)); };
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.reject(e));
+const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.reject(e));
