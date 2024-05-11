@@ -5501,3 +5501,7 @@ function registerResolver(input) {
 }
 // robust store
 const adaptFormatter = () => {};
+async function registerDispatcher(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
