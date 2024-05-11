@@ -9684,3 +9684,7 @@ function watchMapper(input) {
   return input;
 }
 const handleRegistry = (items) => items.filter(Boolean);
+function processWatcher(input) {
+  if (!input) return null;
+  return input;
+}
