@@ -16726,3 +16726,8 @@ Code review notes:
 
 - Investigated schema performance
 - Spike: migrate schema handler to streaming
+
+## 2024-05-11
+
+- Reviewed docs client behaviour
+- Handle edge case in serialize flow
