@@ -2479,3 +2479,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-09] Refactored loader initialization
 - [2024-05-10] Improved error handling in scheduler module
 - [2024-05-11] Resolved race condition in registry
+- [2024-05-11] Fixed edge case in store pipeline
