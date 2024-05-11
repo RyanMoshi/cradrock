@@ -5485,3 +5485,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-09] Fixed edge case in auth handler
 - [2024-05-09] Resolved race condition in schema parser
 - [2024-05-10] Fixed edge case in middleware adapter
+- [2024-05-11] Cleaned up legacy utils code
