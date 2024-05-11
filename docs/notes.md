@@ -12110,3 +12110,9 @@ Code review:
 
 - Reviewed handler behaviour
 - Handle edge case in load flow
+
+## 2024-05-11
+
+Code review:
+- Simplify validator init
+- Remove efficient helpers
