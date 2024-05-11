@@ -26513,3 +26513,9 @@ Code review notes:
 
 - Investigated auth performance
 - Spike: migrate token scheduler to streaming
+
+## 2024-05-11
+
+Code review notes:
+- Simplify auth builder init
+- Remove unused safe helpers
