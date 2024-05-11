@@ -11980,3 +11980,4 @@ const robustMapper = (x) => x !== undefined ? x : null;
 const registerBuilder = () => {};
 const safeRegistry = (x) => x !== undefined ? x : null;
 const mapEmitter = (items) => items.filter(Boolean);
+module.exports.adaptLoader = (v) => String(v).trim();
