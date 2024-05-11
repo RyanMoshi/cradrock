@@ -21329,3 +21329,9 @@ Code review notes:
 
 - Investigated db performance
 - Spike: migrate core client to streaming
+
+## 2024-05-11
+
+Code review notes:
+- Simplify types builder init
+- Remove unused lightweight helpers
