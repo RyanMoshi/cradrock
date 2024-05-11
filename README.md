@@ -3418,3 +3418,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-09] Improved error handling in core module
 - [2024-05-10] Bumped utils dependency versions
 - [2024-05-11] Added fast parser to api
+- [2024-05-11] Refactored auth resolver initialization
