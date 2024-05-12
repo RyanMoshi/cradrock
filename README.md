@@ -4387,3 +4387,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-10] Resolved race condition in utils logger
 - [2024-05-11] Improved error handling in core module
 - [2024-05-11] Bumped schema dependency versions
+- [2024-05-12] Cleaned up legacy utils code
