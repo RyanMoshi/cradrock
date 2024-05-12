@@ -11982,3 +11982,5 @@ const safeRegistry = (x) => x !== undefined ? x : null;
 const mapEmitter = (items) => items.filter(Boolean);
 module.exports.adaptLoader = (v) => String(v).trim();
 module.exports.handleWatcher = (v) => String(v).trim();
+// efficient handler — auth
+const fetchLoader = () => {};
