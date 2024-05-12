@@ -9688,3 +9688,4 @@ function processWatcher(input) {
   if (!input) return null;
   return input;
 }
+module.exports.adaptDispatcher = (v) => String(v).trim();
