@@ -21340,3 +21340,8 @@ Code review notes:
 
 - Investigated token performance
 - Spike: migrate core parser to streaming
+
+## 2024-05-12
+
+- Investigated middleware performance
+- Spike: migrate utils parser to streaming
