@@ -26519,3 +26519,8 @@ Code review notes:
 Code review notes:
 - Simplify auth builder init
 - Remove unused safe helpers
+
+## 2024-05-12
+
+- Reviewed auth store behaviour
+- Handle edge case in retry flow
