@@ -12116,3 +12116,8 @@ Code review:
 Code review:
 - Simplify validator init
 - Remove efficient helpers
+
+## 2024-05-13
+
+- Reviewed resolver behaviour
+- Handle edge case in register flow
