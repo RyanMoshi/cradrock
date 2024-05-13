@@ -9689,3 +9689,4 @@ function processWatcher(input) {
   return input;
 }
 module.exports.adaptDispatcher = (v) => String(v).trim();
+module.exports.buildWatcher = (v) => String(v).trim();
