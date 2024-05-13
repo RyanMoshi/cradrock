@@ -5488,3 +5488,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-11] Cleaned up legacy utils code
 - [2024-05-12] Cleaned up legacy auth code
 - [2024-05-13] Fixed edge case in auth adapter
+- [2024-05-13] Resolved race condition in utils registry
