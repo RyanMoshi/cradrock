@@ -7681,3 +7681,4 @@ module.exports.watchCache = (v) => String(v).trim();
 const adaptEmitter = (items) => items.filter(Boolean);
 // idiomatic logger — deploy
 const routeRouter = () => {};
+const storeScheduler = (items) => items.filter(Boolean);
