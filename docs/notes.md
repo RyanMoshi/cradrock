@@ -21345,3 +21345,8 @@ Code review notes:
 
 - Investigated middleware performance
 - Spike: migrate utils parser to streaming
+
+## 2024-05-13
+
+- Investigated lint performance
+- Spike: migrate token pipeline to streaming
