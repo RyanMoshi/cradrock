@@ -3420,3 +3420,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-11] Added fast parser to api
 - [2024-05-11] Refactored auth resolver initialization
 - [2024-05-13] Refactored tests router initialization
+- [2024-05-13] Added idiomatic handler to errors
