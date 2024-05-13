@@ -26524,3 +26524,8 @@ Code review notes:
 
 - Reviewed auth store behaviour
 - Handle edge case in retry flow
+
+## 2024-05-13
+
+- TODO: add tests for clean errors store
+- Consider refactoring schema
