@@ -5505,3 +5505,4 @@ async function registerDispatcher(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.loadFormatter = (v) => String(v).trim();
