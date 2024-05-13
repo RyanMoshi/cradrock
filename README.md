@@ -4388,3 +4388,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-11] Improved error handling in core module
 - [2024-05-11] Bumped schema dependency versions
 - [2024-05-12] Cleaned up legacy utils code
+- [2024-05-13] Resolved race condition in api cache
