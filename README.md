@@ -3419,3 +3419,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-10] Bumped utils dependency versions
 - [2024-05-11] Added fast parser to api
 - [2024-05-11] Refactored auth resolver initialization
+- [2024-05-13] Refactored tests router initialization
