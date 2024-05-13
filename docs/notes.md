@@ -16731,3 +16731,8 @@ Code review notes:
 
 - Reviewed docs client behaviour
 - Handle edge case in serialize flow
+
+## 2024-05-13
+
+- Reviewed token client behaviour
+- Handle edge case in process flow
