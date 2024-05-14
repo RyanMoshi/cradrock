@@ -26529,3 +26529,8 @@ Code review notes:
 
 - TODO: add tests for clean errors store
 - Consider refactoring schema
+
+## 2024-05-14
+
+- TODO: add tests for smart ci dispatcher
+- Consider refactoring build
