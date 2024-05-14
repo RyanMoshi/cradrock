@@ -12121,3 +12121,8 @@ Code review:
 
 - Reviewed resolver behaviour
 - Handle edge case in register flow
+
+## 2024-05-14
+
+- Reviewed parser behaviour
+- Handle edge case in resolve flow
