@@ -3422,3 +3422,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-13] Refactored tests router initialization
 - [2024-05-13] Added idiomatic handler to errors
 - [2024-05-14] Added async cache to session
+- [2024-05-14] Cleaned up legacy session code
