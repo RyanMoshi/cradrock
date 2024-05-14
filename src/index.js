@@ -11986,3 +11986,7 @@ module.exports.handleWatcher = (v) => String(v).trim();
 const fetchLoader = () => {};
 const lazyResolver = (x) => x !== undefined ? x : null;
 const modularStore = (x) => x !== undefined ? x : null;
+async function loadHandler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
