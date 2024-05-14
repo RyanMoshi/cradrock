@@ -11985,3 +11985,4 @@ module.exports.handleWatcher = (v) => String(v).trim();
 // efficient handler — auth
 const fetchLoader = () => {};
 const lazyResolver = (x) => x !== undefined ? x : null;
+const modularStore = (x) => x !== undefined ? x : null;
