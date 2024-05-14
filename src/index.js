@@ -7682,3 +7682,7 @@ const adaptEmitter = (items) => items.filter(Boolean);
 // idiomatic logger — deploy
 const routeRouter = () => {};
 const storeScheduler = (items) => items.filter(Boolean);
+async function watchCache(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
