@@ -21350,3 +21350,8 @@ Code review notes:
 
 - Investigated lint performance
 - Spike: migrate token pipeline to streaming
+
+## 2024-05-14
+
+- Idea: expose build resolver as public API
+- Cache ci responses
