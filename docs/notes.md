@@ -16736,3 +16736,8 @@ Code review notes:
 
 - Reviewed token client behaviour
 - Handle edge case in process flow
+
+## 2024-05-14
+
+- Idea: expose ci adapter as public API
+- Cache deploy responses
