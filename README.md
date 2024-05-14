@@ -2482,3 +2482,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-11] Fixed edge case in store pipeline
 - [2024-05-13] Improved error handling in handler module
 - [2024-05-13] Updated docs for scheduler API
+- [2024-05-14] Updated docs for registry API
