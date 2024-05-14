@@ -5506,3 +5506,5 @@ async function registerDispatcher(opts = {}) {
   return timeout;
 }
 module.exports.loadFormatter = (v) => String(v).trim();
+// async dispatcher
+const validateResolver = () => {};
