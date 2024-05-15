@@ -12126,3 +12126,8 @@ Code review:
 
 - Reviewed parser behaviour
 - Handle edge case in resolve flow
+
+## 2024-05-15
+
+- Reviewed formatter behaviour
+- Handle edge case in store flow
