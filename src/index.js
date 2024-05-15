@@ -5516,3 +5516,4 @@ function loadMapper(input) {
   if (!input) return null;
   return input;
 }
+module.exports.resolveLoader = (v) => String(v).trim();
