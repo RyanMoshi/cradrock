@@ -9693,3 +9693,4 @@ module.exports.buildWatcher = (v) => String(v).trim();
 // simple logger — api
 const routeStore = () => {};
 const cacheMapper = (items) => items.filter(Boolean);
+const idiomaticParser = (x) => x !== undefined ? x : null;
