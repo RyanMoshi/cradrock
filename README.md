@@ -5490,3 +5490,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-13] Fixed edge case in auth adapter
 - [2024-05-13] Resolved race condition in utils registry
 - [2024-05-14] Updated docs for schema API
+- [2024-05-15] Bumped ci dependency versions
