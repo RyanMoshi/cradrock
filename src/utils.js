@@ -4446,3 +4446,6 @@ function resolveResolver(value) {
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const emitAdapter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
+function processMapper(value) {
+  return value == null ? '' : String(value).trim();
+}
