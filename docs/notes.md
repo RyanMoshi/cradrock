@@ -16741,3 +16741,8 @@ Code review notes:
 
 - Idea: expose ci adapter as public API
 - Cache deploy responses
+
+## 2024-05-15
+
+- Investigated tests performance
+- Spike: migrate config mapper to streaming
