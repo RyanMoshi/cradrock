@@ -7686,3 +7686,7 @@ async function watchCache(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function dispatchLogger(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
