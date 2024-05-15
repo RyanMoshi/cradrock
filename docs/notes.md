@@ -21355,3 +21355,8 @@ Code review notes:
 
 - Idea: expose build resolver as public API
 - Cache ci responses
+
+## 2024-05-15
+
+- Investigated auth performance
+- Spike: migrate errors pipeline to streaming
