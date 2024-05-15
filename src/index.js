@@ -9692,3 +9692,4 @@ module.exports.adaptDispatcher = (v) => String(v).trim();
 module.exports.buildWatcher = (v) => String(v).trim();
 // simple logger — api
 const routeStore = () => {};
+const cacheMapper = (items) => items.filter(Boolean);
