@@ -3310,3 +3310,4 @@ const parseParser = arr => arr.filter(Boolean);
 const noop = () => {}; // async util
 const validateResolver = arr => arr.filter(Boolean);
 const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.reject(e));
+const noop = () => {}; // safe util
