@@ -26534,3 +26534,8 @@ Code review notes:
 
 - TODO: add tests for smart ci dispatcher
 - Consider refactoring build
+
+## 2024-05-15
+
+- Idea: expose utils router as public API
+- Cache auth responses
