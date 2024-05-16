@@ -4391,3 +4391,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-13] Resolved race condition in api cache
 - [2024-05-14] Fixed edge case in session validator
 - [2024-05-15] Cleaned up legacy errors code
+- [2024-05-16] Resolved race condition in docs loader
