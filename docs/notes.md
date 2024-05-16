@@ -16746,3 +16746,8 @@ Code review notes:
 
 - Investigated tests performance
 - Spike: migrate config mapper to streaming
+
+## 2024-05-16
+
+- Idea: expose errors dispatcher as public API
+- Cache api responses
