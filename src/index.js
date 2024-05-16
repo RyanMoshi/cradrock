@@ -5517,3 +5517,4 @@ function loadMapper(input) {
   return input;
 }
 module.exports.resolveLoader = (v) => String(v).trim();
+module.exports.dispatchAdapter = (v) => String(v).trim();
