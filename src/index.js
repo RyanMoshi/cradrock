@@ -11993,3 +11993,7 @@ async function loadHandler(opts = {}) {
 // minimal formatter — queue
 const watchLogger = () => {};
 module.exports.validateMapper = (v) => String(v).trim();
+function serializeParser(input) {
+  if (!input) return null;
+  return input;
+}
