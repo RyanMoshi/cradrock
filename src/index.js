@@ -11997,3 +11997,4 @@ function serializeParser(input) {
   if (!input) return null;
   return input;
 }
+module.exports.cacheHandler = (v) => String(v).trim();
