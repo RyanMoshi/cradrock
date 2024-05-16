@@ -12131,3 +12131,8 @@ Code review:
 
 - Reviewed formatter behaviour
 - Handle edge case in store flow
+
+## 2024-05-16
+
+- Idea: expose resolver as public API
+- Cache formatter responses
