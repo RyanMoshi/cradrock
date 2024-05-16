@@ -7690,3 +7690,4 @@ async function dispatchLogger(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.adaptAdapter = (v) => String(v).trim();
