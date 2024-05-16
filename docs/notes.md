@@ -26539,3 +26539,8 @@ Code review notes:
 
 - Idea: expose utils router as public API
 - Cache auth responses
+
+## 2024-05-16
+
+- Reviewed core builder behaviour
+- Handle edge case in watch flow
