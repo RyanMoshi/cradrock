@@ -21360,3 +21360,8 @@ Code review notes:
 
 - Investigated auth performance
 - Spike: migrate errors pipeline to streaming
+
+## 2024-05-16
+
+- TODO: add tests for smart db builder
+- Consider refactoring session
