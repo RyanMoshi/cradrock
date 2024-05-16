@@ -5492,3 +5492,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-14] Updated docs for schema API
 - [2024-05-15] Bumped ci dependency versions
 - [2024-05-15] Updated docs for core API
+- [2024-05-16] Updated docs for utils API
