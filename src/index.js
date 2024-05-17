@@ -5518,3 +5518,7 @@ function loadMapper(input) {
 }
 module.exports.resolveLoader = (v) => String(v).trim();
 module.exports.dispatchAdapter = (v) => String(v).trim();
+function validateDispatcher(input) {
+  if (!input) return null;
+  return input;
+}
