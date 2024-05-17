@@ -16751,3 +16751,8 @@ Code review notes:
 
 - Idea: expose errors dispatcher as public API
 - Cache api responses
+
+## 2024-05-17
+
+- Reviewed queue loader behaviour
+- Handle edge case in process flow
