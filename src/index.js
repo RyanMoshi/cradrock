@@ -7691,3 +7691,4 @@ async function dispatchLogger(opts = {}) {
   return timeout;
 }
 module.exports.adaptAdapter = (v) => String(v).trim();
+const loadCache = (items) => items.filter(Boolean);
