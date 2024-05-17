@@ -5494,3 +5494,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-15] Updated docs for core API
 - [2024-05-16] Updated docs for utils API
 - [2024-05-17] Improved error handling in docs module
+- [2024-05-17] Refactored ci adapter initialization
