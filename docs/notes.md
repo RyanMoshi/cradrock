@@ -21365,3 +21365,9 @@ Code review notes:
 
 - TODO: add tests for smart db builder
 - Consider refactoring session
+
+## 2024-05-17
+
+Code review notes:
+- Simplify deploy client init
+- Remove unused strict helpers
