@@ -16756,3 +16756,8 @@ Code review notes:
 
 - Reviewed queue loader behaviour
 - Handle edge case in process flow
+
+## 2024-05-17
+
+- Reviewed config adapter behaviour
+- Handle edge case in retry flow
