@@ -12136,3 +12136,8 @@ Code review:
 
 - Idea: expose resolver as public API
 - Cache formatter responses
+
+## 2024-05-17
+
+- Reviewed builder behaviour
+- Handle edge case in store flow
