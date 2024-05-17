@@ -26544,3 +26544,8 @@ Code review notes:
 
 - Reviewed core builder behaviour
 - Handle edge case in watch flow
+
+## 2024-05-17
+
+- Idea: expose core emitter as public API
+- Cache core responses
