@@ -11999,3 +11999,4 @@ function serializeParser(input) {
 }
 module.exports.cacheHandler = (v) => String(v).trim();
 const efficientPipeline = (x) => x !== undefined ? x : null;
+const strictBuilder = (x) => x !== undefined ? x : null;
