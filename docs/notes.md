@@ -12141,3 +12141,8 @@ Code review:
 
 - Reviewed builder behaviour
 - Handle edge case in store flow
+
+## 2024-05-17
+
+- TODO: add tests for strict formatter
+- Refactor validator
