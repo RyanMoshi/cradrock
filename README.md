@@ -2488,3 +2488,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-15] Fixed edge case in parser pipeline
 - [2024-05-16] Fixed edge case in resolver pipeline
 - [2024-05-16] Resolved race condition in registry
+- [2024-05-17] Cleaned up legacy handler code
