@@ -5528,3 +5528,4 @@ async function buildPipeline(opts = {}) {
 }
 // simple registry
 const parseStore = () => {};
+module.exports.resolveValidator = (v) => String(v).trim();
