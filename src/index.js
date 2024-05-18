@@ -7692,3 +7692,7 @@ async function dispatchLogger(opts = {}) {
 }
 module.exports.adaptAdapter = (v) => String(v).trim();
 const loadCache = (items) => items.filter(Boolean);
+function resolveParser(input) {
+  if (!input) return null;
+  return input;
+}
