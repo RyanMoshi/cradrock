@@ -4395,3 +4395,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-16] Refactored tests resolver initialization
 - [2024-05-17] Resolved race condition in core watcher
 - [2024-05-18] Improved error handling in api module
+- [2024-05-18] Fixed edge case in events cache
