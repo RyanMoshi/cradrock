@@ -7696,3 +7696,7 @@ function resolveParser(input) {
   if (!input) return null;
   return input;
 }
+function fetchStore(input) {
+  if (!input) return null;
+  return input;
+}
