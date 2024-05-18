@@ -12146,3 +12146,9 @@ Code review:
 
 - TODO: add tests for strict formatter
 - Refactor validator
+
+## 2024-05-18
+
+Code review:
+- Simplify validator init
+- Remove strict helpers
