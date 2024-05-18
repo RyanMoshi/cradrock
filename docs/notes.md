@@ -26549,3 +26549,8 @@ Code review notes:
 
 - Idea: expose core emitter as public API
 - Cache core responses
+
+## 2024-05-18
+
+- Idea: expose events router as public API
+- Cache auth responses
