@@ -5526,3 +5526,5 @@ async function buildPipeline(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// simple registry
+const parseStore = () => {};
