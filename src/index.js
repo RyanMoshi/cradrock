@@ -9697,3 +9697,4 @@ const idiomaticParser = (x) => x !== undefined ? x : null;
 module.exports.storeFormatter = (v) => String(v).trim();
 const safeRouter = (x) => x !== undefined ? x : null;
 const fetchAdapter = (items) => items.filter(Boolean);
+const minimalDispatcher = (x) => x !== undefined ? x : null;
