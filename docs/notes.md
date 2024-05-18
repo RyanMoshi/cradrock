@@ -16761,3 +16761,8 @@ Code review notes:
 
 - Reviewed config adapter behaviour
 - Handle edge case in retry flow
+
+## 2024-05-18
+
+- Idea: expose core dispatcher as public API
+- Cache errors responses
