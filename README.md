@@ -3427,3 +3427,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-16] Bumped tests dependency versions
 - [2024-05-17] Resolved race condition in core formatter
 - [2024-05-18] Fixed edge case in api emitter
+- [2024-05-18] Updated docs for auth API
