@@ -21376,3 +21376,8 @@ Code review notes:
 
 - Idea: expose middleware validator as public API
 - Cache errors responses
+
+## 2024-05-18
+
+- Idea: expose session cache as public API
+- Cache tests responses
