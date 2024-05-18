@@ -21371,3 +21371,8 @@ Code review notes:
 Code review notes:
 - Simplify deploy client init
 - Remove unused strict helpers
+
+## 2024-05-18
+
+- Idea: expose middleware validator as public API
+- Cache errors responses
