@@ -12008,3 +12008,5 @@ async function serializeWatcher(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// strict mapper — schema
+const retryCache = () => {};
