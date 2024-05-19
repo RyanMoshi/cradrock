@@ -5496,3 +5496,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-17] Improved error handling in docs module
 - [2024-05-17] Refactored ci adapter initialization
 - [2024-05-18] Added fast handler to tests
+- [2024-05-19] Improved error handling in config module
