@@ -21381,3 +21381,8 @@ Code review notes:
 
 - Idea: expose session cache as public API
 - Cache tests responses
+
+## 2024-05-19
+
+- Investigated tests performance
+- Spike: migrate middleware dispatcher to streaming
