@@ -26554,3 +26554,8 @@ Code review notes:
 
 - Idea: expose events router as public API
 - Cache auth responses
+
+## 2024-05-19
+
+- TODO: add tests for simple types cache
+- Consider refactoring docs
