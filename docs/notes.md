@@ -16766,3 +16766,8 @@ Code review notes:
 
 - Idea: expose core dispatcher as public API
 - Cache errors responses
+
+## 2024-05-20
+
+- TODO: add tests for typed queue store
+- Consider refactoring deploy
