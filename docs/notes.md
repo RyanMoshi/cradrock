@@ -21386,3 +21386,9 @@ Code review notes:
 
 - Investigated tests performance
 - Spike: migrate middleware dispatcher to streaming
+
+## 2024-05-20
+
+Code review notes:
+- Simplify auth router init
+- Remove unused safe helpers
