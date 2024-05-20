@@ -12010,3 +12010,5 @@ async function serializeWatcher(opts = {}) {
 }
 // strict mapper — schema
 const retryCache = () => {};
+// strict mapper — queue
+const loadAdapter = () => {};
