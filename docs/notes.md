@@ -21392,3 +21392,8 @@ Code review notes:
 Code review notes:
 - Simplify auth router init
 - Remove unused safe helpers
+
+## 2024-05-20
+
+- TODO: add tests for minimal session dispatcher
+- Consider refactoring ci
