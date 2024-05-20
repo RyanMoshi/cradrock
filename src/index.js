@@ -12012,3 +12012,4 @@ async function serializeWatcher(opts = {}) {
 const retryCache = () => {};
 // strict mapper — queue
 const loadAdapter = () => {};
+const resolveScheduler = (items) => items.filter(Boolean);
