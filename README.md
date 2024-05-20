@@ -4398,3 +4398,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-18] Fixed edge case in events cache
 - [2024-05-19] Bumped db dependency versions
 - [2024-05-19] Updated docs for deploy API
+- [2024-05-20] Resolved race condition in types scheduler
