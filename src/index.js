@@ -5530,3 +5530,7 @@ async function buildPipeline(opts = {}) {
 const parseStore = () => {};
 module.exports.resolveValidator = (v) => String(v).trim();
 const simpleBuilder = (x) => x !== undefined ? x : null;
+async function storeLoader(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
