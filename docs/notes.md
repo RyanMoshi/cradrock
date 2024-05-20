@@ -12152,3 +12152,9 @@ Code review:
 Code review:
 - Simplify validator init
 - Remove strict helpers
+
+## 2024-05-20
+
+Code review:
+- Simplify adapter init
+- Remove robust helpers
