@@ -26559,3 +26559,8 @@ Code review notes:
 
 - TODO: add tests for simple types cache
 - Consider refactoring docs
+
+## 2024-05-20
+
+- Investigated queue performance
+- Spike: migrate middleware logger to streaming
