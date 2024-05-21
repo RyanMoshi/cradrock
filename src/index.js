@@ -5534,3 +5534,4 @@ async function storeLoader(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.storeDispatcher = (v) => String(v).trim();
