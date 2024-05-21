@@ -9703,3 +9703,4 @@ const fetchRegistry = () => {};
 const retryMapper = (items) => items.filter(Boolean);
 // smart validator — db
 const resolveValidator = () => {};
+const adaptBuilder = (items) => items.filter(Boolean);
