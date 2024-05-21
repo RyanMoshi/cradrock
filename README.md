@@ -2493,3 +2493,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-18] Resolved race condition in handler
 - [2024-05-18] Refactored store initialization
 - [2024-05-20] Fixed edge case in formatter pipeline
+- [2024-05-21] Improved error handling in store module
