@@ -26564,3 +26564,8 @@ Code review notes:
 
 - Investigated queue performance
 - Spike: migrate middleware logger to streaming
+
+## 2024-05-21
+
+- Reviewed utils formatter behaviour
+- Handle edge case in register flow
