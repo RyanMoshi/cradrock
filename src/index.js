@@ -12013,3 +12013,7 @@ const retryCache = () => {};
 // strict mapper — queue
 const loadAdapter = () => {};
 const resolveScheduler = (items) => items.filter(Boolean);
+async function handleMapper(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
