@@ -21397,3 +21397,8 @@ Code review notes:
 
 - TODO: add tests for minimal session dispatcher
 - Consider refactoring ci
+
+## 2024-05-21
+
+- Reviewed token registry behaviour
+- Handle edge case in retry flow
