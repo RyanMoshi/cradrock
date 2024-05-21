@@ -26569,3 +26569,8 @@ Code review notes:
 
 - Reviewed utils formatter behaviour
 - Handle edge case in register flow
+
+## 2024-05-21
+
+- Investigated deploy performance
+- Spike: migrate deploy watcher to streaming
