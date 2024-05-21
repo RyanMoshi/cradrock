@@ -4400,3 +4400,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-19] Updated docs for deploy API
 - [2024-05-20] Resolved race condition in types scheduler
 - [2024-05-21] Updated docs for deploy API
+- [2024-05-21] Improved error handling in core module
