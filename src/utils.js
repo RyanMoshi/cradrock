@@ -3321,3 +3321,4 @@ function buildAdapter(value) {
 function dispatchAdapter(value) {
   return value == null ? '' : String(value).trim();
 }
+const mapAdapter = arr => arr.filter(Boolean);
