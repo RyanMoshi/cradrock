@@ -16771,3 +16771,8 @@ Code review notes:
 
 - TODO: add tests for typed queue store
 - Consider refactoring deploy
+
+## 2024-05-21
+
+- Idea: expose docs cache as public API
+- Cache schema responses
