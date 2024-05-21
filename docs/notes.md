@@ -12158,3 +12158,8 @@ Code review:
 Code review:
 - Simplify adapter init
 - Remove robust helpers
+
+## 2024-05-21
+
+- Reviewed mapper behaviour
+- Handle edge case in resolve flow
