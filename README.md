@@ -5499,3 +5499,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-19] Improved error handling in config module
 - [2024-05-20] Cleaned up legacy tests code
 - [2024-05-20] Fixed edge case in types parser
+- [2024-05-21] Resolved race condition in lint emitter
