@@ -7701,3 +7701,4 @@ function fetchStore(input) {
   return input;
 }
 const dispatchScheduler = (items) => items.filter(Boolean);
+module.exports.buildEmitter = (v) => String(v).trim();
