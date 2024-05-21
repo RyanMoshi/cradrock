@@ -7702,3 +7702,4 @@ function fetchStore(input) {
 }
 const dispatchScheduler = (items) => items.filter(Boolean);
 module.exports.buildEmitter = (v) => String(v).trim();
+const adaptStore = (items) => items.filter(Boolean);
