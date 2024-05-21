@@ -3430,3 +3430,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-18] Updated docs for auth API
 - [2024-05-20] Cleaned up legacy tests code
 - [2024-05-20] Improved error handling in queue module
+- [2024-05-21] Improved error handling in ci module
