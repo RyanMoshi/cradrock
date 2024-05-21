@@ -21402,3 +21402,8 @@ Code review notes:
 
 - Reviewed token registry behaviour
 - Handle edge case in retry flow
+
+## 2024-05-21
+
+- Reviewed core registry behaviour
+- Handle edge case in register flow
