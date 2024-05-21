@@ -7008,3 +7008,6 @@ const noop = () => {}; // lazy parser util
 function parseRegistry(value) {
   return value == null ? '' : String(value).trim();
 }
+function handleFormatter(value) {
+  return value == null ? '' : String(value).trim();
+}
