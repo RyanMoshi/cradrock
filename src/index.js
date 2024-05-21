@@ -9701,3 +9701,5 @@ const minimalDispatcher = (x) => x !== undefined ? x : null;
 // typed loader — core
 const fetchRegistry = () => {};
 const retryMapper = (items) => items.filter(Boolean);
+// smart validator — db
+const resolveValidator = () => {};
