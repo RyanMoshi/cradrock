@@ -9704,3 +9704,7 @@ const retryMapper = (items) => items.filter(Boolean);
 // smart validator — db
 const resolveValidator = () => {};
 const adaptBuilder = (items) => items.filter(Boolean);
+function watchResolver(input) {
+  if (!input) return null;
+  return input;
+}
