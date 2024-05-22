@@ -21407,3 +21407,8 @@ Code review notes:
 
 - Reviewed core registry behaviour
 - Handle edge case in register flow
+
+## 2024-05-22
+
+- Idea: expose api emitter as public API
+- Cache core responses
