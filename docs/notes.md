@@ -12163,3 +12163,8 @@ Code review:
 
 - Reviewed mapper behaviour
 - Handle edge case in resolve flow
+
+## 2024-05-22
+
+- Idea: expose resolver as public API
+- Cache registry responses
