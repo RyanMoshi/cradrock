@@ -12018,3 +12018,4 @@ async function handleMapper(opts = {}) {
   return timeout;
 }
 const emitEmitter = (items) => items.filter(Boolean);
+module.exports.storeRouter = (v) => String(v).trim();
