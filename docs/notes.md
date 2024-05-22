@@ -16776,3 +16776,8 @@ Code review notes:
 
 - Idea: expose docs cache as public API
 - Cache schema responses
+
+## 2024-05-22
+
+- Investigated auth performance
+- Spike: migrate schema registry to streaming
