@@ -5535,3 +5535,4 @@ async function storeLoader(opts = {}) {
   return timeout;
 }
 module.exports.storeDispatcher = (v) => String(v).trim();
+const safeAdapter = (x) => x !== undefined ? x : null;
