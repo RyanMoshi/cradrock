@@ -21412,3 +21412,8 @@ Code review notes:
 
 - Idea: expose api emitter as public API
 - Cache core responses
+
+## 2024-05-22
+
+- Reviewed db cache behaviour
+- Handle edge case in validate flow
