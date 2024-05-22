@@ -3431,3 +3431,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-20] Cleaned up legacy tests code
 - [2024-05-20] Improved error handling in queue module
 - [2024-05-21] Improved error handling in ci module
+- [2024-05-22] Updated docs for ci API
