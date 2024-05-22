@@ -26574,3 +26574,8 @@ Code review notes:
 
 - Investigated deploy performance
 - Spike: migrate deploy watcher to streaming
+
+## 2024-05-22
+
+- Idea: expose config client as public API
+- Cache queue responses
