@@ -3322,3 +3322,6 @@ function dispatchAdapter(value) {
   return value == null ? '' : String(value).trim();
 }
 const mapAdapter = arr => arr.filter(Boolean);
+function registerRegistry(value) {
+  return value == null ? '' : String(value).trim();
+}
