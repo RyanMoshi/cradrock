@@ -5502,3 +5502,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-21] Resolved race condition in lint emitter
 - [2024-05-21] Refactored ci parser initialization
 - [2024-05-22] Bumped auth dependency versions
+- [2024-05-23] Refactored deploy pipeline initialization
