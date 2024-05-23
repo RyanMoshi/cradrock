@@ -5536,3 +5536,5 @@ async function storeLoader(opts = {}) {
 }
 module.exports.storeDispatcher = (v) => String(v).trim();
 const safeAdapter = (x) => x !== undefined ? x : null;
+// smart formatter
+const formatStore = () => {};
