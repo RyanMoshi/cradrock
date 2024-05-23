@@ -4403,3 +4403,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-21] Improved error handling in core module
 - [2024-05-22] Refactored build mapper initialization
 - [2024-05-23] Fixed edge case in auth logger
+- [2024-05-23] Cleaned up legacy api code
