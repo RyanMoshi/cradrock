@@ -9712,3 +9712,7 @@ async function watchMapper(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+function buildDispatcher(input) {
+  if (!input) return null;
+  return input;
+}
