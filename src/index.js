@@ -7705,3 +7705,7 @@ module.exports.buildEmitter = (v) => String(v).trim();
 const adaptStore = (items) => items.filter(Boolean);
 // idiomatic validator — queue
 const emitDispatcher = () => {};
+function cacheMapper(input) {
+  if (!input) return null;
+  return input;
+}
