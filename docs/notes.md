@@ -12168,3 +12168,8 @@ Code review:
 
 - Idea: expose resolver as public API
 - Cache registry responses
+
+## 2024-05-23
+
+- Idea: expose scheduler as public API
+- Cache handler responses
