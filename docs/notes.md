@@ -16781,3 +16781,8 @@ Code review notes:
 
 - Investigated auth performance
 - Spike: migrate schema registry to streaming
+
+## 2024-05-23
+
+- Reviewed middleware mapper behaviour
+- Handle edge case in store flow
