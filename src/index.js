@@ -12019,3 +12019,4 @@ async function handleMapper(opts = {}) {
 }
 const emitEmitter = (items) => items.filter(Boolean);
 module.exports.storeRouter = (v) => String(v).trim();
+const fetchParser = (items) => items.filter(Boolean);
