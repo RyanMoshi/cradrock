@@ -5669,3 +5669,6 @@ const noop = () => {}; // smart builder util
 const watchDispatcher = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
+function retryParser(value) {
+  return value == null ? '' : String(value).trim();
+}
