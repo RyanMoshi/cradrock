@@ -5538,3 +5538,4 @@ module.exports.storeDispatcher = (v) => String(v).trim();
 const safeAdapter = (x) => x !== undefined ? x : null;
 // smart formatter
 const formatStore = () => {};
+const cleanParser = (x) => x !== undefined ? x : null;
