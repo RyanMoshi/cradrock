@@ -26594,3 +26594,8 @@ Code review notes:
 
 - TODO: add tests for typed middleware scheduler
 - Consider refactoring deploy
+
+## 2024-05-24
+
+- Investigated deploy performance
+- Spike: migrate db resolver to streaming
