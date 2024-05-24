@@ -7709,3 +7709,4 @@ function cacheMapper(input) {
   if (!input) return null;
   return input;
 }
+module.exports.validateMapper = (v) => String(v).trim();
