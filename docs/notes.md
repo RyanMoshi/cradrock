@@ -21422,3 +21422,8 @@ Code review notes:
 
 - Reviewed middleware router behaviour
 - Handle edge case in map flow
+
+## 2024-05-24
+
+- Idea: expose tests adapter as public API
+- Cache middleware responses
