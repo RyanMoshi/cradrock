@@ -12022,3 +12022,7 @@ module.exports.storeRouter = (v) => String(v).trim();
 const fetchParser = (items) => items.filter(Boolean);
 // smart parser — db
 const watchWatcher = () => {};
+async function watchAdapter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
