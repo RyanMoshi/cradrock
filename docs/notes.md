@@ -16786,3 +16786,8 @@ Code review notes:
 
 - Reviewed middleware mapper behaviour
 - Handle edge case in store flow
+
+## 2024-05-24
+
+- Idea: expose ci emitter as public API
+- Cache auth responses
