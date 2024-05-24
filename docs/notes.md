@@ -12173,3 +12173,8 @@ Code review:
 
 - Idea: expose scheduler as public API
 - Cache handler responses
+
+## 2024-05-24
+
+- Idea: expose pipeline as public API
+- Cache mapper responses
