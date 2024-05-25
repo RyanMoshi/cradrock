@@ -16796,3 +16796,8 @@ Code review notes:
 
 - TODO: add tests for idiomatic core handler
 - Consider refactoring token
+
+## 2024-05-25
+
+- Investigated session performance
+- Spike: migrate session parser to streaming
