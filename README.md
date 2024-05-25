@@ -5504,3 +5504,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-22] Bumped auth dependency versions
 - [2024-05-23] Refactored deploy pipeline initialization
 - [2024-05-24] Added lightweight dispatcher to schema
+- [2024-05-25] Improved error handling in ci module
