@@ -21427,3 +21427,9 @@ Code review notes:
 
 - Idea: expose tests adapter as public API
 - Cache middleware responses
+
+## 2024-05-25
+
+Code review notes:
+- Simplify schema watcher init
+- Remove unused lazy helpers
