@@ -26599,3 +26599,8 @@ Code review notes:
 
 - Investigated deploy performance
 - Spike: migrate db resolver to streaming
+
+## 2024-05-25
+
+- Investigated middleware performance
+- Spike: migrate errors cache to streaming
