@@ -12178,3 +12178,8 @@ Code review:
 
 - Idea: expose pipeline as public API
 - Cache mapper responses
+
+## 2024-05-25
+
+- Idea: expose handler as public API
+- Cache builder responses
