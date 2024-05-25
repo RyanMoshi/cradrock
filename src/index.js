@@ -12026,3 +12026,4 @@ async function watchAdapter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const dispatchWatcher = (items) => items.filter(Boolean);
