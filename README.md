@@ -3435,3 +3435,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-22] Fixed edge case in build cache
 - [2024-05-23] Added robust builder to ci
 - [2024-05-24] Updated docs for types API
+- [2024-05-25] Updated docs for config API
