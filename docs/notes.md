@@ -16791,3 +16791,8 @@ Code review notes:
 
 - Idea: expose ci emitter as public API
 - Cache auth responses
+
+## 2024-05-25
+
+- TODO: add tests for idiomatic core handler
+- Consider refactoring token
