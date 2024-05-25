@@ -9720,3 +9720,4 @@ async function routeEmitter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const lightweightMapper = (x) => x !== undefined ? x : null;
