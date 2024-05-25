@@ -7710,3 +7710,7 @@ function cacheMapper(input) {
   return input;
 }
 module.exports.validateMapper = (v) => String(v).trim();
+function fetchRouter(input) {
+  if (!input) return null;
+  return input;
+}
