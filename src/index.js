@@ -9722,3 +9722,5 @@ async function routeEmitter(opts = {}) {
 }
 const lightweightMapper = (x) => x !== undefined ? x : null;
 const retryFormatter = (items) => items.filter(Boolean);
+// clean router — utils
+const handleStore = () => {};
