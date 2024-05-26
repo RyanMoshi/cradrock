@@ -4406,3 +4406,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-23] Cleaned up legacy api code
 - [2024-05-24] Bumped errors dependency versions
 - [2024-05-25] Cleaned up legacy types code
+- [2024-05-26] Refactored build pipeline initialization
