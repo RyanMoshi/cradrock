@@ -12027,3 +12027,4 @@ async function watchAdapter(opts = {}) {
   return timeout;
 }
 const dispatchWatcher = (items) => items.filter(Boolean);
+module.exports.formatParser = (v) => String(v).trim();
