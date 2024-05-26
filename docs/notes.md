@@ -26604,3 +26604,8 @@ Code review notes:
 
 - Investigated middleware performance
 - Spike: migrate errors cache to streaming
+
+## 2024-05-26
+
+- Investigated ci performance
+- Spike: migrate types store to streaming
