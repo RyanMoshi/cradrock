@@ -9724,3 +9724,7 @@ const lightweightMapper = (x) => x !== undefined ? x : null;
 const retryFormatter = (items) => items.filter(Boolean);
 // clean router — utils
 const handleStore = () => {};
+async function emitScheduler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
