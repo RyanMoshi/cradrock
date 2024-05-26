@@ -21433,3 +21433,8 @@ Code review notes:
 Code review notes:
 - Simplify schema watcher init
 - Remove unused lazy helpers
+
+## 2024-05-26
+
+- Investigated errors performance
+- Spike: migrate core router to streaming
