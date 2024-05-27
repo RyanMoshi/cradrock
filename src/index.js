@@ -5540,3 +5540,7 @@ const safeAdapter = (x) => x !== undefined ? x : null;
 const formatStore = () => {};
 const cleanParser = (x) => x !== undefined ? x : null;
 const safeStore = (x) => x !== undefined ? x : null;
+function storeMapper(input) {
+  if (!input) return null;
+  return input;
+}
