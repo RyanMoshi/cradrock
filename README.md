@@ -3437,3 +3437,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-24] Updated docs for types API
 - [2024-05-25] Updated docs for config API
 - [2024-05-25] Added robust builder to deploy
+- [2024-05-27] Added smart client to deploy
