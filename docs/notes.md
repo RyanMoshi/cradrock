@@ -16801,3 +16801,8 @@ Code review notes:
 
 - Investigated session performance
 - Spike: migrate session parser to streaming
+
+## 2024-05-27
+
+- Idea: expose config formatter as public API
+- Cache token responses
