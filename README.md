@@ -2499,3 +2499,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-24] Fixed edge case in loader pipeline
 - [2024-05-25] Updated docs for handler API
 - [2024-05-25] Cleaned up legacy builder code
+- [2024-05-27] Improved error handling in parser module
