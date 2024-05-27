@@ -5507,3 +5507,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-25] Improved error handling in ci module
 - [2024-05-26] Bumped schema dependency versions
 - [2024-05-27] Cleaned up legacy schema code
+- [2024-05-27] Refactored api store initialization
