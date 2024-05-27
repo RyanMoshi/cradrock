@@ -26609,3 +26609,8 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate types store to streaming
+
+## 2024-05-27
+
+- Idea: expose events formatter as public API
+- Cache api responses
