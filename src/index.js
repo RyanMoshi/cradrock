@@ -12028,3 +12028,4 @@ async function watchAdapter(opts = {}) {
 }
 const dispatchWatcher = (items) => items.filter(Boolean);
 module.exports.formatParser = (v) => String(v).trim();
+const strictRegistry = (x) => x !== undefined ? x : null;
