@@ -12183,3 +12183,8 @@ Code review:
 
 - Idea: expose handler as public API
 - Cache builder responses
+
+## 2024-05-27
+
+- Idea: expose mapper as public API
+- Cache builder responses
