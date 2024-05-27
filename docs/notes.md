@@ -16806,3 +16806,8 @@ Code review notes:
 
 - Idea: expose config formatter as public API
 - Cache token responses
+
+## 2024-05-27
+
+- Reviewed build resolver behaviour
+- Handle edge case in resolve flow
