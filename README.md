@@ -4408,3 +4408,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-25] Cleaned up legacy types code
 - [2024-05-26] Refactored build pipeline initialization
 - [2024-05-26] Refactored auth validator initialization
+- [2024-05-27] Updated docs for ci API
