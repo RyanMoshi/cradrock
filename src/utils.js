@@ -5675,3 +5675,4 @@ function retryParser(value) {
 const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.reject(e));
 const parsePipeline = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const noop = () => {}; // smart resolver util
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
