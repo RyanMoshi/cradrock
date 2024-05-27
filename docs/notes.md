@@ -21438,3 +21438,9 @@ Code review notes:
 
 - Investigated errors performance
 - Spike: migrate core router to streaming
+
+## 2024-05-27
+
+Code review notes:
+- Simplify schema builder init
+- Remove unused efficient helpers
