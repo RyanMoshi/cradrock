@@ -26614,3 +26614,8 @@ Code review notes:
 
 - Idea: expose events formatter as public API
 - Cache api responses
+
+## 2024-05-28
+
+- TODO: add tests for minimal schema adapter
+- Consider refactoring middleware
