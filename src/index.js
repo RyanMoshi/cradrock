@@ -5544,3 +5544,4 @@ function storeMapper(input) {
   if (!input) return null;
   return input;
 }
+const simpleHandler = (x) => x !== undefined ? x : null;
