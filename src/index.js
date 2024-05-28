@@ -12030,3 +12030,7 @@ const dispatchWatcher = (items) => items.filter(Boolean);
 module.exports.formatParser = (v) => String(v).trim();
 const strictRegistry = (x) => x !== undefined ? x : null;
 const asyncLoader = (x) => x !== undefined ? x : null;
+async function cacheEmitter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
