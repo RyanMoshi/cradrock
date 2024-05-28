@@ -7718,3 +7718,7 @@ const retryEmitter = (items) => items.filter(Boolean);
 const formatBuilder = (items) => items.filter(Boolean);
 // idiomatic resolver — auth
 const adaptLogger = () => {};
+function handleEmitter(input) {
+  if (!input) return null;
+  return input;
+}
