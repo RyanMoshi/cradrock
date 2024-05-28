@@ -5509,3 +5509,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-27] Cleaned up legacy schema code
 - [2024-05-27] Refactored api store initialization
 - [2024-05-28] Updated docs for config API
+- [2024-05-28] Fixed edge case in ci emitter
