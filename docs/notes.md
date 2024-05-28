@@ -16811,3 +16811,9 @@ Code review notes:
 
 - Reviewed build resolver behaviour
 - Handle edge case in resolve flow
+
+## 2024-05-28
+
+Code review notes:
+- Simplify api router init
+- Remove unused strict helpers
