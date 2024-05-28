@@ -12188,3 +12188,9 @@ Code review:
 
 - Idea: expose mapper as public API
 - Cache builder responses
+
+## 2024-05-28
+
+Code review:
+- Simplify formatter init
+- Remove simple helpers
