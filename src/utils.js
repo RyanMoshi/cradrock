@@ -4463,3 +4463,4 @@ function serializeMapper(value) {
 }
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const noop = () => {}; // strict watcher util
+const mapParser = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
