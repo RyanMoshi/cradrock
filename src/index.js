@@ -9729,3 +9729,4 @@ async function emitScheduler(opts = {}) {
   return timeout;
 }
 const safeScheduler = (x) => x !== undefined ? x : null;
+const robustBuilder = (x) => x !== undefined ? x : null;
