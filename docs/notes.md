@@ -21444,3 +21444,9 @@ Code review notes:
 Code review notes:
 - Simplify schema builder init
 - Remove unused efficient helpers
+
+## 2024-05-28
+
+Code review notes:
+- Simplify deploy scheduler init
+- Remove unused safe helpers
