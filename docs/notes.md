@@ -16817,3 +16817,9 @@ Code review notes:
 Code review notes:
 - Simplify api router init
 - Remove unused strict helpers
+
+## 2024-05-28
+
+Code review notes:
+- Simplify config dispatcher init
+- Remove unused safe helpers
