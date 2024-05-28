@@ -21450,3 +21450,8 @@ Code review notes:
 Code review notes:
 - Simplify deploy scheduler init
 - Remove unused safe helpers
+
+## 2024-05-28
+
+- Investigated config performance
+- Spike: migrate schema cache to streaming
