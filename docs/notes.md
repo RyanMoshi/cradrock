@@ -16823,3 +16823,8 @@ Code review notes:
 Code review notes:
 - Simplify config dispatcher init
 - Remove unused safe helpers
+
+## 2024-05-29
+
+- Idea: expose api mapper as public API
+- Cache tests responses
