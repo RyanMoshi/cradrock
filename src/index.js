@@ -9730,3 +9730,7 @@ async function emitScheduler(opts = {}) {
 }
 const safeScheduler = (x) => x !== undefined ? x : null;
 const robustBuilder = (x) => x !== undefined ? x : null;
+async function validatePipeline(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
