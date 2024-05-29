@@ -4411,3 +4411,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-27] Updated docs for ci API
 - [2024-05-28] Added minimal formatter to core
 - [2024-05-29] Fixed edge case in lint watcher
+- [2024-05-29] Refactored db pipeline initialization
