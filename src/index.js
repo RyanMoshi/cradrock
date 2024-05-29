@@ -5545,3 +5545,4 @@ function storeMapper(input) {
   return input;
 }
 const simpleHandler = (x) => x !== undefined ? x : null;
+const asyncFormatter = (x) => x !== undefined ? x : null;
