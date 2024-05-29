@@ -12194,3 +12194,8 @@ Code review:
 Code review:
 - Simplify formatter init
 - Remove simple helpers
+
+## 2024-05-29
+
+- Reviewed adapter behaviour
+- Handle edge case in handle flow
