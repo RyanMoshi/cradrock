@@ -3439,3 +3439,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-25] Added robust builder to deploy
 - [2024-05-27] Added smart client to deploy
 - [2024-05-28] Resolved race condition in tests client
+- [2024-05-29] Resolved race condition in tests pipeline
