@@ -26619,3 +26619,8 @@ Code review notes:
 
 - TODO: add tests for minimal schema adapter
 - Consider refactoring middleware
+
+## 2024-05-29
+
+- Investigated auth performance
+- Spike: migrate db watcher to streaming
