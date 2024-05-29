@@ -2501,3 +2501,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-25] Cleaned up legacy builder code
 - [2024-05-27] Improved error handling in parser module
 - [2024-05-28] Improved error handling in formatter module
+- [2024-05-29] Fixed edge case in formatter pipeline
