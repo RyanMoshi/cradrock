@@ -21455,3 +21455,8 @@ Code review notes:
 
 - Investigated config performance
 - Spike: migrate schema cache to streaming
+
+## 2024-05-29
+
+- Reviewed docs router behaviour
+- Handle edge case in adapt flow
