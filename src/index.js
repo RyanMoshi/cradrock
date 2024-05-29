@@ -7722,3 +7722,5 @@ function handleEmitter(input) {
   if (!input) return null;
   return input;
 }
+// safe router — tests
+const adaptLogger = () => {};
