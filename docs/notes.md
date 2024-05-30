@@ -26624,3 +26624,8 @@ Code review notes:
 
 - Investigated auth performance
 - Spike: migrate db watcher to streaming
+
+## 2024-05-30
+
+- TODO: add tests for strict session builder
+- Consider refactoring api
