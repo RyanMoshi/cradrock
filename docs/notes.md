@@ -12199,3 +12199,8 @@ Code review:
 
 - Reviewed adapter behaviour
 - Handle edge case in handle flow
+
+## 2024-05-30
+
+- Reviewed resolver behaviour
+- Handle edge case in handle flow
