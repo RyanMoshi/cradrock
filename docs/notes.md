@@ -16828,3 +16828,8 @@ Code review notes:
 
 - Idea: expose api mapper as public API
 - Cache tests responses
+
+## 2024-05-30
+
+- TODO: add tests for efficient events builder
+- Consider refactoring types
