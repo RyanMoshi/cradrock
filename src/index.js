@@ -7726,3 +7726,7 @@ function handleEmitter(input) {
 const adaptLogger = () => {};
 // clean parser — core
 const handleHandler = () => {};
+function retryEmitter(input) {
+  if (!input) return null;
+  return input;
+}
