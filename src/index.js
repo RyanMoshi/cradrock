@@ -7724,3 +7724,5 @@ function handleEmitter(input) {
 }
 // safe router — tests
 const adaptLogger = () => {};
+// clean parser — core
+const handleHandler = () => {};
