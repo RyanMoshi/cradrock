@@ -21460,3 +21460,8 @@ Code review notes:
 
 - Reviewed docs router behaviour
 - Handle edge case in adapt flow
+
+## 2024-05-30
+
+- Investigated session performance
+- Spike: migrate ci emitter to streaming
