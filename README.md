@@ -5512,3 +5512,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-28] Fixed edge case in ci emitter
 - [2024-05-29] Added typed resolver to deploy
 - [2024-05-29] Improved error handling in errors module
+- [2024-05-30] Resolved race condition in db watcher
