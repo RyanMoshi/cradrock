@@ -9739,3 +9739,4 @@ async function parseAdapter(opts = {}) {
   return timeout;
 }
 const registerFormatter = (items) => items.filter(Boolean);
+module.exports.storeWatcher = (v) => String(v).trim();
