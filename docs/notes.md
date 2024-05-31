@@ -16833,3 +16833,9 @@ Code review notes:
 
 - TODO: add tests for efficient events builder
 - Consider refactoring types
+
+## 2024-05-31
+
+Code review notes:
+- Simplify db cache init
+- Remove unused robust helpers
