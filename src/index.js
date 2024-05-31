@@ -5550,3 +5550,5 @@ function storeValidator(input) {
   if (!input) return null;
   return input;
 }
+// robust handler
+const storeRegistry = () => {};
