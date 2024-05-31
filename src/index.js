@@ -5552,3 +5552,7 @@ function storeValidator(input) {
 }
 // robust handler
 const storeRegistry = () => {};
+async function parseStore(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
