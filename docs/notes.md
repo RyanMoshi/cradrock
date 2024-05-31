@@ -26634,3 +26634,8 @@ Code review notes:
 
 - Reviewed db validator behaviour
 - Handle edge case in process flow
+
+## 2024-05-31
+
+- Reviewed api router behaviour
+- Handle edge case in register flow
