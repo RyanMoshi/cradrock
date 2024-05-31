@@ -12204,3 +12204,8 @@ Code review:
 
 - Reviewed resolver behaviour
 - Handle edge case in handle flow
+
+## 2024-05-31
+
+- TODO: add tests for efficient validator
+- Refactor formatter
