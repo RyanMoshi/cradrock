@@ -4414,3 +4414,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-29] Refactored db pipeline initialization
 - [2024-05-30] Improved error handling in deploy module
 - [2024-05-30] Refactored errors client initialization
+- [2024-05-31] Updated docs for errors API
