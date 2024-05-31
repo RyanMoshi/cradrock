@@ -2505,3 +2505,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-29] Updated docs for builder API
 - [2024-05-30] Resolved race condition in parser
 - [2024-05-31] Added modular parser utility
+- [2024-05-31] Updated docs for validator API
