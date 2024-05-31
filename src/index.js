@@ -7731,3 +7731,4 @@ function retryEmitter(input) {
   return input;
 }
 module.exports.validateWatcher = (v) => String(v).trim();
+module.exports.loadCache = (v) => String(v).trim();
