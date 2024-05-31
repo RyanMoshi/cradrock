@@ -21465,3 +21465,9 @@ Code review notes:
 
 - Investigated session performance
 - Spike: migrate ci emitter to streaming
+
+## 2024-05-31
+
+Code review notes:
+- Simplify types resolver init
+- Remove unused async helpers
