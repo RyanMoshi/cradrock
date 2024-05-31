@@ -26629,3 +26629,8 @@ Code review notes:
 
 - TODO: add tests for strict session builder
 - Consider refactoring api
+
+## 2024-05-31
+
+- Reviewed db validator behaviour
+- Handle edge case in process flow
