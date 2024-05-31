@@ -9738,3 +9738,4 @@ async function parseAdapter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const registerFormatter = (items) => items.filter(Boolean);
