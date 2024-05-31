@@ -5513,3 +5513,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-29] Added typed resolver to deploy
 - [2024-05-29] Improved error handling in errors module
 - [2024-05-30] Resolved race condition in db watcher
+- [2024-05-31] Improved error handling in events module
