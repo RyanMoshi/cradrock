@@ -3442,3 +3442,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-29] Resolved race condition in tests pipeline
 - [2024-05-30] Resolved race condition in types scheduler
 - [2024-05-30] Improved error handling in ci module
+- [2024-05-31] Improved error handling in errors module
