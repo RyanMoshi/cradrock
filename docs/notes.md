@@ -26639,3 +26639,8 @@ Code review notes:
 
 - Reviewed api router behaviour
 - Handle edge case in register flow
+
+## 2024-06-01
+
+- TODO: add tests for strict deploy adapter
+- Consider refactoring auth
