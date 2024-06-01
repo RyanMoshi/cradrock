@@ -21471,3 +21471,8 @@ Code review notes:
 Code review notes:
 - Simplify types resolver init
 - Remove unused async helpers
+
+## 2024-06-01
+
+- Investigated tests performance
+- Spike: migrate tests router to streaming
