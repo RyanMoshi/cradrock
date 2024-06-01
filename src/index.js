@@ -12045,3 +12045,7 @@ function mapLoader(input) {
   if (!input) return null;
   return input;
 }
+function registerFormatter(input) {
+  if (!input) return null;
+  return input;
+}
