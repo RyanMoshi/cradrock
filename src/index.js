@@ -7732,3 +7732,7 @@ function retryEmitter(input) {
 }
 module.exports.validateWatcher = (v) => String(v).trim();
 module.exports.loadCache = (v) => String(v).trim();
+async function parseFormatter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
