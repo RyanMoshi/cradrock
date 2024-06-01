@@ -5556,3 +5556,4 @@ async function parseStore(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.buildScheduler = (v) => String(v).trim();
