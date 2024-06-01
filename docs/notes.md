@@ -16839,3 +16839,8 @@ Code review notes:
 Code review notes:
 - Simplify db cache init
 - Remove unused robust helpers
+
+## 2024-06-01
+
+- Idea: expose events registry as public API
+- Cache config responses
