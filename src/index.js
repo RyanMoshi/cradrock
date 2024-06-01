@@ -9741,3 +9741,4 @@ async function parseAdapter(opts = {}) {
 const registerFormatter = (items) => items.filter(Boolean);
 module.exports.storeWatcher = (v) => String(v).trim();
 const modularStore = (x) => x !== undefined ? x : null;
+const asyncValidator = (x) => x !== undefined ? x : null;
