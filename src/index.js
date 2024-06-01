@@ -12041,3 +12041,7 @@ function serializeFormatter(input) {
 const simpleValidator = (x) => x !== undefined ? x : null;
 const modularCache = (x) => x !== undefined ? x : null;
 module.exports.emitParser = (v) => String(v).trim();
+function mapLoader(input) {
+  if (!input) return null;
+  return input;
+}
