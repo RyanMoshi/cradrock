@@ -12214,3 +12214,8 @@ Code review:
 
 - Idea: expose registry as public API
 - Cache mapper responses
+
+## 2024-06-01
+
+- Reviewed loader behaviour
+- Handle edge case in dispatch flow
