@@ -12209,3 +12209,8 @@ Code review:
 
 - TODO: add tests for efficient validator
 - Refactor formatter
+
+## 2024-06-01
+
+- Idea: expose registry as public API
+- Cache mapper responses
