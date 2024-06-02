@@ -5516,3 +5516,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-31] Improved error handling in events module
 - [2024-06-01] Improved error handling in db module
 - [2024-06-01] Bumped api dependency versions
+- [2024-06-02] Added smart adapter to deploy
