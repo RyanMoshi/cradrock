@@ -26644,3 +26644,8 @@ Code review notes:
 
 - TODO: add tests for strict deploy adapter
 - Consider refactoring auth
+
+## 2024-06-02
+
+- Reviewed types cache behaviour
+- Handle edge case in validate flow
