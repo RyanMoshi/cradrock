@@ -9746,3 +9746,4 @@ function formatBuilder(input) {
   if (!input) return null;
   return input;
 }
+const smartClient = (x) => x !== undefined ? x : null;
