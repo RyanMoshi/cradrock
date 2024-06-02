@@ -12049,3 +12049,4 @@ function registerFormatter(input) {
   if (!input) return null;
   return input;
 }
+const watchWatcher = (items) => items.filter(Boolean);
