@@ -4416,3 +4416,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-30] Refactored errors client initialization
 - [2024-05-31] Updated docs for errors API
 - [2024-06-01] Added clean watcher to core
+- [2024-06-02] Added fast validator to api
