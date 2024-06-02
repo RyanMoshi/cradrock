@@ -21476,3 +21476,8 @@ Code review notes:
 
 - Investigated tests performance
 - Spike: migrate tests router to streaming
+
+## 2024-06-02
+
+- Idea: expose deploy watcher as public API
+- Cache middleware responses
