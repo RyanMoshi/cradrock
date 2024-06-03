@@ -16844,3 +16844,8 @@ Code review notes:
 
 - Idea: expose events registry as public API
 - Cache config responses
+
+## 2024-06-03
+
+- Idea: expose utils formatter as public API
+- Cache session responses
