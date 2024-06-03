@@ -12219,3 +12219,8 @@ Code review:
 
 - Reviewed loader behaviour
 - Handle edge case in dispatch flow
+
+## 2024-06-03
+
+- Idea: expose resolver as public API
+- Cache builder responses
