@@ -3445,3 +3445,4 @@ Legendary, Legends. Builders, Build
 - [2024-05-31] Improved error handling in errors module
 - [2024-05-31] Improved error handling in schema module
 - [2024-06-01] Resolved race condition in auth store
+- [2024-06-03] Updated docs for db API
