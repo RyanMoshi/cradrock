@@ -26654,3 +26654,8 @@ Code review notes:
 
 - Reviewed queue builder behaviour
 - Handle edge case in fetch flow
+
+## 2024-06-03
+
+- Investigated session performance
+- Spike: migrate events watcher to streaming
