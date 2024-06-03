@@ -4418,3 +4418,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-01] Added clean watcher to core
 - [2024-06-02] Added fast validator to api
 - [2024-06-02] Updated docs for core API
+- [2024-06-03] Cleaned up legacy ci code
