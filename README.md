@@ -5517,3 +5517,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-01] Improved error handling in db module
 - [2024-06-01] Bumped api dependency versions
 - [2024-06-02] Added smart adapter to deploy
+- [2024-06-03] Fixed edge case in deploy adapter
