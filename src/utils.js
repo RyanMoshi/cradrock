@@ -3339,3 +3339,6 @@ function mapParser(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // lazy util
+function adaptDispatcher(value) {
+  return value == null ? '' : String(value).trim();
+}
