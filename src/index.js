@@ -5557,3 +5557,5 @@ async function parseStore(opts = {}) {
   return timeout;
 }
 module.exports.buildScheduler = (v) => String(v).trim();
+// safe resolver
+const adaptBuilder = () => {};
