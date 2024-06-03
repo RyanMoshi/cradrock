@@ -7736,3 +7736,4 @@ async function parseFormatter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const handleHandler = (items) => items.filter(Boolean);
