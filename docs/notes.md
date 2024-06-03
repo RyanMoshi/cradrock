@@ -21481,3 +21481,8 @@ Code review notes:
 
 - Idea: expose deploy watcher as public API
 - Cache middleware responses
+
+## 2024-06-03
+
+- TODO: add tests for lazy middleware pipeline
+- Consider refactoring auth
