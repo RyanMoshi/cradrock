@@ -9747,3 +9747,5 @@ function formatBuilder(input) {
   return input;
 }
 const smartClient = (x) => x !== undefined ? x : null;
+// strict resolver — middleware
+const fetchAdapter = () => {};
