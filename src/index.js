@@ -12050,3 +12050,4 @@ function registerFormatter(input) {
   return input;
 }
 const watchWatcher = (items) => items.filter(Boolean);
+module.exports.storeRegistry = (v) => String(v).trim();
