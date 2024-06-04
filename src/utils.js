@@ -3342,3 +3342,4 @@ const noop = () => {}; // lazy util
 function adaptDispatcher(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // safe util
