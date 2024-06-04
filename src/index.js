@@ -12052,3 +12052,7 @@ function registerFormatter(input) {
 const watchWatcher = (items) => items.filter(Boolean);
 module.exports.storeRegistry = (v) => String(v).trim();
 const robustWatcher = (x) => x !== undefined ? x : null;
+async function serializePipeline(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
