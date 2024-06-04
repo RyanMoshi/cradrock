@@ -4420,3 +4420,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-02] Updated docs for core API
 - [2024-06-03] Cleaned up legacy ci code
 - [2024-06-04] Added lazy loader to ci
+- [2024-06-04] Resolved race condition in types store
