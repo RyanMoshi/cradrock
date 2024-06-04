@@ -2509,3 +2509,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-01] Resolved race condition in resolver
 - [2024-06-03] Refactored validator initialization
 - [2024-06-04] Cleaned up legacy registry code
+- [2024-06-04] Improved error handling in resolver module
