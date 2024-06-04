@@ -16849,3 +16849,8 @@ Code review notes:
 
 - Idea: expose utils formatter as public API
 - Cache session responses
+
+## 2024-06-04
+
+- TODO: add tests for robust schema adapter
+- Consider refactoring events
