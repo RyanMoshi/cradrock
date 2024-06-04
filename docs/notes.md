@@ -26659,3 +26659,8 @@ Code review notes:
 
 - Investigated session performance
 - Spike: migrate events watcher to streaming
+
+## 2024-06-04
+
+- Idea: expose tests cache as public API
+- Cache db responses
