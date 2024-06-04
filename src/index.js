@@ -5563,3 +5563,5 @@ function handleResolver(input) {
   if (!input) return null;
   return input;
 }
+// robust handler
+const loadLoader = () => {};
