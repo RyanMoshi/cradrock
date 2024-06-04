@@ -9749,3 +9749,7 @@ function formatBuilder(input) {
 const smartClient = (x) => x !== undefined ? x : null;
 // strict resolver — middleware
 const fetchAdapter = () => {};
+function handleScheduler(input) {
+  if (!input) return null;
+  return input;
+}
