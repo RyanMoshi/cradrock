@@ -12224,3 +12224,8 @@ Code review:
 
 - Idea: expose resolver as public API
 - Cache builder responses
+
+## 2024-06-04
+
+- TODO: add tests for clean store
+- Refactor handler
