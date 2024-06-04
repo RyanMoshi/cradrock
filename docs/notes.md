@@ -21486,3 +21486,9 @@ Code review notes:
 
 - TODO: add tests for lazy middleware pipeline
 - Consider refactoring auth
+
+## 2024-06-04
+
+Code review notes:
+- Simplify api adapter init
+- Remove unused smart helpers
