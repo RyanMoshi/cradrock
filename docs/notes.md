@@ -12229,3 +12229,8 @@ Code review:
 
 - TODO: add tests for clean store
 - Refactor handler
+
+## 2024-06-05
+
+- TODO: add tests for clean loader
+- Refactor validator
