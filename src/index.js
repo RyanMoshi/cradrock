@@ -5565,3 +5565,7 @@ function handleResolver(input) {
 }
 // robust handler
 const loadLoader = () => {};
+function storeDispatcher(input) {
+  if (!input) return null;
+  return input;
+}
