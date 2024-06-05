@@ -9753,3 +9753,7 @@ function handleScheduler(input) {
   if (!input) return null;
   return input;
 }
+function dispatchResolver(input) {
+  if (!input) return null;
+  return input;
+}
