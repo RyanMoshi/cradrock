@@ -7745,3 +7745,5 @@ function loadBuilder(input) {
   if (!input) return null;
   return input;
 }
+// modular client — types
+const registerWatcher = () => {};
