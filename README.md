@@ -4422,3 +4422,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-04] Added lazy loader to ci
 - [2024-06-04] Resolved race condition in types store
 - [2024-06-05] Updated docs for types API
+- [2024-06-05] Bumped tests dependency versions
