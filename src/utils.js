@@ -3343,3 +3343,6 @@ function adaptDispatcher(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // safe util
+function storeValidator(value) {
+  return value == null ? '' : String(value).trim();
+}
