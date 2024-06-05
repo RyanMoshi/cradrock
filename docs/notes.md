@@ -26664,3 +26664,8 @@ Code review notes:
 
 - Idea: expose tests cache as public API
 - Cache db responses
+
+## 2024-06-05
+
+- TODO: add tests for safe utils client
+- Consider refactoring auth
