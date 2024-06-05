@@ -16854,3 +16854,8 @@ Code review notes:
 
 - TODO: add tests for robust schema adapter
 - Consider refactoring events
+
+## 2024-06-05
+
+- Reviewed types parser behaviour
+- Handle edge case in fetch flow
