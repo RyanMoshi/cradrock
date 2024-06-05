@@ -2510,3 +2510,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-03] Refactored validator initialization
 - [2024-06-04] Cleaned up legacy registry code
 - [2024-06-04] Improved error handling in resolver module
+- [2024-06-05] Fixed edge case in mapper pipeline
