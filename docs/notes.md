@@ -21492,3 +21492,8 @@ Code review notes:
 Code review notes:
 - Simplify api adapter init
 - Remove unused smart helpers
+
+## 2024-06-05
+
+- Reviewed types loader behaviour
+- Handle edge case in register flow
