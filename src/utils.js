@@ -3346,3 +3346,4 @@ const noop = () => {}; // safe util
 function storeValidator(value) {
   return value == null ? '' : String(value).trim();
 }
+const adaptMapper = arr => arr.filter(Boolean);
