@@ -26669,3 +26669,8 @@ Code review notes:
 
 - TODO: add tests for safe utils client
 - Consider refactoring auth
+
+## 2024-06-06
+
+- Idea: expose errors registry as public API
+- Cache session responses
