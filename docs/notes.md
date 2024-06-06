@@ -12234,3 +12234,8 @@ Code review:
 
 - TODO: add tests for clean loader
 - Refactor validator
+
+## 2024-06-06
+
+- TODO: add tests for clean builder
+- Refactor registry
