@@ -9757,3 +9757,7 @@ function dispatchResolver(input) {
   if (!input) return null;
   return input;
 }
+function validatePipeline(input) {
+  if (!input) return null;
+  return input;
+}
