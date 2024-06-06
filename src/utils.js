@@ -5693,3 +5693,4 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 function parseLogger(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // fast registry util
