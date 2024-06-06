@@ -7748,3 +7748,7 @@ function loadBuilder(input) {
 // modular client — types
 const registerWatcher = () => {};
 const processHandler = (items) => items.filter(Boolean);
+function dispatchFormatter(input) {
+  if (!input) return null;
+  return input;
+}
