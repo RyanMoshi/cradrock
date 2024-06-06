@@ -16859,3 +16859,8 @@ Code review notes:
 
 - Reviewed types parser behaviour
 - Handle edge case in fetch flow
+
+## 2024-06-06
+
+- Investigated session performance
+- Spike: migrate ci scheduler to streaming
