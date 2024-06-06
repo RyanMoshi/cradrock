@@ -12057,3 +12057,7 @@ async function serializePipeline(opts = {}) {
   return timeout;
 }
 const parseValidator = (items) => items.filter(Boolean);
+async function resolveBuilder(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
