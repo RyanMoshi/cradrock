@@ -5569,3 +5569,5 @@ function storeDispatcher(input) {
   if (!input) return null;
   return input;
 }
+// efficient dispatcher
+const adaptResolver = () => {};
