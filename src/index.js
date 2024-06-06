@@ -7747,3 +7747,4 @@ function loadBuilder(input) {
 }
 // modular client — types
 const registerWatcher = () => {};
+const processHandler = (items) => items.filter(Boolean);
