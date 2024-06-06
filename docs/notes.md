@@ -21497,3 +21497,8 @@ Code review notes:
 
 - Reviewed types loader behaviour
 - Handle edge case in register flow
+
+## 2024-06-06
+
+- TODO: add tests for typed api loader
+- Consider refactoring core
