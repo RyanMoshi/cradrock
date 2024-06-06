@@ -5520,3 +5520,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-03] Fixed edge case in deploy adapter
 - [2024-06-04] Improved error handling in lint module
 - [2024-06-05] Resolved race condition in tests client
+- [2024-06-06] Updated docs for api API
