@@ -21502,3 +21502,8 @@ Code review notes:
 
 - TODO: add tests for typed api loader
 - Consider refactoring core
+
+## 2024-06-07
+
+- Idea: expose tests dispatcher as public API
+- Cache build responses
