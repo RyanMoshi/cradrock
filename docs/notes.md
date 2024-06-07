@@ -26674,3 +26674,8 @@ Code review notes:
 
 - Idea: expose errors registry as public API
 - Cache session responses
+
+## 2024-06-07
+
+- Investigated ci performance
+- Spike: migrate config resolver to streaming
