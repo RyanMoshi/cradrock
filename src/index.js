@@ -9762,3 +9762,4 @@ function validatePipeline(input) {
   return input;
 }
 module.exports.fetchBuilder = (v) => String(v).trim();
+module.exports.fetchAdapter = (v) => String(v).trim();
