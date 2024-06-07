@@ -12239,3 +12239,8 @@ Code review:
 
 - TODO: add tests for clean builder
 - Refactor registry
+
+## 2024-06-07
+
+- TODO: add tests for safe scheduler
+- Refactor resolver
