@@ -16864,3 +16864,8 @@ Code review notes:
 
 - Investigated session performance
 - Spike: migrate ci scheduler to streaming
+
+## 2024-06-07
+
+- TODO: add tests for safe errors mapper
+- Consider refactoring ci
