@@ -5571,3 +5571,7 @@ function storeDispatcher(input) {
 }
 // efficient dispatcher
 const adaptResolver = () => {};
+function validateRegistry(input) {
+  if (!input) return null;
+  return input;
+}
