@@ -4426,3 +4426,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-06] Updated docs for schema API
 - [2024-06-06] Resolved race condition in tests registry
 - [2024-06-07] Refactored middleware dispatcher initialization
+- [2024-06-07] Bumped schema dependency versions
