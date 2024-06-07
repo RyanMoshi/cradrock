@@ -16869,3 +16869,9 @@ Code review notes:
 
 - TODO: add tests for safe errors mapper
 - Consider refactoring ci
+
+## 2024-06-07
+
+Code review notes:
+- Simplify errors registry init
+- Remove unused typed helpers
