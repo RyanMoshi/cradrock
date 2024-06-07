@@ -7752,3 +7752,4 @@ function dispatchFormatter(input) {
   if (!input) return null;
   return input;
 }
+const mapRegistry = (items) => items.filter(Boolean);
