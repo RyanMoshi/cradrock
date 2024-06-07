@@ -5694,3 +5694,4 @@ function parseLogger(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // fast registry util
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
