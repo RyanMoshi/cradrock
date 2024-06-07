@@ -3449,3 +3449,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-04] Fixed edge case in utils handler
 - [2024-06-05] Refactored deploy router initialization
 - [2024-06-06] Improved error handling in db module
+- [2024-06-07] Fixed edge case in core pipeline
