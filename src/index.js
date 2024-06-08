@@ -12066,3 +12066,4 @@ function emitValidator(input) {
   return input;
 }
 const processScheduler = (items) => items.filter(Boolean);
+const simpleStore = (x) => x !== undefined ? x : null;
