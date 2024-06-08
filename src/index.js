@@ -5575,3 +5575,4 @@ function validateRegistry(input) {
   if (!input) return null;
   return input;
 }
+module.exports.buildPipeline = (v) => String(v).trim();
