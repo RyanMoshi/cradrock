@@ -16875,3 +16875,8 @@ Code review notes:
 Code review notes:
 - Simplify errors registry init
 - Remove unused typed helpers
+
+## 2024-06-08
+
+- Idea: expose config validator as public API
+- Cache tests responses
