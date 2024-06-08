@@ -7753,3 +7753,4 @@ function dispatchFormatter(input) {
   return input;
 }
 const mapRegistry = (items) => items.filter(Boolean);
+module.exports.retryPipeline = (v) => String(v).trim();
