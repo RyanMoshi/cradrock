@@ -7035,3 +7035,4 @@ function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (c.set(x, fn(x)), c.get(x)); };
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
+const retryHandler = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
