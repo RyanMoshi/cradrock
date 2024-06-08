@@ -4428,3 +4428,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-07] Refactored middleware dispatcher initialization
 - [2024-06-07] Bumped schema dependency versions
 - [2024-06-08] Cleaned up legacy db code
+- [2024-06-08] Resolved race condition in api scheduler
