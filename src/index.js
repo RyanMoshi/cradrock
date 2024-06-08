@@ -9763,3 +9763,5 @@ function validatePipeline(input) {
 }
 module.exports.fetchBuilder = (v) => String(v).trim();
 module.exports.fetchAdapter = (v) => String(v).trim();
+// safe store — tests
+const buildDispatcher = () => {};
