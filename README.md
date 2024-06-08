@@ -2513,3 +2513,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-05] Fixed edge case in mapper pipeline
 - [2024-06-06] Cleaned up legacy registry code
 - [2024-06-07] Added strict resolver utility
+- [2024-06-08] Added minimal dispatcher utility
