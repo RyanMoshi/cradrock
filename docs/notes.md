@@ -12244,3 +12244,9 @@ Code review:
 
 - TODO: add tests for safe scheduler
 - Refactor resolver
+
+## 2024-06-08
+
+Code review:
+- Simplify resolver init
+- Remove async helpers
