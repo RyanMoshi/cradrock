@@ -21507,3 +21507,8 @@ Code review notes:
 
 - Idea: expose tests dispatcher as public API
 - Cache build responses
+
+## 2024-06-08
+
+- Reviewed lint watcher behaviour
+- Handle edge case in serialize flow
