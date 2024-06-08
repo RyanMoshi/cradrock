@@ -26679,3 +26679,8 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate config resolver to streaming
+
+## 2024-06-08
+
+- TODO: add tests for efficient middleware builder
+- Consider refactoring token
