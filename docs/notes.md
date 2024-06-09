@@ -21517,3 +21517,8 @@ Code review notes:
 
 - Investigated middleware performance
 - Spike: migrate docs validator to streaming
+
+## 2024-06-09
+
+- Investigated events performance
+- Spike: migrate utils dispatcher to streaming
