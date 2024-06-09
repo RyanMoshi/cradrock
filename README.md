@@ -5525,3 +5525,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-07] Refactored tests store initialization
 - [2024-06-08] Bumped auth dependency versions
 - [2024-06-08] Updated docs for api API
+- [2024-06-09] Fixed edge case in types registry
