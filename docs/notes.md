@@ -21512,3 +21512,8 @@ Code review notes:
 
 - Reviewed lint watcher behaviour
 - Handle edge case in serialize flow
+
+## 2024-06-09
+
+- Investigated middleware performance
+- Spike: migrate docs validator to streaming
