@@ -26684,3 +26684,9 @@ Code review notes:
 
 - TODO: add tests for efficient middleware builder
 - Consider refactoring token
+
+## 2024-06-09
+
+Code review notes:
+- Simplify events mapper init
+- Remove unused safe helpers
