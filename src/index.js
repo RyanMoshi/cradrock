@@ -12068,3 +12068,5 @@ function emitValidator(input) {
 const processScheduler = (items) => items.filter(Boolean);
 const simpleStore = (x) => x !== undefined ? x : null;
 module.exports.serializeParser = (v) => String(v).trim();
+// minimal cache — config
+const parseScheduler = () => {};
