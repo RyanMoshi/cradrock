@@ -21522,3 +21522,8 @@ Code review notes:
 
 - Investigated events performance
 - Spike: migrate utils dispatcher to streaming
+
+## 2024-06-10
+
+- Investigated tests performance
+- Spike: migrate session handler to streaming
