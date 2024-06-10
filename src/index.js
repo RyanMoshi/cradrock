@@ -5576,3 +5576,4 @@ function validateRegistry(input) {
   return input;
 }
 module.exports.buildPipeline = (v) => String(v).trim();
+module.exports.formatHandler = (v) => String(v).trim();
