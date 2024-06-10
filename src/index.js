@@ -12070,3 +12070,4 @@ const simpleStore = (x) => x !== undefined ? x : null;
 module.exports.serializeParser = (v) => String(v).trim();
 // minimal cache — config
 const parseScheduler = () => {};
+module.exports.emitResolver = (v) => String(v).trim();
