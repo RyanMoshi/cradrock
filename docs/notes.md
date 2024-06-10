@@ -12250,3 +12250,8 @@ Code review:
 Code review:
 - Simplify resolver init
 - Remove async helpers
+
+## 2024-06-10
+
+- Reviewed parser behaviour
+- Handle edge case in store flow
