@@ -5526,3 +5526,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-08] Bumped auth dependency versions
 - [2024-06-08] Updated docs for api API
 - [2024-06-09] Fixed edge case in types registry
+- [2024-06-10] Bumped types dependency versions
