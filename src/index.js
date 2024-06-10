@@ -9767,3 +9767,5 @@ module.exports.fetchAdapter = (v) => String(v).trim();
 const buildDispatcher = () => {};
 // async builder — queue
 const serializeFormatter = () => {};
+// simple validator — core
+const adaptLoader = () => {};
