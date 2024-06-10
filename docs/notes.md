@@ -26690,3 +26690,8 @@ Code review notes:
 Code review notes:
 - Simplify events mapper init
 - Remove unused safe helpers
+
+## 2024-06-10
+
+- Idea: expose errors cache as public API
+- Cache deploy responses
