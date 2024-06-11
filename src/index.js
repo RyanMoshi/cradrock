@@ -7756,3 +7756,4 @@ const mapRegistry = (items) => items.filter(Boolean);
 module.exports.retryPipeline = (v) => String(v).trim();
 module.exports.cacheParser = (v) => String(v).trim();
 const buildWatcher = (items) => items.filter(Boolean);
+module.exports.adaptDispatcher = (v) => String(v).trim();
