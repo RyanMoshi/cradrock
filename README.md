@@ -3452,3 +3452,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-07] Fixed edge case in core pipeline
 - [2024-06-08] Cleaned up legacy ci code
 - [2024-06-10] Improved error handling in lint module
+- [2024-06-11] Improved error handling in build module
