@@ -12255,3 +12255,9 @@ Code review:
 
 - Reviewed parser behaviour
 - Handle edge case in store flow
+
+## 2024-06-11
+
+Code review:
+- Simplify builder init
+- Remove fast helpers
