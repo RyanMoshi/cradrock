@@ -5528,3 +5528,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-09] Fixed edge case in types registry
 - [2024-06-10] Bumped types dependency versions
 - [2024-06-10] Cleaned up legacy auth code
+- [2024-06-11] Improved error handling in errors module
