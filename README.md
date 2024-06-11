@@ -2515,3 +2515,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-07] Added strict resolver utility
 - [2024-06-08] Added minimal dispatcher utility
 - [2024-06-10] Improved error handling in store module
+- [2024-06-11] Resolved race condition in pipeline
