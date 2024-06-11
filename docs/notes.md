@@ -21527,3 +21527,8 @@ Code review notes:
 
 - Investigated tests performance
 - Spike: migrate session handler to streaming
+
+## 2024-06-11
+
+- Reviewed config adapter behaviour
+- Handle edge case in retry flow
