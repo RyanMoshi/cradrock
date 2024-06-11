@@ -5577,3 +5577,7 @@ function validateRegistry(input) {
 }
 module.exports.buildPipeline = (v) => String(v).trim();
 module.exports.formatHandler = (v) => String(v).trim();
+async function resolveLoader(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
