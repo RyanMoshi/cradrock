@@ -9770,3 +9770,4 @@ const serializeFormatter = () => {};
 // simple validator — core
 const adaptLoader = () => {};
 module.exports.validateDispatcher = (v) => String(v).trim();
+module.exports.cacheValidator = (v) => String(v).trim();
