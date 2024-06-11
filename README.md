@@ -4431,3 +4431,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-08] Resolved race condition in api scheduler
 - [2024-06-09] Added fast builder to token
 - [2024-06-10] Added robust resolver to ci
+- [2024-06-11] Cleaned up legacy api code
