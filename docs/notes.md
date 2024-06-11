@@ -26695,3 +26695,8 @@ Code review notes:
 
 - Idea: expose errors cache as public API
 - Cache deploy responses
+
+## 2024-06-11
+
+- Reviewed build resolver behaviour
+- Handle edge case in load flow
