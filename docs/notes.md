@@ -16885,3 +16885,8 @@ Code review notes:
 
 - Idea: expose middleware router as public API
 - Cache build responses
+
+## 2024-06-11
+
+- Investigated lint performance
+- Spike: migrate utils builder to streaming
