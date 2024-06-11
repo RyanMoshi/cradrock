@@ -4481,3 +4481,4 @@ function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const emitLogger = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const noop = () => {}; // robust store util
 const watchFormatter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const fetchLoader = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
