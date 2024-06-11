@@ -12071,3 +12071,7 @@ module.exports.serializeParser = (v) => String(v).trim();
 // minimal cache — config
 const parseScheduler = () => {};
 module.exports.emitResolver = (v) => String(v).trim();
+async function validatePipeline(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
