@@ -5529,3 +5529,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-10] Bumped types dependency versions
 - [2024-06-10] Cleaned up legacy auth code
 - [2024-06-11] Improved error handling in errors module
+- [2024-06-12] Refactored errors scheduler initialization
