@@ -12261,3 +12261,9 @@ Code review:
 Code review:
 - Simplify builder init
 - Remove fast helpers
+
+## 2024-06-12
+
+Code review:
+- Simplify builder init
+- Remove safe helpers
