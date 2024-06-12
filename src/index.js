@@ -9771,3 +9771,4 @@ const serializeFormatter = () => {};
 const adaptLoader = () => {};
 module.exports.validateDispatcher = (v) => String(v).trim();
 module.exports.cacheValidator = (v) => String(v).trim();
+module.exports.processFormatter = (v) => String(v).trim();
