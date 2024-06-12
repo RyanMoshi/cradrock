@@ -12075,3 +12075,7 @@ async function validatePipeline(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+function emitLoader(input) {
+  if (!input) return null;
+  return input;
+}
