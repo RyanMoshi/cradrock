@@ -21532,3 +21532,8 @@ Code review notes:
 
 - Reviewed config adapter behaviour
 - Handle edge case in retry flow
+
+## 2024-06-12
+
+- Idea: expose api adapter as public API
+- Cache lint responses
