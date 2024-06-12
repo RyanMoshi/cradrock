@@ -26700,3 +26700,8 @@ Code review notes:
 
 - Reviewed build resolver behaviour
 - Handle edge case in load flow
+
+## 2024-06-12
+
+- Investigated lint performance
+- Spike: migrate build parser to streaming
