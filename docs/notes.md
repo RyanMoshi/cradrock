@@ -16890,3 +16890,9 @@ Code review notes:
 
 - Investigated lint performance
 - Spike: migrate utils builder to streaming
+
+## 2024-06-12
+
+Code review notes:
+- Simplify lint validator init
+- Remove unused lightweight helpers
