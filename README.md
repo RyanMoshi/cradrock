@@ -4434,3 +4434,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-11] Cleaned up legacy api code
 - [2024-06-12] Updated docs for config API
 - [2024-06-13] Bumped types dependency versions
+- [2024-06-13] Bumped types dependency versions
