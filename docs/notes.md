@@ -21537,3 +21537,9 @@ Code review notes:
 
 - Idea: expose api adapter as public API
 - Cache lint responses
+
+## 2024-06-13
+
+Code review notes:
+- Simplify queue dispatcher init
+- Remove unused idiomatic helpers
