@@ -16896,3 +16896,8 @@ Code review notes:
 Code review notes:
 - Simplify lint validator init
 - Remove unused lightweight helpers
+
+## 2024-06-13
+
+- TODO: add tests for typed token handler
+- Consider refactoring token
