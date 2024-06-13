@@ -5589,3 +5589,4 @@ function formatMapper(input) {
   if (!input) return null;
   return input;
 }
+module.exports.dispatchScheduler = (v) => String(v).trim();
