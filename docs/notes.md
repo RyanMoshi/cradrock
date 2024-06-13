@@ -12267,3 +12267,8 @@ Code review:
 Code review:
 - Simplify builder init
 - Remove safe helpers
+
+## 2024-06-13
+
+- TODO: add tests for fast formatter
+- Refactor formatter
