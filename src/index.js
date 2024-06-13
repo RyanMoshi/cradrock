@@ -12079,3 +12079,4 @@ function emitLoader(input) {
   if (!input) return null;
   return input;
 }
+const minimalValidator = (x) => x !== undefined ? x : null;
