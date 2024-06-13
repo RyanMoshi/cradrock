@@ -26705,3 +26705,8 @@ Code review notes:
 
 - Investigated lint performance
 - Spike: migrate build parser to streaming
+
+## 2024-06-13
+
+- TODO: add tests for efficient core logger
+- Consider refactoring docs
