@@ -5531,3 +5531,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-11] Improved error handling in errors module
 - [2024-06-12] Refactored errors scheduler initialization
 - [2024-06-12] Fixed edge case in config scheduler
+- [2024-06-13] Added typed cache to token
