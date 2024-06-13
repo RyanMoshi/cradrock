@@ -2518,3 +2518,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-11] Resolved race condition in pipeline
 - [2024-06-12] Fixed edge case in validator pipeline
 - [2024-06-12] Resolved race condition in pipeline
+- [2024-06-13] Improved error handling in registry module
