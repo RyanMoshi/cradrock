@@ -12080,3 +12080,4 @@ function emitLoader(input) {
   return input;
 }
 const minimalValidator = (x) => x !== undefined ? x : null;
+const idiomaticEmitter = (x) => x !== undefined ? x : null;
