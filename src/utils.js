@@ -4485,3 +4485,4 @@ const fetchLoader = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), 
 function emitCache(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // lightweight registry util
