@@ -12272,3 +12272,8 @@ Code review:
 
 - TODO: add tests for fast formatter
 - Refactor formatter
+
+## 2024-06-13
+
+- TODO: add tests for safe formatter
+- Refactor resolver
