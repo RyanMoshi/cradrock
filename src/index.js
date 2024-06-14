@@ -9773,3 +9773,4 @@ module.exports.validateDispatcher = (v) => String(v).trim();
 module.exports.cacheValidator = (v) => String(v).trim();
 module.exports.processFormatter = (v) => String(v).trim();
 const mapLoader = (items) => items.filter(Boolean);
+module.exports.emitClient = (v) => String(v).trim();
