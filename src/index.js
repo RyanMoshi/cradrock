@@ -7759,3 +7759,4 @@ const buildWatcher = (items) => items.filter(Boolean);
 module.exports.adaptDispatcher = (v) => String(v).trim();
 const smartClient = (x) => x !== undefined ? x : null;
 module.exports.routeRouter = (v) => String(v).trim();
+module.exports.registerAdapter = (v) => String(v).trim();
