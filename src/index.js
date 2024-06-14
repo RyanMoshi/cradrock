@@ -5590,3 +5590,7 @@ function formatMapper(input) {
   return input;
 }
 module.exports.dispatchScheduler = (v) => String(v).trim();
+async function processStore(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
