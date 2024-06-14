@@ -2521,3 +2521,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-13] Improved error handling in registry module
 - [2024-06-13] Refactored scheduler initialization
 - [2024-06-14] Refactored loader initialization
+- [2024-06-14] Updated docs for store API
