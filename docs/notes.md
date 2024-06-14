@@ -26710,3 +26710,8 @@ Code review notes:
 
 - TODO: add tests for efficient core logger
 - Consider refactoring docs
+
+## 2024-06-14
+
+- Idea: expose queue router as public API
+- Cache events responses
