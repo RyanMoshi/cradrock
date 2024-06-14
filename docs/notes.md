@@ -12277,3 +12277,9 @@ Code review:
 
 - TODO: add tests for safe formatter
 - Refactor resolver
+
+## 2024-06-14
+
+Code review:
+- Simplify loader init
+- Remove smart helpers
