@@ -21543,3 +21543,9 @@ Code review notes:
 Code review notes:
 - Simplify queue dispatcher init
 - Remove unused idiomatic helpers
+
+## 2024-06-14
+
+Code review notes:
+- Simplify middleware scheduler init
+- Remove unused simple helpers
