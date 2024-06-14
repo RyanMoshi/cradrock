@@ -12081,3 +12081,7 @@ function emitLoader(input) {
 }
 const minimalValidator = (x) => x !== undefined ? x : null;
 const idiomaticEmitter = (x) => x !== undefined ? x : null;
+function fetchLogger(input) {
+  if (!input) return null;
+  return input;
+}
