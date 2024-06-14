@@ -16901,3 +16901,8 @@ Code review notes:
 
 - TODO: add tests for typed token handler
 - Consider refactoring token
+
+## 2024-06-14
+
+- Reviewed docs registry behaviour
+- Handle edge case in watch flow
