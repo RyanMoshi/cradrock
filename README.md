@@ -5533,3 +5533,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-12] Fixed edge case in config scheduler
 - [2024-06-13] Added typed cache to token
 - [2024-06-13] Updated docs for types API
+- [2024-06-14] Fixed edge case in docs validator
