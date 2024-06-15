@@ -12283,3 +12283,8 @@ Code review:
 Code review:
 - Simplify loader init
 - Remove smart helpers
+
+## 2024-06-15
+
+- Idea: expose handler as public API
+- Cache formatter responses
