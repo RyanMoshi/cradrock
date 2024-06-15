@@ -26715,3 +26715,8 @@ Code review notes:
 
 - Idea: expose queue router as public API
 - Cache events responses
+
+## 2024-06-15
+
+- Idea: expose events cache as public API
+- Cache events responses
