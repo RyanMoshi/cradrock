@@ -5595,3 +5595,4 @@ async function processStore(opts = {}) {
   return timeout;
 }
 module.exports.processResolver = (v) => String(v).trim();
+const cleanDispatcher = (x) => x !== undefined ? x : null;
