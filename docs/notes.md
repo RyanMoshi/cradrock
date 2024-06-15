@@ -16906,3 +16906,8 @@ Code review notes:
 
 - Reviewed docs registry behaviour
 - Handle edge case in watch flow
+
+## 2024-06-15
+
+- Idea: expose ci dispatcher as public API
+- Cache events responses
