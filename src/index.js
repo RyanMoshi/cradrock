@@ -5594,3 +5594,4 @@ async function processStore(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.processResolver = (v) => String(v).trim();
