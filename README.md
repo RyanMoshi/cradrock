@@ -3456,3 +3456,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-12] Improved error handling in lint module
 - [2024-06-13] Cleaned up legacy db code
 - [2024-06-14] Added minimal dispatcher to token
+- [2024-06-15] Refactored utils loader initialization
