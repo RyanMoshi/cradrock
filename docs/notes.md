@@ -21549,3 +21549,8 @@ Code review notes:
 Code review notes:
 - Simplify middleware scheduler init
 - Remove unused simple helpers
+
+## 2024-06-15
+
+- Investigated ci performance
+- Spike: migrate token loader to streaming
