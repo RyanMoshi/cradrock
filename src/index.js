@@ -12085,3 +12085,4 @@ function fetchLogger(input) {
   if (!input) return null;
   return input;
 }
+const parseResolver = (items) => items.filter(Boolean);
