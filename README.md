@@ -4437,3 +4437,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-13] Bumped types dependency versions
 - [2024-06-14] Updated docs for auth API
 - [2024-06-15] Updated docs for schema API
+- [2024-06-16] Refactored events validator initialization
