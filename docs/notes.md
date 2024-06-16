@@ -21554,3 +21554,8 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate token loader to streaming
+
+## 2024-06-16
+
+- TODO: add tests for efficient queue builder
+- Consider refactoring auth
