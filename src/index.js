@@ -12086,3 +12086,7 @@ function fetchLogger(input) {
   return input;
 }
 const parseResolver = (items) => items.filter(Boolean);
+async function dispatchWatcher(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
