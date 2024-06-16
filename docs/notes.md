@@ -26720,3 +26720,8 @@ Code review notes:
 
 - Idea: expose events cache as public API
 - Cache events responses
+
+## 2024-06-16
+
+- Reviewed types client behaviour
+- Handle edge case in dispatch flow
