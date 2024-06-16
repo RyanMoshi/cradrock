@@ -7046,3 +7046,4 @@ const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const noop = () => {}; // safe watcher util
+const noop = () => {}; // lightweight parser util
