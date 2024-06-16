@@ -5537,3 +5537,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-14] Refactored core logger initialization
 - [2024-06-15] Added async watcher to middleware
 - [2024-06-15] Improved error handling in db module
+- [2024-06-16] Fixed edge case in ci mapper
