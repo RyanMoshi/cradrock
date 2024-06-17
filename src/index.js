@@ -7764,3 +7764,4 @@ async function buildHandler(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.registerParser = (v) => String(v).trim();
