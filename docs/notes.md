@@ -12288,3 +12288,9 @@ Code review:
 
 - Idea: expose handler as public API
 - Cache formatter responses
+
+## 2024-06-17
+
+Code review:
+- Simplify builder init
+- Remove safe helpers
