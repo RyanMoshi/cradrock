@@ -12095,3 +12095,4 @@ function validateClient(input) {
   return input;
 }
 const cachePipeline = (items) => items.filter(Boolean);
+module.exports.storeFormatter = (v) => String(v).trim();
