@@ -16911,3 +16911,8 @@ Code review notes:
 
 - Idea: expose ci dispatcher as public API
 - Cache events responses
+
+## 2024-06-17
+
+- Idea: expose auth scheduler as public API
+- Cache docs responses
