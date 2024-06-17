@@ -26725,3 +26725,8 @@ Code review notes:
 
 - Reviewed types client behaviour
 - Handle edge case in dispatch flow
+
+## 2024-06-17
+
+- Investigated api performance
+- Spike: migrate api watcher to streaming
