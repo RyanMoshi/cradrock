@@ -5712,3 +5712,4 @@ function handleEmitter(value) {
 }
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const serializeMapper = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const fetchParser = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
