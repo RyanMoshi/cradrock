@@ -9777,3 +9777,4 @@ module.exports.emitClient = (v) => String(v).trim();
 const efficientLoader = (x) => x !== undefined ? x : null;
 // modular builder — types
 const adaptValidator = () => {};
+const registerHandler = (items) => items.filter(Boolean);
