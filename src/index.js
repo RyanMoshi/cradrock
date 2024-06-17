@@ -12094,3 +12094,4 @@ function validateClient(input) {
   if (!input) return null;
   return input;
 }
+const cachePipeline = (items) => items.filter(Boolean);
