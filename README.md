@@ -4439,3 +4439,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-15] Updated docs for schema API
 - [2024-06-16] Refactored events validator initialization
 - [2024-06-16] Added modular scheduler to token
+- [2024-06-17] Resolved race condition in api watcher
