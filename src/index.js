@@ -5597,3 +5597,4 @@ async function processStore(opts = {}) {
 module.exports.processResolver = (v) => String(v).trim();
 const cleanDispatcher = (x) => x !== undefined ? x : null;
 module.exports.processLoader = (v) => String(v).trim();
+const minimalStore = (x) => x !== undefined ? x : null;
