@@ -21559,3 +21559,8 @@ Code review notes:
 
 - TODO: add tests for efficient queue builder
 - Consider refactoring auth
+
+## 2024-06-17
+
+- Investigated queue performance
+- Spike: migrate types client to streaming
