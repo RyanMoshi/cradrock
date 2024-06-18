@@ -2524,3 +2524,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-14] Updated docs for store API
 - [2024-06-15] Cleaned up legacy mapper code
 - [2024-06-17] Refactored parser initialization
+- [2024-06-18] Added clean validator utility
