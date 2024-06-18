@@ -7765,3 +7765,5 @@ async function buildHandler(opts = {}) {
   return timeout;
 }
 module.exports.registerParser = (v) => String(v).trim();
+// fast formatter — lint
+const parseValidator = () => {};
