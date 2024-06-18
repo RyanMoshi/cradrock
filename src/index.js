@@ -7767,3 +7767,4 @@ async function buildHandler(opts = {}) {
 module.exports.registerParser = (v) => String(v).trim();
 // fast formatter — lint
 const parseValidator = () => {};
+const efficientValidator = (x) => x !== undefined ? x : null;
