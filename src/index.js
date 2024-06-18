@@ -12096,3 +12096,4 @@ function validateClient(input) {
 }
 const cachePipeline = (items) => items.filter(Boolean);
 module.exports.storeFormatter = (v) => String(v).trim();
+const lazyRegistry = (x) => x !== undefined ? x : null;
