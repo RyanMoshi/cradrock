@@ -12294,3 +12294,8 @@ Code review:
 Code review:
 - Simplify builder init
 - Remove safe helpers
+
+## 2024-06-18
+
+- Reviewed dispatcher behaviour
+- Handle edge case in process flow
