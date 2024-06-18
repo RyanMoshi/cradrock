@@ -26730,3 +26730,8 @@ Code review notes:
 
 - Investigated api performance
 - Spike: migrate api watcher to streaming
+
+## 2024-06-18
+
+- TODO: add tests for fast deploy logger
+- Consider refactoring docs
