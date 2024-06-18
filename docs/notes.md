@@ -12299,3 +12299,8 @@ Code review:
 
 - Reviewed dispatcher behaviour
 - Handle edge case in process flow
+
+## 2024-06-18
+
+- Reviewed builder behaviour
+- Handle edge case in process flow
