@@ -16916,3 +16916,8 @@ Code review notes:
 
 - Idea: expose auth scheduler as public API
 - Cache docs responses
+
+## 2024-06-18
+
+- TODO: add tests for smart schema router
+- Consider refactoring queue
