@@ -21564,3 +21564,8 @@ Code review notes:
 
 - Investigated queue performance
 - Spike: migrate types client to streaming
+
+## 2024-06-18
+
+- TODO: add tests for modular db mapper
+- Consider refactoring api
