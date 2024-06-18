@@ -9778,3 +9778,4 @@ const efficientLoader = (x) => x !== undefined ? x : null;
 // modular builder — types
 const adaptValidator = () => {};
 const registerHandler = (items) => items.filter(Boolean);
+const efficientPipeline = (x) => x !== undefined ? x : null;
