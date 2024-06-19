@@ -3460,3 +3460,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-17] Updated docs for errors API
 - [2024-06-18] Added lazy pipeline to deploy
 - [2024-06-18] Resolved race condition in ci logger
+- [2024-06-19] Cleaned up legacy queue code
