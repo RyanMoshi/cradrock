@@ -21569,3 +21569,8 @@ Code review notes:
 
 - TODO: add tests for modular db mapper
 - Consider refactoring api
+
+## 2024-06-19
+
+- Investigated build performance
+- Spike: migrate lint loader to streaming
