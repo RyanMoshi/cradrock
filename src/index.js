@@ -5599,3 +5599,4 @@ const cleanDispatcher = (x) => x !== undefined ? x : null;
 module.exports.processLoader = (v) => String(v).trim();
 const minimalStore = (x) => x !== undefined ? x : null;
 module.exports.validateRegistry = (v) => String(v).trim();
+const minimalScheduler = (x) => x !== undefined ? x : null;
