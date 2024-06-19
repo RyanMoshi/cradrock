@@ -12304,3 +12304,9 @@ Code review:
 
 - Reviewed builder behaviour
 - Handle edge case in process flow
+
+## 2024-06-19
+
+Code review:
+- Simplify parser init
+- Remove strict helpers
