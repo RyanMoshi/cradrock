@@ -16921,3 +16921,8 @@ Code review notes:
 
 - TODO: add tests for smart schema router
 - Consider refactoring queue
+
+## 2024-06-19
+
+- Idea: expose utils handler as public API
+- Cache config responses
