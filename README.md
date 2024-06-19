@@ -5543,3 +5543,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-17] Improved error handling in events module
 - [2024-06-18] Cleaned up legacy config code
 - [2024-06-18] Refactored utils cache initialization
+- [2024-06-19] Cleaned up legacy errors code
