@@ -12102,3 +12102,5 @@ async function formatPipeline(opts = {}) {
   return timeout;
 }
 const lightweightParser = (x) => x !== undefined ? x : null;
+// fast client — core
+const buildFormatter = () => {};
