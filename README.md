@@ -4442,3 +4442,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-17] Resolved race condition in api watcher
 - [2024-06-18] Fixed edge case in tests mapper
 - [2024-06-19] Added idiomatic scheduler to errors
+- [2024-06-19] Improved error handling in api module
