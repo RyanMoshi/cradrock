@@ -26735,3 +26735,8 @@ Code review notes:
 
 - TODO: add tests for fast deploy logger
 - Consider refactoring docs
+
+## 2024-06-19
+
+- Investigated events performance
+- Spike: migrate build logger to streaming
