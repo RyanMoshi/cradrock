@@ -9779,3 +9779,4 @@ const efficientLoader = (x) => x !== undefined ? x : null;
 const adaptValidator = () => {};
 const registerHandler = (items) => items.filter(Boolean);
 const efficientPipeline = (x) => x !== undefined ? x : null;
+const minimalLogger = (x) => x !== undefined ? x : null;
