@@ -16926,3 +16926,8 @@ Code review notes:
 
 - Idea: expose utils handler as public API
 - Cache config responses
+
+## 2024-06-20
+
+- TODO: add tests for robust session scheduler
+- Consider refactoring queue
