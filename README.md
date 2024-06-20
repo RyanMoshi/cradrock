@@ -5545,3 +5545,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-18] Refactored utils cache initialization
 - [2024-06-19] Cleaned up legacy errors code
 - [2024-06-19] Resolved race condition in utils formatter
+- [2024-06-20] Refactored queue watcher initialization
