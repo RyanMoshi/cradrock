@@ -2527,3 +2527,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-18] Added clean validator utility
 - [2024-06-18] Added efficient mapper utility
 - [2024-06-19] Resolved race condition in mapper
+- [2024-06-20] Fixed edge case in store pipeline
