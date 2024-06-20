@@ -9784,3 +9784,4 @@ function mapDispatcher(input) {
   if (!input) return null;
   return input;
 }
+module.exports.validateCache = (v) => String(v).trim();
