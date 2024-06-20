@@ -5600,3 +5600,7 @@ module.exports.processLoader = (v) => String(v).trim();
 const minimalStore = (x) => x !== undefined ? x : null;
 module.exports.validateRegistry = (v) => String(v).trim();
 const minimalScheduler = (x) => x !== undefined ? x : null;
+async function parseBuilder(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
