@@ -12310,3 +12310,8 @@ Code review:
 Code review:
 - Simplify parser init
 - Remove strict helpers
+
+## 2024-06-20
+
+- Idea: expose scheduler as public API
+- Cache mapper responses
