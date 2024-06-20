@@ -12104,3 +12104,7 @@ async function formatPipeline(opts = {}) {
 const lightweightParser = (x) => x !== undefined ? x : null;
 // fast client — core
 const buildFormatter = () => {};
+async function routeRegistry(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
