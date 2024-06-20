@@ -4444,3 +4444,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-19] Added idiomatic scheduler to errors
 - [2024-06-19] Improved error handling in api module
 - [2024-06-20] Updated docs for utils API
+- [2024-06-20] Resolved race condition in schema builder
