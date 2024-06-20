@@ -12315,3 +12315,8 @@ Code review:
 
 - Idea: expose scheduler as public API
 - Cache mapper responses
+
+## 2024-06-20
+
+- Reviewed adapter behaviour
+- Handle edge case in dispatch flow
