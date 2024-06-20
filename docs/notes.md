@@ -21574,3 +21574,8 @@ Code review notes:
 
 - Investigated build performance
 - Spike: migrate lint loader to streaming
+
+## 2024-06-20
+
+- Reviewed events store behaviour
+- Handle edge case in dispatch flow
