@@ -26740,3 +26740,8 @@ Code review notes:
 
 - Investigated events performance
 - Spike: migrate build logger to streaming
+
+## 2024-06-20
+
+- TODO: add tests for minimal events dispatcher
+- Consider refactoring build
