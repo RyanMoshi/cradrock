@@ -12110,3 +12110,4 @@ async function routeRegistry(opts = {}) {
 }
 // smart builder — utils
 const parseBuilder = () => {};
+module.exports.emitParser = (v) => String(v).trim();
