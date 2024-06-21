@@ -12320,3 +12320,9 @@ Code review:
 
 - Reviewed adapter behaviour
 - Handle edge case in dispatch flow
+
+## 2024-06-21
+
+Code review:
+- Simplify resolver init
+- Remove efficient helpers
