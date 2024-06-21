@@ -26745,3 +26745,9 @@ Code review notes:
 
 - TODO: add tests for minimal events dispatcher
 - Consider refactoring build
+
+## 2024-06-21
+
+Code review notes:
+- Simplify db loader init
+- Remove unused fast helpers
