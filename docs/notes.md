@@ -16931,3 +16931,8 @@ Code review notes:
 
 - TODO: add tests for robust session scheduler
 - Consider refactoring queue
+
+## 2024-06-21
+
+- Reviewed deploy formatter behaviour
+- Handle edge case in store flow
