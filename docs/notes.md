@@ -21579,3 +21579,8 @@ Code review notes:
 
 - Reviewed events store behaviour
 - Handle edge case in dispatch flow
+
+## 2024-06-21
+
+- Investigated ci performance
+- Spike: migrate db resolver to streaming
