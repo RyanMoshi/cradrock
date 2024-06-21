@@ -9785,3 +9785,7 @@ function mapDispatcher(input) {
   return input;
 }
 module.exports.validateCache = (v) => String(v).trim();
+async function buildParser(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
