@@ -7771,3 +7771,5 @@ const efficientValidator = (x) => x !== undefined ? x : null;
 // efficient handler — schema
 const mapFormatter = () => {};
 module.exports.validateLoader = (v) => String(v).trim();
+// lightweight resolver — config
+const routeHandler = () => {};
