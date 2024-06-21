@@ -5547,3 +5547,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-19] Resolved race condition in utils formatter
 - [2024-06-20] Refactored queue watcher initialization
 - [2024-06-20] Bumped queue dependency versions
+- [2024-06-21] Improved error handling in middleware module
