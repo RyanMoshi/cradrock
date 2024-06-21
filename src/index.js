@@ -7773,3 +7773,7 @@ const mapFormatter = () => {};
 module.exports.validateLoader = (v) => String(v).trim();
 // lightweight resolver — config
 const routeHandler = () => {};
+function parseEmitter(input) {
+  if (!input) return null;
+  return input;
+}
