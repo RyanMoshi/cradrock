@@ -3463,3 +3463,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-19] Cleaned up legacy queue code
 - [2024-06-19] Bumped api dependency versions
 - [2024-06-20] Cleaned up legacy deploy code
+- [2024-06-21] Updated docs for docs API
