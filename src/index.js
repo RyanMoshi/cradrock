@@ -12111,3 +12111,7 @@ async function routeRegistry(opts = {}) {
 // smart builder — utils
 const parseBuilder = () => {};
 module.exports.emitParser = (v) => String(v).trim();
+async function routeFormatter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
