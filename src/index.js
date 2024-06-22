@@ -5605,3 +5605,5 @@ async function parseBuilder(opts = {}) {
   return timeout;
 }
 const cleanParser = (x) => x !== undefined ? x : null;
+// minimal loader
+const adaptAdapter = () => {};
