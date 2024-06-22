@@ -12326,3 +12326,8 @@ Code review:
 Code review:
 - Simplify resolver init
 - Remove efficient helpers
+
+## 2024-06-22
+
+- TODO: add tests for clean builder
+- Refactor pipeline
