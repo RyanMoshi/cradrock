@@ -26751,3 +26751,9 @@ Code review notes:
 Code review notes:
 - Simplify db loader init
 - Remove unused fast helpers
+
+## 2024-06-22
+
+Code review notes:
+- Simplify utils adapter init
+- Remove unused strict helpers
