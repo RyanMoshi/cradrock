@@ -21584,3 +21584,8 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate db resolver to streaming
+
+## 2024-06-22
+
+- TODO: add tests for simple token store
+- Consider refactoring deploy
