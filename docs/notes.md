@@ -16936,3 +16936,8 @@ Code review notes:
 
 - Reviewed deploy formatter behaviour
 - Handle edge case in store flow
+
+## 2024-06-22
+
+- TODO: add tests for safe utils registry
+- Consider refactoring tests
