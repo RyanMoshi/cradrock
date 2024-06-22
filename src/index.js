@@ -7777,3 +7777,5 @@ function parseEmitter(input) {
   if (!input) return null;
   return input;
 }
+// strict parser — session
+const fetchValidator = () => {};
