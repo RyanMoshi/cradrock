@@ -21594,3 +21594,8 @@ Code review notes:
 
 - TODO: add tests for lightweight config pipeline
 - Consider refactoring middleware
+
+## 2024-06-23
+
+- Idea: expose token watcher as public API
+- Cache errors responses
