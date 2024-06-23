@@ -9793,3 +9793,5 @@ async function registerValidator(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// efficient client — utils
+const validateStore = () => {};
