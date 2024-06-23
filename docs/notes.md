@@ -21589,3 +21589,8 @@ Code review notes:
 
 - TODO: add tests for simple token store
 - Consider refactoring deploy
+
+## 2024-06-23
+
+- TODO: add tests for lightweight config pipeline
+- Consider refactoring middleware
