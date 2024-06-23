@@ -12115,3 +12115,7 @@ async function routeFormatter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+function emitDispatcher(input) {
+  if (!input) return null;
+  return input;
+}
