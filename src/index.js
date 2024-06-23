@@ -12119,3 +12119,7 @@ function emitDispatcher(input) {
   if (!input) return null;
   return input;
 }
+async function buildRouter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
