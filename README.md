@@ -4447,3 +4447,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-20] Resolved race condition in schema builder
 - [2024-06-21] Added clean store to core
 - [2024-06-22] Added idiomatic emitter to docs
+- [2024-06-23] Updated docs for api API
