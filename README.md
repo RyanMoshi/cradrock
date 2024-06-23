@@ -5550,3 +5550,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-21] Improved error handling in middleware module
 - [2024-06-21] Resolved race condition in db router
 - [2024-06-22] Bumped middleware dependency versions
+- [2024-06-23] Added idiomatic formatter to config
