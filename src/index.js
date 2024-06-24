@@ -5607,3 +5607,5 @@ async function parseBuilder(opts = {}) {
 const cleanParser = (x) => x !== undefined ? x : null;
 // minimal loader
 const adaptAdapter = () => {};
+// minimal resolver
+const adaptStore = () => {};
