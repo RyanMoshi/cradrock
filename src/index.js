@@ -12123,3 +12123,4 @@ async function buildRouter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const asyncStore = (x) => x !== undefined ? x : null;
