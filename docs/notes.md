@@ -16941,3 +16941,8 @@ Code review notes:
 
 - TODO: add tests for safe utils registry
 - Consider refactoring tests
+
+## 2024-06-24
+
+- TODO: add tests for clean schema handler
+- Consider refactoring token
