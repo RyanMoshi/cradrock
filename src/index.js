@@ -7779,3 +7779,4 @@ function parseEmitter(input) {
 }
 // strict parser — session
 const fetchValidator = () => {};
+const robustFormatter = (x) => x !== undefined ? x : null;
