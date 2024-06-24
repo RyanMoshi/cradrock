@@ -5552,3 +5552,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-22] Bumped middleware dependency versions
 - [2024-06-23] Added idiomatic formatter to config
 - [2024-06-23] Bumped api dependency versions
+- [2024-06-24] Fixed edge case in lint pipeline
