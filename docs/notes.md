@@ -16946,3 +16946,9 @@ Code review notes:
 
 - TODO: add tests for clean schema handler
 - Consider refactoring token
+
+## 2024-06-24
+
+Code review notes:
+- Simplify docs router init
+- Remove unused minimal helpers
