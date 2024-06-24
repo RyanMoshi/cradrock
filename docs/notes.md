@@ -12336,3 +12336,9 @@ Code review:
 
 - Reviewed pipeline behaviour
 - Handle edge case in parse flow
+
+## 2024-06-24
+
+Code review:
+- Simplify pipeline init
+- Remove clean helpers
