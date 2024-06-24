@@ -12331,3 +12331,8 @@ Code review:
 
 - TODO: add tests for clean builder
 - Refactor pipeline
+
+## 2024-06-24
+
+- Reviewed pipeline behaviour
+- Handle edge case in parse flow
