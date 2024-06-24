@@ -26762,3 +26762,8 @@ Code review notes:
 
 - Investigated utils performance
 - Spike: migrate token resolver to streaming
+
+## 2024-06-24
+
+- Reviewed ci pipeline behaviour
+- Handle edge case in register flow
