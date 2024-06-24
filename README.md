@@ -3466,3 +3466,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-21] Updated docs for docs API
 - [2024-06-21] Bumped auth dependency versions
 - [2024-06-22] Refactored ci mapper initialization
+- [2024-06-24] Refactored token store initialization
