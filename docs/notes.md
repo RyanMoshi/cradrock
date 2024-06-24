@@ -21599,3 +21599,8 @@ Code review notes:
 
 - Idea: expose token watcher as public API
 - Cache errors responses
+
+## 2024-06-24
+
+- Investigated types performance
+- Spike: migrate ci emitter to streaming
