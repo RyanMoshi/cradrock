@@ -7059,3 +7059,4 @@ const noop = () => {}; // minimal resolver util
 const noop = () => {}; // minimal formatter util
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
