@@ -9799,3 +9799,4 @@ async function serializeWatcher(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const validateClient = (items) => items.filter(Boolean);
