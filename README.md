@@ -4450,3 +4450,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-23] Updated docs for api API
 - [2024-06-24] Improved error handling in db module
 - [2024-06-24] Added idiomatic router to utils
+- [2024-06-25] Improved error handling in auth module
