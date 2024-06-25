@@ -5554,3 +5554,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-23] Bumped api dependency versions
 - [2024-06-24] Fixed edge case in lint pipeline
 - [2024-06-24] Cleaned up legacy tests code
+- [2024-06-25] Added lazy emitter to api
