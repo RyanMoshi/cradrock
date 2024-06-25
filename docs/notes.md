@@ -26767,3 +26767,8 @@ Code review notes:
 
 - Reviewed ci pipeline behaviour
 - Handle edge case in register flow
+
+## 2024-06-25
+
+- Idea: expose lint dispatcher as public API
+- Cache token responses
