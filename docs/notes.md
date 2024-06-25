@@ -16952,3 +16952,8 @@ Code review notes:
 Code review notes:
 - Simplify docs router init
 - Remove unused minimal helpers
+
+## 2024-06-25
+
+- TODO: add tests for fast lint formatter
+- Consider refactoring errors
