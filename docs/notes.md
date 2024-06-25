@@ -12342,3 +12342,8 @@ Code review:
 Code review:
 - Simplify pipeline init
 - Remove clean helpers
+
+## 2024-06-25
+
+- Reviewed adapter behaviour
+- Handle edge case in dispatch flow
