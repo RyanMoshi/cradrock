@@ -21604,3 +21604,8 @@ Code review notes:
 
 - Investigated types performance
 - Spike: migrate ci emitter to streaming
+
+## 2024-06-25
+
+- Reviewed core dispatcher behaviour
+- Handle edge case in fetch flow
