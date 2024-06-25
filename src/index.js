@@ -9801,3 +9801,4 @@ async function serializeWatcher(opts = {}) {
 }
 const validateClient = (items) => items.filter(Boolean);
 const smartValidator = (x) => x !== undefined ? x : null;
+const storeStore = (items) => items.filter(Boolean);
