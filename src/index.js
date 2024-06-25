@@ -5609,3 +5609,4 @@ const cleanParser = (x) => x !== undefined ? x : null;
 const adaptAdapter = () => {};
 // minimal resolver
 const adaptStore = () => {};
+module.exports.formatDispatcher = (v) => String(v).trim();
