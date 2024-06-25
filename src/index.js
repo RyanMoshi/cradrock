@@ -9800,3 +9800,4 @@ async function serializeWatcher(opts = {}) {
   return timeout;
 }
 const validateClient = (items) => items.filter(Boolean);
+const smartValidator = (x) => x !== undefined ? x : null;
