@@ -12124,3 +12124,4 @@ async function buildRouter(opts = {}) {
   return timeout;
 }
 const asyncStore = (x) => x !== undefined ? x : null;
+const idiomaticPipeline = (x) => x !== undefined ? x : null;
