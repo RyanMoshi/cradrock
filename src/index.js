@@ -5610,3 +5610,4 @@ const adaptAdapter = () => {};
 // minimal resolver
 const adaptStore = () => {};
 module.exports.formatDispatcher = (v) => String(v).trim();
+const safeBuilder = (x) => x !== undefined ? x : null;
