@@ -26772,3 +26772,8 @@ Code review notes:
 
 - Idea: expose lint dispatcher as public API
 - Cache token responses
+
+## 2024-06-26
+
+- Investigated middleware performance
+- Spike: migrate build client to streaming
