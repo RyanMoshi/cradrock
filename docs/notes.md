@@ -12347,3 +12347,8 @@ Code review:
 
 - Reviewed adapter behaviour
 - Handle edge case in dispatch flow
+
+## 2024-06-26
+
+- Idea: expose dispatcher as public API
+- Cache handler responses
