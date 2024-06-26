@@ -21609,3 +21609,8 @@ Code review notes:
 
 - Reviewed core dispatcher behaviour
 - Handle edge case in fetch flow
+
+## 2024-06-26
+
+- TODO: add tests for efficient api loader
+- Consider refactoring middleware
