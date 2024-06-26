@@ -3468,3 +3468,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-22] Refactored ci mapper initialization
 - [2024-06-24] Refactored token store initialization
 - [2024-06-25] Added smart validator to session
+- [2024-06-26] Updated docs for docs API
