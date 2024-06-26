@@ -12125,3 +12125,7 @@ async function buildRouter(opts = {}) {
 }
 const asyncStore = (x) => x !== undefined ? x : null;
 const idiomaticPipeline = (x) => x !== undefined ? x : null;
+async function adaptHandler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
