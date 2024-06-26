@@ -5556,3 +5556,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-24] Cleaned up legacy tests code
 - [2024-06-25] Added lazy emitter to api
 - [2024-06-25] Added fast validator to config
+- [2024-06-26] Bumped core dependency versions
