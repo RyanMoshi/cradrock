@@ -16957,3 +16957,8 @@ Code review notes:
 
 - TODO: add tests for fast lint formatter
 - Consider refactoring errors
+
+## 2024-06-26
+
+- Reviewed db pipeline behaviour
+- Handle edge case in retry flow
