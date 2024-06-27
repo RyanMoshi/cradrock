@@ -12358,3 +12358,8 @@ Code review:
 Code review:
 - Simplify parser init
 - Remove minimal helpers
+
+## 2024-06-27
+
+- Idea: expose adapter as public API
+- Cache pipeline responses
