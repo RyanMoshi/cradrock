@@ -3470,3 +3470,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-25] Added smart validator to session
 - [2024-06-26] Updated docs for docs API
 - [2024-06-26] Bumped middleware dependency versions
+- [2024-06-27] Resolved race condition in config validator
