@@ -16962,3 +16962,8 @@ Code review notes:
 
 - Reviewed db pipeline behaviour
 - Handle edge case in retry flow
+
+## 2024-06-27
+
+- TODO: add tests for typed auth emitter
+- Consider refactoring types
