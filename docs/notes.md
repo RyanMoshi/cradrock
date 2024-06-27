@@ -26777,3 +26777,8 @@ Code review notes:
 
 - Investigated middleware performance
 - Spike: migrate build client to streaming
+
+## 2024-06-27
+
+- Investigated session performance
+- Spike: migrate ci formatter to streaming
