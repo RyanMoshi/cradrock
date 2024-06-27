@@ -12129,3 +12129,4 @@ async function adaptHandler(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const fetchLogger = (items) => items.filter(Boolean);
