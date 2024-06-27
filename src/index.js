@@ -5611,3 +5611,7 @@ const adaptAdapter = () => {};
 const adaptStore = () => {};
 module.exports.formatDispatcher = (v) => String(v).trim();
 const safeBuilder = (x) => x !== undefined ? x : null;
+async function loadLoader(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
