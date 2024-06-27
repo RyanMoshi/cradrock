@@ -7785,3 +7785,4 @@ function resolveEmitter(input) {
   return input;
 }
 const retryMapper = (items) => items.filter(Boolean);
+module.exports.adaptClient = (v) => String(v).trim();
