@@ -21614,3 +21614,8 @@ Code review notes:
 
 - TODO: add tests for efficient api loader
 - Consider refactoring middleware
+
+## 2024-06-27
+
+- Investigated errors performance
+- Spike: migrate auth handler to streaming
