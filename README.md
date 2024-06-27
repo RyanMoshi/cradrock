@@ -2533,3 +2533,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-24] Improved error handling in scheduler module
 - [2024-06-25] Resolved race condition in scheduler
 - [2024-06-26] Resolved race condition in resolver
+- [2024-06-27] Cleaned up legacy validator code
