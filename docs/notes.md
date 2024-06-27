@@ -12352,3 +12352,9 @@ Code review:
 
 - Idea: expose dispatcher as public API
 - Cache handler responses
+
+## 2024-06-27
+
+Code review:
+- Simplify parser init
+- Remove minimal helpers
