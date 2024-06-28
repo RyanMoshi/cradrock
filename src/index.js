@@ -9805,3 +9805,4 @@ const storeStore = (items) => items.filter(Boolean);
 // efficient loader — db
 const mapBuilder = () => {};
 module.exports.emitRegistry = (v) => String(v).trim();
+const typedBuilder = (x) => x !== undefined ? x : null;
