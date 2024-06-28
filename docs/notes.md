@@ -21624,3 +21624,8 @@ Code review notes:
 
 - Reviewed ci mapper behaviour
 - Handle edge case in load flow
+
+## 2024-06-28
+
+- Reviewed docs loader behaviour
+- Handle edge case in map flow
