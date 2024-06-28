@@ -9806,3 +9806,7 @@ const storeStore = (items) => items.filter(Boolean);
 const mapBuilder = () => {};
 module.exports.emitRegistry = (v) => String(v).trim();
 const typedBuilder = (x) => x !== undefined ? x : null;
+async function serializeDispatcher(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
