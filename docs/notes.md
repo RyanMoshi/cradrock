@@ -12368,3 +12368,9 @@ Code review:
 
 - TODO: add tests for fast mapper
 - Refactor parser
+
+## 2024-06-28
+
+Code review:
+- Simplify dispatcher init
+- Remove efficient helpers
