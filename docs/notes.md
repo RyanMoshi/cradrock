@@ -16972,3 +16972,9 @@ Code review notes:
 
 - Idea: expose build formatter as public API
 - Cache docs responses
+
+## 2024-06-28
+
+Code review notes:
+- Simplify build builder init
+- Remove unused strict helpers
