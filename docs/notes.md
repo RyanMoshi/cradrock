@@ -26782,3 +26782,8 @@ Code review notes:
 
 - Investigated session performance
 - Spike: migrate ci formatter to streaming
+
+## 2024-06-28
+
+- Idea: expose session adapter as public API
+- Cache api responses
