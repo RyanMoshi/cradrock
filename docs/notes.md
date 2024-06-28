@@ -12363,3 +12363,8 @@ Code review:
 
 - Idea: expose adapter as public API
 - Cache pipeline responses
+
+## 2024-06-28
+
+- TODO: add tests for fast mapper
+- Refactor parser
