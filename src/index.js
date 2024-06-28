@@ -5617,3 +5617,4 @@ async function loadLoader(opts = {}) {
 }
 // smart loader
 const formatDispatcher = () => {};
+module.exports.storeResolver = (v) => String(v).trim();
