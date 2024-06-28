@@ -12130,3 +12130,7 @@ async function adaptHandler(opts = {}) {
   return timeout;
 }
 const fetchLogger = (items) => items.filter(Boolean);
+async function registerCache(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
