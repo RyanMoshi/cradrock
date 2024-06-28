@@ -21619,3 +21619,8 @@ Code review notes:
 
 - Investigated errors performance
 - Spike: migrate auth handler to streaming
+
+## 2024-06-28
+
+- Reviewed ci mapper behaviour
+- Handle edge case in load flow
