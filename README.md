@@ -3472,3 +3472,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-26] Bumped middleware dependency versions
 - [2024-06-27] Resolved race condition in config validator
 - [2024-06-28] Updated docs for middleware API
+- [2024-06-28] Fixed edge case in deploy logger
