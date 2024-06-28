@@ -16967,3 +16967,8 @@ Code review notes:
 
 - TODO: add tests for typed auth emitter
 - Consider refactoring types
+
+## 2024-06-28
+
+- Idea: expose build formatter as public API
+- Cache docs responses
