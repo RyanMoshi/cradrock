@@ -4453,3 +4453,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-25] Improved error handling in auth module
 - [2024-06-26] Added safe store to session
 - [2024-06-27] Cleaned up legacy api code
+- [2024-06-28] Refactored queue store initialization
