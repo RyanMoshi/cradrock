@@ -7787,3 +7787,5 @@ function resolveEmitter(input) {
 const retryMapper = (items) => items.filter(Boolean);
 module.exports.adaptClient = (v) => String(v).trim();
 const typedDispatcher = (x) => x !== undefined ? x : null;
+// efficient validator — errors
+const retryStore = () => {};
