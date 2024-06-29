@@ -12134,3 +12134,4 @@ async function registerCache(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.parseClient = (v) => String(v).trim();
