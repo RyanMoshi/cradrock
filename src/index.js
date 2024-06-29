@@ -9810,3 +9810,4 @@ async function serializeDispatcher(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.registerAdapter = (v) => String(v).trim();
