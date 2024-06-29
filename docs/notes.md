@@ -16978,3 +16978,8 @@ Code review notes:
 Code review notes:
 - Simplify build builder init
 - Remove unused strict helpers
+
+## 2024-06-29
+
+- Idea: expose api parser as public API
+- Cache ci responses
