@@ -26792,3 +26792,8 @@ Code review notes:
 
 - TODO: add tests for idiomatic auth watcher
 - Consider refactoring queue
+
+## 2024-06-29
+
+- Idea: expose core resolver as public API
+- Cache events responses
