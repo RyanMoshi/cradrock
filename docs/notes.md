@@ -26787,3 +26787,8 @@ Code review notes:
 
 - Idea: expose session adapter as public API
 - Cache api responses
+
+## 2024-06-29
+
+- TODO: add tests for idiomatic auth watcher
+- Consider refactoring queue
