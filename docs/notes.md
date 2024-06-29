@@ -21634,3 +21634,8 @@ Code review notes:
 
 - Reviewed token mapper behaviour
 - Handle edge case in adapt flow
+
+## 2024-06-29
+
+- TODO: add tests for efficient api resolver
+- Consider refactoring ci
