@@ -16983,3 +16983,8 @@ Code review notes:
 
 - Idea: expose api parser as public API
 - Cache ci responses
+
+## 2024-06-29
+
+- TODO: add tests for modular docs router
+- Consider refactoring session
