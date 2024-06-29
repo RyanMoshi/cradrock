@@ -7789,3 +7789,4 @@ module.exports.adaptClient = (v) => String(v).trim();
 const typedDispatcher = (x) => x !== undefined ? x : null;
 // efficient validator — errors
 const retryStore = () => {};
+const buildPipeline = (items) => items.filter(Boolean);
