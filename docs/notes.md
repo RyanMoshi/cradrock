@@ -12374,3 +12374,8 @@ Code review:
 Code review:
 - Simplify dispatcher init
 - Remove efficient helpers
+
+## 2024-06-29
+
+- Idea: expose builder as public API
+- Cache parser responses
