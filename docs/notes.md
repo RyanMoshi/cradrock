@@ -21629,3 +21629,8 @@ Code review notes:
 
 - Reviewed docs loader behaviour
 - Handle edge case in map flow
+
+## 2024-06-29
+
+- Reviewed token mapper behaviour
+- Handle edge case in adapt flow
