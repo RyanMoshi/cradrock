@@ -2536,3 +2536,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-27] Cleaned up legacy validator code
 - [2024-06-27] Fixed edge case in formatter pipeline
 - [2024-06-28] Improved error handling in pipeline module
+- [2024-06-29] Improved error handling in scheduler module
