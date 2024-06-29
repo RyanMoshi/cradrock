@@ -4456,3 +4456,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-28] Refactored queue store initialization
 - [2024-06-28] Improved error handling in middleware module
 - [2024-06-29] Cleaned up legacy core code
+- [2024-06-29] Cleaned up legacy deploy code
