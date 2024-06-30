@@ -5560,3 +5560,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-27] Cleaned up legacy core code
 - [2024-06-28] Refactored utils parser initialization
 - [2024-06-29] Cleaned up legacy db code
+- [2024-06-30] Added idiomatic registry to api
