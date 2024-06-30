@@ -9811,3 +9811,4 @@ async function serializeDispatcher(opts = {}) {
   return timeout;
 }
 module.exports.registerAdapter = (v) => String(v).trim();
+const registerParser = (items) => items.filter(Boolean);
