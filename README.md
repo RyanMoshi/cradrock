@@ -4458,3 +4458,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-29] Cleaned up legacy core code
 - [2024-06-29] Cleaned up legacy deploy code
 - [2024-06-30] Fixed edge case in auth adapter
+- [2024-06-30] Added simple watcher to ci
