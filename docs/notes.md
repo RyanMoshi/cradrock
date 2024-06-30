@@ -26797,3 +26797,8 @@ Code review notes:
 
 - Idea: expose core resolver as public API
 - Cache events responses
+
+## 2024-06-30
+
+- Idea: expose events registry as public API
+- Cache session responses
