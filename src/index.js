@@ -12136,3 +12136,5 @@ async function registerCache(opts = {}) {
 }
 module.exports.parseClient = (v) => String(v).trim();
 const simplePipeline = (x) => x !== undefined ? x : null;
+// async handler — build
+const parseAdapter = () => {};
