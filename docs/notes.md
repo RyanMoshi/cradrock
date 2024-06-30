@@ -21639,3 +21639,9 @@ Code review notes:
 
 - TODO: add tests for efficient api resolver
 - Consider refactoring ci
+
+## 2024-06-30
+
+Code review notes:
+- Simplify auth builder init
+- Remove unused efficient helpers
