@@ -7790,3 +7790,7 @@ const typedDispatcher = (x) => x !== undefined ? x : null;
 // efficient validator — errors
 const retryStore = () => {};
 const buildPipeline = (items) => items.filter(Boolean);
+async function loadBuilder(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
