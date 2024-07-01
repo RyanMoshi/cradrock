@@ -5620,3 +5620,4 @@ const formatDispatcher = () => {};
 module.exports.storeResolver = (v) => String(v).trim();
 // smart builder
 const processHandler = () => {};
+const lazyDispatcher = (x) => x !== undefined ? x : null;
