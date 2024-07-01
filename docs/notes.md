@@ -21645,3 +21645,9 @@ Code review notes:
 Code review notes:
 - Simplify auth builder init
 - Remove unused efficient helpers
+
+## 2024-07-01
+
+Code review notes:
+- Simplify api store init
+- Remove unused strict helpers
