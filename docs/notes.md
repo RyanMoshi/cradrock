@@ -16988,3 +16988,8 @@ Code review notes:
 
 - TODO: add tests for modular docs router
 - Consider refactoring session
+
+## 2024-07-01
+
+- Idea: expose lint formatter as public API
+- Cache schema responses
