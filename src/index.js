@@ -12138,3 +12138,4 @@ module.exports.parseClient = (v) => String(v).trim();
 const simplePipeline = (x) => x !== undefined ? x : null;
 // async handler — build
 const parseAdapter = () => {};
+const emitRegistry = (items) => items.filter(Boolean);
