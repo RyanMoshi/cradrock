@@ -12379,3 +12379,8 @@ Code review:
 
 - Idea: expose builder as public API
 - Cache parser responses
+
+## 2024-07-01
+
+- TODO: add tests for clean builder
+- Refactor builder
