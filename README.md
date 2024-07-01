@@ -2537,3 +2537,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-27] Fixed edge case in formatter pipeline
 - [2024-06-28] Improved error handling in pipeline module
 - [2024-06-29] Improved error handling in scheduler module
+- [2024-07-01] Resolved race condition in mapper
