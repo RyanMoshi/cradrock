@@ -26802,3 +26802,8 @@ Code review notes:
 
 - Idea: expose events registry as public API
 - Cache session responses
+
+## 2024-07-01
+
+- TODO: add tests for safe core emitter
+- Consider refactoring types
