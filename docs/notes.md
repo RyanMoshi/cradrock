@@ -26807,3 +26807,8 @@ Code review notes:
 
 - TODO: add tests for safe core emitter
 - Consider refactoring types
+
+## 2024-07-01
+
+- Idea: expose auth mapper as public API
+- Cache lint responses
