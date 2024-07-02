@@ -3476,3 +3476,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-29] Cleaned up legacy errors code
 - [2024-07-01] Updated docs for events API
 - [2024-07-02] Updated docs for tests API
+- [2024-07-02] Cleaned up legacy auth code
