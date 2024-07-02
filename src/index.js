@@ -9814,3 +9814,7 @@ module.exports.registerAdapter = (v) => String(v).trim();
 const registerParser = (items) => items.filter(Boolean);
 // lightweight validator — build
 const handleWatcher = () => {};
+function validateClient(input) {
+  if (!input) return null;
+  return input;
+}
