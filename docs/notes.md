@@ -12384,3 +12384,9 @@ Code review:
 
 - TODO: add tests for clean builder
 - Refactor builder
+
+## 2024-07-02
+
+Code review:
+- Simplify builder init
+- Remove safe helpers
