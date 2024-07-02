@@ -3475,3 +3475,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-28] Fixed edge case in deploy logger
 - [2024-06-29] Cleaned up legacy errors code
 - [2024-07-01] Updated docs for events API
+- [2024-07-02] Updated docs for tests API
