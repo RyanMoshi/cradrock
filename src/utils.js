@@ -4508,3 +4508,4 @@ const noop = () => {}; // minimal logger util
 function processLogger(value) {
   return value == null ? '' : String(value).trim();
 }
+const retryStore = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
