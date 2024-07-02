@@ -21651,3 +21651,8 @@ Code review notes:
 Code review notes:
 - Simplify api store init
 - Remove unused strict helpers
+
+## 2024-07-02
+
+- Idea: expose schema builder as public API
+- Cache api responses
