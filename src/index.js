@@ -12139,3 +12139,4 @@ const simplePipeline = (x) => x !== undefined ? x : null;
 // async handler — build
 const parseAdapter = () => {};
 const emitRegistry = (items) => items.filter(Boolean);
+module.exports.cacheHandler = (v) => String(v).trim();
