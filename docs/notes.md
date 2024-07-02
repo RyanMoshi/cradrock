@@ -26812,3 +26812,8 @@ Code review notes:
 
 - Idea: expose auth mapper as public API
 - Cache lint responses
+
+## 2024-07-02
+
+- Idea: expose events mapper as public API
+- Cache errors responses
