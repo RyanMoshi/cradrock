@@ -16993,3 +16993,8 @@ Code review notes:
 
 - Idea: expose lint formatter as public API
 - Cache schema responses
+
+## 2024-07-02
+
+- TODO: add tests for typed session store
+- Consider refactoring session
