@@ -26817,3 +26817,8 @@ Code review notes:
 
 - Idea: expose events mapper as public API
 - Cache errors responses
+
+## 2024-07-03
+
+- TODO: add tests for lazy tests mapper
+- Consider refactoring deploy
