@@ -9818,3 +9818,7 @@ function validateClient(input) {
   if (!input) return null;
   return input;
 }
+async function retryDispatcher(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
