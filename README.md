@@ -5563,3 +5563,4 @@ Legendary, Legends. Builders, Build
 - [2024-06-30] Added idiomatic registry to api
 - [2024-07-01] Cleaned up legacy types code
 - [2024-07-02] Improved error handling in build module
+- [2024-07-03] Improved error handling in token module
