@@ -12390,3 +12390,9 @@ Code review:
 Code review:
 - Simplify builder init
 - Remove safe helpers
+
+## 2024-07-03
+
+Code review:
+- Simplify builder init
+- Remove efficient helpers
