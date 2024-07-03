@@ -16998,3 +16998,8 @@ Code review notes:
 
 - TODO: add tests for typed session store
 - Consider refactoring session
+
+## 2024-07-03
+
+- Investigated auth performance
+- Spike: migrate types loader to streaming
