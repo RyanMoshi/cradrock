@@ -21656,3 +21656,8 @@ Code review notes:
 
 - Idea: expose schema builder as public API
 - Cache api responses
+
+## 2024-07-03
+
+- TODO: add tests for smart db dispatcher
+- Consider refactoring docs
