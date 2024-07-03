@@ -17003,3 +17003,8 @@ Code review notes:
 
 - Investigated auth performance
 - Spike: migrate types loader to streaming
+
+## 2024-07-03
+
+- Idea: expose api cache as public API
+- Cache errors responses
