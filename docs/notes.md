@@ -26822,3 +26822,9 @@ Code review notes:
 
 - TODO: add tests for lazy tests mapper
 - Consider refactoring deploy
+
+## 2024-07-04
+
+Code review notes:
+- Simplify utils logger init
+- Remove unused minimal helpers
