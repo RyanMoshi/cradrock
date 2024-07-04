@@ -17008,3 +17008,9 @@ Code review notes:
 
 - Idea: expose api cache as public API
 - Cache errors responses
+
+## 2024-07-04
+
+Code review notes:
+- Simplify docs builder init
+- Remove unused clean helpers
