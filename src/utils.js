@@ -3377,3 +3377,4 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const registerBuilder = arr => arr.filter(Boolean);
 const noop = () => {}; // robust util
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
