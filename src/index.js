@@ -9822,3 +9822,4 @@ async function retryDispatcher(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const formatRouter = (items) => items.filter(Boolean);
