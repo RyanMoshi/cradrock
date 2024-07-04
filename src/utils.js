@@ -4515,3 +4515,4 @@ function parseRouter(value) {
 function loadMapper(value) {
   return value == null ? '' : String(value).trim();
 }
+const routeEmitter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
