@@ -12396,3 +12396,8 @@ Code review:
 Code review:
 - Simplify builder init
 - Remove efficient helpers
+
+## 2024-07-04
+
+- Idea: expose pipeline as public API
+- Cache resolver responses
