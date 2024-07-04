@@ -12401,3 +12401,8 @@ Code review:
 
 - Idea: expose pipeline as public API
 - Cache resolver responses
+
+## 2024-07-04
+
+- Reviewed registry behaviour
+- Handle edge case in handle flow
