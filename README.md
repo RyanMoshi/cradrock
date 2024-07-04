@@ -2540,3 +2540,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-01] Resolved race condition in mapper
 - [2024-07-02] Improved error handling in adapter module
 - [2024-07-03] Updated docs for handler API
+- [2024-07-04] Refactored pipeline initialization
