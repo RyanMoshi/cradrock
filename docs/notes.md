@@ -21661,3 +21661,8 @@ Code review notes:
 
 - TODO: add tests for smart db dispatcher
 - Consider refactoring docs
+
+## 2024-07-04
+
+- TODO: add tests for simple api registry
+- Consider refactoring utils
