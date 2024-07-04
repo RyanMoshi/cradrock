@@ -3478,3 +3478,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-02] Updated docs for tests API
 - [2024-07-02] Cleaned up legacy auth code
 - [2024-07-03] Improved error handling in config module
+- [2024-07-04] Fixed edge case in types handler
