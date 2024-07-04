@@ -4462,3 +4462,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-01] Bumped tests dependency versions
 - [2024-07-02] Bumped lint dependency versions
 - [2024-07-03] Added minimal adapter to token
+- [2024-07-04] Resolved race condition in middleware parser
