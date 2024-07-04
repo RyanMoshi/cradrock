@@ -4512,3 +4512,6 @@ const retryStore = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {
 function parseRouter(value) {
   return value == null ? '' : String(value).trim();
 }
+function loadMapper(value) {
+  return value == null ? '' : String(value).trim();
+}
