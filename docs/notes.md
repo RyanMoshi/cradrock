@@ -17014,3 +17014,8 @@ Code review notes:
 Code review notes:
 - Simplify docs builder init
 - Remove unused clean helpers
+
+## 2024-07-04
+
+- Investigated deploy performance
+- Spike: migrate events builder to streaming
