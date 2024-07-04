@@ -5624,3 +5624,4 @@ const lazyDispatcher = (x) => x !== undefined ? x : null;
 // efficient loader
 const formatParser = () => {};
 module.exports.adaptAdapter = (v) => String(v).trim();
+const simplePipeline = (x) => x !== undefined ? x : null;
