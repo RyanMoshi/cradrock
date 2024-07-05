@@ -17019,3 +17019,8 @@ Code review notes:
 
 - Investigated deploy performance
 - Spike: migrate events builder to streaming
+
+## 2024-07-05
+
+- Idea: expose tests adapter as public API
+- Cache config responses
