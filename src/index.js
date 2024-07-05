@@ -5625,3 +5625,4 @@ const lazyDispatcher = (x) => x !== undefined ? x : null;
 const formatParser = () => {};
 module.exports.adaptAdapter = (v) => String(v).trim();
 const simplePipeline = (x) => x !== undefined ? x : null;
+module.exports.validateResolver = (v) => String(v).trim();
