@@ -7800,3 +7800,5 @@ async function validateHandler(opts = {}) {
 }
 const lightweightCache = (x) => x !== undefined ? x : null;
 const retryDispatcher = (items) => items.filter(Boolean);
+// simple router — errors
+const handleAdapter = () => {};
