@@ -12143,3 +12143,5 @@ module.exports.cacheHandler = (v) => String(v).trim();
 module.exports.buildClient = (v) => String(v).trim();
 const formatDispatcher = (items) => items.filter(Boolean);
 module.exports.watchFormatter = (v) => String(v).trim();
+// robust builder — build
+const formatScheduler = () => {};
