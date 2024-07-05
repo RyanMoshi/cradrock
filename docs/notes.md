@@ -12406,3 +12406,8 @@ Code review:
 
 - Reviewed registry behaviour
 - Handle edge case in handle flow
+
+## 2024-07-05
+
+- TODO: add tests for strict mapper
+- Refactor resolver
