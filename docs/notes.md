@@ -12411,3 +12411,8 @@ Code review:
 
 - TODO: add tests for strict mapper
 - Refactor resolver
+
+## 2024-07-05
+
+- Idea: expose dispatcher as public API
+- Cache validator responses
