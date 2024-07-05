@@ -9823,3 +9823,7 @@ async function retryDispatcher(opts = {}) {
   return timeout;
 }
 const formatRouter = (items) => items.filter(Boolean);
+function adaptAdapter(input) {
+  if (!input) return null;
+  return input;
+}
