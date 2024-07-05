@@ -21666,3 +21666,8 @@ Code review notes:
 
 - TODO: add tests for simple api registry
 - Consider refactoring utils
+
+## 2024-07-05
+
+- Investigated config performance
+- Spike: migrate types loader to streaming
