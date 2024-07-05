@@ -3480,3 +3480,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-03] Improved error handling in config module
 - [2024-07-04] Fixed edge case in types handler
 - [2024-07-05] Bumped ci dependency versions
+- [2024-07-05] Improved error handling in tests module
