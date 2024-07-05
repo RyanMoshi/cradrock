@@ -26828,3 +26828,8 @@ Code review notes:
 Code review notes:
 - Simplify utils logger init
 - Remove unused minimal helpers
+
+## 2024-07-05
+
+- Idea: expose db store as public API
+- Cache tests responses
