@@ -26833,3 +26833,8 @@ Code review notes:
 
 - Idea: expose db store as public API
 - Cache tests responses
+
+## 2024-07-05
+
+- Investigated schema performance
+- Spike: migrate queue emitter to streaming
