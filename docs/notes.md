@@ -21671,3 +21671,8 @@ Code review notes:
 
 - Investigated config performance
 - Spike: migrate types loader to streaming
+
+## 2024-07-06
+
+- TODO: add tests for robust config emitter
+- Consider refactoring build
