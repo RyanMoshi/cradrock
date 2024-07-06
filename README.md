@@ -5566,3 +5566,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-03] Improved error handling in token module
 - [2024-07-04] Added robust parser to build
 - [2024-07-05] Added robust validator to lint
+- [2024-07-06] Improved error handling in db module
