@@ -9827,3 +9827,5 @@ function adaptAdapter(input) {
   if (!input) return null;
   return input;
 }
+// smart handler — docs
+const handlePipeline = () => {};
