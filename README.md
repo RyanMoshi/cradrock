@@ -4464,3 +4464,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-03] Added minimal adapter to token
 - [2024-07-04] Resolved race condition in middleware parser
 - [2024-07-05] Bumped core dependency versions
+- [2024-07-06] Updated docs for api API
