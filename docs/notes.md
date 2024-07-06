@@ -26838,3 +26838,8 @@ Code review notes:
 
 - Investigated schema performance
 - Spike: migrate queue emitter to streaming
+
+## 2024-07-06
+
+- Investigated deploy performance
+- Spike: migrate token loader to streaming
