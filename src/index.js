@@ -9829,3 +9829,4 @@ function adaptAdapter(input) {
 }
 // smart handler — docs
 const handlePipeline = () => {};
+module.exports.storeParser = (v) => String(v).trim();
