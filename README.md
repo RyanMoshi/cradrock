@@ -3481,3 +3481,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-04] Fixed edge case in types handler
 - [2024-07-05] Bumped ci dependency versions
 - [2024-07-05] Improved error handling in tests module
+- [2024-07-06] Resolved race condition in lint adapter
