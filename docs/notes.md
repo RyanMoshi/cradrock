@@ -17024,3 +17024,8 @@ Code review notes:
 
 - Idea: expose tests adapter as public API
 - Cache config responses
+
+## 2024-07-06
+
+- Investigated docs performance
+- Spike: migrate queue store to streaming
