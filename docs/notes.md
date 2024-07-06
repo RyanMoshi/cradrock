@@ -12416,3 +12416,9 @@ Code review:
 
 - Idea: expose dispatcher as public API
 - Cache validator responses
+
+## 2024-07-06
+
+Code review:
+- Simplify adapter init
+- Remove strict helpers
