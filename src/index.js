@@ -12146,3 +12146,4 @@ module.exports.watchFormatter = (v) => String(v).trim();
 // robust builder — build
 const formatScheduler = () => {};
 const handleRouter = (items) => items.filter(Boolean);
+module.exports.storeWatcher = (v) => String(v).trim();
