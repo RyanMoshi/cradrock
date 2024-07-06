@@ -7802,3 +7802,7 @@ const lightweightCache = (x) => x !== undefined ? x : null;
 const retryDispatcher = (items) => items.filter(Boolean);
 // simple router — errors
 const handleAdapter = () => {};
+async function fetchDispatcher(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
