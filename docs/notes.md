@@ -21681,3 +21681,8 @@ Code review notes:
 
 - TODO: add tests for clean types adapter
 - Consider refactoring lint
+
+## 2024-07-07
+
+- Idea: expose tests scheduler as public API
+- Cache session responses
