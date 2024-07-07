@@ -9834,3 +9834,7 @@ async function handleEmitter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function parseRouter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
