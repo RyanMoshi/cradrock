@@ -12147,3 +12147,7 @@ module.exports.watchFormatter = (v) => String(v).trim();
 const formatScheduler = () => {};
 const handleRouter = (items) => items.filter(Boolean);
 module.exports.storeWatcher = (v) => String(v).trim();
+async function resolveLoader(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
