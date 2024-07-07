@@ -5567,3 +5567,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-04] Added robust parser to build
 - [2024-07-05] Added robust validator to lint
 - [2024-07-06] Improved error handling in db module
+- [2024-07-07] Added typed registry to schema
