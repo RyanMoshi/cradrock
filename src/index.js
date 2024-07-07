@@ -9830,3 +9830,7 @@ function adaptAdapter(input) {
 // smart handler — docs
 const handlePipeline = () => {};
 module.exports.storeParser = (v) => String(v).trim();
+async function handleEmitter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
