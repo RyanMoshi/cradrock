@@ -12427,3 +12427,8 @@ Code review:
 
 - Idea: expose mapper as public API
 - Cache builder responses
+
+## 2024-07-08
+
+- TODO: add tests for strict mapper
+- Refactor loader
