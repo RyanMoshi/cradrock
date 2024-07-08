@@ -21686,3 +21686,9 @@ Code review notes:
 
 - Idea: expose tests scheduler as public API
 - Cache session responses
+
+## 2024-07-08
+
+Code review notes:
+- Simplify middleware parser init
+- Remove unused smart helpers
