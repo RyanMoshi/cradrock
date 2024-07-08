@@ -17029,3 +17029,8 @@ Code review notes:
 
 - Investigated docs performance
 - Spike: migrate queue store to streaming
+
+## 2024-07-08
+
+- Investigated auth performance
+- Spike: migrate api cache to streaming
