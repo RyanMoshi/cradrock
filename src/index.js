@@ -7810,3 +7810,4 @@ function parseHandler(input) {
   if (!input) return null;
   return input;
 }
+module.exports.emitBuilder = (v) => String(v).trim();
