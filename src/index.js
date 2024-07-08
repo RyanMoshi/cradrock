@@ -12151,3 +12151,4 @@ async function resolveLoader(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const efficientRegistry = (x) => x !== undefined ? x : null;
