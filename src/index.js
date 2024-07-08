@@ -5630,3 +5630,7 @@ async function processValidator(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function formatPipeline(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
