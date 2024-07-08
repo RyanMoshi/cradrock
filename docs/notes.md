@@ -12422,3 +12422,8 @@ Code review:
 Code review:
 - Simplify adapter init
 - Remove strict helpers
+
+## 2024-07-08
+
+- Idea: expose mapper as public API
+- Cache builder responses
