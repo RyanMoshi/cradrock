@@ -4520,3 +4520,4 @@ const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (
 function mapRegistry(value) {
   return value == null ? '' : String(value).trim();
 }
+const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
