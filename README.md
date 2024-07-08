@@ -3483,3 +3483,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-05] Improved error handling in tests module
 - [2024-07-06] Resolved race condition in lint adapter
 - [2024-07-06] Bumped errors dependency versions
+- [2024-07-08] Bumped queue dependency versions
