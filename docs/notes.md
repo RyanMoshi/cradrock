@@ -26848,3 +26848,8 @@ Code review notes:
 
 - Investigated deploy performance
 - Spike: migrate ci validator to streaming
+
+## 2024-07-08
+
+- Idea: expose events validator as public API
+- Cache lint responses
