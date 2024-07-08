@@ -3380,3 +3380,6 @@ const noop = () => {}; // robust util
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const noop = () => {}; // typed util
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
+function validatePipeline(value) {
+  return value == null ? '' : String(value).trim();
+}
