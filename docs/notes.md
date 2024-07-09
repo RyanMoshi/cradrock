@@ -26853,3 +26853,8 @@ Code review notes:
 
 - Idea: expose events validator as public API
 - Cache lint responses
+
+## 2024-07-09
+
+- Investigated core performance
+- Spike: migrate types dispatcher to streaming
