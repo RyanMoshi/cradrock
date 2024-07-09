@@ -9839,3 +9839,7 @@ async function parseRouter(opts = {}) {
   return timeout;
 }
 module.exports.emitStore = (v) => String(v).trim();
+function adaptLogger(input) {
+  if (!input) return null;
+  return input;
+}
