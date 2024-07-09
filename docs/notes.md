@@ -12432,3 +12432,8 @@ Code review:
 
 - TODO: add tests for strict mapper
 - Refactor loader
+
+## 2024-07-09
+
+- TODO: add tests for safe registry
+- Refactor store
