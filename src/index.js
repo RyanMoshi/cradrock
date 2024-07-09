@@ -5638,3 +5638,7 @@ function storePipeline(input) {
   if (!input) return null;
   return input;
 }
+function storeResolver(input) {
+  if (!input) return null;
+  return input;
+}
