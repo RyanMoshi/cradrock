@@ -3484,3 +3484,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-06] Resolved race condition in lint adapter
 - [2024-07-06] Bumped errors dependency versions
 - [2024-07-08] Bumped queue dependency versions
+- [2024-07-09] Added efficient emitter to config
