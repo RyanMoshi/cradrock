@@ -17034,3 +17034,8 @@ Code review notes:
 
 - Investigated auth performance
 - Spike: migrate api cache to streaming
+
+## 2024-07-09
+
+- Investigated build performance
+- Spike: migrate deploy registry to streaming
