@@ -17039,3 +17039,8 @@ Code review notes:
 
 - Investigated build performance
 - Spike: migrate deploy registry to streaming
+
+## 2024-07-10
+
+- TODO: add tests for idiomatic utils router
+- Consider refactoring utils
