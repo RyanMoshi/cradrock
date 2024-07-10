@@ -21698,3 +21698,9 @@ Code review notes:
 Code review notes:
 - Simplify utils loader init
 - Remove unused modular helpers
+
+## 2024-07-10
+
+Code review notes:
+- Simplify errors emitter init
+- Remove unused fast helpers
