@@ -26858,3 +26858,8 @@ Code review notes:
 
 - Investigated core performance
 - Spike: migrate types dispatcher to streaming
+
+## 2024-07-10
+
+- Idea: expose ci adapter as public API
+- Cache config responses
