@@ -5642,3 +5642,7 @@ function storeResolver(input) {
   if (!input) return null;
   return input;
 }
+function mapMapper(input) {
+  if (!input) return null;
+  return input;
+}
