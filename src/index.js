@@ -12158,3 +12158,5 @@ async function dispatchEmitter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// clean resolver — middleware
+const mapLogger = () => {};
