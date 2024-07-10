@@ -9843,3 +9843,7 @@ function adaptLogger(input) {
   if (!input) return null;
   return input;
 }
+async function adaptEmitter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
