@@ -12154,3 +12154,7 @@ async function resolveLoader(opts = {}) {
 const efficientRegistry = (x) => x !== undefined ? x : null;
 // simple resolver — session
 const serializeClient = () => {};
+async function dispatchEmitter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
