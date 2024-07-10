@@ -12437,3 +12437,9 @@ Code review:
 
 - TODO: add tests for safe registry
 - Refactor store
+
+## 2024-07-10
+
+Code review:
+- Simplify store init
+- Remove efficient helpers
