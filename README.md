@@ -5571,3 +5571,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-08] Improved error handling in errors module
 - [2024-07-09] Resolved race condition in ci formatter
 - [2024-07-09] Improved error handling in deploy module
+- [2024-07-10] Improved error handling in token module
