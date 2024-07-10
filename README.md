@@ -2545,3 +2545,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-06] Updated docs for registry API
 - [2024-07-08] Resolved race condition in loader
 - [2024-07-09] Refactored builder initialization
+- [2024-07-10] Refactored store initialization
