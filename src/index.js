@@ -7815,3 +7815,5 @@ function registerEmitter(input) {
   if (!input) return null;
   return input;
 }
+// clean adapter — ci
+const fetchLoader = () => {};
