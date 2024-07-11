@@ -5650,3 +5650,7 @@ async function mapRegistry(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+function formatScheduler(input) {
+  if (!input) return null;
+  return input;
+}
