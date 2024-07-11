@@ -26863,3 +26863,8 @@ Code review notes:
 
 - Idea: expose ci adapter as public API
 - Cache config responses
+
+## 2024-07-11
+
+- TODO: add tests for clean docs registry
+- Consider refactoring config
