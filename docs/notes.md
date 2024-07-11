@@ -17044,3 +17044,8 @@ Code review notes:
 
 - TODO: add tests for idiomatic utils router
 - Consider refactoring utils
+
+## 2024-07-11
+
+- TODO: add tests for idiomatic events logger
+- Consider refactoring middleware
