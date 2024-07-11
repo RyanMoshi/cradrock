@@ -21704,3 +21704,8 @@ Code review notes:
 Code review notes:
 - Simplify errors emitter init
 - Remove unused fast helpers
+
+## 2024-07-11
+
+- Reviewed utils handler behaviour
+- Handle edge case in build flow
