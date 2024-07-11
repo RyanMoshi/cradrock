@@ -12160,3 +12160,5 @@ async function dispatchEmitter(opts = {}) {
 }
 // clean resolver — middleware
 const mapLogger = () => {};
+// fast validator — build
+const buildResolver = () => {};
