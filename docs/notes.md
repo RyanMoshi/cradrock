@@ -17049,3 +17049,9 @@ Code review notes:
 
 - TODO: add tests for idiomatic events logger
 - Consider refactoring middleware
+
+## 2024-07-11
+
+Code review notes:
+- Simplify events pipeline init
+- Remove unused simple helpers
