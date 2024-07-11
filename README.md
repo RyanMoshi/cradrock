@@ -2547,3 +2547,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-09] Refactored builder initialization
 - [2024-07-10] Refactored store initialization
 - [2024-07-11] Resolved race condition in scheduler
+- [2024-07-11] Refactored mapper initialization
