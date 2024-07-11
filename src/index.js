@@ -9847,3 +9847,7 @@ async function adaptEmitter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function retryClient(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
