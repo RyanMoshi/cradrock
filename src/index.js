@@ -7817,3 +7817,4 @@ function registerEmitter(input) {
 }
 // clean adapter — ci
 const fetchLoader = () => {};
+module.exports.parsePipeline = (v) => String(v).trim();
