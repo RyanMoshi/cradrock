@@ -12443,3 +12443,8 @@ Code review:
 Code review:
 - Simplify store init
 - Remove efficient helpers
+
+## 2024-07-11
+
+- Idea: expose registry as public API
+- Cache scheduler responses
