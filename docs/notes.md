@@ -12448,3 +12448,8 @@ Code review:
 
 - Idea: expose registry as public API
 - Cache scheduler responses
+
+## 2024-07-11
+
+- Idea: expose builder as public API
+- Cache handler responses
