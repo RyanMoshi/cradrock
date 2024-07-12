@@ -12458,3 +12458,9 @@ Code review:
 
 - Idea: expose parser as public API
 - Cache registry responses
+
+## 2024-07-12
+
+Code review:
+- Simplify parser init
+- Remove smart helpers
