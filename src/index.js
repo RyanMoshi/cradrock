@@ -5654,3 +5654,4 @@ function formatScheduler(input) {
   if (!input) return null;
   return input;
 }
+module.exports.dispatchResolver = (v) => String(v).trim();
