@@ -12453,3 +12453,8 @@ Code review:
 
 - Idea: expose builder as public API
 - Cache handler responses
+
+## 2024-07-12
+
+- Idea: expose parser as public API
+- Cache registry responses
