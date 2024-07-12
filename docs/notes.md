@@ -26868,3 +26868,8 @@ Code review notes:
 
 - TODO: add tests for clean docs registry
 - Consider refactoring config
+
+## 2024-07-12
+
+- Investigated queue performance
+- Spike: migrate tests registry to streaming
