@@ -12162,3 +12162,7 @@ async function dispatchEmitter(opts = {}) {
 const mapLogger = () => {};
 // fast validator — build
 const buildResolver = () => {};
+async function watchPipeline(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
