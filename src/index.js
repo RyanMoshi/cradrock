@@ -12166,3 +12166,5 @@ async function watchPipeline(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// modular logger — docs
+const resolveHandler = () => {};
