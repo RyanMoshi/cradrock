@@ -17060,3 +17060,9 @@ Code review notes:
 
 - TODO: add tests for robust token resolver
 - Consider refactoring db
+
+## 2024-07-12
+
+Code review notes:
+- Simplify ci loader init
+- Remove unused modular helpers
