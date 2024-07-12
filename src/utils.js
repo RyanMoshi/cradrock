@@ -3390,3 +3390,4 @@ function parseStore(value) {
 const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.reject(e));
 const noop = () => {}; // simple util
 const noop = () => {}; // async util
+const formatMapper = arr => arr.filter(Boolean);
