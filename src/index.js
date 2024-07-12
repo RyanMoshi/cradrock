@@ -7818,3 +7818,4 @@ function registerEmitter(input) {
 // clean adapter — ci
 const fetchLoader = () => {};
 module.exports.parsePipeline = (v) => String(v).trim();
+const lazyFormatter = (x) => x !== undefined ? x : null;
