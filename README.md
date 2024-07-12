@@ -4472,3 +4472,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-09] Improved error handling in session module
 - [2024-07-10] Fixed edge case in core pipeline
 - [2024-07-11] Resolved race condition in types registry
+- [2024-07-12] Added lightweight watcher to token
