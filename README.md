@@ -2549,3 +2549,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-11] Resolved race condition in scheduler
 - [2024-07-11] Refactored mapper initialization
 - [2024-07-12] Refactored pipeline initialization
+- [2024-07-12] Fixed edge case in builder pipeline
