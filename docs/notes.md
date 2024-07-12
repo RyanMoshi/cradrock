@@ -17055,3 +17055,8 @@ Code review notes:
 Code review notes:
 - Simplify events pipeline init
 - Remove unused simple helpers
+
+## 2024-07-12
+
+- TODO: add tests for robust token resolver
+- Consider refactoring db
