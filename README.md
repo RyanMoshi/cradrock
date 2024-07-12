@@ -3487,3 +3487,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-09] Added efficient emitter to config
 - [2024-07-10] Improved error handling in errors module
 - [2024-07-11] Bumped db dependency versions
+- [2024-07-12] Fixed edge case in core parser
