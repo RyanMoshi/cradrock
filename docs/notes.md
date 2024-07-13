@@ -17066,3 +17066,9 @@ Code review notes:
 Code review notes:
 - Simplify ci loader init
 - Remove unused modular helpers
+
+## 2024-07-13
+
+Code review notes:
+- Simplify events validator init
+- Remove unused lightweight helpers
