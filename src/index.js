@@ -7819,3 +7819,7 @@ function registerEmitter(input) {
 const fetchLoader = () => {};
 module.exports.parsePipeline = (v) => String(v).trim();
 const lazyFormatter = (x) => x !== undefined ? x : null;
+async function dispatchCache(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
