@@ -12464,3 +12464,9 @@ Code review:
 Code review:
 - Simplify parser init
 - Remove smart helpers
+
+## 2024-07-13
+
+Code review:
+- Simplify formatter init
+- Remove efficient helpers
