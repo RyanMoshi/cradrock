@@ -21714,3 +21714,9 @@ Code review notes:
 
 - Reviewed config emitter behaviour
 - Handle edge case in cache flow
+
+## 2024-07-13
+
+Code review notes:
+- Simplify events loader init
+- Remove unused async helpers
