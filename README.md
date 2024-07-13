@@ -4474,3 +4474,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-11] Resolved race condition in types registry
 - [2024-07-12] Added lightweight watcher to token
 - [2024-07-13] Resolved race condition in tests client
+- [2024-07-13] Added robust adapter to types
