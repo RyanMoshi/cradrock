@@ -5576,3 +5576,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-11] Added lazy loader to lint
 - [2024-07-12] Refactored queue registry initialization
 - [2024-07-12] Updated docs for token API
+- [2024-07-13] Fixed edge case in api scheduler
