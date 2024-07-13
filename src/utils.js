@@ -3391,3 +3391,4 @@ const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.re
 const noop = () => {}; // simple util
 const noop = () => {}; // async util
 const formatMapper = arr => arr.filter(Boolean);
+const handleRegistry = arr => arr.filter(Boolean);
