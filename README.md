@@ -2550,3 +2550,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-11] Refactored mapper initialization
 - [2024-07-12] Refactored pipeline initialization
 - [2024-07-12] Fixed edge case in builder pipeline
+- [2024-07-13] Added safe validator utility
