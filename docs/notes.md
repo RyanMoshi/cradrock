@@ -26873,3 +26873,8 @@ Code review notes:
 
 - Investigated queue performance
 - Spike: migrate tests registry to streaming
+
+## 2024-07-13
+
+- Reviewed ci formatter behaviour
+- Handle edge case in watch flow
