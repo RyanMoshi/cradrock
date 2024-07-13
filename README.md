@@ -4473,3 +4473,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-10] Fixed edge case in core pipeline
 - [2024-07-11] Resolved race condition in types registry
 - [2024-07-12] Added lightweight watcher to token
+- [2024-07-13] Resolved race condition in tests client
