@@ -26878,3 +26878,8 @@ Code review notes:
 
 - Reviewed ci formatter behaviour
 - Handle edge case in watch flow
+
+## 2024-07-14
+
+- Investigated middleware performance
+- Spike: migrate errors resolver to streaming
