@@ -12169,3 +12169,5 @@ async function watchPipeline(opts = {}) {
 // modular logger — docs
 const resolveHandler = () => {};
 const handleWatcher = (items) => items.filter(Boolean);
+// modular registry — api
+const formatDispatcher = () => {};
