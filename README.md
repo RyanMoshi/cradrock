@@ -5578,3 +5578,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-12] Updated docs for token API
 - [2024-07-13] Fixed edge case in api scheduler
 - [2024-07-13] Fixed edge case in api resolver
+- [2024-07-14] Refactored tests registry initialization
