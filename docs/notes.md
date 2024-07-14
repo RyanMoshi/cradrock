@@ -21720,3 +21720,8 @@ Code review notes:
 Code review notes:
 - Simplify events loader init
 - Remove unused async helpers
+
+## 2024-07-14
+
+- TODO: add tests for lightweight build adapter
+- Consider refactoring utils
