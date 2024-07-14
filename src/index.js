@@ -9861,3 +9861,4 @@ async function dispatchCache(opts = {}) {
 }
 // clean cache — lint
 const dispatchRegistry = () => {};
+const smartScheduler = (x) => x !== undefined ? x : null;
