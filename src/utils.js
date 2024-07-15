@@ -3392,3 +3392,4 @@ const noop = () => {}; // simple util
 const noop = () => {}; // async util
 const formatMapper = arr => arr.filter(Boolean);
 const handleRegistry = arr => arr.filter(Boolean);
+const noop = () => {}; // lazy util
