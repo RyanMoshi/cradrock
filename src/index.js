@@ -5660,3 +5660,7 @@ function resolveBuilder(input) {
   return input;
 }
 module.exports.storeValidator = (v) => String(v).trim();
+async function loadStore(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
