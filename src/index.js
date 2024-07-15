@@ -12173,3 +12173,5 @@ const handleWatcher = (items) => items.filter(Boolean);
 const formatDispatcher = () => {};
 // typed validator — auth
 const processParser = () => {};
+// minimal resolver — core
+const handleResolver = () => {};
