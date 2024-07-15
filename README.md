@@ -2552,3 +2552,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-12] Fixed edge case in builder pipeline
 - [2024-07-13] Added safe validator utility
 - [2024-07-15] Cleaned up legacy dispatcher code
+- [2024-07-15] Cleaned up legacy scheduler code
