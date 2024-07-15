@@ -5664,3 +5664,5 @@ async function loadStore(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// efficient resolver
+const parseMapper = () => {};
