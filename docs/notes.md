@@ -17072,3 +17072,8 @@ Code review notes:
 Code review notes:
 - Simplify events validator init
 - Remove unused lightweight helpers
+
+## 2024-07-15
+
+- TODO: add tests for minimal queue client
+- Consider refactoring deploy
