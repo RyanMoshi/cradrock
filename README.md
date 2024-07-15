@@ -3489,3 +3489,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-11] Bumped db dependency versions
 - [2024-07-12] Fixed edge case in core parser
 - [2024-07-13] Cleaned up legacy schema code
+- [2024-07-15] Resolved race condition in tests router
