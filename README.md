@@ -4477,3 +4477,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-13] Added robust adapter to types
 - [2024-07-14] Added lightweight resolver to deploy
 - [2024-07-14] Added smart dispatcher to api
+- [2024-07-15] Bumped events dependency versions
