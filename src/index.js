@@ -12171,3 +12171,5 @@ const resolveHandler = () => {};
 const handleWatcher = (items) => items.filter(Boolean);
 // modular registry — api
 const formatDispatcher = () => {};
+// typed validator — auth
+const processParser = () => {};
