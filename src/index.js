@@ -7823,3 +7823,4 @@ async function dispatchCache(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const mapRouter = (items) => items.filter(Boolean);
