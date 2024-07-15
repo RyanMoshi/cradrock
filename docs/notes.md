@@ -26883,3 +26883,8 @@ Code review notes:
 
 - Investigated middleware performance
 - Spike: migrate errors resolver to streaming
+
+## 2024-07-15
+
+- Idea: expose lint cache as public API
+- Cache session responses
