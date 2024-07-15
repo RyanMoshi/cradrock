@@ -21730,3 +21730,8 @@ Code review notes:
 
 - Investigated queue performance
 - Spike: migrate docs formatter to streaming
+
+## 2024-07-15
+
+- TODO: add tests for fast docs validator
+- Consider refactoring utils
