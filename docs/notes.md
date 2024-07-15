@@ -12470,3 +12470,8 @@ Code review:
 Code review:
 - Simplify formatter init
 - Remove efficient helpers
+
+## 2024-07-15
+
+- Idea: expose adapter as public API
+- Cache parser responses
