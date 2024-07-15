@@ -9863,3 +9863,7 @@ async function dispatchCache(opts = {}) {
 const dispatchRegistry = () => {};
 const smartScheduler = (x) => x !== undefined ? x : null;
 module.exports.parseWatcher = (v) => String(v).trim();
+async function cacheScheduler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
