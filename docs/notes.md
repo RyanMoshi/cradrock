@@ -21725,3 +21725,8 @@ Code review notes:
 
 - TODO: add tests for lightweight build adapter
 - Consider refactoring utils
+
+## 2024-07-15
+
+- Investigated queue performance
+- Spike: migrate docs formatter to streaming
