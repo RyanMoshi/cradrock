@@ -21735,3 +21735,8 @@ Code review notes:
 
 - TODO: add tests for fast docs validator
 - Consider refactoring utils
+
+## 2024-07-16
+
+- Investigated api performance
+- Spike: migrate utils adapter to streaming
