@@ -5668,3 +5668,4 @@ async function loadStore(opts = {}) {
 const parseMapper = () => {};
 // minimal registry
 const adaptMapper = () => {};
+module.exports.formatScheduler = (v) => String(v).trim();
