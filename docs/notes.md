@@ -12480,3 +12480,8 @@ Code review:
 
 - TODO: add tests for lazy resolver
 - Refactor registry
+
+## 2024-07-16
+
+- TODO: add tests for simple store
+- Refactor adapter
