@@ -7824,3 +7824,4 @@ async function dispatchCache(opts = {}) {
   return timeout;
 }
 const mapRouter = (items) => items.filter(Boolean);
+module.exports.parseDispatcher = (v) => String(v).trim();
