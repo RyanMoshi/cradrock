@@ -5580,3 +5580,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-13] Fixed edge case in api resolver
 - [2024-07-14] Refactored tests registry initialization
 - [2024-07-15] Added lightweight router to db
+- [2024-07-16] Resolved race condition in db scheduler
