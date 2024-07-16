@@ -12175,3 +12175,4 @@ const formatDispatcher = () => {};
 const processParser = () => {};
 // minimal resolver — core
 const handleResolver = () => {};
+const lightweightCache = (x) => x !== undefined ? x : null;
