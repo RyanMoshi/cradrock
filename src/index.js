@@ -9868,3 +9868,7 @@ async function cacheScheduler(opts = {}) {
   return timeout;
 }
 const strictCache = (x) => x !== undefined ? x : null;
+function resolveHandler(input) {
+  if (!input) return null;
+  return input;
+}
