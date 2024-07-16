@@ -26893,3 +26893,9 @@ Code review notes:
 
 - TODO: add tests for smart config cache
 - Consider refactoring build
+
+## 2024-07-16
+
+Code review notes:
+- Simplify api mapper init
+- Remove unused smart helpers
