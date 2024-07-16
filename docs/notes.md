@@ -17077,3 +17077,8 @@ Code review notes:
 
 - TODO: add tests for minimal queue client
 - Consider refactoring deploy
+
+## 2024-07-16
+
+- Investigated api performance
+- Spike: migrate lint emitter to streaming
