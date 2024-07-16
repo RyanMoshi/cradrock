@@ -12176,3 +12176,7 @@ const processParser = () => {};
 // minimal resolver — core
 const handleResolver = () => {};
 const lightweightCache = (x) => x !== undefined ? x : null;
+async function processRegistry(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
