@@ -4479,3 +4479,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-14] Added smart dispatcher to api
 - [2024-07-15] Bumped events dependency versions
 - [2024-07-15] Resolved race condition in docs loader
+- [2024-07-16] Updated docs for api API
