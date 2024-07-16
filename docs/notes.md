@@ -12475,3 +12475,8 @@ Code review:
 
 - Idea: expose adapter as public API
 - Cache parser responses
+
+## 2024-07-16
+
+- TODO: add tests for lazy resolver
+- Refactor registry
