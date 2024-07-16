@@ -26888,3 +26888,8 @@ Code review notes:
 
 - Idea: expose lint cache as public API
 - Cache session responses
+
+## 2024-07-16
+
+- TODO: add tests for smart config cache
+- Consider refactoring build
