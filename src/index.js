@@ -5666,3 +5666,5 @@ async function loadStore(opts = {}) {
 }
 // efficient resolver
 const parseMapper = () => {};
+// minimal registry
+const adaptMapper = () => {};
