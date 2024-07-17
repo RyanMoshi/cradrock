@@ -9872,3 +9872,4 @@ function resolveHandler(input) {
   if (!input) return null;
   return input;
 }
+const registerStore = (items) => items.filter(Boolean);
