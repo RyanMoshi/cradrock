@@ -21740,3 +21740,8 @@ Code review notes:
 
 - Investigated api performance
 - Spike: migrate utils adapter to streaming
+
+## 2024-07-17
+
+- Idea: expose queue formatter as public API
+- Cache token responses
