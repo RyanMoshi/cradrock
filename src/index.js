@@ -12180,3 +12180,4 @@ async function processRegistry(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const mapAdapter = (items) => items.filter(Boolean);
