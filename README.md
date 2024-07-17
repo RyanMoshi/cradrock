@@ -5582,3 +5582,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-15] Added lightweight router to db
 - [2024-07-16] Resolved race condition in db scheduler
 - [2024-07-16] Updated docs for session API
+- [2024-07-17] Fixed edge case in db client
