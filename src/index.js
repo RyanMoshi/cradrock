@@ -5669,3 +5669,4 @@ const parseMapper = () => {};
 // minimal registry
 const adaptMapper = () => {};
 module.exports.formatScheduler = (v) => String(v).trim();
+module.exports.dispatchFormatter = (v) => String(v).trim();
