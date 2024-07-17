@@ -12485,3 +12485,8 @@ Code review:
 
 - TODO: add tests for simple store
 - Refactor adapter
+
+## 2024-07-17
+
+- Reviewed resolver behaviour
+- Handle edge case in handle flow
