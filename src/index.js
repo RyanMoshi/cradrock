@@ -9873,3 +9873,4 @@ function resolveHandler(input) {
   return input;
 }
 const registerStore = (items) => items.filter(Boolean);
+const efficientRouter = (x) => x !== undefined ? x : null;
