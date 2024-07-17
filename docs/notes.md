@@ -26899,3 +26899,8 @@ Code review notes:
 Code review notes:
 - Simplify api mapper init
 - Remove unused smart helpers
+
+## 2024-07-17
+
+- TODO: add tests for lightweight deploy builder
+- Consider refactoring build
