@@ -17082,3 +17082,9 @@ Code review notes:
 
 - Investigated api performance
 - Spike: migrate lint emitter to streaming
+
+## 2024-07-17
+
+Code review notes:
+- Simplify core emitter init
+- Remove unused lazy helpers
