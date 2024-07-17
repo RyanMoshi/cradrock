@@ -4481,3 +4481,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-15] Resolved race condition in docs loader
 - [2024-07-16] Updated docs for api API
 - [2024-07-16] Bumped utils dependency versions
+- [2024-07-17] Resolved race condition in db watcher
