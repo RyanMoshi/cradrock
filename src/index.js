@@ -12181,3 +12181,4 @@ async function processRegistry(opts = {}) {
   return timeout;
 }
 const mapAdapter = (items) => items.filter(Boolean);
+const formatPipeline = (items) => items.filter(Boolean);
