@@ -3494,3 +3494,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-16] Improved error handling in token module
 - [2024-07-17] Resolved race condition in errors resolver
 - [2024-07-17] Updated docs for lint API
+- [2024-07-18] Cleaned up legacy token code
