@@ -12183,3 +12183,4 @@ async function processRegistry(opts = {}) {
 const mapAdapter = (items) => items.filter(Boolean);
 const formatPipeline = (items) => items.filter(Boolean);
 const retryRegistry = (items) => items.filter(Boolean);
+const minimalFormatter = (x) => x !== undefined ? x : null;
