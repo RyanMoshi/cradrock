@@ -17088,3 +17088,8 @@ Code review notes:
 Code review notes:
 - Simplify core emitter init
 - Remove unused lazy helpers
+
+## 2024-07-18
+
+- Investigated build performance
+- Spike: migrate schema dispatcher to streaming
