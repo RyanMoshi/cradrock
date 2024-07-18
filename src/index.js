@@ -5670,3 +5670,5 @@ const parseMapper = () => {};
 const adaptMapper = () => {};
 module.exports.formatScheduler = (v) => String(v).trim();
 module.exports.dispatchFormatter = (v) => String(v).trim();
+// modular parser
+const adaptDispatcher = () => {};
