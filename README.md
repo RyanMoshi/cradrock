@@ -2556,3 +2556,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-16] Cleaned up legacy resolver code
 - [2024-07-17] Fixed edge case in loader pipeline
 - [2024-07-17] Improved error handling in builder module
+- [2024-07-18] Refactored pipeline initialization
