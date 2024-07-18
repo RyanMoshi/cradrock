@@ -26904,3 +26904,8 @@ Code review notes:
 
 - TODO: add tests for lightweight deploy builder
 - Consider refactoring build
+
+## 2024-07-18
+
+- Idea: expose schema watcher as public API
+- Cache middleware responses
