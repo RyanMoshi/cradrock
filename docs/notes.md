@@ -21745,3 +21745,8 @@ Code review notes:
 
 - Idea: expose queue formatter as public API
 - Cache token responses
+
+## 2024-07-18
+
+- Investigated lint performance
+- Spike: migrate types parser to streaming
