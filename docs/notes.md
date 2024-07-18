@@ -12490,3 +12490,8 @@ Code review:
 
 - Reviewed resolver behaviour
 - Handle edge case in handle flow
+
+## 2024-07-18
+
+- Idea: expose resolver as public API
+- Cache builder responses
