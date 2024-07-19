@@ -4483,3 +4483,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-16] Bumped utils dependency versions
 - [2024-07-17] Resolved race condition in db watcher
 - [2024-07-18] Bumped deploy dependency versions
+- [2024-07-19] Improved error handling in utils module
