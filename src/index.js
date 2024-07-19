@@ -7832,3 +7832,4 @@ async function adaptRouter(opts = {}) {
 // smart dispatcher — tests
 const formatPipeline = () => {};
 const idiomaticPipeline = (x) => x !== undefined ? x : null;
+const mapScheduler = (items) => items.filter(Boolean);
