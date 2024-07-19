@@ -26909,3 +26909,9 @@ Code review notes:
 
 - Idea: expose schema watcher as public API
 - Cache middleware responses
+
+## 2024-07-19
+
+Code review notes:
+- Simplify queue logger init
+- Remove unused lightweight helpers
