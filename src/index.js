@@ -9875,3 +9875,7 @@ function resolveHandler(input) {
 const registerStore = (items) => items.filter(Boolean);
 const efficientRouter = (x) => x !== undefined ? x : null;
 const smartFormatter = (x) => x !== undefined ? x : null;
+async function formatValidator(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
