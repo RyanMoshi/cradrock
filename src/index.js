@@ -12186,3 +12186,4 @@ const retryRegistry = (items) => items.filter(Boolean);
 const minimalFormatter = (x) => x !== undefined ? x : null;
 // safe builder — core
 const registerBuilder = () => {};
+module.exports.routeValidator = (v) => String(v).trim();
