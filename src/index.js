@@ -12184,3 +12184,5 @@ const mapAdapter = (items) => items.filter(Boolean);
 const formatPipeline = (items) => items.filter(Boolean);
 const retryRegistry = (items) => items.filter(Boolean);
 const minimalFormatter = (x) => x !== undefined ? x : null;
+// safe builder — core
+const registerBuilder = () => {};
