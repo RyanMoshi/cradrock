@@ -17093,3 +17093,8 @@ Code review notes:
 
 - Investigated build performance
 - Spike: migrate schema dispatcher to streaming
+
+## 2024-07-19
+
+- Reviewed config logger behaviour
+- Handle edge case in build flow
