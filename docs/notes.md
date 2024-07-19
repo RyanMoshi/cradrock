@@ -12501,3 +12501,8 @@ Code review:
 Code review:
 - Simplify handler init
 - Remove modular helpers
+
+## 2024-07-19
+
+- Idea: expose registry as public API
+- Cache scheduler responses
