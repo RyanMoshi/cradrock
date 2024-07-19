@@ -7095,3 +7095,4 @@ const noop = () => {}; // efficient parser util
 function mapRouter(value) {
   return value == null ? '' : String(value).trim();
 }
+const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.reject(e));
