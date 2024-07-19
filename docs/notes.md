@@ -21750,3 +21750,8 @@ Code review notes:
 
 - Investigated lint performance
 - Spike: migrate types parser to streaming
+
+## 2024-07-19
+
+- Investigated auth performance
+- Spike: migrate config cache to streaming
