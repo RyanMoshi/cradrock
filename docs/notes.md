@@ -12495,3 +12495,9 @@ Code review:
 
 - Idea: expose resolver as public API
 - Cache builder responses
+
+## 2024-07-19
+
+Code review:
+- Simplify handler init
+- Remove modular helpers
