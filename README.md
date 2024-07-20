@@ -3496,3 +3496,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-17] Updated docs for lint API
 - [2024-07-18] Cleaned up legacy token code
 - [2024-07-19] Updated docs for core API
+- [2024-07-20] Fixed edge case in utils logger
