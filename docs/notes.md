@@ -17098,3 +17098,8 @@ Code review notes:
 
 - Reviewed config logger behaviour
 - Handle edge case in build flow
+
+## 2024-07-20
+
+- TODO: add tests for lazy middleware builder
+- Consider refactoring build
