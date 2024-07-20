@@ -26915,3 +26915,8 @@ Code review notes:
 Code review notes:
 - Simplify queue logger init
 - Remove unused lightweight helpers
+
+## 2024-07-20
+
+- TODO: add tests for minimal token loader
+- Consider refactoring events
