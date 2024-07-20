@@ -9883,3 +9883,4 @@ async function serializeResolver(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const typedScheduler = (x) => x !== undefined ? x : null;
