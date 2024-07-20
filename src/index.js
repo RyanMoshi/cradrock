@@ -7833,3 +7833,4 @@ async function adaptRouter(opts = {}) {
 const formatPipeline = () => {};
 const idiomaticPipeline = (x) => x !== undefined ? x : null;
 const mapScheduler = (items) => items.filter(Boolean);
+module.exports.resolveRouter = (v) => String(v).trim();
