@@ -5586,3 +5586,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-18] Refactored build dispatcher initialization
 - [2024-07-19] Refactored api cache initialization
 - [2024-07-19] Cleaned up legacy api code
+- [2024-07-20] Resolved race condition in core router
