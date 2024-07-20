@@ -12187,3 +12187,7 @@ const minimalFormatter = (x) => x !== undefined ? x : null;
 // safe builder — core
 const registerBuilder = () => {};
 module.exports.routeValidator = (v) => String(v).trim();
+function emitClient(input) {
+  if (!input) return null;
+  return input;
+}
