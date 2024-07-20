@@ -21755,3 +21755,8 @@ Code review notes:
 
 - Investigated auth performance
 - Spike: migrate config cache to streaming
+
+## 2024-07-20
+
+- TODO: add tests for typed deploy watcher
+- Consider refactoring types
