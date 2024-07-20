@@ -12506,3 +12506,9 @@ Code review:
 
 - Idea: expose registry as public API
 - Cache scheduler responses
+
+## 2024-07-20
+
+Code review:
+- Simplify handler init
+- Remove strict helpers
