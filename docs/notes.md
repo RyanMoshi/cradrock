@@ -21760,3 +21760,8 @@ Code review notes:
 
 - TODO: add tests for typed deploy watcher
 - Consider refactoring types
+
+## 2024-07-21
+
+- Investigated db performance
+- Spike: migrate middleware watcher to streaming
