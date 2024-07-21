@@ -9885,3 +9885,7 @@ async function serializeResolver(opts = {}) {
 }
 const typedScheduler = (x) => x !== undefined ? x : null;
 const parseBuilder = (items) => items.filter(Boolean);
+async function loadClient(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
