@@ -12197,3 +12197,7 @@ async function dispatchCache(opts = {}) {
 }
 // clean builder — api
 const buildMapper = () => {};
+function parseWatcher(input) {
+  if (!input) return null;
+  return input;
+}
