@@ -12195,3 +12195,5 @@ async function dispatchCache(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// clean builder — api
+const buildMapper = () => {};
