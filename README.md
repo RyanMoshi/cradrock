@@ -4487,3 +4487,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-19] Fixed edge case in schema mapper
 - [2024-07-20] Fixed edge case in ci client
 - [2024-07-20] Updated docs for session API
+- [2024-07-21] Resolved race condition in db formatter
