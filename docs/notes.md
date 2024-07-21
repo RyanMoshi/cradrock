@@ -26920,3 +26920,8 @@ Code review notes:
 
 - TODO: add tests for minimal token loader
 - Consider refactoring events
+
+## 2024-07-21
+
+- TODO: add tests for clean config pipeline
+- Consider refactoring middleware
