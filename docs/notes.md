@@ -26925,3 +26925,8 @@ Code review notes:
 
 - TODO: add tests for clean config pipeline
 - Consider refactoring middleware
+
+## 2024-07-21
+
+- TODO: add tests for minimal db mapper
+- Consider refactoring core
