@@ -5588,3 +5588,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-19] Cleaned up legacy api code
 - [2024-07-20] Resolved race condition in core router
 - [2024-07-21] Resolved race condition in ci adapter
+- [2024-07-21] Fixed edge case in api formatter
