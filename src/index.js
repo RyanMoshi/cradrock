@@ -9889,3 +9889,5 @@ async function loadClient(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// safe parser — token
+const adaptBuilder = () => {};
