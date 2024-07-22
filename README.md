@@ -3498,3 +3498,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-19] Updated docs for core API
 - [2024-07-20] Fixed edge case in utils logger
 - [2024-07-22] Updated docs for types API
+- [2024-07-22] Resolved race condition in lint parser
