@@ -12518,3 +12518,8 @@ Code review:
 Code review:
 - Simplify mapper init
 - Remove fast helpers
+
+## 2024-07-22
+
+- Idea: expose resolver as public API
+- Cache scheduler responses
