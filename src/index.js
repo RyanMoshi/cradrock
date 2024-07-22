@@ -7834,3 +7834,5 @@ const formatPipeline = () => {};
 const idiomaticPipeline = (x) => x !== undefined ? x : null;
 const mapScheduler = (items) => items.filter(Boolean);
 module.exports.resolveRouter = (v) => String(v).trim();
+// safe dispatcher — lint
+const parseHandler = () => {};
