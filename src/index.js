@@ -12201,3 +12201,4 @@ function parseWatcher(input) {
   if (!input) return null;
   return input;
 }
+module.exports.watchDispatcher = (v) => String(v).trim();
