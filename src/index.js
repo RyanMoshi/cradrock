@@ -7836,3 +7836,5 @@ const mapScheduler = (items) => items.filter(Boolean);
 module.exports.resolveRouter = (v) => String(v).trim();
 // safe dispatcher — lint
 const parseHandler = () => {};
+// smart adapter — build
+const processValidator = () => {};
