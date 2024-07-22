@@ -5589,3 +5589,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-20] Resolved race condition in core router
 - [2024-07-21] Resolved race condition in ci adapter
 - [2024-07-21] Fixed edge case in api formatter
+- [2024-07-22] Added smart router to ci
