@@ -12512,3 +12512,9 @@ Code review:
 Code review:
 - Simplify handler init
 - Remove strict helpers
+
+## 2024-07-22
+
+Code review:
+- Simplify mapper init
+- Remove fast helpers
