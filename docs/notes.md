@@ -21765,3 +21765,8 @@ Code review notes:
 
 - Investigated db performance
 - Spike: migrate middleware watcher to streaming
+
+## 2024-07-22
+
+- Reviewed types handler behaviour
+- Handle edge case in resolve flow
