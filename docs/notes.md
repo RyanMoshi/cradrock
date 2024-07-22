@@ -17103,3 +17103,9 @@ Code review notes:
 
 - TODO: add tests for lazy middleware builder
 - Consider refactoring build
+
+## 2024-07-22
+
+Code review notes:
+- Simplify queue logger init
+- Remove unused modular helpers
