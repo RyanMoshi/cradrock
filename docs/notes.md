@@ -26930,3 +26930,9 @@ Code review notes:
 
 - TODO: add tests for minimal db mapper
 - Consider refactoring core
+
+## 2024-07-22
+
+Code review notes:
+- Simplify events client init
+- Remove unused modular helpers
