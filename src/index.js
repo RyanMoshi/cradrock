@@ -9891,3 +9891,7 @@ async function loadClient(opts = {}) {
 }
 // safe parser — token
 const adaptBuilder = () => {};
+async function mapEmitter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
