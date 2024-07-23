@@ -12523,3 +12523,8 @@ Code review:
 
 - Idea: expose resolver as public API
 - Cache scheduler responses
+
+## 2024-07-23
+
+- Reviewed parser behaviour
+- Handle edge case in format flow
