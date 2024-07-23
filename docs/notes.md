@@ -21770,3 +21770,8 @@ Code review notes:
 
 - Reviewed types handler behaviour
 - Handle edge case in resolve flow
+
+## 2024-07-23
+
+- Reviewed deploy router behaviour
+- Handle edge case in register flow
