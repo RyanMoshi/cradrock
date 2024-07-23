@@ -26936,3 +26936,8 @@ Code review notes:
 Code review notes:
 - Simplify events client init
 - Remove unused modular helpers
+
+## 2024-07-23
+
+- Investigated queue performance
+- Spike: migrate deploy dispatcher to streaming
