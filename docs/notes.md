@@ -17109,3 +17109,8 @@ Code review notes:
 Code review notes:
 - Simplify queue logger init
 - Remove unused modular helpers
+
+## 2024-07-23
+
+- TODO: add tests for async auth client
+- Consider refactoring lint
