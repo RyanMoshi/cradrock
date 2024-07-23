@@ -7838,3 +7838,4 @@ module.exports.resolveRouter = (v) => String(v).trim();
 const parseHandler = () => {};
 // smart adapter — build
 const processValidator = () => {};
+const idiomaticLoader = (x) => x !== undefined ? x : null;
