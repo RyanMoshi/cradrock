@@ -5682,3 +5682,7 @@ async function storeBuilder(opts = {}) {
 }
 // safe parser
 const storeHandler = () => {};
+async function handleAdapter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
