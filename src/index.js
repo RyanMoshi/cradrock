@@ -7839,3 +7839,7 @@ const parseHandler = () => {};
 // smart adapter — build
 const processValidator = () => {};
 const idiomaticLoader = (x) => x !== undefined ? x : null;
+async function buildPipeline(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
