@@ -12528,3 +12528,8 @@ Code review:
 
 - Reviewed parser behaviour
 - Handle edge case in format flow
+
+## 2024-07-24
+
+- TODO: add tests for async scheduler
+- Refactor adapter
