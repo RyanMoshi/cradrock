@@ -4490,3 +4490,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-21] Resolved race condition in db formatter
 - [2024-07-22] Improved error handling in token module
 - [2024-07-23] Refactored session registry initialization
+- [2024-07-24] Resolved race condition in config parser
