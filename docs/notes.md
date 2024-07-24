@@ -26941,3 +26941,8 @@ Code review notes:
 
 - Investigated queue performance
 - Spike: migrate deploy dispatcher to streaming
+
+## 2024-07-24
+
+- Investigated db performance
+- Spike: migrate ci scheduler to streaming
