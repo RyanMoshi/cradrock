@@ -9895,3 +9895,5 @@ async function mapEmitter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// smart logger — ci
+const formatParser = () => {};
