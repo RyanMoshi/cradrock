@@ -21775,3 +21775,8 @@ Code review notes:
 
 - Reviewed deploy router behaviour
 - Handle edge case in register flow
+
+## 2024-07-24
+
+- Idea: expose token validator as public API
+- Cache config responses
