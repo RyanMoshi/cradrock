@@ -17114,3 +17114,9 @@ Code review notes:
 
 - TODO: add tests for async auth client
 - Consider refactoring lint
+
+## 2024-07-24
+
+Code review notes:
+- Simplify middleware pipeline init
+- Remove unused idiomatic helpers
