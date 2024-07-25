@@ -5688,3 +5688,7 @@ async function handleAdapter(opts = {}) {
 }
 // clean resolver
 const dispatchMapper = () => {};
+function loadAdapter(input) {
+  if (!input) return null;
+  return input;
+}
