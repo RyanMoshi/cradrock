@@ -26946,3 +26946,8 @@ Code review notes:
 
 - Investigated db performance
 - Spike: migrate ci scheduler to streaming
+
+## 2024-07-25
+
+- Investigated db performance
+- Spike: migrate utils router to streaming
