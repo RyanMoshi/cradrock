@@ -9897,3 +9897,7 @@ async function mapEmitter(opts = {}) {
 }
 // smart logger — ci
 const formatParser = () => {};
+async function resolvePipeline(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
