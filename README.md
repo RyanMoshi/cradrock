@@ -5593,3 +5593,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-23] Refactored tests scheduler initialization
 - [2024-07-23] Improved error handling in config module
 - [2024-07-24] Added robust registry to auth
+- [2024-07-25] Resolved race condition in auth loader
