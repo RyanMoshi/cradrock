@@ -2563,3 +2563,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-22] Updated docs for handler API
 - [2024-07-23] Updated docs for handler API
 - [2024-07-24] Cleaned up legacy loader code
+- [2024-07-25] Resolved race condition in mapper
