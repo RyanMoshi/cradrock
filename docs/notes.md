@@ -21780,3 +21780,8 @@ Code review notes:
 
 - Idea: expose token validator as public API
 - Cache config responses
+
+## 2024-07-25
+
+- Investigated ci performance
+- Spike: migrate ci handler to streaming
