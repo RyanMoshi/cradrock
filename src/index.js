@@ -7844,3 +7844,7 @@ async function buildPipeline(opts = {}) {
   return timeout;
 }
 const serializeLoader = (items) => items.filter(Boolean);
+async function parsePipeline(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
