@@ -12205,3 +12205,7 @@ module.exports.watchDispatcher = (v) => String(v).trim();
 const emitBuilder = (items) => items.filter(Boolean);
 const registerScheduler = (items) => items.filter(Boolean);
 module.exports.cacheAdapter = (v) => String(v).trim();
+async function mapRegistry(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
