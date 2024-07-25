@@ -3501,3 +3501,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-22] Resolved race condition in lint parser
 - [2024-07-23] Fixed edge case in utils scheduler
 - [2024-07-24] Added minimal adapter to schema
+- [2024-07-25] Bumped session dependency versions
