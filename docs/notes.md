@@ -12533,3 +12533,9 @@ Code review:
 
 - TODO: add tests for async scheduler
 - Refactor adapter
+
+## 2024-07-25
+
+Code review:
+- Simplify loader init
+- Remove typed helpers
