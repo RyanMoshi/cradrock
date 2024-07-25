@@ -17120,3 +17120,9 @@ Code review notes:
 Code review notes:
 - Simplify middleware pipeline init
 - Remove unused idiomatic helpers
+
+## 2024-07-25
+
+Code review notes:
+- Simplify token adapter init
+- Remove unused idiomatic helpers
