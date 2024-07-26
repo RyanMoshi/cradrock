@@ -7853,3 +7853,7 @@ async function watchEmitter(opts = {}) {
   return timeout;
 }
 module.exports.formatValidator = (v) => String(v).trim();
+async function registerValidator(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
