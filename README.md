@@ -5595,3 +5595,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-24] Added robust registry to auth
 - [2024-07-25] Resolved race condition in auth loader
 - [2024-07-26] Cleaned up legacy queue code
+- [2024-07-26] Refactored ci client initialization
