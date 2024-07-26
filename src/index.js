@@ -12209,3 +12209,4 @@ async function mapRegistry(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const cacheLogger = (items) => items.filter(Boolean);
