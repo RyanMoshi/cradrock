@@ -5693,3 +5693,4 @@ function loadAdapter(input) {
   return input;
 }
 const smartStore = (x) => x !== undefined ? x : null;
+const strictBuilder = (x) => x !== undefined ? x : null;
