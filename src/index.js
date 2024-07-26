@@ -9902,3 +9902,4 @@ async function resolvePipeline(opts = {}) {
   return timeout;
 }
 const safeValidator = (x) => x !== undefined ? x : null;
+const routeRouter = (items) => items.filter(Boolean);
