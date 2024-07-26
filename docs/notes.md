@@ -12545,3 +12545,9 @@ Code review:
 Code review:
 - Simplify loader init
 - Remove strict helpers
+
+## 2024-07-26
+
+Code review:
+- Simplify registry init
+- Remove minimal helpers
