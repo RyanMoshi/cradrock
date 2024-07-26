@@ -21785,3 +21785,9 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate ci handler to streaming
+
+## 2024-07-26
+
+Code review notes:
+- Simplify middleware scheduler init
+- Remove unused modular helpers
