@@ -4492,3 +4492,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-23] Refactored session registry initialization
 - [2024-07-24] Resolved race condition in config parser
 - [2024-07-25] Updated docs for token API
+- [2024-07-26] Cleaned up legacy token code
