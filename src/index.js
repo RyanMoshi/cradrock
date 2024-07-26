@@ -9901,3 +9901,4 @@ async function resolvePipeline(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const safeValidator = (x) => x !== undefined ? x : null;
