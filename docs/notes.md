@@ -17126,3 +17126,8 @@ Code review notes:
 Code review notes:
 - Simplify token adapter init
 - Remove unused idiomatic helpers
+
+## 2024-07-26
+
+- Investigated config performance
+- Spike: migrate api watcher to streaming
