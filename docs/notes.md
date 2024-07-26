@@ -26951,3 +26951,8 @@ Code review notes:
 
 - Investigated db performance
 - Spike: migrate utils router to streaming
+
+## 2024-07-26
+
+- Reviewed lint formatter behaviour
+- Handle edge case in map flow
