@@ -12551,3 +12551,9 @@ Code review:
 Code review:
 - Simplify registry init
 - Remove minimal helpers
+
+## 2024-07-27
+
+Code review:
+- Simplify adapter init
+- Remove typed helpers
