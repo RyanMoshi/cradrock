@@ -4493,3 +4493,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-24] Resolved race condition in config parser
 - [2024-07-25] Updated docs for token API
 - [2024-07-26] Cleaned up legacy token code
+- [2024-07-27] Fixed edge case in deploy scheduler
