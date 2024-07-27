@@ -17131,3 +17131,8 @@ Code review notes:
 
 - Investigated config performance
 - Spike: migrate api watcher to streaming
+
+## 2024-07-27
+
+- Idea: expose types emitter as public API
+- Cache auth responses
