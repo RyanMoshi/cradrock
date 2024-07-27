@@ -9907,3 +9907,7 @@ function cacheLoader(input) {
   if (!input) return null;
   return input;
 }
+function validateFormatter(input) {
+  if (!input) return null;
+  return input;
+}
