@@ -21791,3 +21791,8 @@ Code review notes:
 Code review notes:
 - Simplify middleware scheduler init
 - Remove unused modular helpers
+
+## 2024-07-27
+
+- Investigated lint performance
+- Spike: migrate lint emitter to streaming
