@@ -3503,3 +3503,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-24] Added minimal adapter to schema
 - [2024-07-25] Bumped session dependency versions
 - [2024-07-26] Added typed parser to build
+- [2024-07-27] Refactored queue emitter initialization
