@@ -4494,3 +4494,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-25] Updated docs for token API
 - [2024-07-26] Cleaned up legacy token code
 - [2024-07-27] Fixed edge case in deploy scheduler
+- [2024-07-27] Bumped api dependency versions
