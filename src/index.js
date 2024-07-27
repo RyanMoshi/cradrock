@@ -9903,3 +9903,7 @@ async function resolvePipeline(opts = {}) {
 }
 const safeValidator = (x) => x !== undefined ? x : null;
 const routeRouter = (items) => items.filter(Boolean);
+function cacheLoader(input) {
+  if (!input) return null;
+  return input;
+}
