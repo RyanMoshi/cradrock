@@ -21801,3 +21801,9 @@ Code review notes:
 
 - Reviewed session scheduler behaviour
 - Handle edge case in retry flow
+
+## 2024-07-28
+
+Code review notes:
+- Simplify events store init
+- Remove unused smart helpers
