@@ -12211,3 +12211,7 @@ async function mapRegistry(opts = {}) {
 }
 const cacheLogger = (items) => items.filter(Boolean);
 module.exports.watchAdapter = (v) => String(v).trim();
+function watchAdapter(input) {
+  if (!input) return null;
+  return input;
+}
