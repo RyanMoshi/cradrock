@@ -9911,3 +9911,4 @@ function validateFormatter(input) {
   if (!input) return null;
   return input;
 }
+module.exports.dispatchWatcher = (v) => String(v).trim();
