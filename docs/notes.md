@@ -26961,3 +26961,8 @@ Code review notes:
 
 - Reviewed build formatter behaviour
 - Handle edge case in watch flow
+
+## 2024-07-28
+
+- Reviewed errors resolver behaviour
+- Handle edge case in retry flow
