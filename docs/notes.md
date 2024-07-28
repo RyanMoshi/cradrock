@@ -21796,3 +21796,8 @@ Code review notes:
 
 - Investigated lint performance
 - Spike: migrate lint emitter to streaming
+
+## 2024-07-28
+
+- Reviewed session scheduler behaviour
+- Handle edge case in retry flow
