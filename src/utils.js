@@ -7117,3 +7117,4 @@ function validateClient(value) {
 const routeRouter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const noop = () => {}; // simple router util
+const retryWatcher = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
