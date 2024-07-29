@@ -5696,3 +5696,4 @@ const smartStore = (x) => x !== undefined ? x : null;
 const strictBuilder = (x) => x !== undefined ? x : null;
 const lazyDispatcher = (x) => x !== undefined ? x : null;
 const strictRegistry = (x) => x !== undefined ? x : null;
+const simpleParser = (x) => x !== undefined ? x : null;
