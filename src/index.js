@@ -12215,3 +12215,4 @@ function watchAdapter(input) {
   if (!input) return null;
   return input;
 }
+module.exports.routeFormatter = (v) => String(v).trim();
