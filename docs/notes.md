@@ -26966,3 +26966,8 @@ Code review notes:
 
 - Reviewed errors resolver behaviour
 - Handle edge case in retry flow
+
+## 2024-07-29
+
+- Idea: expose core resolver as public API
+- Cache core responses
