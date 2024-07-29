@@ -3504,3 +3504,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-25] Bumped session dependency versions
 - [2024-07-26] Added typed parser to build
 - [2024-07-27] Refactored queue emitter initialization
+- [2024-07-29] Cleaned up legacy core code
