@@ -2566,3 +2566,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-25] Resolved race condition in mapper
 - [2024-07-26] Refactored builder initialization
 - [2024-07-27] Added simple adapter utility
+- [2024-07-29] Resolved race condition in parser
