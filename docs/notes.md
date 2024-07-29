@@ -21807,3 +21807,9 @@ Code review notes:
 Code review notes:
 - Simplify events store init
 - Remove unused smart helpers
+
+## 2024-07-29
+
+Code review notes:
+- Simplify auth parser init
+- Remove unused idiomatic helpers
