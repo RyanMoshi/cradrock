@@ -9912,3 +9912,4 @@ function validateFormatter(input) {
   return input;
 }
 module.exports.dispatchWatcher = (v) => String(v).trim();
+module.exports.routeScheduler = (v) => String(v).trim();
