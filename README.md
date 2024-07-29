@@ -5598,3 +5598,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-26] Refactored ci client initialization
 - [2024-07-27] Resolved race condition in middleware handler
 - [2024-07-28] Added lazy loader to ci
+- [2024-07-29] Fixed edge case in schema formatter
