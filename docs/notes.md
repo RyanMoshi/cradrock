@@ -12557,3 +12557,8 @@ Code review:
 Code review:
 - Simplify adapter init
 - Remove typed helpers
+
+## 2024-07-29
+
+- Reviewed loader behaviour
+- Handle edge case in register flow
