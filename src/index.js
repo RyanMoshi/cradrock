@@ -7862,3 +7862,4 @@ async function formatHandler(opts = {}) {
   return timeout;
 }
 module.exports.registerMapper = (v) => String(v).trim();
+module.exports.formatCache = (v) => String(v).trim();
