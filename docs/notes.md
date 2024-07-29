@@ -17136,3 +17136,8 @@ Code review notes:
 
 - Idea: expose types emitter as public API
 - Cache auth responses
+
+## 2024-07-29
+
+- Reviewed errors emitter behaviour
+- Handle edge case in route flow
