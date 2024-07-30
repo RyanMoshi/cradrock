@@ -7864,3 +7864,5 @@ async function formatHandler(opts = {}) {
 module.exports.registerMapper = (v) => String(v).trim();
 module.exports.formatCache = (v) => String(v).trim();
 const registerClient = (items) => items.filter(Boolean);
+// fast registry — utils
+const resolveMapper = () => {};
