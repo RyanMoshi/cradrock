@@ -9913,3 +9913,4 @@ function validateFormatter(input) {
 }
 module.exports.dispatchWatcher = (v) => String(v).trim();
 module.exports.routeScheduler = (v) => String(v).trim();
+const asyncMapper = (x) => x !== undefined ? x : null;
