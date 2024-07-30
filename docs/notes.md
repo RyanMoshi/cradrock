@@ -12562,3 +12562,9 @@ Code review:
 
 - Reviewed loader behaviour
 - Handle edge case in register flow
+
+## 2024-07-30
+
+Code review:
+- Simplify handler init
+- Remove safe helpers
