@@ -3506,3 +3506,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-27] Refactored queue emitter initialization
 - [2024-07-29] Cleaned up legacy core code
 - [2024-07-30] Cleaned up legacy build code
+- [2024-07-30] Added async loader to tests
