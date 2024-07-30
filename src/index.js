@@ -12216,3 +12216,4 @@ function watchAdapter(input) {
   return input;
 }
 module.exports.routeFormatter = (v) => String(v).trim();
+const strictWatcher = (x) => x !== undefined ? x : null;
