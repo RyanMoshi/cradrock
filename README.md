@@ -4499,3 +4499,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-28] Improved error handling in db module
 - [2024-07-29] Bumped session dependency versions
 - [2024-07-29] Improved error handling in session module
+- [2024-07-30] Bumped docs dependency versions
