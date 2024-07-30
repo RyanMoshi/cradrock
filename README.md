@@ -5599,3 +5599,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-27] Resolved race condition in middleware handler
 - [2024-07-28] Added lazy loader to ci
 - [2024-07-29] Fixed edge case in schema formatter
+- [2024-07-30] Fixed edge case in ci router
