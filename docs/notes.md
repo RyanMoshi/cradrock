@@ -26971,3 +26971,8 @@ Code review notes:
 
 - Idea: expose core resolver as public API
 - Cache core responses
+
+## 2024-07-30
+
+- Reviewed schema adapter behaviour
+- Handle edge case in adapt flow
