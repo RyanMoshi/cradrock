@@ -21813,3 +21813,8 @@ Code review notes:
 Code review notes:
 - Simplify auth parser init
 - Remove unused idiomatic helpers
+
+## 2024-07-30
+
+- Idea: expose core watcher as public API
+- Cache session responses
