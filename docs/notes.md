@@ -21818,3 +21818,8 @@ Code review notes:
 
 - Idea: expose core watcher as public API
 - Cache session responses
+
+## 2024-07-30
+
+- Reviewed tests registry behaviour
+- Handle edge case in resolve flow
