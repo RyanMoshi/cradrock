@@ -17141,3 +17141,9 @@ Code review notes:
 
 - Reviewed errors emitter behaviour
 - Handle edge case in route flow
+
+## 2024-07-30
+
+Code review notes:
+- Simplify schema cache init
+- Remove unused safe helpers
