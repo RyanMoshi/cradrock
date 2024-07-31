@@ -12568,3 +12568,9 @@ Code review:
 Code review:
 - Simplify handler init
 - Remove safe helpers
+
+## 2024-07-31
+
+Code review:
+- Simplify mapper init
+- Remove typed helpers
