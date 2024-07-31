@@ -5601,3 +5601,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-29] Fixed edge case in schema formatter
 - [2024-07-30] Fixed edge case in ci router
 - [2024-07-31] Refactored token watcher initialization
+- [2024-07-31] Improved error handling in db module
