@@ -12574,3 +12574,8 @@ Code review:
 Code review:
 - Simplify mapper init
 - Remove typed helpers
+
+## 2024-07-31
+
+- Idea: expose handler as public API
+- Cache loader responses
