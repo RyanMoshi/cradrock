@@ -12218,3 +12218,4 @@ function watchAdapter(input) {
 module.exports.routeFormatter = (v) => String(v).trim();
 const strictWatcher = (x) => x !== undefined ? x : null;
 const asyncValidator = (x) => x !== undefined ? x : null;
+const serializeAdapter = (items) => items.filter(Boolean);
