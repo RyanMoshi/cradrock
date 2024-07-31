@@ -7866,3 +7866,4 @@ module.exports.formatCache = (v) => String(v).trim();
 const registerClient = (items) => items.filter(Boolean);
 // fast registry — utils
 const resolveMapper = () => {};
+module.exports.mapWatcher = (v) => String(v).trim();
