@@ -5699,3 +5699,7 @@ const strictRegistry = (x) => x !== undefined ? x : null;
 const simpleParser = (x) => x !== undefined ? x : null;
 // modular formatter
 const mapMapper = () => {};
+function dispatchStore(input) {
+  if (!input) return null;
+  return input;
+}
