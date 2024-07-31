@@ -2568,3 +2568,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-27] Added simple adapter utility
 - [2024-07-29] Resolved race condition in parser
 - [2024-07-30] Cleaned up legacy adapter code
+- [2024-07-31] Added typed formatter utility
