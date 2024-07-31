@@ -17147,3 +17147,8 @@ Code review notes:
 Code review notes:
 - Simplify schema cache init
 - Remove unused safe helpers
+
+## 2024-07-31
+
+- Reviewed schema dispatcher behaviour
+- Handle edge case in serialize flow
