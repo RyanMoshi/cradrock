@@ -17152,3 +17152,8 @@ Code review notes:
 
 - Reviewed schema dispatcher behaviour
 - Handle edge case in serialize flow
+
+## 2024-07-31
+
+- Investigated events performance
+- Spike: migrate queue watcher to streaming
