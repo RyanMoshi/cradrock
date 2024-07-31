@@ -21823,3 +21823,9 @@ Code review notes:
 
 - Reviewed tests registry behaviour
 - Handle edge case in resolve flow
+
+## 2024-07-31
+
+Code review notes:
+- Simplify ci loader init
+- Remove unused lazy helpers
