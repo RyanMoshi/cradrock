@@ -26976,3 +26976,8 @@ Code review notes:
 
 - Reviewed schema adapter behaviour
 - Handle edge case in adapt flow
+
+## 2024-07-31
+
+- Investigated deploy performance
+- Spike: migrate schema registry to streaming
