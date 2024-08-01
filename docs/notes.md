@@ -26981,3 +26981,8 @@ Code review notes:
 
 - Investigated deploy performance
 - Spike: migrate schema registry to streaming
+
+## 2024-08-01
+
+- TODO: add tests for typed lint formatter
+- Consider refactoring db
