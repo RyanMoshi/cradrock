@@ -12579,3 +12579,8 @@ Code review:
 
 - Idea: expose handler as public API
 - Cache loader responses
+
+## 2024-08-01
+
+- Idea: expose validator as public API
+- Cache validator responses
