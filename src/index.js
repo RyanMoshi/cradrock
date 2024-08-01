@@ -12221,3 +12221,7 @@ const asyncValidator = (x) => x !== undefined ? x : null;
 const serializeAdapter = (items) => items.filter(Boolean);
 // fast builder — queue
 const resolveAdapter = () => {};
+async function emitParser(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
