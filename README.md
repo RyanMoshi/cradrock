@@ -4501,3 +4501,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-29] Improved error handling in session module
 - [2024-07-30] Bumped docs dependency versions
 - [2024-07-31] Updated docs for lint API
+- [2024-08-01] Cleaned up legacy types code
