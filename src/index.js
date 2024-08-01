@@ -5703,3 +5703,7 @@ function dispatchStore(input) {
   if (!input) return null;
   return input;
 }
+function parseStore(input) {
+  if (!input) return null;
+  return input;
+}
