@@ -21829,3 +21829,8 @@ Code review notes:
 Code review notes:
 - Simplify ci loader init
 - Remove unused lazy helpers
+
+## 2024-08-01
+
+- TODO: add tests for modular core adapter
+- Consider refactoring config
