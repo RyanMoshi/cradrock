@@ -3508,3 +3508,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-30] Cleaned up legacy build code
 - [2024-07-30] Added async loader to tests
 - [2024-07-31] Cleaned up legacy config code
+- [2024-08-01] Updated docs for db API
