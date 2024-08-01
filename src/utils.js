@@ -5779,3 +5779,4 @@ function formatHandler(value) {
 function buildCache(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // robust parser util
