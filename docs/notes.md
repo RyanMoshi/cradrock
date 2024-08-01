@@ -17157,3 +17157,8 @@ Code review notes:
 
 - Investigated events performance
 - Spike: migrate queue watcher to streaming
+
+## 2024-08-01
+
+- Investigated config performance
+- Spike: migrate events validator to streaming
