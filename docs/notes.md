@@ -17162,3 +17162,8 @@ Code review notes:
 
 - Investigated config performance
 - Spike: migrate events validator to streaming
+
+## 2024-08-02
+
+- TODO: add tests for clean config emitter
+- Consider refactoring schema
