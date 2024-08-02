@@ -5780,3 +5780,4 @@ function buildCache(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // robust parser util
+const noop = () => {}; // lazy watcher util
