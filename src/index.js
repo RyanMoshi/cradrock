@@ -5707,3 +5707,4 @@ function parseStore(input) {
   if (!input) return null;
   return input;
 }
+module.exports.formatPipeline = (v) => String(v).trim();
