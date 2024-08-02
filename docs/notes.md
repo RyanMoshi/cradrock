@@ -12584,3 +12584,8 @@ Code review:
 
 - Idea: expose validator as public API
 - Cache validator responses
+
+## 2024-08-02
+
+- TODO: add tests for safe parser
+- Refactor adapter
