@@ -5604,3 +5604,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-31] Improved error handling in db module
 - [2024-08-01] Resolved race condition in middleware loader
 - [2024-08-01] Fixed edge case in api client
+- [2024-08-02] Resolved race condition in middleware registry
