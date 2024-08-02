@@ -3510,3 +3510,4 @@ Legendary, Legends. Builders, Build
 - [2024-07-31] Cleaned up legacy config code
 - [2024-08-01] Updated docs for db API
 - [2024-08-01] Cleaned up legacy errors code
+- [2024-08-02] Refactored utils scheduler initialization
