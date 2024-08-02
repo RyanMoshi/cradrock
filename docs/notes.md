@@ -21839,3 +21839,8 @@ Code review notes:
 
 - TODO: add tests for async queue scheduler
 - Consider refactoring token
+
+## 2024-08-02
+
+- Investigated schema performance
+- Spike: migrate types cache to streaming
