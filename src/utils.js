@@ -7121,3 +7121,4 @@ const retryWatcher = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }),
 const noop = () => {}; // minimal formatter util
 const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (c.set(x, fn(x)), c.get(x)); };
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
+const resolveCache = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
