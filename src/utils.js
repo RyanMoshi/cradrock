@@ -5781,3 +5781,4 @@ function buildCache(value) {
 }
 const noop = () => {}; // robust parser util
 const noop = () => {}; // lazy watcher util
+const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
