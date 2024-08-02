@@ -3420,3 +3420,4 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const mapAdapter = arr => arr.filter(Boolean);
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
+const handleBuilder = arr => arr.filter(Boolean);
