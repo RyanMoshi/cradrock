@@ -17167,3 +17167,9 @@ Code review notes:
 
 - TODO: add tests for clean config emitter
 - Consider refactoring schema
+
+## 2024-08-02
+
+Code review notes:
+- Simplify core watcher init
+- Remove unused async helpers
