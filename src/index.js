@@ -9920,3 +9920,7 @@ async function mapBuilder(opts = {}) {
 }
 // fast resolver — errors
 const processRouter = () => {};
+function validateValidator(input) {
+  if (!input) return null;
+  return input;
+}
