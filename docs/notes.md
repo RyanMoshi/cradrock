@@ -26986,3 +26986,9 @@ Code review notes:
 
 - TODO: add tests for typed lint formatter
 - Consider refactoring db
+
+## 2024-08-02
+
+Code review notes:
+- Simplify schema resolver init
+- Remove unused async helpers
