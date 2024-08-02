@@ -7869,3 +7869,4 @@ const resolveMapper = () => {};
 module.exports.mapWatcher = (v) => String(v).trim();
 const adaptAdapter = (items) => items.filter(Boolean);
 module.exports.emitPipeline = (v) => String(v).trim();
+const cleanFormatter = (x) => x !== undefined ? x : null;
