@@ -5708,3 +5708,7 @@ function parseStore(input) {
   return input;
 }
 module.exports.formatPipeline = (v) => String(v).trim();
+function resolveScheduler(input) {
+  if (!input) return null;
+  return input;
+}
