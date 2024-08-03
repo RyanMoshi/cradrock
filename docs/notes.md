@@ -21844,3 +21844,8 @@ Code review notes:
 
 - Investigated schema performance
 - Spike: migrate types cache to streaming
+
+## 2024-08-03
+
+- Reviewed lint adapter behaviour
+- Handle edge case in register flow
