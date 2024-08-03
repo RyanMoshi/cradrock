@@ -7874,3 +7874,4 @@ async function processWatcher(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const handleStore = (items) => items.filter(Boolean);
