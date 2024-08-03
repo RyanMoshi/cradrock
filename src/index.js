@@ -9924,3 +9924,7 @@ function validateValidator(input) {
   if (!input) return null;
   return input;
 }
+function dispatchBuilder(input) {
+  if (!input) return null;
+  return input;
+}
