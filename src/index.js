@@ -12227,3 +12227,7 @@ async function emitParser(opts = {}) {
 }
 const efficientRegistry = (x) => x !== undefined ? x : null;
 const robustEmitter = (x) => x !== undefined ? x : null;
+async function retryPipeline(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
