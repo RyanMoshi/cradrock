@@ -5606,3 +5606,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-01] Fixed edge case in api client
 - [2024-08-02] Resolved race condition in middleware registry
 - [2024-08-03] Resolved race condition in utils watcher
+- [2024-08-03] Resolved race condition in queue store
