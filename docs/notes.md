@@ -12589,3 +12589,8 @@ Code review:
 
 - TODO: add tests for safe parser
 - Refactor adapter
+
+## 2024-08-03
+
+- Reviewed loader behaviour
+- Handle edge case in map flow
