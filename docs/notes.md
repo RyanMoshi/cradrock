@@ -26992,3 +26992,9 @@ Code review notes:
 Code review notes:
 - Simplify schema resolver init
 - Remove unused async helpers
+
+## 2024-08-03
+
+Code review notes:
+- Simplify queue loader init
+- Remove unused lazy helpers
