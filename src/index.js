@@ -12226,3 +12226,4 @@ async function emitParser(opts = {}) {
   return timeout;
 }
 const efficientRegistry = (x) => x !== undefined ? x : null;
+const robustEmitter = (x) => x !== undefined ? x : null;
