@@ -17173,3 +17173,8 @@ Code review notes:
 Code review notes:
 - Simplify core watcher init
 - Remove unused async helpers
+
+## 2024-08-03
+
+- Idea: expose build scheduler as public API
+- Cache auth responses
