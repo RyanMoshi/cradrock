@@ -3511,3 +3511,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-01] Updated docs for db API
 - [2024-08-01] Cleaned up legacy errors code
 - [2024-08-02] Refactored utils scheduler initialization
+- [2024-08-03] Cleaned up legacy middleware code
