@@ -12231,3 +12231,7 @@ async function retryPipeline(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function fetchHandler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
