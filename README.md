@@ -4505,3 +4505,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-02] Updated docs for core API
 - [2024-08-03] Updated docs for events API
 - [2024-08-04] Added strict resolver to token
+- [2024-08-04] Bumped deploy dependency versions
