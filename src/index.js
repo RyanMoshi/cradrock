@@ -9932,3 +9932,4 @@ async function processLoader(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const strictClient = (x) => x !== undefined ? x : null;
