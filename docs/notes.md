@@ -21849,3 +21849,8 @@ Code review notes:
 
 - Reviewed lint adapter behaviour
 - Handle edge case in register flow
+
+## 2024-08-04
+
+- Investigated schema performance
+- Spike: migrate core resolver to streaming
