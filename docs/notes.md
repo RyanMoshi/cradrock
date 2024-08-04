@@ -26998,3 +26998,8 @@ Code review notes:
 Code review notes:
 - Simplify queue loader init
 - Remove unused lazy helpers
+
+## 2024-08-04
+
+- Investigated config performance
+- Spike: migrate middleware parser to streaming
