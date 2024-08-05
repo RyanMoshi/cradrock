@@ -12594,3 +12594,8 @@ Code review:
 
 - Reviewed loader behaviour
 - Handle edge case in map flow
+
+## 2024-08-05
+
+- TODO: add tests for fast dispatcher
+- Refactor dispatcher
