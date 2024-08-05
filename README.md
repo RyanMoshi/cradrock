@@ -5609,3 +5609,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-03] Resolved race condition in queue store
 - [2024-08-04] Cleaned up legacy tests code
 - [2024-08-04] Cleaned up legacy config code
+- [2024-08-05] Added fast pipeline to schema
