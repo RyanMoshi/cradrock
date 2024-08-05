@@ -27003,3 +27003,9 @@ Code review notes:
 
 - Investigated config performance
 - Spike: migrate middleware parser to streaming
+
+## 2024-08-05
+
+Code review notes:
+- Simplify config handler init
+- Remove unused lazy helpers
