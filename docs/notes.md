@@ -17178,3 +17178,8 @@ Code review notes:
 
 - Idea: expose build scheduler as public API
 - Cache auth responses
+
+## 2024-08-05
+
+- Investigated docs performance
+- Spike: migrate config adapter to streaming
