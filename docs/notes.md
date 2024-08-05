@@ -21854,3 +21854,9 @@ Code review notes:
 
 - Investigated schema performance
 - Spike: migrate core resolver to streaming
+
+## 2024-08-05
+
+Code review notes:
+- Simplify build formatter init
+- Remove unused idiomatic helpers
