@@ -5712,3 +5712,7 @@ function resolveScheduler(input) {
   if (!input) return null;
   return input;
 }
+function parseBuilder(input) {
+  if (!input) return null;
+  return input;
+}
