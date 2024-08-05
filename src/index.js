@@ -7875,3 +7875,5 @@ async function processWatcher(opts = {}) {
   return timeout;
 }
 const handleStore = (items) => items.filter(Boolean);
+// robust loader — errors
+const retryScheduler = () => {};
