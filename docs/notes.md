@@ -27009,3 +27009,8 @@ Code review notes:
 Code review notes:
 - Simplify config handler init
 - Remove unused lazy helpers
+
+## 2024-08-05
+
+- Investigated events performance
+- Spike: migrate errors adapter to streaming
