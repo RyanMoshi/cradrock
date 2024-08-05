@@ -12236,3 +12236,7 @@ async function fetchHandler(opts = {}) {
   return timeout;
 }
 const emitLogger = (items) => items.filter(Boolean);
+async function adaptAdapter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
