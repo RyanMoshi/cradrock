@@ -5610,3 +5610,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-04] Cleaned up legacy tests code
 - [2024-08-04] Cleaned up legacy config code
 - [2024-08-05] Added fast pipeline to schema
+- [2024-08-05] Fixed edge case in build store
