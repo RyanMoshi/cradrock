@@ -27014,3 +27014,9 @@ Code review notes:
 
 - Investigated events performance
 - Spike: migrate errors adapter to streaming
+
+## 2024-08-06
+
+Code review notes:
+- Simplify errors resolver init
+- Remove unused simple helpers
