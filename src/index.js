@@ -12240,3 +12240,4 @@ async function adaptAdapter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const parseRegistry = (items) => items.filter(Boolean);
