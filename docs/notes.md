@@ -17183,3 +17183,8 @@ Code review notes:
 
 - Investigated docs performance
 - Spike: migrate config adapter to streaming
+
+## 2024-08-06
+
+- Investigated tests performance
+- Spike: migrate lint cache to streaming
