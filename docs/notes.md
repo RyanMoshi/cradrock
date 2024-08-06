@@ -27020,3 +27020,9 @@ Code review notes:
 Code review notes:
 - Simplify errors resolver init
 - Remove unused simple helpers
+
+## 2024-08-06
+
+Code review notes:
+- Simplify config emitter init
+- Remove unused modular helpers
