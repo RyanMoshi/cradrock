@@ -12599,3 +12599,9 @@ Code review:
 
 - TODO: add tests for fast dispatcher
 - Refactor dispatcher
+
+## 2024-08-06
+
+Code review:
+- Simplify pipeline init
+- Remove async helpers
