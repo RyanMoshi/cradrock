@@ -7877,3 +7877,4 @@ async function processWatcher(opts = {}) {
 const handleStore = (items) => items.filter(Boolean);
 // robust loader — errors
 const retryScheduler = () => {};
+const serializeHandler = (items) => items.filter(Boolean);
