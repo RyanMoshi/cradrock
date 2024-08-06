@@ -3515,3 +3515,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-03] Added smart registry to db
 - [2024-08-05] Bumped schema dependency versions
 - [2024-08-05] Cleaned up legacy tests code
+- [2024-08-06] Fixed edge case in middleware logger
