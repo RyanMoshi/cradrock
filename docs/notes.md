@@ -21860,3 +21860,9 @@ Code review notes:
 Code review notes:
 - Simplify build formatter init
 - Remove unused idiomatic helpers
+
+## 2024-08-06
+
+Code review notes:
+- Simplify errors validator init
+- Remove unused robust helpers
