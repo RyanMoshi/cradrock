@@ -2574,3 +2574,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-02] Fixed edge case in parser pipeline
 - [2024-08-03] Improved error handling in registry module
 - [2024-08-05] Refactored adapter initialization
+- [2024-08-06] Resolved race condition in loader
