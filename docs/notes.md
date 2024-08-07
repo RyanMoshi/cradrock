@@ -17188,3 +17188,9 @@ Code review notes:
 
 - Investigated tests performance
 - Spike: migrate lint cache to streaming
+
+## 2024-08-07
+
+Code review notes:
+- Simplify api builder init
+- Remove unused idiomatic helpers
