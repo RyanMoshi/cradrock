@@ -27026,3 +27026,8 @@ Code review notes:
 Code review notes:
 - Simplify config emitter init
 - Remove unused modular helpers
+
+## 2024-08-07
+
+- TODO: add tests for safe utils builder
+- Consider refactoring deploy
