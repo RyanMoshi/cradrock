@@ -9941,3 +9941,7 @@ function retryMapper(input) {
   if (!input) return null;
   return input;
 }
+function registerRegistry(input) {
+  if (!input) return null;
+  return input;
+}
