@@ -21866,3 +21866,8 @@ Code review notes:
 Code review notes:
 - Simplify errors validator init
 - Remove unused robust helpers
+
+## 2024-08-07
+
+- Reviewed queue store behaviour
+- Handle edge case in fetch flow
