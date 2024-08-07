@@ -4509,3 +4509,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-05] Added lightweight registry to api
 - [2024-08-06] Refactored auth validator initialization
 - [2024-08-07] Added robust registry to session
+- [2024-08-07] Cleaned up legacy ci code
