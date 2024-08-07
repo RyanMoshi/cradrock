@@ -12605,3 +12605,8 @@ Code review:
 Code review:
 - Simplify pipeline init
 - Remove async helpers
+
+## 2024-08-07
+
+- Reviewed loader behaviour
+- Handle edge case in handle flow
