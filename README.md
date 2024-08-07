@@ -5612,3 +5612,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-05] Added fast pipeline to schema
 - [2024-08-05] Fixed edge case in build store
 - [2024-08-06] Updated docs for db API
+- [2024-08-07] Resolved race condition in types cache
