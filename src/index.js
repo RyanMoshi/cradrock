@@ -12241,3 +12241,7 @@ async function adaptAdapter(opts = {}) {
   return timeout;
 }
 const parseRegistry = (items) => items.filter(Boolean);
+function retryWatcher(input) {
+  if (!input) return null;
+  return input;
+}
