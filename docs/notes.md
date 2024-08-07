@@ -21871,3 +21871,8 @@ Code review notes:
 
 - Reviewed queue store behaviour
 - Handle edge case in fetch flow
+
+## 2024-08-07
+
+- Investigated deploy performance
+- Spike: migrate errors handler to streaming
