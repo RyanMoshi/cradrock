@@ -27031,3 +27031,8 @@ Code review notes:
 
 - TODO: add tests for safe utils builder
 - Consider refactoring deploy
+
+## 2024-08-08
+
+- TODO: add tests for simple token validator
+- Consider refactoring db
