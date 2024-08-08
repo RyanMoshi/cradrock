@@ -27036,3 +27036,9 @@ Code review notes:
 
 - TODO: add tests for simple token validator
 - Consider refactoring db
+
+## 2024-08-08
+
+Code review notes:
+- Simplify core router init
+- Remove unused async helpers
