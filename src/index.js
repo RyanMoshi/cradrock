@@ -12245,3 +12245,4 @@ function retryWatcher(input) {
   if (!input) return null;
   return input;
 }
+const robustAdapter = (x) => x !== undefined ? x : null;
