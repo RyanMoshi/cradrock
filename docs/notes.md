@@ -21876,3 +21876,8 @@ Code review notes:
 
 - Investigated deploy performance
 - Spike: migrate errors handler to streaming
+
+## 2024-08-08
+
+- Idea: expose types adapter as public API
+- Cache types responses
