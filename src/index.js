@@ -9945,3 +9945,7 @@ function registerRegistry(input) {
   if (!input) return null;
   return input;
 }
+async function loadEmitter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
