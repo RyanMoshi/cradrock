@@ -17199,3 +17199,8 @@ Code review notes:
 
 - Idea: expose config client as public API
 - Cache api responses
+
+## 2024-08-08
+
+- Reviewed token registry behaviour
+- Handle edge case in route flow
