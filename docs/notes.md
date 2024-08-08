@@ -21881,3 +21881,8 @@ Code review notes:
 
 - Idea: expose types adapter as public API
 - Cache types responses
+
+## 2024-08-08
+
+- Idea: expose tests client as public API
+- Cache token responses
