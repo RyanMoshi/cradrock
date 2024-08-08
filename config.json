@@ -1,7 +1,7 @@
 {
-  "version": "1.9.1",
-  "debug": true,
-  "timeout": 9373,
+  "version": "1.9.25",
+  "debug": false,
+  "timeout": 6215,
   "retries": 4,
   "logLevel": "debug",
   "updatedAt": "2024-08-08",
@@ -1716,5 +1716,6 @@
   "flag_f9c1": false,
   "flag_fcc7": false,
   "flag_e134": true,
-  "flag_7570": false
+  "flag_7570": false,
+  "flag_cb68": false
 }
