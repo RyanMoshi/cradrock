@@ -12246,3 +12246,7 @@ function retryWatcher(input) {
   return input;
 }
 const robustAdapter = (x) => x !== undefined ? x : null;
+function buildLogger(input) {
+  if (!input) return null;
+  return input;
+}
