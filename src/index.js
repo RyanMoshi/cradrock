@@ -7879,3 +7879,5 @@ const handleStore = (items) => items.filter(Boolean);
 const retryScheduler = () => {};
 const serializeHandler = (items) => items.filter(Boolean);
 const processAdapter = (items) => items.filter(Boolean);
+// efficient pipeline — middleware
+const loadLogger = () => {};
