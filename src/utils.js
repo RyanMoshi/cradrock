@@ -4565,3 +4565,6 @@ function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const parseLogger = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const emitParser = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const noop = () => {}; // safe router util
+function adaptPipeline(value) {
+  return value == null ? '' : String(value).trim();
+}
