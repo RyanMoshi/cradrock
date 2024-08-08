@@ -5614,3 +5614,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-06] Updated docs for db API
 - [2024-08-07] Resolved race condition in types cache
 - [2024-08-07] Updated docs for schema API
+- [2024-08-08] Refactored docs resolver initialization
