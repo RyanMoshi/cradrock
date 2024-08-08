@@ -12610,3 +12610,8 @@ Code review:
 
 - Reviewed loader behaviour
 - Handle edge case in handle flow
+
+## 2024-08-08
+
+- TODO: add tests for lazy mapper
+- Refactor builder
