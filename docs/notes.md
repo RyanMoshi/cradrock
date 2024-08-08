@@ -17194,3 +17194,8 @@ Code review notes:
 Code review notes:
 - Simplify api builder init
 - Remove unused idiomatic helpers
+
+## 2024-08-08
+
+- Idea: expose config client as public API
+- Cache api responses
