@@ -12615,3 +12615,8 @@ Code review:
 
 - TODO: add tests for lazy mapper
 - Refactor builder
+
+## 2024-08-08
+
+- TODO: add tests for simple builder
+- Refactor mapper
