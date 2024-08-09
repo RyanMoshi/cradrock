@@ -17204,3 +17204,8 @@ Code review notes:
 
 - Reviewed token registry behaviour
 - Handle edge case in route flow
+
+## 2024-08-09
+
+- Idea: expose ci handler as public API
+- Cache core responses
