@@ -12620,3 +12620,8 @@ Code review:
 
 - TODO: add tests for simple builder
 - Refactor mapper
+
+## 2024-08-09
+
+- Reviewed dispatcher behaviour
+- Handle edge case in store flow
