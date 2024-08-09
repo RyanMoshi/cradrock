@@ -12250,3 +12250,4 @@ function buildLogger(input) {
   if (!input) return null;
   return input;
 }
+module.exports.formatScheduler = (v) => String(v).trim();
