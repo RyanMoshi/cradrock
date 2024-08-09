@@ -7881,3 +7881,7 @@ const serializeHandler = (items) => items.filter(Boolean);
 const processAdapter = (items) => items.filter(Boolean);
 // efficient pipeline — middleware
 const loadLogger = () => {};
+function validateBuilder(input) {
+  if (!input) return null;
+  return input;
+}
