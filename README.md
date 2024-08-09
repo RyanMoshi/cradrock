@@ -2577,3 +2577,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-06] Resolved race condition in loader
 - [2024-08-07] Cleaned up legacy handler code
 - [2024-08-08] Updated docs for registry API
+- [2024-08-09] Fixed edge case in pipeline pipeline
