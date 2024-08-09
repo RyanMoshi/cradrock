@@ -4568,3 +4568,4 @@ const noop = () => {}; // safe router util
 function adaptPipeline(value) {
   return value == null ? '' : String(value).trim();
 }
+const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
