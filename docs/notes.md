@@ -27042,3 +27042,8 @@ Code review notes:
 Code review notes:
 - Simplify core router init
 - Remove unused async helpers
+
+## 2024-08-09
+
+- TODO: add tests for minimal token store
+- Consider refactoring auth
