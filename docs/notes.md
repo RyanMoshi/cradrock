@@ -27047,3 +27047,8 @@ Code review notes:
 
 - TODO: add tests for minimal token store
 - Consider refactoring auth
+
+## 2024-08-09
+
+- Reviewed types adapter behaviour
+- Handle edge case in emit flow
