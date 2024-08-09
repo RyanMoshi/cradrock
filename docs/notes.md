@@ -21886,3 +21886,9 @@ Code review notes:
 
 - Idea: expose tests client as public API
 - Cache token responses
+
+## 2024-08-09
+
+Code review notes:
+- Simplify schema client init
+- Remove unused typed helpers
