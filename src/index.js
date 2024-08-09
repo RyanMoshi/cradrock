@@ -5722,3 +5722,7 @@ async function parseValidator(opts = {}) {
 }
 const lazyDispatcher = (x) => x !== undefined ? x : null;
 module.exports.parseDispatcher = (v) => String(v).trim();
+function loadDispatcher(input) {
+  if (!input) return null;
+  return input;
+}
