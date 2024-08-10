@@ -5726,3 +5726,7 @@ function loadDispatcher(input) {
   if (!input) return null;
   return input;
 }
+async function handleDispatcher(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
