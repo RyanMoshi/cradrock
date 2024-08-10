@@ -9952,3 +9952,5 @@ async function loadEmitter(opts = {}) {
 // fast dispatcher — ci
 const registerRouter = () => {};
 const storeParser = (items) => items.filter(Boolean);
+// robust adapter — core
+const processDispatcher = () => {};
