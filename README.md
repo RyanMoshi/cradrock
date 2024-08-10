@@ -3520,3 +3520,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-07] Added minimal client to tests
 - [2024-08-08] Improved error handling in session module
 - [2024-08-09] Added async emitter to api
+- [2024-08-10] Improved error handling in docs module
