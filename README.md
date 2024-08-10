@@ -4512,3 +4512,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-07] Cleaned up legacy ci code
 - [2024-08-08] Added safe store to auth
 - [2024-08-09] Resolved race condition in lint registry
+- [2024-08-10] Fixed edge case in build mapper
