@@ -12625,3 +12625,8 @@ Code review:
 
 - Reviewed dispatcher behaviour
 - Handle edge case in store flow
+
+## 2024-08-10
+
+- TODO: add tests for efficient registry
+- Refactor parser
