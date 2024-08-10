@@ -5617,3 +5617,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-08] Refactored docs resolver initialization
 - [2024-08-08] Updated docs for types API
 - [2024-08-09] Updated docs for token API
+- [2024-08-10] Updated docs for ci API
