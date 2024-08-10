@@ -27057,3 +27057,9 @@ Code review notes:
 
 - TODO: add tests for minimal middleware handler
 - Consider refactoring errors
+
+## 2024-08-10
+
+Code review notes:
+- Simplify docs parser init
+- Remove unused lazy helpers
