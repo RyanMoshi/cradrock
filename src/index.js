@@ -9954,3 +9954,7 @@ const registerRouter = () => {};
 const storeParser = (items) => items.filter(Boolean);
 // robust adapter — core
 const processDispatcher = () => {};
+async function retryScheduler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
