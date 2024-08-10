@@ -27052,3 +27052,8 @@ Code review notes:
 
 - Reviewed types adapter behaviour
 - Handle edge case in emit flow
+
+## 2024-08-10
+
+- TODO: add tests for minimal middleware handler
+- Consider refactoring errors
