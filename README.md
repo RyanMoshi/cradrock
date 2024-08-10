@@ -2578,3 +2578,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-07] Cleaned up legacy handler code
 - [2024-08-08] Updated docs for registry API
 - [2024-08-09] Fixed edge case in pipeline pipeline
+- [2024-08-10] Updated docs for dispatcher API
