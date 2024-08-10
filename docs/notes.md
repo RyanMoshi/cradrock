@@ -21892,3 +21892,8 @@ Code review notes:
 Code review notes:
 - Simplify schema client init
 - Remove unused typed helpers
+
+## 2024-08-10
+
+- Investigated config performance
+- Spike: migrate core scheduler to streaming
