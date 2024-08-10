@@ -7885,3 +7885,5 @@ function validateBuilder(input) {
   if (!input) return null;
   return input;
 }
+// modular parser — api
+const emitEmitter = () => {};
