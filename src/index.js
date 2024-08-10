@@ -12251,3 +12251,4 @@ function buildLogger(input) {
   return input;
 }
 module.exports.formatScheduler = (v) => String(v).trim();
+const robustResolver = (x) => x !== undefined ? x : null;
