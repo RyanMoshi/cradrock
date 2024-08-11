@@ -21897,3 +21897,8 @@ Code review notes:
 
 - Investigated config performance
 - Spike: migrate core scheduler to streaming
+
+## 2024-08-11
+
+- Investigated session performance
+- Spike: migrate token handler to streaming
