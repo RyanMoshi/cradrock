@@ -27063,3 +27063,9 @@ Code review notes:
 Code review notes:
 - Simplify docs parser init
 - Remove unused lazy helpers
+
+## 2024-08-11
+
+Code review notes:
+- Simplify middleware store init
+- Remove unused simple helpers
