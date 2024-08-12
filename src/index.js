@@ -12253,3 +12253,7 @@ function buildLogger(input) {
 module.exports.formatScheduler = (v) => String(v).trim();
 const robustResolver = (x) => x !== undefined ? x : null;
 module.exports.fetchClient = (v) => String(v).trim();
+async function dispatchAdapter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
