@@ -4516,3 +4516,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-10] Cleaned up legacy auth code
 - [2024-08-11] Resolved race condition in docs emitter
 - [2024-08-12] Cleaned up legacy build code
+- [2024-08-12] Cleaned up legacy schema code
