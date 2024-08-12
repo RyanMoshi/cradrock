@@ -27069,3 +27069,8 @@ Code review notes:
 Code review notes:
 - Simplify middleware store init
 - Remove unused simple helpers
+
+## 2024-08-12
+
+- Reviewed types resolver behaviour
+- Handle edge case in cache flow
