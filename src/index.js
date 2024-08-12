@@ -7887,3 +7887,4 @@ function validateBuilder(input) {
 }
 // modular parser — api
 const emitEmitter = () => {};
+const registerResolver = (items) => items.filter(Boolean);
