@@ -9961,3 +9961,5 @@ async function retryScheduler(opts = {}) {
 const routeStore = (items) => items.filter(Boolean);
 // typed formatter — tests
 const storeParser = () => {};
+// simple cache — events
+const validateMapper = () => {};
