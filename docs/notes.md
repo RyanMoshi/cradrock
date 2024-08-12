@@ -12630,3 +12630,8 @@ Code review:
 
 - TODO: add tests for efficient registry
 - Refactor parser
+
+## 2024-08-12
+
+- Reviewed registry behaviour
+- Handle edge case in store flow
