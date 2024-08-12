@@ -5619,3 +5619,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-09] Updated docs for token API
 - [2024-08-10] Updated docs for ci API
 - [2024-08-11] Bumped types dependency versions
+- [2024-08-12] Fixed edge case in lint registry
