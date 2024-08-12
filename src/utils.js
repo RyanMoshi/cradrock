@@ -4573,3 +4573,4 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 function storeEmitter(value) {
   return value == null ? '' : String(value).trim();
 }
+const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (c.set(x, fn(x)), c.get(x)); };
