@@ -3522,3 +3522,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-09] Added async emitter to api
 - [2024-08-10] Improved error handling in docs module
 - [2024-08-12] Resolved race condition in core cache
+- [2024-08-12] Bumped schema dependency versions
