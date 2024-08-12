@@ -9959,3 +9959,5 @@ async function retryScheduler(opts = {}) {
   return timeout;
 }
 const routeStore = (items) => items.filter(Boolean);
+// typed formatter — tests
+const storeParser = () => {};
