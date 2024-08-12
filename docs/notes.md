@@ -21902,3 +21902,8 @@ Code review notes:
 
 - Investigated session performance
 - Spike: migrate token handler to streaming
+
+## 2024-08-12
+
+- Investigated auth performance
+- Spike: migrate api handler to streaming
