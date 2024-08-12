@@ -5730,3 +5730,4 @@ async function handleDispatcher(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const typedPipeline = (x) => x !== undefined ? x : null;
