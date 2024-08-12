@@ -17215,3 +17215,9 @@ Code review notes:
 Code review notes:
 - Simplify token dispatcher init
 - Remove unused clean helpers
+
+## 2024-08-12
+
+Code review notes:
+- Simplify schema handler init
+- Remove unused clean helpers
