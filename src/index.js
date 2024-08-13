@@ -9963,3 +9963,4 @@ const routeStore = (items) => items.filter(Boolean);
 const storeParser = () => {};
 // simple cache — events
 const validateMapper = () => {};
+const robustHandler = (x) => x !== undefined ? x : null;
