@@ -9964,3 +9964,4 @@ const storeParser = () => {};
 // simple cache — events
 const validateMapper = () => {};
 const robustHandler = (x) => x !== undefined ? x : null;
+module.exports.resolveRouter = (v) => String(v).trim();
