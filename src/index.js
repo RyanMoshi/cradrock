@@ -5731,3 +5731,5 @@ async function handleDispatcher(opts = {}) {
   return timeout;
 }
 const typedPipeline = (x) => x !== undefined ? x : null;
+// fast mapper
+const handleFormatter = () => {};
