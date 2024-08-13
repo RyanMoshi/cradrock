@@ -4517,3 +4517,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-11] Resolved race condition in docs emitter
 - [2024-08-12] Cleaned up legacy build code
 - [2024-08-12] Cleaned up legacy schema code
+- [2024-08-13] Resolved race condition in errors resolver
