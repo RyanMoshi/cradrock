@@ -27080,3 +27080,8 @@ Code review notes:
 Code review notes:
 - Simplify utils loader init
 - Remove unused lazy helpers
+
+## 2024-08-13
+
+- Reviewed deploy logger behaviour
+- Handle edge case in route flow
