@@ -12640,3 +12640,8 @@ Code review:
 
 - Idea: expose registry as public API
 - Cache builder responses
+
+## 2024-08-13
+
+- TODO: add tests for typed registry
+- Refactor store
