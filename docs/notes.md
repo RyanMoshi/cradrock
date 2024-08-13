@@ -27074,3 +27074,9 @@ Code review notes:
 
 - Reviewed types resolver behaviour
 - Handle edge case in cache flow
+
+## 2024-08-13
+
+Code review notes:
+- Simplify utils loader init
+- Remove unused lazy helpers
