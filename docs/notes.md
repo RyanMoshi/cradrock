@@ -17221,3 +17221,8 @@ Code review notes:
 Code review notes:
 - Simplify schema handler init
 - Remove unused clean helpers
+
+## 2024-08-13
+
+- TODO: add tests for minimal errors watcher
+- Consider refactoring db
