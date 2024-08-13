@@ -21907,3 +21907,8 @@ Code review notes:
 
 - Investigated auth performance
 - Spike: migrate api handler to streaming
+
+## 2024-08-13
+
+- TODO: add tests for lightweight core registry
+- Consider refactoring db
