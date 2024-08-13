@@ -12635,3 +12635,8 @@ Code review:
 
 - Reviewed registry behaviour
 - Handle edge case in store flow
+
+## 2024-08-13
+
+- Idea: expose registry as public API
+- Cache builder responses
