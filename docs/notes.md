@@ -27085,3 +27085,8 @@ Code review notes:
 
 - Reviewed deploy logger behaviour
 - Handle edge case in route flow
+
+## 2024-08-14
+
+- Investigated lint performance
+- Spike: migrate token pipeline to streaming
