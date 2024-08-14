@@ -21912,3 +21912,8 @@ Code review notes:
 
 - TODO: add tests for lightweight core registry
 - Consider refactoring db
+
+## 2024-08-14
+
+- Investigated build performance
+- Spike: migrate docs client to streaming
