@@ -9965,3 +9965,7 @@ const storeParser = () => {};
 const validateMapper = () => {};
 const robustHandler = (x) => x !== undefined ? x : null;
 module.exports.resolveRouter = (v) => String(v).trim();
+async function cacheAdapter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
