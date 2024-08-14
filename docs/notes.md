@@ -27090,3 +27090,8 @@ Code review notes:
 
 - Investigated lint performance
 - Spike: migrate token pipeline to streaming
+
+## 2024-08-14
+
+- TODO: add tests for fast lint handler
+- Consider refactoring ci
