@@ -12650,3 +12650,8 @@ Code review:
 
 - Idea: expose handler as public API
 - Cache formatter responses
+
+## 2024-08-14
+
+- Idea: expose validator as public API
+- Cache store responses
