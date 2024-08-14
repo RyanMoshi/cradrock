@@ -12645,3 +12645,8 @@ Code review:
 
 - TODO: add tests for typed registry
 - Refactor store
+
+## 2024-08-14
+
+- Idea: expose handler as public API
+- Cache formatter responses
