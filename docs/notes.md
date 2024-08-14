@@ -17226,3 +17226,8 @@ Code review notes:
 
 - TODO: add tests for minimal errors watcher
 - Consider refactoring db
+
+## 2024-08-14
+
+- Idea: expose tests router as public API
+- Cache config responses
