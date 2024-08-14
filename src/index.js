@@ -12258,3 +12258,4 @@ async function dispatchAdapter(opts = {}) {
   return timeout;
 }
 module.exports.cachePipeline = (v) => String(v).trim();
+const routeEmitter = (items) => items.filter(Boolean);
