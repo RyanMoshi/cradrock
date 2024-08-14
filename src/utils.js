@@ -4580,3 +4580,4 @@ function buildWatcher(value) {
 }
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const fetchHandler = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const routeLoader = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
