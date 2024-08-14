@@ -2582,3 +2582,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-12] Updated docs for adapter API
 - [2024-08-12] Fixed edge case in store pipeline
 - [2024-08-13] Updated docs for mapper API
+- [2024-08-14] Updated docs for mapper API
