@@ -3524,3 +3524,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-12] Resolved race condition in core cache
 - [2024-08-12] Bumped schema dependency versions
 - [2024-08-13] Resolved race condition in auth dispatcher
+- [2024-08-14] Cleaned up legacy api code
