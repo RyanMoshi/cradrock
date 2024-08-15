@@ -12655,3 +12655,8 @@ Code review:
 
 - Idea: expose validator as public API
 - Cache store responses
+
+## 2024-08-15
+
+- TODO: add tests for fast registry
+- Refactor dispatcher
