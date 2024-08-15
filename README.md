@@ -5623,3 +5623,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-13] Fixed edge case in lint registry
 - [2024-08-13] Refactored session formatter initialization
 - [2024-08-14] Cleaned up legacy queue code
+- [2024-08-15] Resolved race condition in queue mapper
