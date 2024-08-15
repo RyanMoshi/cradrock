@@ -12660,3 +12660,9 @@ Code review:
 
 - TODO: add tests for fast registry
 - Refactor dispatcher
+
+## 2024-08-15
+
+Code review:
+- Simplify mapper init
+- Remove fast helpers
