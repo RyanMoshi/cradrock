@@ -12263,3 +12263,4 @@ function fetchAdapter(input) {
   if (!input) return null;
   return input;
 }
+const dispatchBuilder = (items) => items.filter(Boolean);
