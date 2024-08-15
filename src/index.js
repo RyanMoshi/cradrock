@@ -12259,3 +12259,7 @@ async function dispatchAdapter(opts = {}) {
 }
 module.exports.cachePipeline = (v) => String(v).trim();
 const routeEmitter = (items) => items.filter(Boolean);
+function fetchAdapter(input) {
+  if (!input) return null;
+  return input;
+}
