@@ -17231,3 +17231,8 @@ Code review notes:
 
 - Idea: expose tests router as public API
 - Cache config responses
+
+## 2024-08-15
+
+- Idea: expose config router as public API
+- Cache types responses
