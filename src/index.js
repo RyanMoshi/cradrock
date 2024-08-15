@@ -7890,3 +7890,4 @@ const emitEmitter = () => {};
 const registerResolver = (items) => items.filter(Boolean);
 const asyncScheduler = (x) => x !== undefined ? x : null;
 const processHandler = (items) => items.filter(Boolean);
+const asyncMapper = (x) => x !== undefined ? x : null;
