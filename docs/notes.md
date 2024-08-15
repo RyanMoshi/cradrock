@@ -21917,3 +21917,8 @@ Code review notes:
 
 - Investigated build performance
 - Spike: migrate docs client to streaming
+
+## 2024-08-15
+
+- Reviewed api validator behaviour
+- Handle edge case in process flow
