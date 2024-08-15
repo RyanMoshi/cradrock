@@ -27095,3 +27095,8 @@ Code review notes:
 
 - TODO: add tests for fast lint handler
 - Consider refactoring ci
+
+## 2024-08-15
+
+- Reviewed config adapter behaviour
+- Handle edge case in route flow
