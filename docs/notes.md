@@ -27100,3 +27100,8 @@ Code review notes:
 
 - Reviewed config adapter behaviour
 - Handle edge case in route flow
+
+## 2024-08-16
+
+- Reviewed tests formatter behaviour
+- Handle edge case in fetch flow
