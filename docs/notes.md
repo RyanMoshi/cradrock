@@ -21922,3 +21922,8 @@ Code review notes:
 
 - Reviewed api validator behaviour
 - Handle edge case in process flow
+
+## 2024-08-16
+
+- Idea: expose db resolver as public API
+- Cache db responses
