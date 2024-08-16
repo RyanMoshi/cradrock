@@ -17236,3 +17236,8 @@ Code review notes:
 
 - Idea: expose config router as public API
 - Cache types responses
+
+## 2024-08-16
+
+- TODO: add tests for strict session client
+- Consider refactoring tests
