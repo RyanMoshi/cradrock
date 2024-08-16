@@ -2585,3 +2585,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-14] Updated docs for mapper API
 - [2024-08-15] Resolved race condition in formatter
 - [2024-08-15] Cleaned up legacy pipeline code
+- [2024-08-16] Updated docs for builder API
