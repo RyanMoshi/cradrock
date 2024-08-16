@@ -12264,3 +12264,7 @@ function fetchAdapter(input) {
   return input;
 }
 const dispatchBuilder = (items) => items.filter(Boolean);
+function loadScheduler(input) {
+  if (!input) return null;
+  return input;
+}
