@@ -12666,3 +12666,8 @@ Code review:
 Code review:
 - Simplify mapper init
 - Remove fast helpers
+
+## 2024-08-16
+
+- TODO: add tests for lazy resolver
+- Refactor parser
