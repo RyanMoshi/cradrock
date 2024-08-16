@@ -5739,3 +5739,7 @@ async function registerHandler(opts = {}) {
 }
 // modular formatter
 const mapFormatter = () => {};
+function formatRegistry(input) {
+  if (!input) return null;
+  return input;
+}
