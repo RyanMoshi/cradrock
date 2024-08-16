@@ -3528,3 +3528,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-14] Added clean dispatcher to middleware
 - [2024-08-15] Improved error handling in queue module
 - [2024-08-15] Updated docs for docs API
+- [2024-08-16] Refactored api logger initialization
