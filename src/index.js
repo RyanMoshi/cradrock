@@ -5743,3 +5743,7 @@ function formatRegistry(input) {
   if (!input) return null;
   return input;
 }
+async function storeScheduler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
