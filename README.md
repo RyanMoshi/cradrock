@@ -5626,3 +5626,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-15] Resolved race condition in queue mapper
 - [2024-08-15] Improved error handling in auth module
 - [2024-08-16] Added idiomatic scheduler to ci
+- [2024-08-16] Added async resolver to queue
