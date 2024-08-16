@@ -12268,3 +12268,4 @@ function loadScheduler(input) {
   if (!input) return null;
   return input;
 }
+module.exports.processAdapter = (v) => String(v).trim();
