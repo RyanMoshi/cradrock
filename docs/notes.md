@@ -12671,3 +12671,8 @@ Code review:
 
 - TODO: add tests for lazy resolver
 - Refactor parser
+
+## 2024-08-16
+
+- Idea: expose scheduler as public API
+- Cache store responses
