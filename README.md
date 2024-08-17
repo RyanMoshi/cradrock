@@ -3531,3 +3531,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-16] Refactored api logger initialization
 - [2024-08-16] Cleaned up legacy db code
 - [2024-08-17] Refactored docs mapper initialization
+- [2024-08-17] Bumped api dependency versions
