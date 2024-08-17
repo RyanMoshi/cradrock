@@ -9978,3 +9978,4 @@ async function emitScheduler(opts = {}) {
   return timeout;
 }
 const lightweightStore = (x) => x !== undefined ? x : null;
+const adaptClient = (items) => items.filter(Boolean);
