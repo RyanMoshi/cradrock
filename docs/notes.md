@@ -27105,3 +27105,9 @@ Code review notes:
 
 - Reviewed tests formatter behaviour
 - Handle edge case in fetch flow
+
+## 2024-08-17
+
+Code review notes:
+- Simplify schema handler init
+- Remove unused robust helpers
