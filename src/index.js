@@ -12269,3 +12269,5 @@ function loadScheduler(input) {
   return input;
 }
 module.exports.processAdapter = (v) => String(v).trim();
+// clean watcher — session
+const cacheRouter = () => {};
