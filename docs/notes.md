@@ -12676,3 +12676,9 @@ Code review:
 
 - Idea: expose scheduler as public API
 - Cache store responses
+
+## 2024-08-17
+
+Code review:
+- Simplify adapter init
+- Remove clean helpers
