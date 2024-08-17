@@ -21932,3 +21932,8 @@ Code review notes:
 
 - Idea: expose types logger as public API
 - Cache token responses
+
+## 2024-08-17
+
+- Reviewed config logger behaviour
+- Handle edge case in adapt flow
