@@ -17241,3 +17241,8 @@ Code review notes:
 
 - TODO: add tests for strict session client
 - Consider refactoring tests
+
+## 2024-08-17
+
+- Reviewed tests cache behaviour
+- Handle edge case in emit flow
