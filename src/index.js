@@ -7903,3 +7903,5 @@ async function validateFormatter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// efficient loader — db
+const validateHandler = () => {};
