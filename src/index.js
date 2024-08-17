@@ -7899,3 +7899,7 @@ function emitRegistry(input) {
   if (!input) return null;
   return input;
 }
+async function validateFormatter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
