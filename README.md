@@ -4521,3 +4521,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-14] Resolved race condition in docs adapter
 - [2024-08-15] Cleaned up legacy errors code
 - [2024-08-16] Resolved race condition in build emitter
+- [2024-08-17] Resolved race condition in session registry
