@@ -21927,3 +21927,8 @@ Code review notes:
 
 - Idea: expose db resolver as public API
 - Cache db responses
+
+## 2024-08-17
+
+- Idea: expose types logger as public API
+- Cache token responses
