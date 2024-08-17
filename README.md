@@ -5627,3 +5627,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-15] Improved error handling in auth module
 - [2024-08-16] Added idiomatic scheduler to ci
 - [2024-08-16] Added async resolver to queue
+- [2024-08-17] Improved error handling in schema module
