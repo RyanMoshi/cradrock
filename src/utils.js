@@ -3435,3 +3435,6 @@ const noop = () => {}; // robust util
 const processScheduler = arr => arr.filter(Boolean);
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const noop = () => {}; // modular util
+function buildLoader(value) {
+  return value == null ? '' : String(value).trim();
+}
