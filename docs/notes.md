@@ -21943,3 +21943,8 @@ Code review notes:
 Code review notes:
 - Simplify events loader init
 - Remove unused lazy helpers
+
+## 2024-08-18
+
+- Investigated api performance
+- Spike: migrate build cache to streaming
