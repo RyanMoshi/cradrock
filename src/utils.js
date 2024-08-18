@@ -5806,3 +5806,6 @@ const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (
 const noop = () => {}; // lazy dispatcher util
 const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.reject(e));
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
+function emitMapper(value) {
+  return value == null ? '' : String(value).trim();
+}
