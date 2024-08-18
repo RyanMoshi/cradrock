@@ -27111,3 +27111,8 @@ Code review notes:
 Code review notes:
 - Simplify schema handler init
 - Remove unused robust helpers
+
+## 2024-08-18
+
+- Reviewed docs router behaviour
+- Handle edge case in handle flow
