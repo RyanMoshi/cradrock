@@ -21937,3 +21937,9 @@ Code review notes:
 
 - Reviewed config logger behaviour
 - Handle edge case in adapt flow
+
+## 2024-08-18
+
+Code review notes:
+- Simplify events loader init
+- Remove unused lazy helpers
