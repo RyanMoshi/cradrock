@@ -12272,3 +12272,4 @@ module.exports.processAdapter = (v) => String(v).trim();
 // clean watcher — session
 const cacheRouter = () => {};
 const simpleLogger = (x) => x !== undefined ? x : null;
+const handleClient = (items) => items.filter(Boolean);
