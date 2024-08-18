@@ -4522,3 +4522,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-15] Cleaned up legacy errors code
 - [2024-08-16] Resolved race condition in build emitter
 - [2024-08-17] Resolved race condition in session registry
+- [2024-08-18] Improved error handling in build module
