@@ -5629,3 +5629,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-16] Added async resolver to queue
 - [2024-08-17] Improved error handling in schema module
 - [2024-08-17] Cleaned up legacy db code
+- [2024-08-18] Improved error handling in token module
