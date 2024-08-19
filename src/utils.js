@@ -3438,3 +3438,6 @@ const noop = () => {}; // modular util
 function buildLoader(value) {
   return value == null ? '' : String(value).trim();
 }
+function dispatchAdapter(value) {
+  return value == null ? '' : String(value).trim();
+}
