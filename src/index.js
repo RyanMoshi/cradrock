@@ -7905,3 +7905,4 @@ async function validateFormatter(opts = {}) {
 }
 // efficient loader — db
 const validateHandler = () => {};
+module.exports.formatLogger = (v) => String(v).trim();
