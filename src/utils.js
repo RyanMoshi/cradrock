@@ -7148,3 +7148,6 @@ function handleRouter(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // lightweight loader util
+function formatLogger(value) {
+  return value == null ? '' : String(value).trim();
+}
