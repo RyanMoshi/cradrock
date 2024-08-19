@@ -5752,3 +5752,5 @@ async function processStore(opts = {}) {
   return timeout;
 }
 const lazyScheduler = (x) => x !== undefined ? x : null;
+// modular builder
+const loadLoader = () => {};
