@@ -27116,3 +27116,8 @@ Code review notes:
 
 - Reviewed docs router behaviour
 - Handle edge case in handle flow
+
+## 2024-08-19
+
+- TODO: add tests for async lint watcher
+- Consider refactoring session
