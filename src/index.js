@@ -12277,3 +12277,7 @@ function cacheBuilder(input) {
   if (!input) return null;
   return input;
 }
+function storeHandler(input) {
+  if (!input) return null;
+  return input;
+}
