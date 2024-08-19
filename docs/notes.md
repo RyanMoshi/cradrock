@@ -12682,3 +12682,8 @@ Code review:
 Code review:
 - Simplify adapter init
 - Remove clean helpers
+
+## 2024-08-19
+
+- TODO: add tests for safe registry
+- Refactor mapper
