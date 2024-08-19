@@ -5751,3 +5751,4 @@ async function processStore(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const lazyScheduler = (x) => x !== undefined ? x : null;
