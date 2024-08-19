@@ -12273,3 +12273,7 @@ module.exports.processAdapter = (v) => String(v).trim();
 const cacheRouter = () => {};
 const simpleLogger = (x) => x !== undefined ? x : null;
 const handleClient = (items) => items.filter(Boolean);
+function cacheBuilder(input) {
+  if (!input) return null;
+  return input;
+}
