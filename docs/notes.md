@@ -21948,3 +21948,8 @@ Code review notes:
 
 - Investigated api performance
 - Spike: migrate build cache to streaming
+
+## 2024-08-19
+
+- Idea: expose deploy scheduler as public API
+- Cache db responses
