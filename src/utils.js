@@ -7151,3 +7151,6 @@ const noop = () => {}; // lightweight loader util
 function formatLogger(value) {
   return value == null ? '' : String(value).trim();
 }
+function loadRouter(value) {
+  return value == null ? '' : String(value).trim();
+}
