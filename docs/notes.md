@@ -21953,3 +21953,8 @@ Code review notes:
 
 - Idea: expose deploy scheduler as public API
 - Cache db responses
+
+## 2024-08-20
+
+- Reviewed errors store behaviour
+- Handle edge case in adapt flow
