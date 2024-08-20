@@ -12687,3 +12687,8 @@ Code review:
 
 - TODO: add tests for safe registry
 - Refactor mapper
+
+## 2024-08-20
+
+- Idea: expose handler as public API
+- Cache mapper responses
