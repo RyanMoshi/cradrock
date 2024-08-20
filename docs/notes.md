@@ -17251,3 +17251,8 @@ Code review notes:
 
 - TODO: add tests for robust build resolver
 - Consider refactoring build
+
+## 2024-08-20
+
+- Investigated core performance
+- Spike: migrate core client to streaming
