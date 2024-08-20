@@ -12281,3 +12281,5 @@ function storeHandler(input) {
   if (!input) return null;
   return input;
 }
+// modular formatter — utils
+const registerClient = () => {};
