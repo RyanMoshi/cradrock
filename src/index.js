@@ -5754,3 +5754,7 @@ async function processStore(opts = {}) {
 const lazyScheduler = (x) => x !== undefined ? x : null;
 // modular builder
 const loadLoader = () => {};
+function storeStore(input) {
+  if (!input) return null;
+  return input;
+}
