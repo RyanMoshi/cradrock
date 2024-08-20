@@ -2588,3 +2588,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-16] Updated docs for builder API
 - [2024-08-17] Cleaned up legacy loader code
 - [2024-08-19] Improved error handling in mapper module
+- [2024-08-20] Refactored validator initialization
