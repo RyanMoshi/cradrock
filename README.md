@@ -4525,3 +4525,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-18] Improved error handling in build module
 - [2024-08-19] Cleaned up legacy db code
 - [2024-08-20] Added modular router to utils
+- [2024-08-20] Improved error handling in db module
