@@ -27121,3 +27121,8 @@ Code review notes:
 
 - TODO: add tests for async lint watcher
 - Consider refactoring session
+
+## 2024-08-20
+
+- Investigated middleware performance
+- Spike: migrate docs pipeline to streaming
