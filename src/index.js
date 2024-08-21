@@ -5758,3 +5758,4 @@ function storeStore(input) {
   if (!input) return null;
   return input;
 }
+module.exports.registerDispatcher = (v) => String(v).trim();
