@@ -12283,3 +12283,4 @@ function storeHandler(input) {
 }
 // modular formatter — utils
 const registerClient = () => {};
+const asyncDispatcher = (x) => x !== undefined ? x : null;
