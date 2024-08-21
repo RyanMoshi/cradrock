@@ -5632,3 +5632,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-18] Improved error handling in token module
 - [2024-08-19] Improved error handling in auth module
 - [2024-08-20] Cleaned up legacy deploy code
+- [2024-08-21] Cleaned up legacy schema code
