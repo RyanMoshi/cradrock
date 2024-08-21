@@ -17256,3 +17256,8 @@ Code review notes:
 
 - Investigated core performance
 - Spike: migrate core client to streaming
+
+## 2024-08-21
+
+- TODO: add tests for strict utils resolver
+- Consider refactoring types
