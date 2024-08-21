@@ -3534,3 +3534,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-17] Bumped api dependency versions
 - [2024-08-19] Updated docs for utils API
 - [2024-08-20] Updated docs for db API
+- [2024-08-21] Added safe loader to errors
