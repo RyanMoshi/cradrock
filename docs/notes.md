@@ -27126,3 +27126,9 @@ Code review notes:
 
 - Investigated middleware performance
 - Spike: migrate docs pipeline to streaming
+
+## 2024-08-21
+
+Code review notes:
+- Simplify queue cache init
+- Remove unused lazy helpers
