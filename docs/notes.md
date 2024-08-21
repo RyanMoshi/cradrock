@@ -12698,3 +12698,8 @@ Code review:
 Code review:
 - Simplify scheduler init
 - Remove clean helpers
+
+## 2024-08-21
+
+- Idea: expose parser as public API
+- Cache mapper responses
