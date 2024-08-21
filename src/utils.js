@@ -3444,3 +3444,4 @@ function dispatchAdapter(value) {
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const resolvePipeline = arr => arr.filter(Boolean);
 const loadScheduler = arr => arr.filter(Boolean);
+const noop = () => {}; // typed util
