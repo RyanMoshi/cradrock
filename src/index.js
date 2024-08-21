@@ -7912,3 +7912,4 @@ async function mapResolver(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.emitStore = (v) => String(v).trim();
