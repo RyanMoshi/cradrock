@@ -21958,3 +21958,8 @@ Code review notes:
 
 - Reviewed errors store behaviour
 - Handle edge case in adapt flow
+
+## 2024-08-21
+
+- Idea: expose utils loader as public API
+- Cache api responses
