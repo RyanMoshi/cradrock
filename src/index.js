@@ -7908,3 +7908,7 @@ const validateHandler = () => {};
 module.exports.formatLogger = (v) => String(v).trim();
 // safe logger — types
 const processPipeline = () => {};
+async function mapResolver(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
