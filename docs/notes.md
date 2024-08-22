@@ -27138,3 +27138,8 @@ Code review notes:
 Code review notes:
 - Simplify queue formatter init
 - Remove unused async helpers
+
+## 2024-08-22
+
+- Idea: expose utils emitter as public API
+- Cache events responses
