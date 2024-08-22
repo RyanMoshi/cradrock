@@ -17261,3 +17261,8 @@ Code review notes:
 
 - TODO: add tests for strict utils resolver
 - Consider refactoring types
+
+## 2024-08-22
+
+- Reviewed schema loader behaviour
+- Handle edge case in parse flow
