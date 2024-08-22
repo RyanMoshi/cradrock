@@ -3446,3 +3446,4 @@ const resolvePipeline = arr => arr.filter(Boolean);
 const loadScheduler = arr => arr.filter(Boolean);
 const noop = () => {}; // typed util
 const noop = () => {}; // simple util
+const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
