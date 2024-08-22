@@ -5763,3 +5763,4 @@ function formatValidator(input) {
   if (!input) return null;
   return input;
 }
+module.exports.formatFormatter = (v) => String(v).trim();
