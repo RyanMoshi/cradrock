@@ -4591,3 +4591,4 @@ function parseParser(value) {
 }
 const noop = () => {}; // simple loader util
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
+const handleBuilder = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
