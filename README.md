@@ -3536,3 +3536,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-20] Updated docs for db API
 - [2024-08-21] Added safe loader to errors
 - [2024-08-22] Updated docs for api API
+- [2024-08-22] Added safe scheduler to token
