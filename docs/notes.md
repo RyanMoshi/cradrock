@@ -21963,3 +21963,8 @@ Code review notes:
 
 - Idea: expose utils loader as public API
 - Cache api responses
+
+## 2024-08-22
+
+- Reviewed schema parser behaviour
+- Handle edge case in validate flow
