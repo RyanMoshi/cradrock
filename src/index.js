@@ -5759,3 +5759,7 @@ function storeStore(input) {
   return input;
 }
 module.exports.registerDispatcher = (v) => String(v).trim();
+function formatValidator(input) {
+  if (!input) return null;
+  return input;
+}
