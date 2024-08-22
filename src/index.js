@@ -7913,3 +7913,7 @@ async function mapResolver(opts = {}) {
   return timeout;
 }
 module.exports.emitStore = (v) => String(v).trim();
+async function handleFormatter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
