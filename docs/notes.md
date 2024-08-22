@@ -12703,3 +12703,8 @@ Code review:
 
 - Idea: expose parser as public API
 - Cache mapper responses
+
+## 2024-08-22
+
+- TODO: add tests for modular pipeline
+- Refactor adapter
