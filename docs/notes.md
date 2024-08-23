@@ -12708,3 +12708,9 @@ Code review:
 
 - TODO: add tests for modular pipeline
 - Refactor adapter
+
+## 2024-08-23
+
+Code review:
+- Simplify mapper init
+- Remove fast helpers
