@@ -17266,3 +17266,9 @@ Code review notes:
 
 - Reviewed schema loader behaviour
 - Handle edge case in parse flow
+
+## 2024-08-23
+
+Code review notes:
+- Simplify session watcher init
+- Remove unused lightweight helpers
