@@ -4528,3 +4528,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-20] Improved error handling in db module
 - [2024-08-21] Updated docs for docs API
 - [2024-08-22] Added strict builder to queue
+- [2024-08-23] Cleaned up legacy config code
