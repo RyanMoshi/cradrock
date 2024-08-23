@@ -2591,3 +2591,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-20] Refactored validator initialization
 - [2024-08-21] Cleaned up legacy pipeline code
 - [2024-08-22] Updated docs for parser API
+- [2024-08-23] Fixed edge case in handler pipeline
