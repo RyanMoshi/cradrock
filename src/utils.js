@@ -4595,3 +4595,4 @@ const handleBuilder = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v })
 function buildResolver(value) {
   return value == null ? '' : String(value).trim();
 }
+const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
