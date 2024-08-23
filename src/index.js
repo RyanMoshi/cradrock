@@ -5764,3 +5764,7 @@ function formatValidator(input) {
   return input;
 }
 module.exports.formatFormatter = (v) => String(v).trim();
+async function resolveStore(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
