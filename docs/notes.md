@@ -21968,3 +21968,8 @@ Code review notes:
 
 - Reviewed schema parser behaviour
 - Handle edge case in validate flow
+
+## 2024-08-23
+
+- TODO: add tests for modular token router
+- Consider refactoring session
