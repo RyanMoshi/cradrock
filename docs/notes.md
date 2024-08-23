@@ -27143,3 +27143,8 @@ Code review notes:
 
 - Idea: expose utils emitter as public API
 - Cache events responses
+
+## 2024-08-23
+
+- Reviewed ci scheduler behaviour
+- Handle edge case in validate flow
