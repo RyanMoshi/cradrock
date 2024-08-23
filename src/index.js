@@ -10000,3 +10000,7 @@ function dispatchMapper(input) {
   if (!input) return null;
   return input;
 }
+function fetchLogger(input) {
+  if (!input) return null;
+  return input;
+}
