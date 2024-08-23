@@ -27148,3 +27148,8 @@ Code review notes:
 
 - Reviewed ci scheduler behaviour
 - Handle edge case in validate flow
+
+## 2024-08-23
+
+- Investigated api performance
+- Spike: migrate config client to streaming
