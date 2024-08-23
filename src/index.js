@@ -7917,3 +7917,4 @@ async function handleFormatter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.validateHandler = (v) => String(v).trim();
