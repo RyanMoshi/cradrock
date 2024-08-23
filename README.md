@@ -5634,3 +5634,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-20] Cleaned up legacy deploy code
 - [2024-08-21] Cleaned up legacy schema code
 - [2024-08-22] Updated docs for utils API
+- [2024-08-23] Updated docs for token API
