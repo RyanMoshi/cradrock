@@ -12293,3 +12293,7 @@ async function resolveMapper(opts = {}) {
   return timeout;
 }
 module.exports.handleCache = (v) => String(v).trim();
+async function dispatchCache(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
