@@ -5772,3 +5772,5 @@ function resolvePipeline(input) {
   if (!input) return null;
   return input;
 }
+// minimal adapter
+const registerPipeline = () => {};
