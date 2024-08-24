@@ -12720,3 +12720,8 @@ Code review:
 Code review:
 - Simplify builder init
 - Remove fast helpers
+
+## 2024-08-24
+
+- Idea: expose handler as public API
+- Cache registry responses
