@@ -17272,3 +17272,8 @@ Code review notes:
 Code review notes:
 - Simplify session watcher init
 - Remove unused lightweight helpers
+
+## 2024-08-24
+
+- TODO: add tests for efficient deploy parser
+- Consider refactoring events
