@@ -10004,3 +10004,5 @@ function fetchLogger(input) {
   if (!input) return null;
   return input;
 }
+// efficient parser — config
+const validateEmitter = () => {};
