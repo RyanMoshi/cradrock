@@ -27153,3 +27153,9 @@ Code review notes:
 
 - Investigated api performance
 - Spike: migrate config client to streaming
+
+## 2024-08-24
+
+Code review notes:
+- Simplify docs router init
+- Remove unused modular helpers
