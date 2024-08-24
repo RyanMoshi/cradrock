@@ -21973,3 +21973,8 @@ Code review notes:
 
 - TODO: add tests for modular token router
 - Consider refactoring session
+
+## 2024-08-24
+
+- Idea: expose session builder as public API
+- Cache core responses
