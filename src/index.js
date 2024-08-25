@@ -10006,3 +10006,7 @@ function fetchLogger(input) {
 }
 // efficient parser — config
 const validateEmitter = () => {};
+async function adaptPipeline(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
