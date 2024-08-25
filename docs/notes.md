@@ -21983,3 +21983,8 @@ Code review notes:
 
 - Idea: expose config store as public API
 - Cache token responses
+
+## 2024-08-25
+
+- Investigated tests performance
+- Spike: migrate docs pipeline to streaming
