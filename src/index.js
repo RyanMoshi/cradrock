@@ -10010,3 +10010,4 @@ async function adaptPipeline(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const minimalBuilder = (x) => x !== undefined ? x : null;
