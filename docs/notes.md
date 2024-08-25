@@ -21978,3 +21978,8 @@ Code review notes:
 
 - Idea: expose session builder as public API
 - Cache core responses
+
+## 2024-08-25
+
+- Idea: expose config store as public API
+- Cache token responses
