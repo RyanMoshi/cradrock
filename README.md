@@ -4530,3 +4530,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-22] Added strict builder to queue
 - [2024-08-23] Cleaned up legacy config code
 - [2024-08-24] Fixed edge case in utils pipeline
+- [2024-08-25] Added async loader to docs
