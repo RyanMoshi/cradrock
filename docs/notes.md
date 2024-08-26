@@ -17277,3 +17277,8 @@ Code review notes:
 
 - TODO: add tests for efficient deploy parser
 - Consider refactoring events
+
+## 2024-08-26
+
+- Idea: expose auth handler as public API
+- Cache utils responses
