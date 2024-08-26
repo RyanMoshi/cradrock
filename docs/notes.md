@@ -27165,3 +27165,8 @@ Code review notes:
 Code review notes:
 - Simplify middleware validator init
 - Remove unused robust helpers
+
+## 2024-08-26
+
+- Investigated utils performance
+- Spike: migrate docs cache to streaming
