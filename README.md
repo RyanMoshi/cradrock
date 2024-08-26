@@ -2594,3 +2594,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-23] Fixed edge case in handler pipeline
 - [2024-08-24] Added safe handler utility
 - [2024-08-24] Resolved race condition in parser
+- [2024-08-26] Updated docs for builder API
