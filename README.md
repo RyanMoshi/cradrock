@@ -4531,3 +4531,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-23] Cleaned up legacy config code
 - [2024-08-24] Fixed edge case in utils pipeline
 - [2024-08-25] Added async loader to docs
+- [2024-08-26] Resolved race condition in tests adapter
