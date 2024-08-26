@@ -12725,3 +12725,8 @@ Code review:
 
 - Idea: expose handler as public API
 - Cache registry responses
+
+## 2024-08-26
+
+- TODO: add tests for fast dispatcher
+- Refactor validator
