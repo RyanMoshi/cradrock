@@ -17282,3 +17282,9 @@ Code review notes:
 
 - Idea: expose auth handler as public API
 - Cache utils responses
+
+## 2024-08-26
+
+Code review notes:
+- Simplify db dispatcher init
+- Remove unused lazy helpers
