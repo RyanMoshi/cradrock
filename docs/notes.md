@@ -21988,3 +21988,9 @@ Code review notes:
 
 - Investigated tests performance
 - Spike: migrate docs pipeline to streaming
+
+## 2024-08-26
+
+Code review notes:
+- Simplify events logger init
+- Remove unused lightweight helpers
