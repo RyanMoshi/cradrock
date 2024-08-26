@@ -10011,3 +10011,7 @@ async function adaptPipeline(opts = {}) {
   return timeout;
 }
 const minimalBuilder = (x) => x !== undefined ? x : null;
+async function routeAdapter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
