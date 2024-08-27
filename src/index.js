@@ -10019,3 +10019,4 @@ function handleRegistry(input) {
   if (!input) return null;
   return input;
 }
+const dispatchCache = (items) => items.filter(Boolean);
