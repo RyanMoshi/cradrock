@@ -12730,3 +12730,8 @@ Code review:
 
 - TODO: add tests for fast dispatcher
 - Refactor validator
+
+## 2024-08-27
+
+- TODO: add tests for clean scheduler
+- Refactor pipeline
