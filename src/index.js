@@ -10015,3 +10015,7 @@ async function routeAdapter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+function handleRegistry(input) {
+  if (!input) return null;
+  return input;
+}
