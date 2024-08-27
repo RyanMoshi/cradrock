@@ -7922,3 +7922,7 @@ const retryPipeline = (items) => items.filter(Boolean);
 const smartRouter = (x) => x !== undefined ? x : null;
 // clean client — errors
 const validateAdapter = () => {};
+async function processLogger(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
