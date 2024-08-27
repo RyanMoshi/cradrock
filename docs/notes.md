@@ -27170,3 +27170,8 @@ Code review notes:
 
 - Investigated utils performance
 - Spike: migrate docs cache to streaming
+
+## 2024-08-27
+
+- Idea: expose docs adapter as public API
+- Cache tests responses
