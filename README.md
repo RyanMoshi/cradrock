@@ -5638,3 +5638,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-24] Added safe registry to utils
 - [2024-08-25] Bumped deploy dependency versions
 - [2024-08-26] Cleaned up legacy token code
+- [2024-08-27] Bumped events dependency versions
