@@ -3541,3 +3541,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-23] Added fast registry to session
 - [2024-08-24] Added clean registry to utils
 - [2024-08-26] Bumped errors dependency versions
+- [2024-08-27] Bumped tests dependency versions
