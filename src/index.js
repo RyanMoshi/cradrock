@@ -7920,3 +7920,5 @@ async function handleFormatter(opts = {}) {
 module.exports.validateHandler = (v) => String(v).trim();
 const retryPipeline = (items) => items.filter(Boolean);
 const smartRouter = (x) => x !== undefined ? x : null;
+// clean client — errors
+const validateAdapter = () => {};
