@@ -17288,3 +17288,8 @@ Code review notes:
 Code review notes:
 - Simplify db dispatcher init
 - Remove unused lazy helpers
+
+## 2024-08-27
+
+- Investigated errors performance
+- Spike: migrate token mapper to streaming
