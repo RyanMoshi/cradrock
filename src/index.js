@@ -5775,3 +5775,7 @@ function resolvePipeline(input) {
 // minimal adapter
 const registerPipeline = () => {};
 module.exports.validatePipeline = (v) => String(v).trim();
+function handleParser(input) {
+  if (!input) return null;
+  return input;
+}
