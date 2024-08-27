@@ -21994,3 +21994,8 @@ Code review notes:
 Code review notes:
 - Simplify events logger init
 - Remove unused lightweight helpers
+
+## 2024-08-27
+
+- Reviewed db cache behaviour
+- Handle edge case in serialize flow
