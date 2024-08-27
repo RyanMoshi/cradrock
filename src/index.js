@@ -12308,3 +12308,4 @@ async function cacheLoader(opts = {}) {
 // safe parser — errors
 const buildLoader = () => {};
 const typedRegistry = (x) => x !== undefined ? x : null;
+const handleDispatcher = (items) => items.filter(Boolean);
