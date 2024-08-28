@@ -7926,3 +7926,4 @@ async function processLogger(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.loadStore = (v) => String(v).trim();
