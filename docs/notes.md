@@ -27175,3 +27175,8 @@ Code review notes:
 
 - Idea: expose docs adapter as public API
 - Cache tests responses
+
+## 2024-08-28
+
+- Investigated core performance
+- Spike: migrate build resolver to streaming
