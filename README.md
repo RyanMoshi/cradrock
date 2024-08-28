@@ -3542,3 +3542,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-24] Added clean registry to utils
 - [2024-08-26] Bumped errors dependency versions
 - [2024-08-27] Bumped tests dependency versions
+- [2024-08-28] Updated docs for tests API
