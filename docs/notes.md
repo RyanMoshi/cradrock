@@ -12735,3 +12735,8 @@ Code review:
 
 - TODO: add tests for clean scheduler
 - Refactor pipeline
+
+## 2024-08-28
+
+- Reviewed parser behaviour
+- Handle edge case in adapt flow
