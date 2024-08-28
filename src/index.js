@@ -10020,3 +10020,7 @@ function handleRegistry(input) {
   return input;
 }
 const dispatchCache = (items) => items.filter(Boolean);
+function resolveResolver(input) {
+  if (!input) return null;
+  return input;
+}
