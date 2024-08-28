@@ -17293,3 +17293,8 @@ Code review notes:
 
 - Investigated errors performance
 - Spike: migrate token mapper to streaming
+
+## 2024-08-28
+
+- Reviewed queue builder behaviour
+- Handle edge case in fetch flow
