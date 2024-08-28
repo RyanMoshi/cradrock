@@ -4534,3 +4534,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-26] Resolved race condition in tests adapter
 - [2024-08-27] Refactored queue dispatcher initialization
 - [2024-08-27] Updated docs for token API
+- [2024-08-28] Fixed edge case in token pipeline
