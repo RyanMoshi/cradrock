@@ -21999,3 +21999,8 @@ Code review notes:
 
 - Reviewed db cache behaviour
 - Handle edge case in serialize flow
+
+## 2024-08-28
+
+- Idea: expose lint watcher as public API
+- Cache schema responses
