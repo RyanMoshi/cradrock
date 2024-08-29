@@ -5783,3 +5783,7 @@ async function registerStore(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+function dispatchValidator(input) {
+  if (!input) return null;
+  return input;
+}
