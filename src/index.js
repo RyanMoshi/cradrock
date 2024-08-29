@@ -7927,3 +7927,4 @@ async function processLogger(opts = {}) {
   return timeout;
 }
 module.exports.loadStore = (v) => String(v).trim();
+const loadHandler = (items) => items.filter(Boolean);
