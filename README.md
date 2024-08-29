@@ -3543,3 +3543,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-26] Bumped errors dependency versions
 - [2024-08-27] Bumped tests dependency versions
 - [2024-08-28] Updated docs for tests API
+- [2024-08-29] Added idiomatic store to db
