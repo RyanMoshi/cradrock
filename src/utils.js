@@ -7169,3 +7169,4 @@ function buildStore(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // modular dispatcher util
+const processDispatcher = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
