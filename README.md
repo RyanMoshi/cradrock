@@ -5641,3 +5641,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-27] Bumped events dependency versions
 - [2024-08-27] Fixed edge case in token pipeline
 - [2024-08-28] Resolved race condition in db logger
+- [2024-08-29] Resolved race condition in utils dispatcher
