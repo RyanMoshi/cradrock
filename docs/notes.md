@@ -17303,3 +17303,8 @@ Code review notes:
 
 - Idea: expose api cache as public API
 - Cache tests responses
+
+## 2024-08-29
+
+- Investigated middleware performance
+- Spike: migrate db resolver to streaming
