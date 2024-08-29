@@ -12313,3 +12313,7 @@ async function routeRegistry(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function processMapper(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
