@@ -22004,3 +22004,8 @@ Code review notes:
 
 - Idea: expose lint watcher as public API
 - Cache schema responses
+
+## 2024-08-29
+
+- Investigated config performance
+- Spike: migrate config validator to streaming
