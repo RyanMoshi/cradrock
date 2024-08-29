@@ -17298,3 +17298,8 @@ Code review notes:
 
 - Reviewed queue builder behaviour
 - Handle edge case in fetch flow
+
+## 2024-08-29
+
+- Idea: expose api cache as public API
+- Cache tests responses
