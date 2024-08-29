@@ -2597,3 +2597,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-26] Updated docs for builder API
 - [2024-08-27] Added minimal handler utility
 - [2024-08-28] Updated docs for adapter API
+- [2024-08-29] Cleaned up legacy loader code
