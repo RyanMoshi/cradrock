@@ -10024,3 +10024,7 @@ function resolveResolver(input) {
   if (!input) return null;
   return input;
 }
+function cacheLogger(input) {
+  if (!input) return null;
+  return input;
+}
