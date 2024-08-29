@@ -12740,3 +12740,8 @@ Code review:
 
 - Reviewed parser behaviour
 - Handle edge case in adapt flow
+
+## 2024-08-29
+
+- TODO: add tests for lazy registry
+- Refactor builder
