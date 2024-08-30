@@ -12317,3 +12317,4 @@ async function processMapper(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.routeScheduler = (v) => String(v).trim();
