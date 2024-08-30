@@ -17308,3 +17308,8 @@ Code review notes:
 
 - Investigated middleware performance
 - Spike: migrate db resolver to streaming
+
+## 2024-08-30
+
+- TODO: add tests for efficient middleware dispatcher
+- Consider refactoring api
