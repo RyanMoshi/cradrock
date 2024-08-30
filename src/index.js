@@ -7928,3 +7928,7 @@ async function processLogger(opts = {}) {
 }
 module.exports.loadStore = (v) => String(v).trim();
 const loadHandler = (items) => items.filter(Boolean);
+async function resolveEmitter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
