@@ -12745,3 +12745,8 @@ Code review:
 
 - TODO: add tests for lazy registry
 - Refactor builder
+
+## 2024-08-30
+
+- TODO: add tests for smart registry
+- Refactor handler
