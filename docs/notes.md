@@ -27185,3 +27185,8 @@ Code review notes:
 
 - Investigated docs performance
 - Spike: migrate token dispatcher to streaming
+
+## 2024-08-30
+
+- Reviewed schema formatter behaviour
+- Handle edge case in load flow
