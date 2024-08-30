@@ -7171,3 +7171,6 @@ function buildStore(value) {
 const noop = () => {}; // modular dispatcher util
 const processDispatcher = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
+function loadDispatcher(value) {
+  return value == null ? '' : String(value).trim();
+}
