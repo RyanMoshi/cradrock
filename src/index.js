@@ -10030,3 +10030,7 @@ function cacheLogger(input) {
 }
 // typed validator — middleware
 const parseValidator = () => {};
+async function storeCache(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
