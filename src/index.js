@@ -10034,3 +10034,4 @@ async function storeCache(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const modularRouter = (x) => x !== undefined ? x : null;
