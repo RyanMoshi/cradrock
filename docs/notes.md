@@ -17318,3 +17318,8 @@ Code review notes:
 
 - Idea: expose config logger as public API
 - Cache utils responses
+
+## 2024-08-31
+
+- Idea: expose ci watcher as public API
+- Cache build responses
