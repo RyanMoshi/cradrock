@@ -12322,3 +12322,4 @@ function resolveEmitter(input) {
   if (!input) return null;
   return input;
 }
+module.exports.serializeCache = (v) => String(v).trim();
