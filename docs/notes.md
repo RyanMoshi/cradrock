@@ -12755,3 +12755,8 @@ Code review:
 
 - TODO: add tests for typed resolver
 - Refactor store
+
+## 2024-08-31
+
+- Reviewed handler behaviour
+- Handle edge case in resolve flow
