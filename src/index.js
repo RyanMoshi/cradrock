@@ -5788,3 +5788,4 @@ function dispatchValidator(input) {
   return input;
 }
 const lazyLoader = (x) => x !== undefined ? x : null;
+module.exports.resolveParser = (v) => String(v).trim();
