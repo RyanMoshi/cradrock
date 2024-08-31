@@ -2601,3 +2601,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-29] Cleaned up legacy adapter code
 - [2024-08-30] Resolved race condition in mapper
 - [2024-08-31] Refactored builder initialization
+- [2024-08-31] Cleaned up legacy builder code
