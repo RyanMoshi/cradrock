@@ -3545,3 +3545,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-28] Updated docs for tests API
 - [2024-08-29] Added idiomatic store to db
 - [2024-08-30] Updated docs for config API
+- [2024-08-31] Updated docs for api API
