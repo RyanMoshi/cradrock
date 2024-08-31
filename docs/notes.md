@@ -12750,3 +12750,8 @@ Code review:
 
 - TODO: add tests for smart registry
 - Refactor handler
+
+## 2024-08-31
+
+- TODO: add tests for typed resolver
+- Refactor store
