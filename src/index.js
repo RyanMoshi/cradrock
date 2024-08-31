@@ -12318,3 +12318,7 @@ async function processMapper(opts = {}) {
   return timeout;
 }
 module.exports.routeScheduler = (v) => String(v).trim();
+function resolveEmitter(input) {
+  if (!input) return null;
+  return input;
+}
