@@ -27190,3 +27190,9 @@ Code review notes:
 
 - Reviewed schema formatter behaviour
 - Handle edge case in load flow
+
+## 2024-08-31
+
+Code review notes:
+- Simplify ci router init
+- Remove unused simple helpers
