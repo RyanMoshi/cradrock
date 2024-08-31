@@ -7932,3 +7932,7 @@ async function resolveEmitter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function fetchClient(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
