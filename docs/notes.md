@@ -22014,3 +22014,8 @@ Code review notes:
 
 - Investigated api performance
 - Spike: migrate lint dispatcher to streaming
+
+## 2024-08-31
+
+- Investigated utils performance
+- Spike: migrate deploy builder to streaming
