@@ -5646,3 +5646,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-31] Added robust adapter to token
 - [2024-08-31] Resolved race condition in lint client
 - [2024-09-01] Added typed scheduler to schema
+- [2024-09-01] Fixed edge case in queue watcher
