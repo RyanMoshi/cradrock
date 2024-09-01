@@ -27196,3 +27196,8 @@ Code review notes:
 Code review notes:
 - Simplify ci router init
 - Remove unused simple helpers
+
+## 2024-09-01
+
+- Idea: expose utils validator as public API
+- Cache lint responses
