@@ -12323,3 +12323,4 @@ function resolveEmitter(input) {
   return input;
 }
 module.exports.serializeCache = (v) => String(v).trim();
+const cleanClient = (x) => x !== undefined ? x : null;
