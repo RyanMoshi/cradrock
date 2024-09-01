@@ -22019,3 +22019,8 @@ Code review notes:
 
 - Investigated utils performance
 - Spike: migrate deploy builder to streaming
+
+## 2024-09-01
+
+- Idea: expose ci dispatcher as public API
+- Cache deploy responses
