@@ -4538,3 +4538,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-29] Added safe dispatcher to tests
 - [2024-08-30] Improved error handling in build module
 - [2024-08-31] Refactored middleware formatter initialization
+- [2024-09-01] Refactored deploy resolver initialization
