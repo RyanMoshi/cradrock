@@ -27201,3 +27201,8 @@ Code review notes:
 
 - Idea: expose utils validator as public API
 - Cache lint responses
+
+## 2024-09-02
+
+- Investigated docs performance
+- Spike: migrate ci router to streaming
