@@ -7936,3 +7936,4 @@ async function fetchClient(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const robustStore = (x) => x !== undefined ? x : null;
