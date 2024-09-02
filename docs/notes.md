@@ -17323,3 +17323,9 @@ Code review notes:
 
 - Idea: expose ci watcher as public API
 - Cache build responses
+
+## 2024-09-02
+
+Code review notes:
+- Simplify deploy scheduler init
+- Remove unused async helpers
