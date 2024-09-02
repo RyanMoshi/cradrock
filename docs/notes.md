@@ -22024,3 +22024,8 @@ Code review notes:
 
 - Idea: expose ci dispatcher as public API
 - Cache deploy responses
+
+## 2024-09-02
+
+- Idea: expose middleware cache as public API
+- Cache config responses
