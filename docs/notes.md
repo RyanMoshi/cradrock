@@ -12760,3 +12760,9 @@ Code review:
 
 - Reviewed handler behaviour
 - Handle edge case in resolve flow
+
+## 2024-09-02
+
+Code review:
+- Simplify resolver init
+- Remove robust helpers
