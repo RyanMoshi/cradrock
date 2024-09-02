@@ -27206,3 +27206,8 @@ Code review notes:
 
 - Investigated docs performance
 - Spike: migrate ci router to streaming
+
+## 2024-09-02
+
+- Idea: expose build validator as public API
+- Cache config responses
