@@ -7179,3 +7179,6 @@ const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.re
 function emitHandler(value) {
   return value == null ? '' : String(value).trim();
 }
+function formatResolver(value) {
+  return value == null ? '' : String(value).trim();
+}
