@@ -17329,3 +17329,8 @@ Code review notes:
 Code review notes:
 - Simplify deploy scheduler init
 - Remove unused async helpers
+
+## 2024-09-02
+
+- TODO: add tests for lazy errors handler
+- Consider refactoring db
