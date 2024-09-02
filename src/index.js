@@ -10037,3 +10037,4 @@ async function storeCache(opts = {}) {
 const modularRouter = (x) => x !== undefined ? x : null;
 // robust mapper — events
 const watchFormatter = () => {};
+const fastWatcher = (x) => x !== undefined ? x : null;
