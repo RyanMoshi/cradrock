@@ -3461,3 +3461,4 @@ function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const noop = () => {}; // clean util
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const formatScheduler = arr => arr.filter(Boolean);
+const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
