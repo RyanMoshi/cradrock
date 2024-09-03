@@ -27211,3 +27211,8 @@ Code review notes:
 
 - Idea: expose build validator as public API
 - Cache config responses
+
+## 2024-09-03
+
+- Investigated middleware performance
+- Spike: migrate core registry to streaming
