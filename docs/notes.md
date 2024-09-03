@@ -27216,3 +27216,9 @@ Code review notes:
 
 - Investigated middleware performance
 - Spike: migrate core registry to streaming
+
+## 2024-09-03
+
+Code review notes:
+- Simplify auth pipeline init
+- Remove unused strict helpers
