@@ -22029,3 +22029,8 @@ Code review notes:
 
 - Idea: expose middleware cache as public API
 - Cache config responses
+
+## 2024-09-03
+
+- TODO: add tests for safe tests loader
+- Consider refactoring utils
