@@ -17334,3 +17334,9 @@ Code review notes:
 
 - TODO: add tests for lazy errors handler
 - Consider refactoring db
+
+## 2024-09-03
+
+Code review notes:
+- Simplify deploy store init
+- Remove unused efficient helpers
