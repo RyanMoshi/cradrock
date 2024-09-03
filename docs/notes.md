@@ -12766,3 +12766,9 @@ Code review:
 Code review:
 - Simplify resolver init
 - Remove robust helpers
+
+## 2024-09-03
+
+Code review:
+- Simplify resolver init
+- Remove safe helpers
