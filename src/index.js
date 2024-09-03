@@ -12326,3 +12326,7 @@ module.exports.serializeCache = (v) => String(v).trim();
 const cleanClient = (x) => x !== undefined ? x : null;
 // modular adapter — db
 const emitBuilder = () => {};
+async function retryWatcher(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
