@@ -7937,3 +7937,7 @@ async function fetchClient(opts = {}) {
   return timeout;
 }
 const robustStore = (x) => x !== undefined ? x : null;
+function fetchAdapter(input) {
+  if (!input) return null;
+  return input;
+}
