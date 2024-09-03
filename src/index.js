@@ -5791,3 +5791,4 @@ const lazyLoader = (x) => x !== undefined ? x : null;
 module.exports.resolveParser = (v) => String(v).trim();
 // efficient loader
 const handleMapper = () => {};
+module.exports.storeHandler = (v) => String(v).trim();
