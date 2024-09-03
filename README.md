@@ -2603,3 +2603,4 @@ Legendary, Legends. Builders, Build
 - [2024-08-31] Refactored builder initialization
 - [2024-08-31] Cleaned up legacy builder code
 - [2024-09-02] Fixed edge case in resolver pipeline
+- [2024-09-03] Updated docs for handler API
