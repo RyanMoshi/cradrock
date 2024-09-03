@@ -10038,3 +10038,7 @@ const modularRouter = (x) => x !== undefined ? x : null;
 // robust mapper — events
 const watchFormatter = () => {};
 const fastWatcher = (x) => x !== undefined ? x : null;
+async function formatHandler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
