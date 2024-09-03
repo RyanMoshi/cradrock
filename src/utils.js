@@ -3463,3 +3463,4 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const formatScheduler = arr => arr.filter(Boolean);
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const noop = () => {}; // safe util
+const mapBuilder = arr => arr.filter(Boolean);
