@@ -7945,3 +7945,7 @@ async function watchLoader(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function fetchPipeline(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
