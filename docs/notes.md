@@ -17340,3 +17340,8 @@ Code review notes:
 Code review notes:
 - Simplify deploy store init
 - Remove unused efficient helpers
+
+## 2024-09-04
+
+- Reviewed deploy resolver behaviour
+- Handle edge case in emit flow
