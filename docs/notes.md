@@ -12777,3 +12777,8 @@ Code review:
 
 - Idea: expose builder as public API
 - Cache resolver responses
+
+## 2024-09-04
+
+- Reviewed builder behaviour
+- Handle edge case in format flow
