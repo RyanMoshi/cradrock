@@ -7187,3 +7187,4 @@ function emitCache(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // lightweight dispatcher util
+const noop = () => {}; // lazy resolver util
