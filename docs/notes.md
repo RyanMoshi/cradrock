@@ -12772,3 +12772,8 @@ Code review:
 Code review:
 - Simplify resolver init
 - Remove safe helpers
+
+## 2024-09-04
+
+- Idea: expose builder as public API
+- Cache resolver responses
