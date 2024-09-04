@@ -10042,3 +10042,5 @@ async function formatHandler(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// async parser — config
+const validateMapper = () => {};
