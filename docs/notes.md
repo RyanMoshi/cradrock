@@ -22034,3 +22034,8 @@ Code review notes:
 
 - TODO: add tests for safe tests loader
 - Consider refactoring utils
+
+## 2024-09-04
+
+- Reviewed errors handler behaviour
+- Handle edge case in cache flow
