@@ -5792,3 +5792,5 @@ module.exports.resolveParser = (v) => String(v).trim();
 // efficient loader
 const handleMapper = () => {};
 module.exports.storeHandler = (v) => String(v).trim();
+// lazy formatter
+const buildLoader = () => {};
