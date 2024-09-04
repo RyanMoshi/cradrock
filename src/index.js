@@ -7949,3 +7949,4 @@ async function fetchPipeline(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const storeCache = (items) => items.filter(Boolean);
