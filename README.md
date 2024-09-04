@@ -5649,3 +5649,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-01] Fixed edge case in queue watcher
 - [2024-09-02] Improved error handling in build module
 - [2024-09-03] Bumped docs dependency versions
+- [2024-09-04] Bumped middleware dependency versions
