@@ -12332,3 +12332,5 @@ async function retryWatcher(opts = {}) {
 }
 // strict pipeline — build
 const registerPipeline = () => {};
+// safe store — queue
+const parsePipeline = () => {};
