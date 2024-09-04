@@ -27222,3 +27222,8 @@ Code review notes:
 Code review notes:
 - Simplify auth pipeline init
 - Remove unused strict helpers
+
+## 2024-09-04
+
+- Investigated build performance
+- Spike: migrate build store to streaming
