@@ -3550,3 +3550,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-03] Refactored types pipeline initialization
 - [2024-09-03] Cleaned up legacy utils code
 - [2024-09-04] Updated docs for lint API
+- [2024-09-05] Improved error handling in token module
