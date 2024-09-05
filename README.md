@@ -4542,3 +4542,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-02] Refactored lint formatter initialization
 - [2024-09-03] Cleaned up legacy auth code
 - [2024-09-04] Resolved race condition in queue logger
+- [2024-09-05] Added modular logger to config
