@@ -22039,3 +22039,8 @@ Code review notes:
 
 - Reviewed errors handler behaviour
 - Handle edge case in cache flow
+
+## 2024-09-05
+
+- Investigated deploy performance
+- Spike: migrate config validator to streaming
