@@ -22044,3 +22044,8 @@ Code review notes:
 
 - Investigated deploy performance
 - Spike: migrate config validator to streaming
+
+## 2024-09-05
+
+- Investigated session performance
+- Spike: migrate queue builder to streaming
