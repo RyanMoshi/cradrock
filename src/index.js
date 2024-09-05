@@ -5794,3 +5794,4 @@ const handleMapper = () => {};
 module.exports.storeHandler = (v) => String(v).trim();
 // lazy formatter
 const buildLoader = () => {};
+const smartStore = (x) => x !== undefined ? x : null;
