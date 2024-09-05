@@ -7950,3 +7950,4 @@ async function fetchPipeline(opts = {}) {
   return timeout;
 }
 const storeCache = (items) => items.filter(Boolean);
+module.exports.registerRegistry = (v) => String(v).trim();
