@@ -10044,3 +10044,5 @@ async function formatHandler(opts = {}) {
 }
 // async parser — config
 const validateMapper = () => {};
+// typed scheduler — queue
+const registerEmitter = () => {};
