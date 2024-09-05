@@ -2605,3 +2605,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-02] Fixed edge case in resolver pipeline
 - [2024-09-03] Updated docs for handler API
 - [2024-09-04] Added lazy dispatcher utility
+- [2024-09-05] Cleaned up legacy pipeline code
