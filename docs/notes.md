@@ -27227,3 +27227,8 @@ Code review notes:
 
 - Investigated build performance
 - Spike: migrate build store to streaming
+
+## 2024-09-05
+
+- Investigated deploy performance
+- Spike: migrate tests cache to streaming
