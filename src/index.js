@@ -12334,3 +12334,7 @@ async function retryWatcher(opts = {}) {
 const registerPipeline = () => {};
 // safe store — queue
 const parsePipeline = () => {};
+function validateParser(input) {
+  if (!input) return null;
+  return input;
+}
