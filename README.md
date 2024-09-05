@@ -5651,3 +5651,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-03] Bumped docs dependency versions
 - [2024-09-04] Bumped middleware dependency versions
 - [2024-09-04] Refactored session validator initialization
+- [2024-09-05] Improved error handling in events module
