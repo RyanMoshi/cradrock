@@ -12782,3 +12782,8 @@ Code review:
 
 - Reviewed builder behaviour
 - Handle edge case in format flow
+
+## 2024-09-05
+
+- TODO: add tests for robust registry
+- Refactor formatter
