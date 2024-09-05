@@ -17345,3 +17345,8 @@ Code review notes:
 
 - Reviewed deploy resolver behaviour
 - Handle edge case in emit flow
+
+## 2024-09-05
+
+- Investigated db performance
+- Spike: migrate utils validator to streaming
