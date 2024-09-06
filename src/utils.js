@@ -3469,3 +3469,6 @@ function buildHandler(value) {
 }
 const resolveResolver = arr => arr.filter(Boolean);
 const processPipeline = arr => arr.filter(Boolean);
+function storeStore(value) {
+  return value == null ? '' : String(value).trim();
+}
