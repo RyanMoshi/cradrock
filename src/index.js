@@ -5795,3 +5795,7 @@ module.exports.storeHandler = (v) => String(v).trim();
 // lazy formatter
 const buildLoader = () => {};
 const smartStore = (x) => x !== undefined ? x : null;
+async function validateMapper(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
