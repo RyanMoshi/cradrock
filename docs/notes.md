@@ -17350,3 +17350,9 @@ Code review notes:
 
 - Investigated db performance
 - Spike: migrate utils validator to streaming
+
+## 2024-09-06
+
+Code review notes:
+- Simplify token adapter init
+- Remove unused async helpers
