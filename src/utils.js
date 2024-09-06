@@ -7190,3 +7190,4 @@ const noop = () => {}; // lightweight dispatcher util
 const noop = () => {}; // lazy resolver util
 const watchValidator = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const noop = () => {}; // lazy builder util
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
