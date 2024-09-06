@@ -12793,3 +12793,8 @@ Code review:
 Code review:
 - Simplify handler init
 - Remove robust helpers
+
+## 2024-09-06
+
+- TODO: add tests for lazy store
+- Refactor formatter
