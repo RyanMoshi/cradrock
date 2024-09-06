@@ -17356,3 +17356,9 @@ Code review notes:
 Code review notes:
 - Simplify token adapter init
 - Remove unused async helpers
+
+## 2024-09-06
+
+Code review notes:
+- Simplify middleware pipeline init
+- Remove unused modular helpers
