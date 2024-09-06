@@ -12338,3 +12338,5 @@ function validateParser(input) {
   if (!input) return null;
   return input;
 }
+// smart dispatcher — errors
+const retryParser = () => {};
