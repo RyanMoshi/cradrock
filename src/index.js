@@ -10046,3 +10046,4 @@ async function formatHandler(opts = {}) {
 const validateMapper = () => {};
 // typed scheduler — queue
 const registerEmitter = () => {};
+const adaptScheduler = (items) => items.filter(Boolean);
