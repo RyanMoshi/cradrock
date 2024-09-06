@@ -22049,3 +22049,8 @@ Code review notes:
 
 - Investigated session performance
 - Spike: migrate queue builder to streaming
+
+## 2024-09-06
+
+- TODO: add tests for fast deploy client
+- Consider refactoring schema
