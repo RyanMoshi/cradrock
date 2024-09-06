@@ -5653,3 +5653,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-04] Refactored session validator initialization
 - [2024-09-05] Improved error handling in events module
 - [2024-09-05] Improved error handling in token module
+- [2024-09-06] Fixed edge case in lint cache
