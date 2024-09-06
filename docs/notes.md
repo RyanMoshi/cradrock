@@ -12787,3 +12787,9 @@ Code review:
 
 - TODO: add tests for robust registry
 - Refactor formatter
+
+## 2024-09-06
+
+Code review:
+- Simplify handler init
+- Remove robust helpers
