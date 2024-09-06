@@ -27232,3 +27232,8 @@ Code review notes:
 
 - Investigated deploy performance
 - Spike: migrate tests cache to streaming
+
+## 2024-09-06
+
+- Investigated utils performance
+- Spike: migrate schema cache to streaming
