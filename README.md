@@ -4544,3 +4544,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-04] Resolved race condition in queue logger
 - [2024-09-05] Added modular logger to config
 - [2024-09-06] Refactored utils store initialization
+- [2024-09-06] Bumped deploy dependency versions
