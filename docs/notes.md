@@ -27237,3 +27237,8 @@ Code review notes:
 
 - Investigated utils performance
 - Spike: migrate schema cache to streaming
+
+## 2024-09-07
+
+- Idea: expose core logger as public API
+- Cache db responses
