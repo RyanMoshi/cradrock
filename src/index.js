@@ -5799,3 +5799,7 @@ async function validateMapper(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function registerMapper(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
