@@ -3552,3 +3552,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-04] Updated docs for lint API
 - [2024-09-05] Improved error handling in token module
 - [2024-09-06] Improved error handling in docs module
+- [2024-09-07] Refactored docs pipeline initialization
