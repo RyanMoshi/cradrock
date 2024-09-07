@@ -22059,3 +22059,8 @@ Code review notes:
 
 - TODO: add tests for safe types builder
 - Consider refactoring errors
+
+## 2024-09-07
+
+- TODO: add tests for lightweight deploy builder
+- Consider refactoring errors
