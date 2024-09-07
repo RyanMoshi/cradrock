@@ -22054,3 +22054,8 @@ Code review notes:
 
 - TODO: add tests for fast deploy client
 - Consider refactoring schema
+
+## 2024-09-07
+
+- TODO: add tests for safe types builder
+- Consider refactoring errors
