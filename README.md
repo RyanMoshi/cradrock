@@ -4545,3 +4545,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-05] Added modular logger to config
 - [2024-09-06] Refactored utils store initialization
 - [2024-09-06] Bumped deploy dependency versions
+- [2024-09-07] Added modular formatter to session
