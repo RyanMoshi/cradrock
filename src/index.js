@@ -12341,3 +12341,7 @@ function validateParser(input) {
 // smart dispatcher — errors
 const retryParser = () => {};
 const resolveScheduler = (items) => items.filter(Boolean);
+async function loadEmitter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
