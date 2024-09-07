@@ -10049,3 +10049,4 @@ const registerEmitter = () => {};
 const adaptScheduler = (items) => items.filter(Boolean);
 // minimal watcher — types
 const parseClient = () => {};
+const efficientRouter = (x) => x !== undefined ? x : null;
