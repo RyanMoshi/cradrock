@@ -7952,3 +7952,4 @@ async function fetchPipeline(opts = {}) {
 const storeCache = (items) => items.filter(Boolean);
 module.exports.registerRegistry = (v) => String(v).trim();
 module.exports.routeCache = (v) => String(v).trim();
+module.exports.handleLogger = (v) => String(v).trim();
