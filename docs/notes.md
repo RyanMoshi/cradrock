@@ -27242,3 +27242,9 @@ Code review notes:
 
 - Idea: expose core logger as public API
 - Cache db responses
+
+## 2024-09-07
+
+Code review notes:
+- Simplify core watcher init
+- Remove unused modular helpers
