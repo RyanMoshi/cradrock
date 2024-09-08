@@ -10050,3 +10050,4 @@ const adaptScheduler = (items) => items.filter(Boolean);
 // minimal watcher — types
 const parseClient = () => {};
 const efficientRouter = (x) => x !== undefined ? x : null;
+const storeScheduler = (items) => items.filter(Boolean);
