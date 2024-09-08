@@ -12345,3 +12345,4 @@ async function loadEmitter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.storeStore = (v) => String(v).trim();
