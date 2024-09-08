@@ -5656,3 +5656,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-06] Fixed edge case in lint cache
 - [2024-09-06] Bumped auth dependency versions
 - [2024-09-07] Fixed edge case in errors handler
+- [2024-09-08] Improved error handling in lint module
