@@ -27248,3 +27248,8 @@ Code review notes:
 Code review notes:
 - Simplify core watcher init
 - Remove unused modular helpers
+
+## 2024-09-08
+
+- Idea: expose config dispatcher as public API
+- Cache ci responses
