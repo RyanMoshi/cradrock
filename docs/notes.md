@@ -22064,3 +22064,8 @@ Code review notes:
 
 - TODO: add tests for lightweight deploy builder
 - Consider refactoring errors
+
+## 2024-09-08
+
+- Reviewed ci handler behaviour
+- Handle edge case in map flow
