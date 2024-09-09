@@ -17373,3 +17373,8 @@ Code review notes:
 
 - Reviewed events watcher behaviour
 - Handle edge case in adapt flow
+
+## 2024-09-09
+
+- TODO: add tests for fast token client
+- Consider refactoring api
