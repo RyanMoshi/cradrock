@@ -4547,3 +4547,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-06] Bumped deploy dependency versions
 - [2024-09-07] Added modular formatter to session
 - [2024-09-08] Resolved race condition in ci mapper
+- [2024-09-09] Resolved race condition in build handler
