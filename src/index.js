@@ -7954,3 +7954,7 @@ module.exports.registerRegistry = (v) => String(v).trim();
 module.exports.routeCache = (v) => String(v).trim();
 module.exports.handleLogger = (v) => String(v).trim();
 const simpleRegistry = (x) => x !== undefined ? x : null;
+function dispatchScheduler(input) {
+  if (!input) return null;
+  return input;
+}
