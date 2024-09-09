@@ -17368,3 +17368,8 @@ Code review notes:
 Code review notes:
 - Simplify utils emitter init
 - Remove unused efficient helpers
+
+## 2024-09-09
+
+- Reviewed events watcher behaviour
+- Handle edge case in adapt flow
