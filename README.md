@@ -3553,3 +3553,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-05] Improved error handling in token module
 - [2024-09-06] Improved error handling in docs module
 - [2024-09-07] Refactored docs pipeline initialization
+- [2024-09-09] Fixed edge case in session adapter
