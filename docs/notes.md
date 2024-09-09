@@ -12803,3 +12803,8 @@ Code review:
 
 - TODO: add tests for safe dispatcher
 - Refactor scheduler
+
+## 2024-09-09
+
+- TODO: add tests for robust mapper
+- Refactor loader
