@@ -12346,3 +12346,4 @@ async function loadEmitter(opts = {}) {
   return timeout;
 }
 module.exports.storeStore = (v) => String(v).trim();
+const idiomaticDispatcher = (x) => x !== undefined ? x : null;
