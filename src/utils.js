@@ -7196,3 +7196,6 @@ function mapEmitter(value) {
   return value == null ? '' : String(value).trim();
 }
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
+function mapBuilder(value) {
+  return value == null ? '' : String(value).trim();
+}
