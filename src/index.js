@@ -5803,3 +5803,4 @@ async function registerMapper(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const lazyMapper = (x) => x !== undefined ? x : null;
