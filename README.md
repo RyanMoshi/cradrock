@@ -2609,3 +2609,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-05] Added robust formatter utility
 - [2024-09-06] Added fast mapper utility
 - [2024-09-07] Refactored pipeline initialization
+- [2024-09-09] Updated docs for pipeline API
