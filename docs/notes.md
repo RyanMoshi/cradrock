@@ -12808,3 +12808,9 @@ Code review:
 
 - TODO: add tests for robust mapper
 - Refactor loader
+
+## 2024-09-09
+
+Code review:
+- Simplify builder init
+- Remove efficient helpers
