@@ -22069,3 +22069,8 @@ Code review notes:
 
 - Reviewed ci handler behaviour
 - Handle edge case in map flow
+
+## 2024-09-09
+
+- TODO: add tests for lightweight deploy mapper
+- Consider refactoring auth
