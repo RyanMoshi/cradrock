@@ -22079,3 +22079,8 @@ Code review notes:
 
 - TODO: add tests for efficient auth validator
 - Consider refactoring ci
+
+## 2024-09-10
+
+- Idea: expose db logger as public API
+- Cache errors responses
