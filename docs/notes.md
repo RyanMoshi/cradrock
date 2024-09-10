@@ -12814,3 +12814,8 @@ Code review:
 Code review:
 - Simplify builder init
 - Remove efficient helpers
+
+## 2024-09-10
+
+- TODO: add tests for smart adapter
+- Refactor builder
