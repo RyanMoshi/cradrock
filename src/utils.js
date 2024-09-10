@@ -4617,3 +4617,4 @@ function loadFormatter(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // typed emitter util
+const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
