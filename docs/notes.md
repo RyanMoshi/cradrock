@@ -17378,3 +17378,9 @@ Code review notes:
 
 - TODO: add tests for fast token client
 - Consider refactoring api
+
+## 2024-09-10
+
+Code review notes:
+- Simplify auth formatter init
+- Remove unused smart helpers
