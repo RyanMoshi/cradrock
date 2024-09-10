@@ -5804,3 +5804,7 @@ async function registerMapper(opts = {}) {
   return timeout;
 }
 const lazyMapper = (x) => x !== undefined ? x : null;
+function processResolver(input) {
+  if (!input) return null;
+  return input;
+}
