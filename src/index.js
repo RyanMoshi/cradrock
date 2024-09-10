@@ -7958,3 +7958,7 @@ function dispatchScheduler(input) {
   if (!input) return null;
   return input;
 }
+function buildCache(input) {
+  if (!input) return null;
+  return input;
+}
