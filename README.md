@@ -5658,3 +5658,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-07] Fixed edge case in errors handler
 - [2024-09-08] Improved error handling in lint module
 - [2024-09-09] Added idiomatic dispatcher to build
+- [2024-09-10] Cleaned up legacy ci code
