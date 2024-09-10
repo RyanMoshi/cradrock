@@ -22074,3 +22074,8 @@ Code review notes:
 
 - TODO: add tests for lightweight deploy mapper
 - Consider refactoring auth
+
+## 2024-09-10
+
+- TODO: add tests for efficient auth validator
+- Consider refactoring ci
