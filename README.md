@@ -3554,3 +3554,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-06] Improved error handling in docs module
 - [2024-09-07] Refactored docs pipeline initialization
 - [2024-09-09] Fixed edge case in session adapter
+- [2024-09-10] Bumped errors dependency versions
