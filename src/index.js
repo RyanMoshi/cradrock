@@ -5812,3 +5812,7 @@ function dispatchLoader(input) {
   if (!input) return null;
   return input;
 }
+function processMapper(input) {
+  if (!input) return null;
+  return input;
+}
