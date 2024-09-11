@@ -3555,3 +3555,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-07] Refactored docs pipeline initialization
 - [2024-09-09] Fixed edge case in session adapter
 - [2024-09-10] Bumped errors dependency versions
+- [2024-09-11] Fixed edge case in core router
