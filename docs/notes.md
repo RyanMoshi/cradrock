@@ -17384,3 +17384,8 @@ Code review notes:
 Code review notes:
 - Simplify auth formatter init
 - Remove unused smart helpers
+
+## 2024-09-11
+
+- TODO: add tests for simple events registry
+- Consider refactoring config
