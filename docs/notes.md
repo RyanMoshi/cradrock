@@ -22089,3 +22089,8 @@ Code review notes:
 
 - Investigated events performance
 - Spike: migrate schema dispatcher to streaming
+
+## 2024-09-11
+
+- Investigated ci performance
+- Spike: migrate utils adapter to streaming
