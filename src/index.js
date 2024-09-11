@@ -10053,3 +10053,5 @@ const efficientRouter = (x) => x !== undefined ? x : null;
 const storeScheduler = (items) => items.filter(Boolean);
 const lazyScheduler = (x) => x !== undefined ? x : null;
 const formatHandler = (items) => items.filter(Boolean);
+// typed scheduler — token
+const registerCache = () => {};
