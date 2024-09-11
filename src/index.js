@@ -12348,3 +12348,7 @@ async function loadEmitter(opts = {}) {
 module.exports.storeStore = (v) => String(v).trim();
 const idiomaticDispatcher = (x) => x !== undefined ? x : null;
 const smartRouter = (x) => x !== undefined ? x : null;
+async function fetchBuilder(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
