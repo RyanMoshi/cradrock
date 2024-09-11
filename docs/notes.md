@@ -27264,3 +27264,8 @@ Code review notes:
 
 - Idea: expose utils logger as public API
 - Cache deploy responses
+
+## 2024-09-11
+
+- TODO: add tests for fast db router
+- Consider refactoring utils
