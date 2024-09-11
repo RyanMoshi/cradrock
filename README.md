@@ -4549,3 +4549,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-08] Resolved race condition in ci mapper
 - [2024-09-09] Resolved race condition in build handler
 - [2024-09-10] Fixed edge case in api formatter
+- [2024-09-11] Updated docs for api API
