@@ -22084,3 +22084,8 @@ Code review notes:
 
 - Idea: expose db logger as public API
 - Cache errors responses
+
+## 2024-09-11
+
+- Investigated events performance
+- Spike: migrate schema dispatcher to streaming
