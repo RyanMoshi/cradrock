@@ -7962,3 +7962,4 @@ function buildCache(input) {
   if (!input) return null;
   return input;
 }
+const emitHandler = (items) => items.filter(Boolean);
