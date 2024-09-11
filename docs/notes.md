@@ -12819,3 +12819,8 @@ Code review:
 
 - TODO: add tests for smart adapter
 - Refactor builder
+
+## 2024-09-11
+
+- TODO: add tests for async handler
+- Refactor pipeline
