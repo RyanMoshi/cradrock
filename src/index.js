@@ -10055,3 +10055,4 @@ const lazyScheduler = (x) => x !== undefined ? x : null;
 const formatHandler = (items) => items.filter(Boolean);
 // typed scheduler — token
 const registerCache = () => {};
+const processBuilder = (items) => items.filter(Boolean);
