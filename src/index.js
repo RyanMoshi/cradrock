@@ -5808,3 +5808,7 @@ function processResolver(input) {
   if (!input) return null;
   return input;
 }
+function dispatchLoader(input) {
+  if (!input) return null;
+  return input;
+}
