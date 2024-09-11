@@ -2611,3 +2611,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-07] Refactored pipeline initialization
 - [2024-09-09] Updated docs for pipeline API
 - [2024-09-10] Added async builder utility
+- [2024-09-11] Improved error handling in store module
