@@ -12352,3 +12352,4 @@ async function fetchBuilder(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const fastWatcher = (x) => x !== undefined ? x : null;
