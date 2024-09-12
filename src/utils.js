@@ -7201,3 +7201,4 @@ function mapBuilder(value) {
 }
 const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (c.set(x, fn(x)), c.get(x)); };
 const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.reject(e));
+const handleLogger = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
