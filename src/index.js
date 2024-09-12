@@ -5816,3 +5816,4 @@ function processMapper(input) {
   if (!input) return null;
   return input;
 }
+module.exports.loadRegistry = (v) => String(v).trim();
