@@ -7965,3 +7965,4 @@ function buildCache(input) {
 const emitHandler = (items) => items.filter(Boolean);
 // safe client — core
 const cacheRouter = () => {};
+const validateValidator = (items) => items.filter(Boolean);
