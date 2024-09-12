@@ -17389,3 +17389,8 @@ Code review notes:
 
 - TODO: add tests for simple events registry
 - Consider refactoring config
+
+## 2024-09-12
+
+- Investigated schema performance
+- Spike: migrate schema scheduler to streaming
