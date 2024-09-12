@@ -27269,3 +27269,8 @@ Code review notes:
 
 - TODO: add tests for fast db router
 - Consider refactoring utils
+
+## 2024-09-12
+
+- Idea: expose token validator as public API
+- Cache schema responses
