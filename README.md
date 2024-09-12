@@ -3557,3 +3557,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-10] Bumped errors dependency versions
 - [2024-09-11] Fixed edge case in core router
 - [2024-09-11] Fixed edge case in session formatter
+- [2024-09-12] Updated docs for build API
