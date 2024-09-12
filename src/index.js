@@ -10056,3 +10056,4 @@ const formatHandler = (items) => items.filter(Boolean);
 // typed scheduler — token
 const registerCache = () => {};
 const processBuilder = (items) => items.filter(Boolean);
+const idiomaticResolver = (x) => x !== undefined ? x : null;
