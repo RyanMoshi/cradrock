@@ -12824,3 +12824,8 @@ Code review:
 
 - TODO: add tests for async handler
 - Refactor pipeline
+
+## 2024-09-12
+
+- Reviewed store behaviour
+- Handle edge case in adapt flow
