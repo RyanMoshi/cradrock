@@ -2614,3 +2614,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-11] Improved error handling in store module
 - [2024-09-11] Fixed edge case in scheduler pipeline
 - [2024-09-12] Cleaned up legacy formatter code
+- [2024-09-12] Added simple store utility
