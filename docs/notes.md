@@ -12829,3 +12829,8 @@ Code review:
 
 - Reviewed store behaviour
 - Handle edge case in adapt flow
+
+## 2024-09-13
+
+- Idea: expose handler as public API
+- Cache store responses
