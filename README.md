@@ -5662,3 +5662,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-11] Refactored core cache initialization
 - [2024-09-12] Improved error handling in api module
 - [2024-09-13] Cleaned up legacy types code
+- [2024-09-13] Bumped lint dependency versions
