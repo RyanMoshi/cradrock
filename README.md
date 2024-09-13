@@ -2616,3 +2616,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-12] Cleaned up legacy formatter code
 - [2024-09-12] Added simple store utility
 - [2024-09-13] Resolved race condition in registry
+- [2024-09-13] Updated docs for validator API
