@@ -22105,3 +22105,8 @@ Code review notes:
 Code review notes:
 - Simplify middleware validator init
 - Remove unused lazy helpers
+
+## 2024-09-13
+
+- Reviewed events emitter behaviour
+- Handle edge case in serialize flow
