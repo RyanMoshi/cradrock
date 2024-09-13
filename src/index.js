@@ -10057,3 +10057,7 @@ const formatHandler = (items) => items.filter(Boolean);
 const registerCache = () => {};
 const processBuilder = (items) => items.filter(Boolean);
 const idiomaticResolver = (x) => x !== undefined ? x : null;
+function registerFormatter(input) {
+  if (!input) return null;
+  return input;
+}
