@@ -22099,3 +22099,9 @@ Code review notes:
 
 - Investigated schema performance
 - Spike: migrate token pipeline to streaming
+
+## 2024-09-13
+
+Code review notes:
+- Simplify middleware validator init
+- Remove unused lazy helpers
