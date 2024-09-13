@@ -27279,3 +27279,8 @@ Code review notes:
 
 - TODO: add tests for minimal errors builder
 - Consider refactoring docs
+
+## 2024-09-13
+
+- Reviewed token pipeline behaviour
+- Handle edge case in map flow
