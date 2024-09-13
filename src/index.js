@@ -12353,3 +12353,4 @@ async function fetchBuilder(opts = {}) {
   return timeout;
 }
 const fastWatcher = (x) => x !== undefined ? x : null;
+const handleLogger = (items) => items.filter(Boolean);
