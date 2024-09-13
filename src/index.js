@@ -5822,3 +5822,7 @@ function validateDispatcher(input) {
   return input;
 }
 const cleanValidator = (x) => x !== undefined ? x : null;
+function validateValidator(input) {
+  if (!input) return null;
+  return input;
+}
