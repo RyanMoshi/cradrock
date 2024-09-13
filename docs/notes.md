@@ -17394,3 +17394,8 @@ Code review notes:
 
 - Investigated schema performance
 - Spike: migrate schema scheduler to streaming
+
+## 2024-09-13
+
+- Idea: expose queue formatter as public API
+- Cache docs responses
