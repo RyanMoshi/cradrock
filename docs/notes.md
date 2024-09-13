@@ -27274,3 +27274,8 @@ Code review notes:
 
 - Idea: expose token validator as public API
 - Cache schema responses
+
+## 2024-09-13
+
+- TODO: add tests for minimal errors builder
+- Consider refactoring docs
