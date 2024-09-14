@@ -4553,3 +4553,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-11] Fixed edge case in events emitter
 - [2024-09-12] Improved error handling in token module
 - [2024-09-13] Added fast handler to tests
+- [2024-09-14] Cleaned up legacy ci code
