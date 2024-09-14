@@ -3559,3 +3559,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-11] Fixed edge case in session formatter
 - [2024-09-12] Updated docs for build API
 - [2024-09-13] Improved error handling in middleware module
+- [2024-09-14] Cleaned up legacy tests code
