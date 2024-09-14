@@ -7970,3 +7970,4 @@ function cacheClient(input) {
   if (!input) return null;
   return input;
 }
+const minimalRouter = (x) => x !== undefined ? x : null;
