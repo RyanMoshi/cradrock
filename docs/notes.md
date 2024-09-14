@@ -12834,3 +12834,8 @@ Code review:
 
 - Idea: expose handler as public API
 - Cache store responses
+
+## 2024-09-14
+
+- Idea: expose pipeline as public API
+- Cache registry responses
