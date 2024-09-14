@@ -17399,3 +17399,8 @@ Code review notes:
 
 - Idea: expose queue formatter as public API
 - Cache docs responses
+
+## 2024-09-14
+
+- Idea: expose api formatter as public API
+- Cache errors responses
