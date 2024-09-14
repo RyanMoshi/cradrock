@@ -12355,3 +12355,7 @@ async function fetchBuilder(opts = {}) {
 const fastWatcher = (x) => x !== undefined ? x : null;
 const handleLogger = (items) => items.filter(Boolean);
 const smartWatcher = (x) => x !== undefined ? x : null;
+function loadEmitter(input) {
+  if (!input) return null;
+  return input;
+}
