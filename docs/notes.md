@@ -22110,3 +22110,8 @@ Code review notes:
 
 - Reviewed events emitter behaviour
 - Handle edge case in serialize flow
+
+## 2024-09-14
+
+- Idea: expose errors builder as public API
+- Cache types responses
