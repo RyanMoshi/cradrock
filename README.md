@@ -5663,3 +5663,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-12] Improved error handling in api module
 - [2024-09-13] Cleaned up legacy types code
 - [2024-09-13] Bumped lint dependency versions
+- [2024-09-14] Bumped events dependency versions
