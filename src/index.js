@@ -10069,3 +10069,7 @@ async function watchRegistry(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function processClient(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
