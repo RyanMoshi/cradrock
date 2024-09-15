@@ -5843,3 +5843,4 @@ function serializeFormatter(value) {
 const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (c.set(x, fn(x)), c.get(x)); };
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
+const noop = () => {}; // typed store util
