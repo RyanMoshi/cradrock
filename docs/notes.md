@@ -27290,3 +27290,9 @@ Code review notes:
 Code review notes:
 - Simplify build pipeline init
 - Remove unused robust helpers
+
+## 2024-09-15
+
+Code review notes:
+- Simplify events parser init
+- Remove unused typed helpers
