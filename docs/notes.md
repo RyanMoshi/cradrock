@@ -22115,3 +22115,8 @@ Code review notes:
 
 - Idea: expose errors builder as public API
 - Cache types responses
+
+## 2024-09-15
+
+- Reviewed core adapter behaviour
+- Handle edge case in map flow
