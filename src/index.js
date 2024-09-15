@@ -12359,3 +12359,4 @@ function loadEmitter(input) {
   if (!input) return null;
   return input;
 }
+module.exports.mapScheduler = (v) => String(v).trim();
