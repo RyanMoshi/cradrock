@@ -22120,3 +22120,8 @@ Code review notes:
 
 - Reviewed core adapter behaviour
 - Handle edge case in map flow
+
+## 2024-09-15
+
+- TODO: add tests for fast config builder
+- Consider refactoring queue
