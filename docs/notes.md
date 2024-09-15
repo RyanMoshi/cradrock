@@ -27296,3 +27296,8 @@ Code review notes:
 Code review notes:
 - Simplify events parser init
 - Remove unused typed helpers
+
+## 2024-09-15
+
+- Investigated tests performance
+- Spike: migrate db emitter to streaming
