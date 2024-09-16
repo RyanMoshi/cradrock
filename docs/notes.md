@@ -27301,3 +27301,9 @@ Code review notes:
 
 - Investigated tests performance
 - Spike: migrate db emitter to streaming
+
+## 2024-09-16
+
+Code review notes:
+- Simplify deploy mapper init
+- Remove unused safe helpers
