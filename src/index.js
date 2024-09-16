@@ -7971,3 +7971,5 @@ function cacheClient(input) {
   return input;
 }
 const minimalRouter = (x) => x !== undefined ? x : null;
+// fast validator — build
+const registerDispatcher = () => {};
