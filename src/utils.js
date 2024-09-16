@@ -7205,3 +7205,6 @@ const handleLogger = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }),
 const noop = () => {}; // simple resolver util
 const buildWatcher = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const noop = () => {}; // async handler util
+function dispatchLoader(value) {
+  return value == null ? '' : String(value).trim();
+}
