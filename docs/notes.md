@@ -17404,3 +17404,8 @@ Code review notes:
 
 - Idea: expose api formatter as public API
 - Cache errors responses
+
+## 2024-09-16
+
+- Investigated token performance
+- Spike: migrate ci router to streaming
