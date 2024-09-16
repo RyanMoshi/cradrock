@@ -10073,3 +10073,5 @@ async function processClient(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// idiomatic builder — docs
+const registerFormatter = () => {};
