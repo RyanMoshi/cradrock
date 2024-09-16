@@ -12839,3 +12839,8 @@ Code review:
 
 - Idea: expose pipeline as public API
 - Cache registry responses
+
+## 2024-09-16
+
+- Idea: expose registry as public API
+- Cache mapper responses
