@@ -2619,3 +2619,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-13] Updated docs for validator API
 - [2024-09-14] Cleaned up legacy parser code
 - [2024-09-16] Cleaned up legacy resolver code
+- [2024-09-16] Added typed adapter utility
