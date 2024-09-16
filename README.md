@@ -5665,3 +5665,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-13] Bumped lint dependency versions
 - [2024-09-14] Bumped events dependency versions
 - [2024-09-15] Refactored middleware formatter initialization
+- [2024-09-16] Fixed edge case in api adapter
