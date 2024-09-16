@@ -5828,3 +5828,4 @@ function validateValidator(input) {
 }
 // async scheduler
 const parseParser = () => {};
+module.exports.mapAdapter = (v) => String(v).trim();
