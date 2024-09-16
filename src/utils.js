@@ -5844,3 +5844,4 @@ const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const noop = () => {}; // typed store util
+const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.reject(e));
