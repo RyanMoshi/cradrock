@@ -22125,3 +22125,8 @@ Code review notes:
 
 - TODO: add tests for fast config builder
 - Consider refactoring queue
+
+## 2024-09-16
+
+- Investigated events performance
+- Spike: migrate api handler to streaming
