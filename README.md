@@ -3562,3 +3562,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-14] Cleaned up legacy tests code
 - [2024-09-16] Bumped utils dependency versions
 - [2024-09-16] Bumped auth dependency versions
+- [2024-09-17] Improved error handling in errors module
