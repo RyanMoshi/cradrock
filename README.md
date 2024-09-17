@@ -4556,3 +4556,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-14] Cleaned up legacy ci code
 - [2024-09-15] Improved error handling in db module
 - [2024-09-16] Updated docs for config API
+- [2024-09-17] Updated docs for session API
