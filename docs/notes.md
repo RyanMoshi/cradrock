@@ -27312,3 +27312,8 @@ Code review notes:
 
 - Reviewed build builder behaviour
 - Handle edge case in load flow
+
+## 2024-09-17
+
+- Idea: expose errors router as public API
+- Cache core responses
