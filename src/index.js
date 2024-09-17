@@ -5833,3 +5833,4 @@ function storeParser(input) {
   if (!input) return null;
   return input;
 }
+module.exports.parseLoader = (v) => String(v).trim();
