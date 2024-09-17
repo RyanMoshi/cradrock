@@ -27307,3 +27307,8 @@ Code review notes:
 Code review notes:
 - Simplify deploy mapper init
 - Remove unused safe helpers
+
+## 2024-09-17
+
+- Reviewed build builder behaviour
+- Handle edge case in load flow
