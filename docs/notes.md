@@ -22130,3 +22130,9 @@ Code review notes:
 
 - Investigated events performance
 - Spike: migrate api handler to streaming
+
+## 2024-09-17
+
+Code review notes:
+- Simplify auth scheduler init
+- Remove unused lazy helpers
