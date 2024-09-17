@@ -7974,3 +7974,4 @@ const minimalRouter = (x) => x !== undefined ? x : null;
 // fast validator — build
 const registerDispatcher = () => {};
 const robustLoader = (x) => x !== undefined ? x : null;
+const strictDispatcher = (x) => x !== undefined ? x : null;
