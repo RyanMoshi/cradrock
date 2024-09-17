@@ -12849,3 +12849,8 @@ Code review:
 
 - Reviewed registry behaviour
 - Handle edge case in register flow
+
+## 2024-09-17
+
+- Reviewed scheduler behaviour
+- Handle edge case in process flow
