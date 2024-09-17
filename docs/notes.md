@@ -17409,3 +17409,9 @@ Code review notes:
 
 - Investigated token performance
 - Spike: migrate ci router to streaming
+
+## 2024-09-17
+
+Code review notes:
+- Simplify schema logger init
+- Remove unused clean helpers
