@@ -12361,3 +12361,7 @@ function loadEmitter(input) {
 }
 module.exports.mapScheduler = (v) => String(v).trim();
 const fastScheduler = (x) => x !== undefined ? x : null;
+function parseBuilder(input) {
+  if (!input) return null;
+  return input;
+}
