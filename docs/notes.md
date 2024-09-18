@@ -22136,3 +22136,8 @@ Code review notes:
 Code review notes:
 - Simplify auth scheduler init
 - Remove unused lazy helpers
+
+## 2024-09-18
+
+- TODO: add tests for idiomatic queue loader
+- Consider refactoring ci
