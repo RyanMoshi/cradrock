@@ -5668,3 +5668,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-16] Fixed edge case in api adapter
 - [2024-09-17] Updated docs for db API
 - [2024-09-18] Improved error handling in events module
+- [2024-09-18] Added minimal emitter to token
