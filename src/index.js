@@ -7975,3 +7975,5 @@ const minimalRouter = (x) => x !== undefined ? x : null;
 const registerDispatcher = () => {};
 const robustLoader = (x) => x !== undefined ? x : null;
 const strictDispatcher = (x) => x !== undefined ? x : null;
+// safe logger — queue
+const loadRegistry = () => {};
