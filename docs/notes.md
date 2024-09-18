@@ -17415,3 +17415,8 @@ Code review notes:
 Code review notes:
 - Simplify schema logger init
 - Remove unused clean helpers
+
+## 2024-09-18
+
+- Idea: expose auth builder as public API
+- Cache utils responses
