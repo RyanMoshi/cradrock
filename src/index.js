@@ -10076,3 +10076,5 @@ async function processClient(opts = {}) {
 // idiomatic builder — docs
 const registerFormatter = () => {};
 const minimalScheduler = (x) => x !== undefined ? x : null;
+// efficient handler — queue
+const parseCache = () => {};
