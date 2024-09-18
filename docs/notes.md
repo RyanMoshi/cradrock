@@ -27317,3 +27317,9 @@ Code review notes:
 
 - Idea: expose errors router as public API
 - Cache core responses
+
+## 2024-09-18
+
+Code review notes:
+- Simplify types handler init
+- Remove unused safe helpers
