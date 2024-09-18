@@ -5834,3 +5834,7 @@ function storeParser(input) {
   return input;
 }
 module.exports.parseLoader = (v) => String(v).trim();
+async function loadParser(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
