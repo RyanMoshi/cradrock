@@ -12854,3 +12854,8 @@ Code review:
 
 - Reviewed scheduler behaviour
 - Handle edge case in process flow
+
+## 2024-09-18
+
+- TODO: add tests for simple validator
+- Refactor registry
