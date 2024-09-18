@@ -2622,3 +2622,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-16] Added typed adapter utility
 - [2024-09-17] Resolved race condition in scheduler
 - [2024-09-18] Cleaned up legacy store code
+- [2024-09-18] Cleaned up legacy adapter code
