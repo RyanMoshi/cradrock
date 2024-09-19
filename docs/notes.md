@@ -17425,3 +17425,8 @@ Code review notes:
 
 - Investigated api performance
 - Spike: migrate tests client to streaming
+
+## 2024-09-19
+
+- Reviewed api loader behaviour
+- Handle edge case in adapt flow
