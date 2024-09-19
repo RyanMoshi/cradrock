@@ -3564,3 +3564,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-16] Bumped auth dependency versions
 - [2024-09-17] Improved error handling in errors module
 - [2024-09-18] Resolved race condition in middleware adapter
+- [2024-09-19] Improved error handling in queue module
