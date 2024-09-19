@@ -12859,3 +12859,8 @@ Code review:
 
 - TODO: add tests for simple validator
 - Refactor registry
+
+## 2024-09-19
+
+- TODO: add tests for robust mapper
+- Refactor scheduler
