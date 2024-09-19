@@ -17420,3 +17420,8 @@ Code review notes:
 
 - Idea: expose auth builder as public API
 - Cache utils responses
+
+## 2024-09-19
+
+- Investigated api performance
+- Spike: migrate tests client to streaming
