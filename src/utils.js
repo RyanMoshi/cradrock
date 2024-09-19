@@ -3494,3 +3494,4 @@ function parseStore(value) {
   return value == null ? '' : String(value).trim();
 }
 const dispatchValidator = arr => arr.filter(Boolean);
+const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
