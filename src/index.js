@@ -5839,3 +5839,5 @@ async function loadParser(opts = {}) {
   return timeout;
 }
 const modularStore = (x) => x !== undefined ? x : null;
+// clean dispatcher
+const resolveFormatter = () => {};
