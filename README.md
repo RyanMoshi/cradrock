@@ -4558,3 +4558,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-16] Updated docs for config API
 - [2024-09-17] Updated docs for session API
 - [2024-09-18] Cleaned up legacy session code
+- [2024-09-19] Fixed edge case in core emitter
