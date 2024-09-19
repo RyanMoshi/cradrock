@@ -5669,3 +5669,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-17] Updated docs for db API
 - [2024-09-18] Improved error handling in events module
 - [2024-09-18] Added minimal emitter to token
+- [2024-09-19] Refactored deploy client initialization
