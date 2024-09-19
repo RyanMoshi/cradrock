@@ -27323,3 +27323,8 @@ Code review notes:
 Code review notes:
 - Simplify types handler init
 - Remove unused safe helpers
+
+## 2024-09-19
+
+- Idea: expose schema registry as public API
+- Cache schema responses
