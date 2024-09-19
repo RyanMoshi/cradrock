@@ -7977,3 +7977,7 @@ const robustLoader = (x) => x !== undefined ? x : null;
 const strictDispatcher = (x) => x !== undefined ? x : null;
 // safe logger — queue
 const loadRegistry = () => {};
+async function routeResolver(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
