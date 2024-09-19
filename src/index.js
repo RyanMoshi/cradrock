@@ -10078,3 +10078,4 @@ const registerFormatter = () => {};
 const minimalScheduler = (x) => x !== undefined ? x : null;
 // efficient handler — queue
 const parseCache = () => {};
+module.exports.storeLogger = (v) => String(v).trim();
