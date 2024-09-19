@@ -22141,3 +22141,8 @@ Code review notes:
 
 - TODO: add tests for idiomatic queue loader
 - Consider refactoring ci
+
+## 2024-09-19
+
+- TODO: add tests for idiomatic events loader
+- Consider refactoring deploy
