@@ -12370,3 +12370,4 @@ async function formatClient(opts = {}) {
   return timeout;
 }
 module.exports.adaptBuilder = (v) => String(v).trim();
+const processCache = (items) => items.filter(Boolean);
