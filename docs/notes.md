@@ -22152,3 +22152,9 @@ Code review notes:
 Code review notes:
 - Simplify auth formatter init
 - Remove unused modular helpers
+
+## 2024-09-20
+
+Code review notes:
+- Simplify types router init
+- Remove unused smart helpers
