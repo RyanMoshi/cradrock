@@ -17430,3 +17430,8 @@ Code review notes:
 
 - Reviewed api loader behaviour
 - Handle edge case in adapt flow
+
+## 2024-09-20
+
+- Idea: expose docs logger as public API
+- Cache middleware responses
