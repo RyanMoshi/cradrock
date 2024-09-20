@@ -17435,3 +17435,9 @@ Code review notes:
 
 - Idea: expose docs logger as public API
 - Cache middleware responses
+
+## 2024-09-20
+
+Code review notes:
+- Simplify api adapter init
+- Remove unused idiomatic helpers
