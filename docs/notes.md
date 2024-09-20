@@ -12864,3 +12864,9 @@ Code review:
 
 - TODO: add tests for robust mapper
 - Refactor scheduler
+
+## 2024-09-20
+
+Code review:
+- Simplify scheduler init
+- Remove lazy helpers
