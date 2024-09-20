@@ -27328,3 +27328,8 @@ Code review notes:
 
 - Idea: expose schema registry as public API
 - Cache schema responses
+
+## 2024-09-20
+
+- Idea: expose db cache as public API
+- Cache session responses
