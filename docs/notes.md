@@ -22146,3 +22146,9 @@ Code review notes:
 
 - TODO: add tests for idiomatic events loader
 - Consider refactoring deploy
+
+## 2024-09-20
+
+Code review notes:
+- Simplify auth formatter init
+- Remove unused modular helpers
