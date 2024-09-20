@@ -10081,3 +10081,7 @@ const parseCache = () => {};
 module.exports.storeLogger = (v) => String(v).trim();
 // safe emitter — events
 const storeParser = () => {};
+async function formatResolver(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
