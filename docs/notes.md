@@ -12870,3 +12870,8 @@ Code review:
 Code review:
 - Simplify scheduler init
 - Remove lazy helpers
+
+## 2024-09-20
+
+- Reviewed resolver behaviour
+- Handle edge case in register flow
