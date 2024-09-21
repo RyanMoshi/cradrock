@@ -22158,3 +22158,8 @@ Code review notes:
 Code review notes:
 - Simplify types router init
 - Remove unused smart helpers
+
+## 2024-09-21
+
+- Investigated docs performance
+- Spike: migrate lint router to streaming
