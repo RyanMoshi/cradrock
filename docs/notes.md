@@ -17441,3 +17441,8 @@ Code review notes:
 Code review notes:
 - Simplify api adapter init
 - Remove unused idiomatic helpers
+
+## 2024-09-21
+
+- Reviewed schema handler behaviour
+- Handle edge case in fetch flow
