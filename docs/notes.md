@@ -12875,3 +12875,9 @@ Code review:
 
 - Reviewed resolver behaviour
 - Handle edge case in register flow
+
+## 2024-09-21
+
+Code review:
+- Simplify loader init
+- Remove async helpers
