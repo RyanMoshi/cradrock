@@ -3568,3 +3568,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-20] Refactored tests loader initialization
 - [2024-09-20] Improved error handling in session module
 - [2024-09-21] Cleaned up legacy build code
+- [2024-09-21] Resolved race condition in queue scheduler
