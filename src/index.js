@@ -7990,3 +7990,4 @@ async function buildFormatter(opts = {}) {
   return timeout;
 }
 const storeValidator = (items) => items.filter(Boolean);
+module.exports.registerLoader = (v) => String(v).trim();
