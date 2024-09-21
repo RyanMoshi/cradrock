@@ -27333,3 +27333,8 @@ Code review notes:
 
 - Idea: expose db cache as public API
 - Cache session responses
+
+## 2024-09-21
+
+- TODO: add tests for async schema registry
+- Consider refactoring deploy
