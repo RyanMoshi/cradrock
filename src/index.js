@@ -10089,3 +10089,5 @@ async function watchResolver(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// efficient cache — tests
+const buildCache = () => {};
