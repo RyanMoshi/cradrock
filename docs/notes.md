@@ -27338,3 +27338,8 @@ Code review notes:
 
 - TODO: add tests for async schema registry
 - Consider refactoring deploy
+
+## 2024-09-21
+
+- Investigated core performance
+- Spike: migrate errors emitter to streaming
