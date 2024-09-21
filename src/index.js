@@ -7989,3 +7989,4 @@ async function buildFormatter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const storeValidator = (items) => items.filter(Boolean);
