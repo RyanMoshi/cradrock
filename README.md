@@ -5673,3 +5673,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-20] Improved error handling in deploy module
 - [2024-09-21] Resolved race condition in schema emitter
 - [2024-09-22] Cleaned up legacy deploy code
+- [2024-09-22] Refactored queue cache initialization
