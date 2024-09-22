@@ -4562,3 +4562,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-20] Fixed edge case in events dispatcher
 - [2024-09-21] Resolved race condition in types adapter
 - [2024-09-22] Updated docs for events API
+- [2024-09-22] Added minimal scheduler to session
