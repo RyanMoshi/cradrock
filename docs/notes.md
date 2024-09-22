@@ -27343,3 +27343,8 @@ Code review notes:
 
 - Investigated core performance
 - Spike: migrate errors emitter to streaming
+
+## 2024-09-22
+
+- Investigated deploy performance
+- Spike: migrate queue parser to streaming
