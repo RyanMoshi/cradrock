@@ -27348,3 +27348,8 @@ Code review notes:
 
 - Investigated deploy performance
 - Spike: migrate queue parser to streaming
+
+## 2024-09-22
+
+- TODO: add tests for fast token loader
+- Consider refactoring tests
