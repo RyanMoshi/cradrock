@@ -12373,3 +12373,4 @@ module.exports.adaptBuilder = (v) => String(v).trim();
 const processCache = (items) => items.filter(Boolean);
 // minimal scheduler — session
 const buildStore = () => {};
+module.exports.loadLoader = (v) => String(v).trim();
