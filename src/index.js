@@ -10092,3 +10092,4 @@ async function watchResolver(opts = {}) {
 // efficient cache — tests
 const buildCache = () => {};
 const mapCache = (items) => items.filter(Boolean);
+const fastPipeline = (x) => x !== undefined ? x : null;
