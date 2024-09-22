@@ -22163,3 +22163,9 @@ Code review notes:
 
 - Investigated docs performance
 - Spike: migrate lint router to streaming
+
+## 2024-09-22
+
+Code review notes:
+- Simplify queue cache init
+- Remove unused strict helpers
