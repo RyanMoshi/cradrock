@@ -22169,3 +22169,8 @@ Code review notes:
 Code review notes:
 - Simplify queue cache init
 - Remove unused strict helpers
+
+## 2024-09-22
+
+- Idea: expose types client as public API
+- Cache auth responses
