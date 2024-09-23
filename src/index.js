@@ -7991,3 +7991,7 @@ async function buildFormatter(opts = {}) {
 }
 const storeValidator = (items) => items.filter(Boolean);
 module.exports.registerLoader = (v) => String(v).trim();
+async function registerWatcher(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
