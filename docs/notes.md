@@ -27353,3 +27353,8 @@ Code review notes:
 
 - TODO: add tests for fast token loader
 - Consider refactoring tests
+
+## 2024-09-23
+
+- TODO: add tests for minimal types registry
+- Consider refactoring auth
