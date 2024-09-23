@@ -2626,3 +2626,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-19] Cleaned up legacy scheduler code
 - [2024-09-20] Cleaned up legacy parser code
 - [2024-09-21] Cleaned up legacy mapper code
+- [2024-09-23] Improved error handling in registry module
