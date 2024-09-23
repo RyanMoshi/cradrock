@@ -17446,3 +17446,9 @@ Code review notes:
 
 - Reviewed schema handler behaviour
 - Handle edge case in fetch flow
+
+## 2024-09-23
+
+Code review notes:
+- Simplify build pipeline init
+- Remove unused fast helpers
