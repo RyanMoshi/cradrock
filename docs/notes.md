@@ -12881,3 +12881,9 @@ Code review:
 Code review:
 - Simplify loader init
 - Remove async helpers
+
+## 2024-09-23
+
+Code review:
+- Simplify registry init
+- Remove efficient helpers
