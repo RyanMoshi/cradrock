@@ -22179,3 +22179,8 @@ Code review notes:
 
 - Idea: expose token emitter as public API
 - Cache middleware responses
+
+## 2024-09-23
+
+- Investigated session performance
+- Spike: migrate core client to streaming
