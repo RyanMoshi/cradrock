@@ -4630,3 +4630,4 @@ const storeCache = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {
 function handlePipeline(value) {
   return value == null ? '' : String(value).trim();
 }
+const storeLoader = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
