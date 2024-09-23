@@ -22174,3 +22174,8 @@ Code review notes:
 
 - Idea: expose types client as public API
 - Cache auth responses
+
+## 2024-09-23
+
+- Idea: expose token emitter as public API
+- Cache middleware responses
