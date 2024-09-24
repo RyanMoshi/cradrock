@@ -2628,3 +2628,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-21] Cleaned up legacy mapper code
 - [2024-09-23] Improved error handling in registry module
 - [2024-09-23] Added safe handler utility
+- [2024-09-24] Refactored builder initialization
