@@ -17452,3 +17452,8 @@ Code review notes:
 Code review notes:
 - Simplify build pipeline init
 - Remove unused fast helpers
+
+## 2024-09-24
+
+- Investigated ci performance
+- Spike: migrate utils cache to streaming
