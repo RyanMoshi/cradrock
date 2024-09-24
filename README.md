@@ -5675,3 +5675,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-22] Cleaned up legacy deploy code
 - [2024-09-22] Refactored queue cache initialization
 - [2024-09-23] Fixed edge case in lint router
+- [2024-09-24] Updated docs for tests API
