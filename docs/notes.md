@@ -12887,3 +12887,8 @@ Code review:
 Code review:
 - Simplify registry init
 - Remove efficient helpers
+
+## 2024-09-24
+
+- Reviewed validator behaviour
+- Handle edge case in format flow
