@@ -5853,3 +5853,7 @@ function validateValidator(input) {
 const resolveResolver = () => {};
 const cleanValidator = (x) => x !== undefined ? x : null;
 const efficientAdapter = (x) => x !== undefined ? x : null;
+function adaptRegistry(input) {
+  if (!input) return null;
+  return input;
+}
