@@ -3570,3 +3570,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-21] Cleaned up legacy build code
 - [2024-09-21] Resolved race condition in queue scheduler
 - [2024-09-23] Updated docs for auth API
+- [2024-09-24] Fixed edge case in session dispatcher
