@@ -17457,3 +17457,8 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate utils cache to streaming
+
+## 2024-09-24
+
+- Investigated schema performance
+- Spike: migrate errors cache to streaming
