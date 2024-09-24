@@ -5856,3 +5856,6 @@ const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const handleParser = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+function storeAdapter(value) {
+  return value == null ? '' : String(value).trim();
+}
