@@ -22184,3 +22184,8 @@ Code review notes:
 
 - Investigated session performance
 - Spike: migrate core client to streaming
+
+## 2024-09-24
+
+- Idea: expose ci loader as public API
+- Cache utils responses
