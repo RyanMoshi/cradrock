@@ -27358,3 +27358,8 @@ Code review notes:
 
 - TODO: add tests for minimal types registry
 - Consider refactoring auth
+
+## 2024-09-24
+
+- Idea: expose ci handler as public API
+- Cache queue responses
