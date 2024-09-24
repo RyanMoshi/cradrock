@@ -27363,3 +27363,8 @@ Code review notes:
 
 - Idea: expose ci handler as public API
 - Cache queue responses
+
+## 2024-09-24
+
+- Reviewed schema registry behaviour
+- Handle edge case in adapt flow
