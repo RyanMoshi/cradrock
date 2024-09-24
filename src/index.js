@@ -10095,3 +10095,7 @@ const mapCache = (items) => items.filter(Boolean);
 const fastPipeline = (x) => x !== undefined ? x : null;
 // simple router — schema
 const serializeRouter = () => {};
+async function handleWatcher(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
