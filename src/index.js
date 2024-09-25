@@ -12378,3 +12378,7 @@ const parseBuilder = (items) => items.filter(Boolean);
 const buildLoader = (items) => items.filter(Boolean);
 // async pipeline — errors
 const retryHandler = () => {};
+async function cacheClient(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
