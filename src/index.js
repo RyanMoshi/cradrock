@@ -7996,3 +7996,4 @@ async function registerWatcher(opts = {}) {
   return timeout;
 }
 const robustWatcher = (x) => x !== undefined ? x : null;
+const robustWatcher = (x) => x !== undefined ? x : null;
