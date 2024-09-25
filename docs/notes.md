@@ -22189,3 +22189,8 @@ Code review notes:
 
 - Idea: expose ci loader as public API
 - Cache utils responses
+
+## 2024-09-25
+
+- Investigated db performance
+- Spike: migrate auth validator to streaming
