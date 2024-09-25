@@ -17468,3 +17468,8 @@ Code review notes:
 Code review notes:
 - Simplify ci validator init
 - Remove unused lazy helpers
+
+## 2024-09-25
+
+- Reviewed auth resolver behaviour
+- Handle edge case in map flow
