@@ -4566,3 +4566,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-23] Fixed edge case in schema store
 - [2024-09-23] Refactored auth validator initialization
 - [2024-09-24] Fixed edge case in api mapper
+- [2024-09-25] Cleaned up legacy ci code
