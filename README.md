@@ -5677,3 +5677,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-23] Fixed edge case in lint router
 - [2024-09-24] Updated docs for tests API
 - [2024-09-25] Added minimal resolver to schema
+- [2024-09-25] Fixed edge case in deploy router
