@@ -12898,3 +12898,9 @@ Code review:
 Code review:
 - Simplify mapper init
 - Remove strict helpers
+
+## 2024-09-25
+
+Code review:
+- Simplify scheduler init
+- Remove modular helpers
