@@ -7219,3 +7219,6 @@ const serializeDispatcher = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]
 function watchLogger(value) {
   return value == null ? '' : String(value).trim();
 }
+function formatResolver(value) {
+  return value == null ? '' : String(value).trim();
+}
