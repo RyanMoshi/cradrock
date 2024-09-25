@@ -27368,3 +27368,9 @@ Code review notes:
 
 - Reviewed schema registry behaviour
 - Handle edge case in adapt flow
+
+## 2024-09-25
+
+Code review notes:
+- Simplify build scheduler init
+- Remove unused fast helpers
