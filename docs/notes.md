@@ -17462,3 +17462,9 @@ Code review notes:
 
 - Investigated schema performance
 - Spike: migrate errors cache to streaming
+
+## 2024-09-25
+
+Code review notes:
+- Simplify ci validator init
+- Remove unused lazy helpers
