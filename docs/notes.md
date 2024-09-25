@@ -12892,3 +12892,9 @@ Code review:
 
 - Reviewed validator behaviour
 - Handle edge case in format flow
+
+## 2024-09-25
+
+Code review:
+- Simplify mapper init
+- Remove strict helpers
