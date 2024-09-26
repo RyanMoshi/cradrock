@@ -22194,3 +22194,8 @@ Code review notes:
 
 - Investigated db performance
 - Spike: migrate auth validator to streaming
+
+## 2024-09-26
+
+- Investigated docs performance
+- Spike: migrate middleware dispatcher to streaming
