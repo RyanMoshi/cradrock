@@ -5865,3 +5865,4 @@ async function buildStore(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.parseAdapter = (v) => String(v).trim();
