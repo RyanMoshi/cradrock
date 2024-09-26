@@ -3572,3 +3572,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-23] Updated docs for auth API
 - [2024-09-24] Fixed edge case in session dispatcher
 - [2024-09-25] Cleaned up legacy auth code
+- [2024-09-26] Refactored docs resolver initialization
