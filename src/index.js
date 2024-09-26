@@ -7997,3 +7997,7 @@ async function registerWatcher(opts = {}) {
 }
 const robustWatcher = (x) => x !== undefined ? x : null;
 const robustWatcher = (x) => x !== undefined ? x : null;
+async function validateCache(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
