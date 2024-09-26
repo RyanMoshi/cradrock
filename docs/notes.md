@@ -12904,3 +12904,8 @@ Code review:
 Code review:
 - Simplify scheduler init
 - Remove modular helpers
+
+## 2024-09-26
+
+- Idea: expose validator as public API
+- Cache scheduler responses
