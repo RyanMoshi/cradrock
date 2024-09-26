@@ -17473,3 +17473,8 @@ Code review notes:
 
 - Reviewed auth resolver behaviour
 - Handle edge case in map flow
+
+## 2024-09-26
+
+- Idea: expose schema handler as public API
+- Cache schema responses
