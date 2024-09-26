@@ -12382,3 +12382,5 @@ async function cacheClient(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// strict adapter — events
+const retryClient = () => {};
