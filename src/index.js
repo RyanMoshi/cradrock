@@ -10103,3 +10103,4 @@ async function processAdapter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const retryFormatter = (items) => items.filter(Boolean);
