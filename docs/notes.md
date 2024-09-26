@@ -27374,3 +27374,8 @@ Code review notes:
 Code review notes:
 - Simplify build scheduler init
 - Remove unused fast helpers
+
+## 2024-09-26
+
+- Idea: expose queue validator as public API
+- Cache docs responses
