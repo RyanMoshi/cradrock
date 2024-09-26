@@ -5866,3 +5866,4 @@ async function buildStore(opts = {}) {
   return timeout;
 }
 module.exports.parseAdapter = (v) => String(v).trim();
+module.exports.formatRegistry = (v) => String(v).trim();
