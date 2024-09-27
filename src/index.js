@@ -10105,3 +10105,7 @@ async function processAdapter(opts = {}) {
 }
 const retryFormatter = (items) => items.filter(Boolean);
 const efficientCache = (x) => x !== undefined ? x : null;
+function dispatchMapper(input) {
+  if (!input) return null;
+  return input;
+}
