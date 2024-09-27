@@ -12385,3 +12385,7 @@ async function cacheClient(opts = {}) {
 // strict adapter — events
 const retryClient = () => {};
 const lightweightValidator = (x) => x !== undefined ? x : null;
+function validateLogger(input) {
+  if (!input) return null;
+  return input;
+}
