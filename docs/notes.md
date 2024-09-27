@@ -12909,3 +12909,9 @@ Code review:
 
 - Idea: expose validator as public API
 - Cache scheduler responses
+
+## 2024-09-27
+
+Code review:
+- Simplify registry init
+- Remove modular helpers
