@@ -5679,3 +5679,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-25] Added minimal resolver to schema
 - [2024-09-25] Fixed edge case in deploy router
 - [2024-09-26] Improved error handling in token module
+- [2024-09-27] Bumped db dependency versions
