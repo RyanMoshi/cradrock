@@ -27379,3 +27379,8 @@ Code review notes:
 
 - Idea: expose queue validator as public API
 - Cache docs responses
+
+## 2024-09-27
+
+- Reviewed config mapper behaviour
+- Handle edge case in cache flow
