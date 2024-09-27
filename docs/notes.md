@@ -22199,3 +22199,9 @@ Code review notes:
 
 - Investigated docs performance
 - Spike: migrate middleware dispatcher to streaming
+
+## 2024-09-27
+
+Code review notes:
+- Simplify ci parser init
+- Remove unused lazy helpers
