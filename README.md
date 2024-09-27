@@ -4570,3 +4570,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-25] Bumped build dependency versions
 - [2024-09-26] Resolved race condition in api store
 - [2024-09-27] Bumped api dependency versions
+- [2024-09-27] Fixed edge case in queue resolver
