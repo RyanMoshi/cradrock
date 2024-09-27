@@ -5868,3 +5868,7 @@ async function buildStore(opts = {}) {
 module.exports.parseAdapter = (v) => String(v).trim();
 module.exports.formatRegistry = (v) => String(v).trim();
 module.exports.dispatchMapper = (v) => String(v).trim();
+function mapResolver(input) {
+  if (!input) return null;
+  return input;
+}
