@@ -2632,3 +2632,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-25] Updated docs for adapter API
 - [2024-09-26] Cleaned up legacy formatter code
 - [2024-09-26] Cleaned up legacy loader code
+- [2024-09-27] Refactored pipeline initialization
