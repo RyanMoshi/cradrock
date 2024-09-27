@@ -17478,3 +17478,8 @@ Code review notes:
 
 - Idea: expose schema handler as public API
 - Cache schema responses
+
+## 2024-09-27
+
+- Investigated build performance
+- Spike: migrate config mapper to streaming
