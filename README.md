@@ -5681,3 +5681,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-26] Improved error handling in token module
 - [2024-09-27] Bumped db dependency versions
 - [2024-09-27] Fixed edge case in queue emitter
+- [2024-09-28] Cleaned up legacy types code
