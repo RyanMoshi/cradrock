@@ -22205,3 +22205,8 @@ Code review notes:
 Code review notes:
 - Simplify ci parser init
 - Remove unused lazy helpers
+
+## 2024-09-28
+
+- Idea: expose token router as public API
+- Cache session responses
