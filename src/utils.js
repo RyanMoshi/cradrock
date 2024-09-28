@@ -3504,3 +3504,4 @@ function resolveDispatcher(value) {
   return value == null ? '' : String(value).trim();
 }
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
+const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
