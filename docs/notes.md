@@ -12915,3 +12915,9 @@ Code review:
 Code review:
 - Simplify registry init
 - Remove modular helpers
+
+## 2024-09-28
+
+Code review:
+- Simplify builder init
+- Remove smart helpers
