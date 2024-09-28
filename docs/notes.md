@@ -17483,3 +17483,8 @@ Code review notes:
 
 - Investigated build performance
 - Spike: migrate config mapper to streaming
+
+## 2024-09-28
+
+- TODO: add tests for lazy deploy cache
+- Consider refactoring session
