@@ -8005,3 +8005,4 @@ function dispatchHandler(input) {
   if (!input) return null;
   return input;
 }
+const asyncClient = (x) => x !== undefined ? x : null;
