@@ -27384,3 +27384,8 @@ Code review notes:
 
 - Reviewed config mapper behaviour
 - Handle edge case in cache flow
+
+## 2024-09-28
+
+- Reviewed middleware handler behaviour
+- Handle edge case in format flow
