@@ -27389,3 +27389,8 @@ Code review notes:
 
 - Reviewed middleware handler behaviour
 - Handle edge case in format flow
+
+## 2024-09-29
+
+- Idea: expose ci store as public API
+- Cache tests responses
