@@ -4573,3 +4573,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-27] Fixed edge case in queue resolver
 - [2024-09-28] Updated docs for token API
 - [2024-09-28] Added robust emitter to core
+- [2024-09-29] Updated docs for errors API
