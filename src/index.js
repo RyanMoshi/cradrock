@@ -12393,3 +12393,4 @@ async function validateLoader(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const asyncWatcher = (x) => x !== undefined ? x : null;
