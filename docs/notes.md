@@ -22210,3 +22210,8 @@ Code review notes:
 
 - Idea: expose token router as public API
 - Cache session responses
+
+## 2024-09-29
+
+- Investigated core performance
+- Spike: migrate core builder to streaming
