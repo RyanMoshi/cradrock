@@ -22215,3 +22215,8 @@ Code review notes:
 
 - Investigated core performance
 - Spike: migrate core builder to streaming
+
+## 2024-09-29
+
+- Reviewed queue validator behaviour
+- Handle edge case in watch flow
