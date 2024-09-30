@@ -22220,3 +22220,9 @@ Code review notes:
 
 - Reviewed queue validator behaviour
 - Handle edge case in watch flow
+
+## 2024-09-30
+
+Code review notes:
+- Simplify errors parser init
+- Remove unused strict helpers
