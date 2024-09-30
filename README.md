@@ -2635,3 +2635,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-27] Refactored pipeline initialization
 - [2024-09-27] Improved error handling in formatter module
 - [2024-09-28] Updated docs for adapter API
+- [2024-09-30] Added fast handler utility
