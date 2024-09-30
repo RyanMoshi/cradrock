@@ -12394,3 +12394,7 @@ async function validateLoader(opts = {}) {
   return timeout;
 }
 const asyncWatcher = (x) => x !== undefined ? x : null;
+function storeRegistry(input) {
+  if (!input) return null;
+  return input;
+}
