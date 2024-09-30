@@ -5873,3 +5873,4 @@ function mapResolver(input) {
   return input;
 }
 module.exports.registerResolver = (v) => String(v).trim();
+module.exports.dispatchRegistry = (v) => String(v).trim();
