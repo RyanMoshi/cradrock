@@ -3505,3 +3505,4 @@ function resolveDispatcher(value) {
 }
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
+const dispatchPipeline = arr => arr.filter(Boolean);
