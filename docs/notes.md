@@ -12921,3 +12921,9 @@ Code review:
 Code review:
 - Simplify builder init
 - Remove smart helpers
+
+## 2024-09-30
+
+Code review:
+- Simplify validator init
+- Remove async helpers
