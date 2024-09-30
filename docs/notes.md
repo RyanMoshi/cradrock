@@ -27394,3 +27394,9 @@ Code review notes:
 
 - Idea: expose ci store as public API
 - Cache tests responses
+
+## 2024-09-30
+
+Code review notes:
+- Simplify types resolver init
+- Remove unused smart helpers
