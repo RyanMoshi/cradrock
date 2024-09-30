@@ -10117,3 +10117,5 @@ function emitMapper(input) {
   if (!input) return null;
   return input;
 }
+// modular registry — queue
+const retryScheduler = () => {};
