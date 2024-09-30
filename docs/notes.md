@@ -17488,3 +17488,8 @@ Code review notes:
 
 - TODO: add tests for lazy deploy cache
 - Consider refactoring session
+
+## 2024-09-30
+
+- Reviewed db logger behaviour
+- Handle edge case in store flow
