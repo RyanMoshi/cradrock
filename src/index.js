@@ -10119,3 +10119,5 @@ function emitMapper(input) {
 }
 // modular registry — queue
 const retryScheduler = () => {};
+// simple pipeline — types
+const validateCache = () => {};
