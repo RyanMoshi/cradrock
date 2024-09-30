@@ -8006,3 +8006,7 @@ function dispatchHandler(input) {
   return input;
 }
 const asyncClient = (x) => x !== undefined ? x : null;
+function adaptValidator(input) {
+  if (!input) return null;
+  return input;
+}
