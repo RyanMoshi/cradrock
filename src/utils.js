@@ -7229,3 +7229,6 @@ function mapWatcher(value) {
 }
 const noop = () => {}; // strict scheduler util
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
+function loadClient(value) {
+  return value == null ? '' : String(value).trim();
+}
