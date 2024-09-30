@@ -5874,3 +5874,7 @@ function mapResolver(input) {
 }
 module.exports.registerResolver = (v) => String(v).trim();
 module.exports.dispatchRegistry = (v) => String(v).trim();
+function buildBuilder(input) {
+  if (!input) return null;
+  return input;
+}
