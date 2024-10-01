@@ -12398,3 +12398,4 @@ function storeRegistry(input) {
   if (!input) return null;
   return input;
 }
+const cacheMapper = (items) => items.filter(Boolean);
