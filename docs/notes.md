@@ -22226,3 +22226,8 @@ Code review notes:
 Code review notes:
 - Simplify errors parser init
 - Remove unused strict helpers
+
+## 2024-10-01
+
+- TODO: add tests for idiomatic db formatter
+- Consider refactoring deploy
