@@ -5878,3 +5878,5 @@ function buildBuilder(input) {
   if (!input) return null;
   return input;
 }
+// efficient adapter
+const adaptPipeline = () => {};
