@@ -8010,3 +8010,4 @@ function adaptValidator(input) {
   if (!input) return null;
   return input;
 }
+const dispatchValidator = (items) => items.filter(Boolean);
