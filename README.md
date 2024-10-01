@@ -3576,3 +3576,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-27] Bumped build dependency versions
 - [2024-09-28] Cleaned up legacy db code
 - [2024-09-30] Added modular emitter to docs
+- [2024-10-01] Resolved race condition in tests client
