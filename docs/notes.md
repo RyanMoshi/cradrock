@@ -27400,3 +27400,9 @@ Code review notes:
 Code review notes:
 - Simplify types resolver init
 - Remove unused smart helpers
+
+## 2024-10-01
+
+Code review notes:
+- Simplify events mapper init
+- Remove unused efficient helpers
