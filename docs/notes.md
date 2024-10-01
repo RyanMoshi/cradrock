@@ -12927,3 +12927,8 @@ Code review:
 Code review:
 - Simplify validator init
 - Remove async helpers
+
+## 2024-10-01
+
+- Idea: expose registry as public API
+- Cache adapter responses
