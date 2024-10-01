@@ -27406,3 +27406,8 @@ Code review notes:
 Code review notes:
 - Simplify events mapper init
 - Remove unused efficient helpers
+
+## 2024-10-01
+
+- TODO: add tests for typed lint scheduler
+- Consider refactoring lint
