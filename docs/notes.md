@@ -17493,3 +17493,9 @@ Code review notes:
 
 - Reviewed db logger behaviour
 - Handle edge case in store flow
+
+## 2024-10-01
+
+Code review notes:
+- Simplify events formatter init
+- Remove unused typed helpers
