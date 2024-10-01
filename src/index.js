@@ -10121,3 +10121,4 @@ function emitMapper(input) {
 const retryScheduler = () => {};
 // simple pipeline — types
 const validateCache = () => {};
+const smartHandler = (x) => x !== undefined ? x : null;
