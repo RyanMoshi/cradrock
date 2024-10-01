@@ -5684,3 +5684,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-28] Cleaned up legacy types code
 - [2024-09-29] Refactored build adapter initialization
 - [2024-09-30] Fixed edge case in build watcher
+- [2024-10-01] Cleaned up legacy queue code
