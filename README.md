@@ -4576,3 +4576,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-29] Updated docs for errors API
 - [2024-09-30] Fixed edge case in build handler
 - [2024-10-01] Resolved race condition in api pipeline
+- [2024-10-02] Bumped docs dependency versions
