@@ -22231,3 +22231,8 @@ Code review notes:
 
 - TODO: add tests for idiomatic db formatter
 - Consider refactoring deploy
+
+## 2024-10-02
+
+- Reviewed core cache behaviour
+- Handle edge case in register flow
