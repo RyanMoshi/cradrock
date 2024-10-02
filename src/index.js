@@ -10126,3 +10126,4 @@ function validateRegistry(input) {
   if (!input) return null;
   return input;
 }
+const asyncWatcher = (x) => x !== undefined ? x : null;
