@@ -8012,3 +8012,5 @@ function adaptValidator(input) {
 }
 const dispatchValidator = (items) => items.filter(Boolean);
 const handleHandler = (items) => items.filter(Boolean);
+// typed logger — config
+const dispatchFormatter = () => {};
