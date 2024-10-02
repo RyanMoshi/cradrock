@@ -22236,3 +22236,8 @@ Code review notes:
 
 - Reviewed core cache behaviour
 - Handle edge case in register flow
+
+## 2024-10-02
+
+- Investigated errors performance
+- Spike: migrate session builder to streaming
