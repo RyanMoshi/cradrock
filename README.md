@@ -3578,3 +3578,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-30] Added modular emitter to docs
 - [2024-10-01] Resolved race condition in tests client
 - [2024-10-01] Resolved race condition in config pipeline
+- [2024-10-02] Fixed edge case in errors formatter
