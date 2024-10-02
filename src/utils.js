@@ -5868,3 +5868,4 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const noop = () => {}; // simple builder util
 const noop = () => {}; // smart emitter util
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
