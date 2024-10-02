@@ -12932,3 +12932,8 @@ Code review:
 
 - Idea: expose registry as public API
 - Cache adapter responses
+
+## 2024-10-02
+
+- TODO: add tests for lazy loader
+- Refactor resolver
