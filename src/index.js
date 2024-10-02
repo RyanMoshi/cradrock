@@ -10122,3 +10122,7 @@ const retryScheduler = () => {};
 // simple pipeline — types
 const validateCache = () => {};
 const smartHandler = (x) => x !== undefined ? x : null;
+function validateRegistry(input) {
+  if (!input) return null;
+  return input;
+}
