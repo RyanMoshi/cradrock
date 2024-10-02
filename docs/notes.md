@@ -12937,3 +12937,8 @@ Code review:
 
 - TODO: add tests for lazy loader
 - Refactor resolver
+
+## 2024-10-02
+
+- Reviewed handler behaviour
+- Handle edge case in process flow
