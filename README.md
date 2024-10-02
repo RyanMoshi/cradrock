@@ -2637,3 +2637,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-28] Updated docs for adapter API
 - [2024-09-30] Added fast handler utility
 - [2024-10-01] Fixed edge case in mapper pipeline
+- [2024-10-02] Added robust registry utility
