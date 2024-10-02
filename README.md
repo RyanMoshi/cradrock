@@ -5686,3 +5686,4 @@ Legendary, Legends. Builders, Build
 - [2024-09-30] Fixed edge case in build watcher
 - [2024-10-01] Cleaned up legacy queue code
 - [2024-10-02] Cleaned up legacy api code
+- [2024-10-02] Bumped queue dependency versions
