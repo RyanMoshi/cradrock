@@ -27411,3 +27411,8 @@ Code review notes:
 
 - TODO: add tests for typed lint scheduler
 - Consider refactoring lint
+
+## 2024-10-02
+
+- Investigated lint performance
+- Spike: migrate auth builder to streaming
