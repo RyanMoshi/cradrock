@@ -5880,3 +5880,4 @@ function buildBuilder(input) {
 }
 // efficient adapter
 const adaptPipeline = () => {};
+module.exports.formatLoader = (v) => String(v).trim();
