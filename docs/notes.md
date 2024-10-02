@@ -17499,3 +17499,9 @@ Code review notes:
 Code review notes:
 - Simplify events formatter init
 - Remove unused typed helpers
+
+## 2024-10-02
+
+Code review notes:
+- Simplify api resolver init
+- Remove unused efficient helpers
