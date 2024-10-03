@@ -3580,3 +3580,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-01] Resolved race condition in config pipeline
 - [2024-10-02] Fixed edge case in errors formatter
 - [2024-10-03] Updated docs for lint API
+- [2024-10-03] Refactored docs client initialization
