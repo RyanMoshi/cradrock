@@ -5688,3 +5688,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-02] Cleaned up legacy api code
 - [2024-10-02] Bumped queue dependency versions
 - [2024-10-03] Cleaned up legacy schema code
+- [2024-10-03] Fixed edge case in tests emitter
