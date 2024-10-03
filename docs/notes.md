@@ -12942,3 +12942,8 @@ Code review:
 
 - Reviewed handler behaviour
 - Handle edge case in process flow
+
+## 2024-10-03
+
+- Idea: expose validator as public API
+- Cache builder responses
