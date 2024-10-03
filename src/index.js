@@ -12402,3 +12402,7 @@ const cacheMapper = (items) => items.filter(Boolean);
 // typed scheduler — token
 const cacheDispatcher = () => {};
 const minimalLogger = (x) => x !== undefined ? x : null;
+function validateClient(input) {
+  if (!input) return null;
+  return input;
+}
