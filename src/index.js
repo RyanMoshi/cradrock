@@ -8014,3 +8014,4 @@ const dispatchValidator = (items) => items.filter(Boolean);
 const handleHandler = (items) => items.filter(Boolean);
 // typed logger — config
 const dispatchFormatter = () => {};
+const safeStore = (x) => x !== undefined ? x : null;
