@@ -10127,3 +10127,7 @@ function validateRegistry(input) {
   return input;
 }
 const asyncWatcher = (x) => x !== undefined ? x : null;
+async function storeClient(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
