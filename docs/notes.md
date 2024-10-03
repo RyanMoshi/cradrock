@@ -27422,3 +27422,8 @@ Code review notes:
 Code review notes:
 - Simplify token store init
 - Remove unused robust helpers
+
+## 2024-10-03
+
+- TODO: add tests for simple auth builder
+- Consider refactoring build
