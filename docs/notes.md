@@ -17510,3 +17510,8 @@ Code review notes:
 
 - TODO: add tests for efficient docs pipeline
 - Consider refactoring deploy
+
+## 2024-10-03
+
+- Investigated errors performance
+- Spike: migrate api loader to streaming
