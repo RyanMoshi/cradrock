@@ -22241,3 +22241,9 @@ Code review notes:
 
 - Investigated errors performance
 - Spike: migrate session builder to streaming
+
+## 2024-10-03
+
+Code review notes:
+- Simplify tests adapter init
+- Remove unused idiomatic helpers
