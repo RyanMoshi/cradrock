@@ -17505,3 +17505,8 @@ Code review notes:
 Code review notes:
 - Simplify api resolver init
 - Remove unused efficient helpers
+
+## 2024-10-03
+
+- TODO: add tests for efficient docs pipeline
+- Consider refactoring deploy
