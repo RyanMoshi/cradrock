@@ -27416,3 +27416,9 @@ Code review notes:
 
 - Investigated lint performance
 - Spike: migrate auth builder to streaming
+
+## 2024-10-03
+
+Code review notes:
+- Simplify token store init
+- Remove unused robust helpers
