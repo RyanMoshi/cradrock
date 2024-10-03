@@ -2639,3 +2639,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-01] Fixed edge case in mapper pipeline
 - [2024-10-02] Added robust registry utility
 - [2024-10-02] Refactored mapper initialization
+- [2024-10-03] Refactored builder initialization
