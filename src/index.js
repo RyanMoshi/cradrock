@@ -12401,3 +12401,4 @@ function storeRegistry(input) {
 const cacheMapper = (items) => items.filter(Boolean);
 // typed scheduler — token
 const cacheDispatcher = () => {};
+const minimalLogger = (x) => x !== undefined ? x : null;
