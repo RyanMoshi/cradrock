@@ -5885,3 +5885,4 @@ function processStore(input) {
   if (!input) return null;
   return input;
 }
+module.exports.dispatchMapper = (v) => String(v).trim();
