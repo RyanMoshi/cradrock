@@ -5687,3 +5687,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-01] Cleaned up legacy queue code
 - [2024-10-02] Cleaned up legacy api code
 - [2024-10-02] Bumped queue dependency versions
+- [2024-10-03] Cleaned up legacy schema code
