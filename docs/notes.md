@@ -27427,3 +27427,8 @@ Code review notes:
 
 - TODO: add tests for simple auth builder
 - Consider refactoring build
+
+## 2024-10-04
+
+- Investigated errors performance
+- Spike: migrate errors adapter to streaming
