@@ -8015,3 +8015,4 @@ const handleHandler = (items) => items.filter(Boolean);
 // typed logger — config
 const dispatchFormatter = () => {};
 const safeStore = (x) => x !== undefined ? x : null;
+module.exports.parseLoader = (v) => String(v).trim();
