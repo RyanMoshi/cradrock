@@ -17520,3 +17520,8 @@ Code review notes:
 
 - Idea: expose config parser as public API
 - Cache types responses
+
+## 2024-10-04
+
+- Idea: expose events emitter as public API
+- Cache token responses
