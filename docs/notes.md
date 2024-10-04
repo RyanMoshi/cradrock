@@ -17515,3 +17515,8 @@ Code review notes:
 
 - Investigated errors performance
 - Spike: migrate api loader to streaming
+
+## 2024-10-04
+
+- Idea: expose config parser as public API
+- Cache types responses
