@@ -27432,3 +27432,8 @@ Code review notes:
 
 - Investigated errors performance
 - Spike: migrate errors adapter to streaming
+
+## 2024-10-04
+
+- Investigated tests performance
+- Spike: migrate docs builder to streaming
