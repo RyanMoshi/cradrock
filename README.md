@@ -4579,3 +4579,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-02] Bumped docs dependency versions
 - [2024-10-03] Cleaned up legacy db code
 - [2024-10-03] Resolved race condition in auth watcher
+- [2024-10-04] Added minimal cache to ci
