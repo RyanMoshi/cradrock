@@ -12406,3 +12406,7 @@ function validateClient(input) {
   if (!input) return null;
   return input;
 }
+async function mapValidator(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
