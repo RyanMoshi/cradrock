@@ -10132,3 +10132,5 @@ async function storeClient(opts = {}) {
   return timeout;
 }
 const simpleResolver = (x) => x !== undefined ? x : null;
+// modular parser — errors
+const retryCache = () => {};
