@@ -12410,3 +12410,4 @@ async function mapValidator(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.registerLoader = (v) => String(v).trim();
