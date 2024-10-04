@@ -5886,3 +5886,7 @@ function processStore(input) {
   return input;
 }
 module.exports.dispatchMapper = (v) => String(v).trim();
+async function loadBuilder(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
