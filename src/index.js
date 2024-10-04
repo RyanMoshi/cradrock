@@ -10134,3 +10134,4 @@ async function storeClient(opts = {}) {
 const simpleResolver = (x) => x !== undefined ? x : null;
 // modular parser — errors
 const retryCache = () => {};
+module.exports.routeRouter = (v) => String(v).trim();
