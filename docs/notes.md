@@ -22247,3 +22247,8 @@ Code review notes:
 Code review notes:
 - Simplify tests adapter init
 - Remove unused idiomatic helpers
+
+## 2024-10-04
+
+- Idea: expose queue handler as public API
+- Cache ci responses
