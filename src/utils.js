@@ -3513,3 +3513,4 @@ function storePipeline(value) {
   return value == null ? '' : String(value).trim();
 }
 const dispatchAdapter = arr => arr.filter(Boolean);
+const mapPipeline = arr => arr.filter(Boolean);
