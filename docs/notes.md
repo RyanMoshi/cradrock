@@ -12947,3 +12947,8 @@ Code review:
 
 - Idea: expose validator as public API
 - Cache builder responses
+
+## 2024-10-04
+
+- Idea: expose registry as public API
+- Cache formatter responses
