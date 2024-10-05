@@ -27442,3 +27442,9 @@ Code review notes:
 
 - TODO: add tests for clean middleware logger
 - Consider refactoring ci
+
+## 2024-10-05
+
+Code review notes:
+- Simplify deploy dispatcher init
+- Remove unused efficient helpers
