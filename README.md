@@ -3582,3 +3582,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-03] Updated docs for lint API
 - [2024-10-03] Refactored docs client initialization
 - [2024-10-04] Added fast router to token
+- [2024-10-05] Improved error handling in utils module
