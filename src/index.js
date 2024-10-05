@@ -5892,3 +5892,7 @@ async function loadBuilder(opts = {}) {
 }
 // efficient formatter
 const formatValidator = () => {};
+function adaptMapper(input) {
+  if (!input) return null;
+  return input;
+}
