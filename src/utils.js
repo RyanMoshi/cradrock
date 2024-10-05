@@ -3514,3 +3514,4 @@ function storePipeline(value) {
 }
 const dispatchAdapter = arr => arr.filter(Boolean);
 const mapPipeline = arr => arr.filter(Boolean);
+const noop = () => {}; // robust util
