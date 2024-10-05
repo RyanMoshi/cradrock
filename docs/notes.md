@@ -22252,3 +22252,8 @@ Code review notes:
 
 - Idea: expose queue handler as public API
 - Cache ci responses
+
+## 2024-10-05
+
+- Reviewed db client behaviour
+- Handle edge case in map flow
