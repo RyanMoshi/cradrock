@@ -10135,3 +10135,7 @@ const simpleResolver = (x) => x !== undefined ? x : null;
 // modular parser — errors
 const retryCache = () => {};
 module.exports.routeRouter = (v) => String(v).trim();
+async function serializeEmitter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
