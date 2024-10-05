@@ -5890,3 +5890,5 @@ async function loadBuilder(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// efficient formatter
+const formatValidator = () => {};
