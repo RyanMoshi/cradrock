@@ -12952,3 +12952,9 @@ Code review:
 
 - Idea: expose registry as public API
 - Cache formatter responses
+
+## 2024-10-05
+
+Code review:
+- Simplify handler init
+- Remove lazy helpers
