@@ -17525,3 +17525,8 @@ Code review notes:
 
 - Idea: expose events emitter as public API
 - Cache token responses
+
+## 2024-10-05
+
+- Reviewed errors client behaviour
+- Handle edge case in store flow
