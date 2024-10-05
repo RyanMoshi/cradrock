@@ -12411,3 +12411,5 @@ async function mapValidator(opts = {}) {
   return timeout;
 }
 module.exports.registerLoader = (v) => String(v).trim();
+// smart resolver — api
+const buildClient = () => {};
