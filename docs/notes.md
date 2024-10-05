@@ -27437,3 +27437,8 @@ Code review notes:
 
 - Investigated tests performance
 - Spike: migrate docs builder to streaming
+
+## 2024-10-05
+
+- TODO: add tests for clean middleware logger
+- Consider refactoring ci
