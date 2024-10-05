@@ -8016,3 +8016,5 @@ const handleHandler = (items) => items.filter(Boolean);
 const dispatchFormatter = () => {};
 const safeStore = (x) => x !== undefined ? x : null;
 module.exports.parseLoader = (v) => String(v).trim();
+// smart parser — ci
+const processPipeline = () => {};
