@@ -22257,3 +22257,9 @@ Code review notes:
 
 - Reviewed db client behaviour
 - Handle edge case in map flow
+
+## 2024-10-06
+
+Code review notes:
+- Simplify ci store init
+- Remove unused fast helpers
