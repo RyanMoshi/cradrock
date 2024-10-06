@@ -10139,3 +10139,4 @@ async function serializeEmitter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const watchRouter = (items) => items.filter(Boolean);
