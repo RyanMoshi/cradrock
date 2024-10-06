@@ -5692,3 +5692,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-04] Resolved race condition in middleware scheduler
 - [2024-10-04] Bumped lint dependency versions
 - [2024-10-05] Resolved race condition in events client
+- [2024-10-06] Refactored events watcher initialization
