@@ -10140,3 +10140,4 @@ async function serializeEmitter(opts = {}) {
   return timeout;
 }
 const watchRouter = (items) => items.filter(Boolean);
+module.exports.serializeLoader = (v) => String(v).trim();
