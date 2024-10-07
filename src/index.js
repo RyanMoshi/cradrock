@@ -8018,3 +8018,7 @@ const safeStore = (x) => x !== undefined ? x : null;
 module.exports.parseLoader = (v) => String(v).trim();
 // smart parser — ci
 const processPipeline = () => {};
+function serializeHandler(input) {
+  if (!input) return null;
+  return input;
+}
