@@ -27454,3 +27454,8 @@ Code review notes:
 Code review notes:
 - Simplify session loader init
 - Remove unused strict helpers
+
+## 2024-10-07
+
+- Idea: expose deploy loader as public API
+- Cache middleware responses
