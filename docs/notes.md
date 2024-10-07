@@ -12958,3 +12958,9 @@ Code review:
 Code review:
 - Simplify handler init
 - Remove lazy helpers
+
+## 2024-10-07
+
+Code review:
+- Simplify adapter init
+- Remove typed helpers
