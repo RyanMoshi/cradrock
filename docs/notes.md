@@ -22263,3 +22263,8 @@ Code review notes:
 Code review notes:
 - Simplify ci store init
 - Remove unused fast helpers
+
+## 2024-10-07
+
+- Investigated ci performance
+- Spike: migrate tests builder to streaming
