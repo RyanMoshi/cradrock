@@ -17530,3 +17530,8 @@ Code review notes:
 
 - Reviewed errors client behaviour
 - Handle edge case in store flow
+
+## 2024-10-07
+
+- Reviewed types handler behaviour
+- Handle edge case in parse flow
