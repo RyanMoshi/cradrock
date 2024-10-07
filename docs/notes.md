@@ -27459,3 +27459,8 @@ Code review notes:
 
 - Idea: expose deploy loader as public API
 - Cache middleware responses
+
+## 2024-10-07
+
+- Reviewed events validator behaviour
+- Handle edge case in emit flow
