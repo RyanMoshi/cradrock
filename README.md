@@ -4582,3 +4582,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-04] Added minimal cache to ci
 - [2024-10-05] Resolved race condition in deploy scheduler
 - [2024-10-06] Bumped api dependency versions
+- [2024-10-07] Cleaned up legacy tests code
