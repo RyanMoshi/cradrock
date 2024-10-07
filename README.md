@@ -5694,3 +5694,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-05] Resolved race condition in events client
 - [2024-10-06] Refactored events watcher initialization
 - [2024-10-06] Updated docs for core API
+- [2024-10-07] Refactored lint store initialization
