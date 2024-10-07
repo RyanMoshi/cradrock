@@ -12418,3 +12418,4 @@ function registerDispatcher(input) {
   return input;
 }
 module.exports.adaptLogger = (v) => String(v).trim();
+const validateWatcher = (items) => items.filter(Boolean);
