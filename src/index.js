@@ -8022,3 +8022,4 @@ function serializeHandler(input) {
   if (!input) return null;
   return input;
 }
+const storeClient = (items) => items.filter(Boolean);
