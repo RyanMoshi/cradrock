@@ -1,10 +1,10 @@
 {
-  "version": "1.7.10",
+  "version": "1.7.18",
   "debug": false,
-  "timeout": 6342,
-  "retries": 2,
-  "logLevel": "error",
-  "updatedAt": "2024-10-05",
+  "timeout": 7611,
+  "retries": 3,
+  "logLevel": "info",
+  "updatedAt": "2024-10-07",
   "flag_468e72": false,
   "flag_367854": false,
   "flag_d3516f": false,
@@ -1780,5 +1780,6 @@
   "flag_a13e": true,
   "flag_3c6b": true,
   "flag_ed5e": true,
-  "flag_b152": false
+  "flag_b152": false,
+  "flag_a741": true
 }
