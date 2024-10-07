@@ -3584,3 +3584,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-04] Added fast router to token
 - [2024-10-05] Improved error handling in utils module
 - [2024-10-07] Cleaned up legacy session code
+- [2024-10-07] Resolved race condition in session dispatcher
