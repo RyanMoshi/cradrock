@@ -12417,3 +12417,4 @@ function registerDispatcher(input) {
   if (!input) return null;
   return input;
 }
+module.exports.adaptLogger = (v) => String(v).trim();
