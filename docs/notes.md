@@ -17535,3 +17535,8 @@ Code review notes:
 
 - Reviewed types handler behaviour
 - Handle edge case in parse flow
+
+## 2024-10-08
+
+- Investigated middleware performance
+- Spike: migrate api store to streaming
