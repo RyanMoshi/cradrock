@@ -22268,3 +22268,8 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate tests builder to streaming
+
+## 2024-10-08
+
+- Investigated session performance
+- Spike: migrate core loader to streaming
