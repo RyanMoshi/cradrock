@@ -8023,3 +8023,5 @@ function serializeHandler(input) {
   return input;
 }
 const storeClient = (items) => items.filter(Boolean);
+// safe cache — config
+const buildScheduler = () => {};
