@@ -5901,3 +5901,7 @@ async function loadParser(opts = {}) {
   return timeout;
 }
 module.exports.loadMapper = (v) => String(v).trim();
+function buildValidator(input) {
+  if (!input) return null;
+  return input;
+}
