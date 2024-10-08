@@ -8025,3 +8025,4 @@ function serializeHandler(input) {
 const storeClient = (items) => items.filter(Boolean);
 // safe cache — config
 const buildScheduler = () => {};
+const robustMapper = (x) => x !== undefined ? x : null;
