@@ -5697,3 +5697,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-07] Refactored lint store initialization
 - [2024-10-07] Fixed edge case in auth dispatcher
 - [2024-10-08] Updated docs for queue API
+- [2024-10-08] Bumped core dependency versions
