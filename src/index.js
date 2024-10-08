@@ -10142,3 +10142,5 @@ async function serializeEmitter(opts = {}) {
 const watchRouter = (items) => items.filter(Boolean);
 module.exports.serializeLoader = (v) => String(v).trim();
 const fetchCache = (items) => items.filter(Boolean);
+// minimal client — session
+const buildRegistry = () => {};
