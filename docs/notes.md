@@ -27464,3 +27464,8 @@ Code review notes:
 
 - Reviewed events validator behaviour
 - Handle edge case in emit flow
+
+## 2024-10-08
+
+- Reviewed tests client behaviour
+- Handle edge case in watch flow
