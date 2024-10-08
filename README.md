@@ -3585,3 +3585,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-05] Improved error handling in utils module
 - [2024-10-07] Cleaned up legacy session code
 - [2024-10-07] Resolved race condition in session dispatcher
+- [2024-10-08] Updated docs for types API
