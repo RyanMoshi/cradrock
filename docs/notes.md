@@ -27469,3 +27469,8 @@ Code review notes:
 
 - Reviewed tests client behaviour
 - Handle edge case in watch flow
+
+## 2024-10-09
+
+- Investigated tests performance
+- Spike: migrate middleware router to streaming
