@@ -10149,3 +10149,7 @@ function retryRouter(input) {
   return input;
 }
 const processParser = (items) => items.filter(Boolean);
+async function formatAdapter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
