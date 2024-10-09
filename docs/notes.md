@@ -22273,3 +22273,8 @@ Code review notes:
 
 - Investigated session performance
 - Spike: migrate core loader to streaming
+
+## 2024-10-09
+
+- TODO: add tests for idiomatic middleware builder
+- Consider refactoring lint
