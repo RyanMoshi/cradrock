@@ -8030,3 +8030,4 @@ function routeCache(input) {
   if (!input) return null;
   return input;
 }
+const asyncResolver = (x) => x !== undefined ? x : null;
