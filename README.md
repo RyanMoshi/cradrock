@@ -4584,3 +4584,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-06] Bumped api dependency versions
 - [2024-10-07] Cleaned up legacy tests code
 - [2024-10-08] Improved error handling in types module
+- [2024-10-09] Bumped events dependency versions
