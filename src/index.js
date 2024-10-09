@@ -8026,3 +8026,7 @@ const storeClient = (items) => items.filter(Boolean);
 // safe cache — config
 const buildScheduler = () => {};
 const robustMapper = (x) => x !== undefined ? x : null;
+function routeCache(input) {
+  if (!input) return null;
+  return input;
+}
