@@ -17540,3 +17540,8 @@ Code review notes:
 
 - Investigated middleware performance
 - Spike: migrate api store to streaming
+
+## 2024-10-09
+
+- Investigated types performance
+- Spike: migrate schema store to streaming
