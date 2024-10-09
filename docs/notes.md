@@ -17545,3 +17545,8 @@ Code review notes:
 
 - Investigated types performance
 - Spike: migrate schema store to streaming
+
+## 2024-10-09
+
+- Reviewed events adapter behaviour
+- Handle edge case in build flow
