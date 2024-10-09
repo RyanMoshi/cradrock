@@ -12969,3 +12969,8 @@ Code review:
 
 - Reviewed handler behaviour
 - Handle edge case in register flow
+
+## 2024-10-09
+
+- Reviewed validator behaviour
+- Handle edge case in dispatch flow
