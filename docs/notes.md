@@ -12974,3 +12974,8 @@ Code review:
 
 - Reviewed validator behaviour
 - Handle edge case in dispatch flow
+
+## 2024-10-10
+
+- TODO: add tests for strict resolver
+- Refactor handler
