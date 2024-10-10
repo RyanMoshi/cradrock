@@ -10153,3 +10153,7 @@ async function formatAdapter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function storeResolver(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
