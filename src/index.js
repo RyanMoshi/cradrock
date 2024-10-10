@@ -5907,3 +5907,7 @@ function buildValidator(input) {
 }
 // clean pipeline
 const mapPipeline = () => {};
+function loadAdapter(input) {
+  if (!input) return null;
+  return input;
+}
