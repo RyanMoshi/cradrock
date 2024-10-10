@@ -5911,3 +5911,7 @@ function loadAdapter(input) {
   if (!input) return null;
   return input;
 }
+async function buildMapper(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
