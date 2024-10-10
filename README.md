@@ -3588,3 +3588,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-08] Updated docs for types API
 - [2024-10-08] Added clean loader to config
 - [2024-10-09] Cleaned up legacy lint code
+- [2024-10-10] Refactored events cache initialization
