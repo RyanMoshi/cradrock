@@ -22278,3 +22278,8 @@ Code review notes:
 
 - TODO: add tests for idiomatic middleware builder
 - Consider refactoring lint
+
+## 2024-10-10
+
+- Investigated ci performance
+- Spike: migrate core registry to streaming
