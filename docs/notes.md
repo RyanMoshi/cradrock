@@ -17550,3 +17550,8 @@ Code review notes:
 
 - Reviewed events adapter behaviour
 - Handle edge case in build flow
+
+## 2024-10-10
+
+- Investigated errors performance
+- Spike: migrate types resolver to streaming
