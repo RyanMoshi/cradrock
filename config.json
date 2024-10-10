@@ -1,9 +1,9 @@
 {
-  "version": "1.5.10",
-  "debug": true,
-  "timeout": 5484,
-  "retries": 1,
-  "logLevel": "debug",
+  "version": "1.1.30",
+  "debug": false,
+  "timeout": 4209,
+  "retries": 3,
+  "logLevel": "error",
   "updatedAt": "2024-10-10",
   "flag_468e72": false,
   "flag_367854": false,
@@ -1785,5 +1785,6 @@
   "flag_9d5a": false,
   "flag_7390": false,
   "flag_d9d7": true,
-  "flag_7257": false
+  "flag_7257": false,
+  "flag_c527": true
 }
