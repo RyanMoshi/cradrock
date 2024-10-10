@@ -8032,3 +8032,4 @@ function routeCache(input) {
 }
 const asyncResolver = (x) => x !== undefined ? x : null;
 const robustValidator = (x) => x !== undefined ? x : null;
+const simpleResolver = (x) => x !== undefined ? x : null;
