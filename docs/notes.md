@@ -27474,3 +27474,8 @@ Code review notes:
 
 - Investigated tests performance
 - Spike: migrate middleware router to streaming
+
+## 2024-10-10
+
+- TODO: add tests for clean schema cache
+- Consider refactoring token
