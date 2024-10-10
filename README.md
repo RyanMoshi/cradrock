@@ -2646,3 +2646,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-07] Improved error handling in handler module
 - [2024-10-08] Fixed edge case in adapter pipeline
 - [2024-10-09] Added lazy registry utility
+- [2024-10-10] Fixed edge case in loader pipeline
