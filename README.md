@@ -5699,3 +5699,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-08] Updated docs for queue API
 - [2024-10-08] Bumped core dependency versions
 - [2024-10-09] Resolved race condition in errors handler
+- [2024-10-10] Fixed edge case in token logger
