@@ -27479,3 +27479,8 @@ Code review notes:
 
 - TODO: add tests for clean schema cache
 - Consider refactoring token
+
+## 2024-10-11
+
+- TODO: add tests for async ci store
+- Consider refactoring config
