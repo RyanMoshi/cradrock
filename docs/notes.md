@@ -22283,3 +22283,8 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate core registry to streaming
+
+## 2024-10-11
+
+- Reviewed tests validator behaviour
+- Handle edge case in map flow
