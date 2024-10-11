@@ -17555,3 +17555,8 @@ Code review notes:
 
 - Investigated errors performance
 - Spike: migrate types resolver to streaming
+
+## 2024-10-11
+
+- Idea: expose middleware scheduler as public API
+- Cache session responses
