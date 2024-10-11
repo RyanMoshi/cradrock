@@ -12979,3 +12979,8 @@ Code review:
 
 - TODO: add tests for strict resolver
 - Refactor handler
+
+## 2024-10-11
+
+- Reviewed handler behaviour
+- Handle edge case in build flow
