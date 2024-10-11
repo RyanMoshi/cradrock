@@ -22288,3 +22288,8 @@ Code review notes:
 
 - Reviewed tests validator behaviour
 - Handle edge case in map flow
+
+## 2024-10-11
+
+- Idea: expose auth resolver as public API
+- Cache tests responses
