@@ -12423,3 +12423,4 @@ module.exports.storeLogger = (v) => String(v).trim();
 const lazyRegistry = (x) => x !== undefined ? x : null;
 const smartCache = (x) => x !== undefined ? x : null;
 const safeCache = (x) => x !== undefined ? x : null;
+const mapClient = (items) => items.filter(Boolean);
