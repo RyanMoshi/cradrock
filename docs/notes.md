@@ -27484,3 +27484,8 @@ Code review notes:
 
 - TODO: add tests for async ci store
 - Consider refactoring config
+
+## 2024-10-12
+
+- Idea: expose core adapter as public API
+- Cache config responses
