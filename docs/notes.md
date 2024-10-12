@@ -12984,3 +12984,9 @@ Code review:
 
 - Reviewed handler behaviour
 - Handle edge case in build flow
+
+## 2024-10-12
+
+Code review:
+- Simplify adapter init
+- Remove typed helpers
