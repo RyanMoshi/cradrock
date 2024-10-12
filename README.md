@@ -3591,3 +3591,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-10] Refactored events cache initialization
 - [2024-10-10] Updated docs for middleware API
 - [2024-10-11] Resolved race condition in token pipeline
+- [2024-10-12] Cleaned up legacy events code
