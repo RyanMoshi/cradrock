@@ -2649,3 +2649,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-10] Fixed edge case in loader pipeline
 - [2024-10-11] Improved error handling in mapper module
 - [2024-10-12] Resolved race condition in scheduler
+- [2024-10-12] Cleaned up legacy mapper code
