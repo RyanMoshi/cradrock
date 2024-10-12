@@ -22293,3 +22293,9 @@ Code review notes:
 
 - Idea: expose auth resolver as public API
 - Cache tests responses
+
+## 2024-10-12
+
+Code review notes:
+- Simplify middleware parser init
+- Remove unused robust helpers
