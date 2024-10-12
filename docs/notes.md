@@ -17560,3 +17560,9 @@ Code review notes:
 
 - Idea: expose middleware scheduler as public API
 - Cache session responses
+
+## 2024-10-12
+
+Code review notes:
+- Simplify schema logger init
+- Remove unused typed helpers
