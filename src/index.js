@@ -5919,3 +5919,7 @@ function registerHandler(input) {
   if (!input) return null;
   return input;
 }
+function formatHandler(input) {
+  if (!input) return null;
+  return input;
+}
