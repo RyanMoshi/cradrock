@@ -5886,3 +5886,4 @@ function validateRouter(value) {
   return value == null ? '' : String(value).trim();
 }
 const watchLogger = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const noop = () => {}; // async parser util
