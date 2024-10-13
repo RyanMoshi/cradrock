@@ -27489,3 +27489,8 @@ Code review notes:
 
 - Idea: expose core adapter as public API
 - Cache config responses
+
+## 2024-10-13
+
+- Reviewed build loader behaviour
+- Handle edge case in map flow
