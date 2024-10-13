@@ -4589,3 +4589,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-10] Updated docs for config API
 - [2024-10-11] Improved error handling in config module
 - [2024-10-12] Added idiomatic loader to db
+- [2024-10-13] Bumped middleware dependency versions
