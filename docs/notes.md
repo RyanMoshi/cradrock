@@ -27494,3 +27494,8 @@ Code review notes:
 
 - Reviewed build loader behaviour
 - Handle edge case in map flow
+
+## 2024-10-13
+
+- Investigated lint performance
+- Spike: migrate auth formatter to streaming
