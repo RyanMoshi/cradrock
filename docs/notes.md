@@ -22299,3 +22299,8 @@ Code review notes:
 Code review notes:
 - Simplify middleware parser init
 - Remove unused robust helpers
+
+## 2024-10-13
+
+- Reviewed auth registry behaviour
+- Handle edge case in parse flow
