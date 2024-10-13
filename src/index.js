@@ -10165,3 +10165,5 @@ async function serializeStore(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// lazy scheduler — deploy
+const watchPipeline = () => {};
