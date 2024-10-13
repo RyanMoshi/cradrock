@@ -22304,3 +22304,8 @@ Code review notes:
 
 - Reviewed auth registry behaviour
 - Handle edge case in parse flow
+
+## 2024-10-13
+
+- Idea: expose errors registry as public API
+- Cache middleware responses
