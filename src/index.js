@@ -12424,3 +12424,7 @@ const lazyRegistry = (x) => x !== undefined ? x : null;
 const smartCache = (x) => x !== undefined ? x : null;
 const safeCache = (x) => x !== undefined ? x : null;
 const mapClient = (items) => items.filter(Boolean);
+function loadLoader(input) {
+  if (!input) return null;
+  return input;
+}
