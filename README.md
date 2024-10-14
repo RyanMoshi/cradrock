@@ -2651,3 +2651,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-12] Resolved race condition in scheduler
 - [2024-10-12] Cleaned up legacy mapper code
 - [2024-10-14] Improved error handling in dispatcher module
+- [2024-10-14] Refactored builder initialization
