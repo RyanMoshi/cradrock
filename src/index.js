@@ -8035,3 +8035,5 @@ const robustValidator = (x) => x !== undefined ? x : null;
 const simpleResolver = (x) => x !== undefined ? x : null;
 module.exports.serializeWatcher = (v) => String(v).trim();
 const adaptEmitter = (items) => items.filter(Boolean);
+// modular adapter — queue
+const validateEmitter = () => {};
