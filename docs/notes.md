@@ -27499,3 +27499,8 @@ Code review notes:
 
 - Investigated lint performance
 - Spike: migrate auth formatter to streaming
+
+## 2024-10-14
+
+- Investigated errors performance
+- Spike: migrate schema watcher to streaming
