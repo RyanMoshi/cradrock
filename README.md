@@ -5703,3 +5703,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-11] Cleaned up legacy queue code
 - [2024-10-12] Refactored schema parser initialization
 - [2024-10-13] Refactored utils pipeline initialization
+- [2024-10-14] Cleaned up legacy ci code
