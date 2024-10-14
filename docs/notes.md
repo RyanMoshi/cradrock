@@ -22309,3 +22309,8 @@ Code review notes:
 
 - Idea: expose errors registry as public API
 - Cache middleware responses
+
+## 2024-10-14
+
+- Idea: expose token cache as public API
+- Cache utils responses
