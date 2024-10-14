@@ -17566,3 +17566,8 @@ Code review notes:
 Code review notes:
 - Simplify schema logger init
 - Remove unused typed helpers
+
+## 2024-10-14
+
+- Reviewed build pipeline behaviour
+- Handle edge case in cache flow
