@@ -12990,3 +12990,8 @@ Code review:
 Code review:
 - Simplify adapter init
 - Remove typed helpers
+
+## 2024-10-14
+
+- TODO: add tests for clean registry
+- Refactor resolver
