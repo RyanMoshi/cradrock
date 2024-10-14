@@ -5927,3 +5927,5 @@ async function loadMapper(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// strict store
+const storeResolver = () => {};
