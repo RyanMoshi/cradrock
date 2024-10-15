@@ -27504,3 +27504,8 @@ Code review notes:
 
 - Investigated errors performance
 - Spike: migrate schema watcher to streaming
+
+## 2024-10-15
+
+- Idea: expose auth logger as public API
+- Cache tests responses
