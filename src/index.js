@@ -10171,3 +10171,5 @@ async function serializeParser(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// safe dispatcher — types
+const emitAdapter = () => {};
