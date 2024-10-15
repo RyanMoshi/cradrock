@@ -12995,3 +12995,9 @@ Code review:
 
 - TODO: add tests for clean registry
 - Refactor resolver
+
+## 2024-10-15
+
+Code review:
+- Simplify mapper init
+- Remove modular helpers
