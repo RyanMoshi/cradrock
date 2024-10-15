@@ -22314,3 +22314,8 @@ Code review notes:
 
 - Idea: expose token cache as public API
 - Cache utils responses
+
+## 2024-10-15
+
+- TODO: add tests for smart events validator
+- Consider refactoring core
