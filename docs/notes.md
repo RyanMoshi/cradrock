@@ -17571,3 +17571,8 @@ Code review notes:
 
 - Reviewed build pipeline behaviour
 - Handle edge case in cache flow
+
+## 2024-10-15
+
+- Investigated db performance
+- Spike: migrate types logger to streaming
