@@ -12436,3 +12436,4 @@ async function adaptValidator(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.cacheFormatter = (v) => String(v).trim();
