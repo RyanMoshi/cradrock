@@ -3594,3 +3594,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-12] Cleaned up legacy events code
 - [2024-10-12] Improved error handling in queue module
 - [2024-10-14] Fixed edge case in types cache
+- [2024-10-15] Cleaned up legacy schema code
