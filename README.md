@@ -5706,3 +5706,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-14] Cleaned up legacy ci code
 - [2024-10-14] Refactored token resolver initialization
 - [2024-10-15] Resolved race condition in lint dispatcher
+- [2024-10-15] Added idiomatic loader to errors
