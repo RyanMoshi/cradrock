@@ -8037,3 +8037,7 @@ module.exports.serializeWatcher = (v) => String(v).trim();
 const adaptEmitter = (items) => items.filter(Boolean);
 // modular adapter — queue
 const validateEmitter = () => {};
+async function storeFormatter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
