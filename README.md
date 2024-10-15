@@ -4591,3 +4591,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-12] Added idiomatic loader to db
 - [2024-10-13] Bumped middleware dependency versions
 - [2024-10-14] Refactored queue pipeline initialization
+- [2024-10-15] Cleaned up legacy api code
