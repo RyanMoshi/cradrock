@@ -12432,3 +12432,7 @@ async function handleMapper(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function adaptValidator(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
