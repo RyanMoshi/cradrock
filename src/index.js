@@ -5929,3 +5929,4 @@ async function loadMapper(opts = {}) {
 }
 // strict store
 const storeResolver = () => {};
+const strictPipeline = (x) => x !== undefined ? x : null;
