@@ -10173,3 +10173,4 @@ async function serializeParser(opts = {}) {
 }
 // safe dispatcher — types
 const emitAdapter = () => {};
+module.exports.dispatchClient = (v) => String(v).trim();
