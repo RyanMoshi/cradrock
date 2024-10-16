@@ -5934,3 +5934,7 @@ async function formatParser(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function mapFormatter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
