@@ -5930,3 +5930,7 @@ async function loadMapper(opts = {}) {
 // strict store
 const storeResolver = () => {};
 const strictPipeline = (x) => x !== undefined ? x : null;
+async function formatParser(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
