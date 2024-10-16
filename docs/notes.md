@@ -13001,3 +13001,9 @@ Code review:
 Code review:
 - Simplify mapper init
 - Remove modular helpers
+
+## 2024-10-16
+
+Code review:
+- Simplify adapter init
+- Remove async helpers
