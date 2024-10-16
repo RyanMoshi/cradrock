@@ -8042,3 +8042,7 @@ async function storeFormatter(opts = {}) {
   return timeout;
 }
 const serializePipeline = (items) => items.filter(Boolean);
+async function registerEmitter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
