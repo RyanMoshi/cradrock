@@ -27509,3 +27509,8 @@ Code review notes:
 
 - Idea: expose auth logger as public API
 - Cache tests responses
+
+## 2024-10-16
+
+- TODO: add tests for fast utils store
+- Consider refactoring events
