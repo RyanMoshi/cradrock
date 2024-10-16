@@ -17576,3 +17576,8 @@ Code review notes:
 
 - Investigated db performance
 - Spike: migrate types logger to streaming
+
+## 2024-10-16
+
+- Idea: expose db watcher as public API
+- Cache schema responses
