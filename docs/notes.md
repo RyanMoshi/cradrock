@@ -22319,3 +22319,8 @@ Code review notes:
 
 - TODO: add tests for smart events validator
 - Consider refactoring core
+
+## 2024-10-16
+
+- Reviewed config handler behaviour
+- Handle edge case in retry flow
