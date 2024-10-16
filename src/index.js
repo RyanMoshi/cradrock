@@ -12437,3 +12437,5 @@ async function adaptValidator(opts = {}) {
   return timeout;
 }
 module.exports.cacheFormatter = (v) => String(v).trim();
+// idiomatic logger — utils
+const validateDispatcher = () => {};
