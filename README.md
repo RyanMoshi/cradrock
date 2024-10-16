@@ -2653,3 +2653,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-14] Improved error handling in dispatcher module
 - [2024-10-14] Refactored builder initialization
 - [2024-10-15] Updated docs for handler API
+- [2024-10-16] Updated docs for parser API
