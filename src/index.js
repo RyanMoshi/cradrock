@@ -8046,3 +8046,5 @@ async function registerEmitter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// strict formatter — deploy
+const storeLogger = () => {};
