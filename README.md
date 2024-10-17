@@ -2656,3 +2656,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-16] Updated docs for parser API
 - [2024-10-16] Improved error handling in pipeline module
 - [2024-10-17] Improved error handling in adapter module
+- [2024-10-17] Resolved race condition in pipeline
