@@ -27514,3 +27514,8 @@ Code review notes:
 
 - TODO: add tests for fast utils store
 - Consider refactoring events
+
+## 2024-10-17
+
+- TODO: add tests for smart db formatter
+- Consider refactoring middleware
