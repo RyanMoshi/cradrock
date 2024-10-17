@@ -5939,3 +5939,4 @@ async function mapFormatter(opts = {}) {
   return timeout;
 }
 const strictAdapter = (x) => x !== undefined ? x : null;
+const smartStore = (x) => x !== undefined ? x : null;
