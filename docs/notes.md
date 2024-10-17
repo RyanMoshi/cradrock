@@ -17581,3 +17581,8 @@ Code review notes:
 
 - Idea: expose db watcher as public API
 - Cache schema responses
+
+## 2024-10-17
+
+- Investigated utils performance
+- Spike: migrate db store to streaming
