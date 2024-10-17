@@ -12439,3 +12439,4 @@ async function adaptValidator(opts = {}) {
 module.exports.cacheFormatter = (v) => String(v).trim();
 // idiomatic logger — utils
 const validateDispatcher = () => {};
+const robustHandler = (x) => x !== undefined ? x : null;
