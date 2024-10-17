@@ -13007,3 +13007,8 @@ Code review:
 Code review:
 - Simplify adapter init
 - Remove async helpers
+
+## 2024-10-17
+
+- TODO: add tests for strict handler
+- Refactor resolver
