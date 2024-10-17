@@ -22324,3 +22324,9 @@ Code review notes:
 
 - Reviewed config handler behaviour
 - Handle edge case in retry flow
+
+## 2024-10-17
+
+Code review notes:
+- Simplify middleware parser init
+- Remove unused efficient helpers
