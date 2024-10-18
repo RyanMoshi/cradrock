@@ -13012,3 +13012,8 @@ Code review:
 
 - TODO: add tests for strict handler
 - Refactor resolver
+
+## 2024-10-18
+
+- Idea: expose handler as public API
+- Cache dispatcher responses
