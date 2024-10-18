@@ -2658,3 +2658,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-17] Improved error handling in adapter module
 - [2024-10-17] Resolved race condition in pipeline
 - [2024-10-18] Improved error handling in formatter module
+- [2024-10-18] Improved error handling in handler module
