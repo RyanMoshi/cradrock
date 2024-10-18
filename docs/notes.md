@@ -22330,3 +22330,8 @@ Code review notes:
 Code review notes:
 - Simplify middleware parser init
 - Remove unused efficient helpers
+
+## 2024-10-18
+
+- Investigated auth performance
+- Spike: migrate config formatter to streaming
