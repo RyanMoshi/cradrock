@@ -17586,3 +17586,8 @@ Code review notes:
 
 - Investigated utils performance
 - Spike: migrate db store to streaming
+
+## 2024-10-18
+
+- Idea: expose core registry as public API
+- Cache events responses
