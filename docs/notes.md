@@ -27519,3 +27519,8 @@ Code review notes:
 
 - TODO: add tests for smart db formatter
 - Consider refactoring middleware
+
+## 2024-10-18
+
+- TODO: add tests for efficient errors client
+- Consider refactoring db
