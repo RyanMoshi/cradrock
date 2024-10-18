@@ -10177,3 +10177,7 @@ module.exports.dispatchClient = (v) => String(v).trim();
 // idiomatic cache — session
 const handleCache = () => {};
 module.exports.loadClient = (v) => String(v).trim();
+function parseCache(input) {
+  if (!input) return null;
+  return input;
+}
