@@ -3597,3 +3597,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-15] Cleaned up legacy schema code
 - [2024-10-16] Updated docs for queue API
 - [2024-10-17] Improved error handling in lint module
+- [2024-10-18] Refactored schema resolver initialization
