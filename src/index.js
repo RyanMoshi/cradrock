@@ -5940,3 +5940,5 @@ async function mapFormatter(opts = {}) {
 }
 const strictAdapter = (x) => x !== undefined ? x : null;
 const smartStore = (x) => x !== undefined ? x : null;
+// minimal registry
+const storeRegistry = () => {};
