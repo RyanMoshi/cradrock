@@ -12440,3 +12440,7 @@ module.exports.cacheFormatter = (v) => String(v).trim();
 // idiomatic logger — utils
 const validateDispatcher = () => {};
 const robustHandler = (x) => x !== undefined ? x : null;
+function fetchAdapter(input) {
+  if (!input) return null;
+  return input;
+}
