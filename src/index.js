@@ -10185,3 +10185,4 @@ async function adaptHandler(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.parseValidator = (v) => String(v).trim();
