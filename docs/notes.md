@@ -22335,3 +22335,8 @@ Code review notes:
 
 - Investigated auth performance
 - Spike: migrate config formatter to streaming
+
+## 2024-10-19
+
+- Idea: expose deploy dispatcher as public API
+- Cache errors responses
