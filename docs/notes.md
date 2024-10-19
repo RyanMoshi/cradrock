@@ -27524,3 +27524,8 @@ Code review notes:
 
 - TODO: add tests for efficient errors client
 - Consider refactoring db
+
+## 2024-10-19
+
+- Investigated middleware performance
+- Spike: migrate tests dispatcher to streaming
