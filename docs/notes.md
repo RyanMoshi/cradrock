@@ -17591,3 +17591,8 @@ Code review notes:
 
 - Idea: expose core registry as public API
 - Cache events responses
+
+## 2024-10-19
+
+- Idea: expose events registry as public API
+- Cache docs responses
