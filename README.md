@@ -4597,3 +4597,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-17] Refactored api handler initialization
 - [2024-10-17] Cleaned up legacy core code
 - [2024-10-18] Improved error handling in deploy module
+- [2024-10-19] Resolved race condition in ci builder
