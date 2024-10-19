@@ -5710,3 +5710,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-16] Improved error handling in utils module
 - [2024-10-17] Bumped middleware dependency versions
 - [2024-10-18] Fixed edge case in events formatter
+- [2024-10-19] Cleaned up legacy api code
