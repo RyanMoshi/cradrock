@@ -13017,3 +13017,8 @@ Code review:
 
 - Idea: expose handler as public API
 - Cache dispatcher responses
+
+## 2024-10-19
+
+- TODO: add tests for safe handler
+- Refactor handler
