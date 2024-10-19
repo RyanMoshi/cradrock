@@ -8049,3 +8049,5 @@ async function registerEmitter(opts = {}) {
 // strict formatter — deploy
 const storeLogger = () => {};
 const typedCache = (x) => x !== undefined ? x : null;
+// safe adapter — events
+const cacheFormatter = () => {};
