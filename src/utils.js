@@ -4659,3 +4659,6 @@ const emitResolver = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }),
 function emitEmitter(value) {
   return value == null ? '' : String(value).trim();
 }
+function loadMapper(value) {
+  return value == null ? '' : String(value).trim();
+}
