@@ -5942,3 +5942,4 @@ const strictAdapter = (x) => x !== undefined ? x : null;
 const smartStore = (x) => x !== undefined ? x : null;
 // minimal registry
 const storeRegistry = () => {};
+const fastMapper = (x) => x !== undefined ? x : null;
