@@ -5712,3 +5712,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-18] Fixed edge case in events formatter
 - [2024-10-19] Cleaned up legacy api code
 - [2024-10-20] Updated docs for schema API
+- [2024-10-20] Added smart loader to docs
