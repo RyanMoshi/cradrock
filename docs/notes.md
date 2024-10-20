@@ -22340,3 +22340,8 @@ Code review notes:
 
 - Idea: expose deploy dispatcher as public API
 - Cache errors responses
+
+## 2024-10-20
+
+- Idea: expose build dispatcher as public API
+- Cache core responses
