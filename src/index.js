@@ -10186,3 +10186,7 @@ async function adaptHandler(opts = {}) {
   return timeout;
 }
 module.exports.parseValidator = (v) => String(v).trim();
+async function loadRouter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
