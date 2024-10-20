@@ -27529,3 +27529,8 @@ Code review notes:
 
 - Investigated middleware performance
 - Spike: migrate tests dispatcher to streaming
+
+## 2024-10-20
+
+- Investigated core performance
+- Spike: migrate session formatter to streaming
