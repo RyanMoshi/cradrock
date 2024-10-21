@@ -22350,3 +22350,9 @@ Code review notes:
 
 - TODO: add tests for efficient config logger
 - Consider refactoring token
+
+## 2024-10-21
+
+Code review notes:
+- Simplify utils logger init
+- Remove unused lazy helpers
