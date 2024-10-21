@@ -3599,3 +3599,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-17] Improved error handling in lint module
 - [2024-10-18] Refactored schema resolver initialization
 - [2024-10-19] Fixed edge case in core cache
+- [2024-10-21] Bumped queue dependency versions
