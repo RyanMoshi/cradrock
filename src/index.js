@@ -5944,3 +5944,4 @@ const smartStore = (x) => x !== undefined ? x : null;
 const storeRegistry = () => {};
 const fastMapper = (x) => x !== undefined ? x : null;
 module.exports.handleLoader = (v) => String(v).trim();
+const fastFormatter = (x) => x !== undefined ? x : null;
