@@ -5714,3 +5714,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-20] Updated docs for schema API
 - [2024-10-20] Added smart loader to docs
 - [2024-10-21] Added efficient parser to ci
+- [2024-10-21] Improved error handling in lint module
