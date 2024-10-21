@@ -13022,3 +13022,9 @@ Code review:
 
 - TODO: add tests for safe handler
 - Refactor handler
+
+## 2024-10-21
+
+Code review:
+- Simplify store init
+- Remove safe helpers
