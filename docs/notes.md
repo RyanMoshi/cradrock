@@ -27534,3 +27534,8 @@ Code review notes:
 
 - Investigated core performance
 - Spike: migrate session formatter to streaming
+
+## 2024-10-21
+
+- Idea: expose schema watcher as public API
+- Cache db responses
