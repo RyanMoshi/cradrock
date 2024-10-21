@@ -17601,3 +17601,9 @@ Code review notes:
 
 - TODO: add tests for safe ci loader
 - Consider refactoring utils
+
+## 2024-10-21
+
+Code review notes:
+- Simplify auth loader init
+- Remove unused robust helpers
