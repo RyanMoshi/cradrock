@@ -17596,3 +17596,8 @@ Code review notes:
 
 - Idea: expose events registry as public API
 - Cache docs responses
+
+## 2024-10-21
+
+- TODO: add tests for safe ci loader
+- Consider refactoring utils
