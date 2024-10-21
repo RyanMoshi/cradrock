@@ -8051,3 +8051,7 @@ const storeLogger = () => {};
 const typedCache = (x) => x !== undefined ? x : null;
 // safe adapter — events
 const cacheFormatter = () => {};
+async function validateStore(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
