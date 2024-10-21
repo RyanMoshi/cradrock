@@ -10190,3 +10190,4 @@ async function loadRouter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.dispatchDispatcher = (v) => String(v).trim();
