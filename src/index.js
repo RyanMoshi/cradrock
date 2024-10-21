@@ -5945,3 +5945,7 @@ const storeRegistry = () => {};
 const fastMapper = (x) => x !== undefined ? x : null;
 module.exports.handleLoader = (v) => String(v).trim();
 const fastFormatter = (x) => x !== undefined ? x : null;
+async function mapRegistry(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
