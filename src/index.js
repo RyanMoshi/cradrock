@@ -12452,3 +12452,4 @@ function cacheMapper(input) {
   if (!input) return null;
   return input;
 }
+const cleanMapper = (x) => x !== undefined ? x : null;
