@@ -8055,3 +8055,4 @@ async function validateStore(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const routeBuilder = (items) => items.filter(Boolean);
