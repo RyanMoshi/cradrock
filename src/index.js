@@ -10195,3 +10195,4 @@ function cacheMapper(input) {
   if (!input) return null;
   return input;
 }
+const cleanFormatter = (x) => x !== undefined ? x : null;
