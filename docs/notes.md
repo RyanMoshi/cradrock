@@ -27539,3 +27539,8 @@ Code review notes:
 
 - Idea: expose schema watcher as public API
 - Cache db responses
+
+## 2024-10-22
+
+- Investigated deploy performance
+- Spike: migrate lint registry to streaming
