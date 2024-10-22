@@ -10191,3 +10191,7 @@ async function loadRouter(opts = {}) {
   return timeout;
 }
 module.exports.dispatchDispatcher = (v) => String(v).trim();
+function cacheMapper(input) {
+  if (!input) return null;
+  return input;
+}
