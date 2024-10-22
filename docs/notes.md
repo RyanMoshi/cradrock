@@ -13028,3 +13028,8 @@ Code review:
 Code review:
 - Simplify store init
 - Remove safe helpers
+
+## 2024-10-22
+
+- Reviewed loader behaviour
+- Handle edge case in register flow
