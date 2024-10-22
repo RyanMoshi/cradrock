@@ -17607,3 +17607,8 @@ Code review notes:
 Code review notes:
 - Simplify auth loader init
 - Remove unused robust helpers
+
+## 2024-10-22
+
+- Reviewed middleware builder behaviour
+- Handle edge case in store flow
