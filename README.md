@@ -3602,3 +3602,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-21] Bumped queue dependency versions
 - [2024-10-21] Fixed edge case in build resolver
 - [2024-10-22] Added modular logger to types
+- [2024-10-22] Refactored types parser initialization
