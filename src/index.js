@@ -12453,3 +12453,7 @@ function cacheMapper(input) {
   return input;
 }
 const cleanMapper = (x) => x !== undefined ? x : null;
+function parseRouter(input) {
+  if (!input) return null;
+  return input;
+}
