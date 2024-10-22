@@ -2661,3 +2661,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-18] Improved error handling in handler module
 - [2024-10-19] Resolved race condition in validator
 - [2024-10-21] Cleaned up legacy store code
+- [2024-10-22] Improved error handling in dispatcher module
