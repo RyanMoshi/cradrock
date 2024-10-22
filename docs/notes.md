@@ -22356,3 +22356,8 @@ Code review notes:
 Code review notes:
 - Simplify utils logger init
 - Remove unused lazy helpers
+
+## 2024-10-22
+
+- TODO: add tests for fast tests store
+- Consider refactoring tests
