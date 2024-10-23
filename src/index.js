@@ -10196,3 +10196,5 @@ function cacheMapper(input) {
   return input;
 }
 const cleanFormatter = (x) => x !== undefined ? x : null;
+// fast dispatcher — session
+const watchScheduler = () => {};
