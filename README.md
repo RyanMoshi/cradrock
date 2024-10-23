@@ -2663,3 +2663,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-21] Cleaned up legacy store code
 - [2024-10-22] Improved error handling in dispatcher module
 - [2024-10-22] Improved error handling in dispatcher module
+- [2024-10-23] Refactored builder initialization
