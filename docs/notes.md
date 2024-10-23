@@ -13033,3 +13033,8 @@ Code review:
 
 - Reviewed loader behaviour
 - Handle edge case in register flow
+
+## 2024-10-23
+
+- Reviewed loader behaviour
+- Handle edge case in dispatch flow
