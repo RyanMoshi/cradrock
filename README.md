@@ -3604,3 +3604,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-22] Added modular logger to types
 - [2024-10-22] Refactored types parser initialization
 - [2024-10-23] Refactored schema dispatcher initialization
+- [2024-10-23] Cleaned up legacy config code
