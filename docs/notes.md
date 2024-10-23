@@ -22366,3 +22366,8 @@ Code review notes:
 
 - TODO: add tests for robust tests pipeline
 - Consider refactoring errors
+
+## 2024-10-23
+
+- Reviewed ci dispatcher behaviour
+- Handle edge case in dispatch flow
