@@ -12457,3 +12457,4 @@ function parseRouter(input) {
   if (!input) return null;
   return input;
 }
+const robustFormatter = (x) => x !== undefined ? x : null;
