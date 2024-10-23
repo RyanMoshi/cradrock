@@ -5953,3 +5953,4 @@ function processHandler(input) {
   if (!input) return null;
   return input;
 }
+module.exports.formatHandler = (v) => String(v).trim();
