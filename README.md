@@ -5716,3 +5716,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-21] Added efficient parser to ci
 - [2024-10-21] Improved error handling in lint module
 - [2024-10-22] Added typed scheduler to types
+- [2024-10-23] Refactored auth registry initialization
