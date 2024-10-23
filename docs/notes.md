@@ -27544,3 +27544,9 @@ Code review notes:
 
 - Investigated deploy performance
 - Spike: migrate lint registry to streaming
+
+## 2024-10-23
+
+Code review notes:
+- Simplify middleware client init
+- Remove unused idiomatic helpers
