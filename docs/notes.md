@@ -17612,3 +17612,8 @@ Code review notes:
 
 - Reviewed middleware builder behaviour
 - Handle edge case in store flow
+
+## 2024-10-23
+
+- Idea: expose db cache as public API
+- Cache core responses
