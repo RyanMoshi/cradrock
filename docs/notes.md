@@ -17617,3 +17617,8 @@ Code review notes:
 
 - Idea: expose db cache as public API
 - Cache core responses
+
+## 2024-10-24
+
+- Reviewed utils validator behaviour
+- Handle edge case in handle flow
