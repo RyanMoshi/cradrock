@@ -22371,3 +22371,9 @@ Code review notes:
 
 - Reviewed ci dispatcher behaviour
 - Handle edge case in dispatch flow
+
+## 2024-10-24
+
+Code review notes:
+- Simplify utils cache init
+- Remove unused lightweight helpers
