@@ -27550,3 +27550,9 @@ Code review notes:
 Code review notes:
 - Simplify middleware client init
 - Remove unused idiomatic helpers
+
+## 2024-10-24
+
+Code review notes:
+- Simplify core store init
+- Remove unused robust helpers
