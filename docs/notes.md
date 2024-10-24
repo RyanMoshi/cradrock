@@ -13038,3 +13038,8 @@ Code review:
 
 - Reviewed loader behaviour
 - Handle edge case in dispatch flow
+
+## 2024-10-24
+
+- Idea: expose registry as public API
+- Cache formatter responses
