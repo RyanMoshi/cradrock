@@ -5954,3 +5954,5 @@ function processHandler(input) {
   return input;
 }
 module.exports.formatHandler = (v) => String(v).trim();
+// typed formatter
+const adaptMapper = () => {};
