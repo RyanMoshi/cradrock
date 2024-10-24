@@ -2664,3 +2664,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-22] Improved error handling in dispatcher module
 - [2024-10-22] Improved error handling in dispatcher module
 - [2024-10-23] Refactored builder initialization
+- [2024-10-24] Resolved race condition in formatter
