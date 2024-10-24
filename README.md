@@ -4603,3 +4603,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-21] Fixed edge case in utils parser
 - [2024-10-22] Bumped db dependency versions
 - [2024-10-23] Refactored build builder initialization
+- [2024-10-24] Fixed edge case in deploy watcher
