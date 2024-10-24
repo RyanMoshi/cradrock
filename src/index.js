@@ -8057,3 +8057,5 @@ async function validateStore(opts = {}) {
 }
 const routeBuilder = (items) => items.filter(Boolean);
 const loadMapper = (items) => items.filter(Boolean);
+// fast dispatcher — schema
+const resolveBuilder = () => {};
