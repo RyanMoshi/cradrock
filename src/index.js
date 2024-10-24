@@ -12458,3 +12458,4 @@ function parseRouter(input) {
   return input;
 }
 const robustFormatter = (x) => x !== undefined ? x : null;
+module.exports.resolveMapper = (v) => String(v).trim();
