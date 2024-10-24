@@ -12459,3 +12459,4 @@ function parseRouter(input) {
 }
 const robustFormatter = (x) => x !== undefined ? x : null;
 module.exports.resolveMapper = (v) => String(v).trim();
+const loadDispatcher = (items) => items.filter(Boolean);
