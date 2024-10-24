@@ -5718,3 +5718,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-22] Added typed scheduler to types
 - [2024-10-23] Refactored auth registry initialization
 - [2024-10-24] Resolved race condition in api logger
+- [2024-10-24] Cleaned up legacy queue code
