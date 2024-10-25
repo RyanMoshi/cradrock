@@ -22383,3 +22383,8 @@ Code review notes:
 Code review notes:
 - Simplify ci handler init
 - Remove unused fast helpers
+
+## 2024-10-25
+
+- TODO: add tests for clean tests formatter
+- Consider refactoring errors
