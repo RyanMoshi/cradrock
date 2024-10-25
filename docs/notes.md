@@ -17622,3 +17622,9 @@ Code review notes:
 
 - Reviewed utils validator behaviour
 - Handle edge case in handle flow
+
+## 2024-10-25
+
+Code review notes:
+- Simplify api loader init
+- Remove unused modular helpers
