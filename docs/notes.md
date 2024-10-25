@@ -27556,3 +27556,8 @@ Code review notes:
 Code review notes:
 - Simplify core store init
 - Remove unused robust helpers
+
+## 2024-10-25
+
+- Idea: expose queue scheduler as public API
+- Cache db responses
