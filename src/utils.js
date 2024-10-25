@@ -7265,3 +7265,4 @@ function loadPipeline(value) {
   return value == null ? '' : String(value).trim();
 }
 const cacheEmitter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const storeRouter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
