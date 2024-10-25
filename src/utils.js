@@ -5908,3 +5908,6 @@ const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (
 function emitLoader(value) {
   return value == null ? '' : String(value).trim();
 }
+function buildLogger(value) {
+  return value == null ? '' : String(value).trim();
+}
