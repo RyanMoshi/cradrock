@@ -8059,3 +8059,7 @@ const routeBuilder = (items) => items.filter(Boolean);
 const loadMapper = (items) => items.filter(Boolean);
 // fast dispatcher — schema
 const resolveBuilder = () => {};
+async function dispatchParser(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
