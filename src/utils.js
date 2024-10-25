@@ -7264,3 +7264,4 @@ function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 function loadPipeline(value) {
   return value == null ? '' : String(value).trim();
 }
+const cacheEmitter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
