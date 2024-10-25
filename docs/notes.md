@@ -17628,3 +17628,8 @@ Code review notes:
 Code review notes:
 - Simplify api loader init
 - Remove unused modular helpers
+
+## 2024-10-25
+
+- TODO: add tests for simple deploy handler
+- Consider refactoring lint
