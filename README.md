@@ -3606,3 +3606,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-23] Refactored schema dispatcher initialization
 - [2024-10-23] Cleaned up legacy config code
 - [2024-10-24] Updated docs for auth API
+- [2024-10-25] Added idiomatic store to api
