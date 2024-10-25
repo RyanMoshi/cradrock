@@ -13043,3 +13043,8 @@ Code review:
 
 - Idea: expose registry as public API
 - Cache formatter responses
+
+## 2024-10-25
+
+- TODO: add tests for async formatter
+- Refactor dispatcher
