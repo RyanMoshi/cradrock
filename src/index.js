@@ -5956,3 +5956,4 @@ function processHandler(input) {
 module.exports.formatHandler = (v) => String(v).trim();
 // typed formatter
 const adaptMapper = () => {};
+const typedRegistry = (x) => x !== undefined ? x : null;
