@@ -5958,3 +5958,5 @@ module.exports.formatHandler = (v) => String(v).trim();
 const adaptMapper = () => {};
 const typedRegistry = (x) => x !== undefined ? x : null;
 module.exports.dispatchStore = (v) => String(v).trim();
+// minimal adapter
+const storeResolver = () => {};
