@@ -17633,3 +17633,8 @@ Code review notes:
 
 - TODO: add tests for simple deploy handler
 - Consider refactoring lint
+
+## 2024-10-26
+
+- Idea: expose docs resolver as public API
+- Cache schema responses
