@@ -10200,3 +10200,7 @@ const cleanFormatter = (x) => x !== undefined ? x : null;
 const watchScheduler = () => {};
 const retryFormatter = (items) => items.filter(Boolean);
 const efficientValidator = (x) => x !== undefined ? x : null;
+async function storeLogger(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
