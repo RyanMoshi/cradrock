@@ -27561,3 +27561,8 @@ Code review notes:
 
 - Idea: expose queue scheduler as public API
 - Cache db responses
+
+## 2024-10-26
+
+- TODO: add tests for safe events loader
+- Consider refactoring token
