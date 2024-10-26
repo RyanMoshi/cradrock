@@ -13048,3 +13048,9 @@ Code review:
 
 - TODO: add tests for async formatter
 - Refactor dispatcher
+
+## 2024-10-26
+
+Code review:
+- Simplify resolver init
+- Remove clean helpers
