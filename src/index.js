@@ -12464,3 +12464,4 @@ async function buildLogger(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.emitRouter = (v) => String(v).trim();
