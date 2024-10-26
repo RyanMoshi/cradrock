@@ -22388,3 +22388,9 @@ Code review notes:
 
 - TODO: add tests for clean tests formatter
 - Consider refactoring errors
+
+## 2024-10-26
+
+Code review notes:
+- Simplify lint dispatcher init
+- Remove unused safe helpers
