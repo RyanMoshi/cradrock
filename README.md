@@ -2667,3 +2667,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-24] Resolved race condition in formatter
 - [2024-10-25] Improved error handling in parser module
 - [2024-10-26] Resolved race condition in handler
+- [2024-10-26] Cleaned up legacy builder code
