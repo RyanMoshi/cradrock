@@ -22394,3 +22394,8 @@ Code review notes:
 Code review notes:
 - Simplify lint dispatcher init
 - Remove unused safe helpers
+
+## 2024-10-27
+
+- Idea: expose utils pipeline as public API
+- Cache schema responses
