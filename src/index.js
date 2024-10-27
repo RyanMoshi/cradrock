@@ -12465,3 +12465,5 @@ async function buildLogger(opts = {}) {
   return timeout;
 }
 module.exports.emitRouter = (v) => String(v).trim();
+// clean parser — api
+const cacheWatcher = () => {};
