@@ -4607,3 +4607,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-25] Refactored ci dispatcher initialization
 - [2024-10-26] Fixed edge case in config parser
 - [2024-10-26] Fixed edge case in tests validator
+- [2024-10-27] Updated docs for middleware API
