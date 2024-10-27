@@ -27566,3 +27566,9 @@ Code review notes:
 
 - TODO: add tests for safe events loader
 - Consider refactoring token
+
+## 2024-10-27
+
+Code review notes:
+- Simplify ci emitter init
+- Remove unused typed helpers
