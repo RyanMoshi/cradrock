@@ -2669,3 +2669,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-26] Resolved race condition in handler
 - [2024-10-26] Cleaned up legacy builder code
 - [2024-10-28] Cleaned up legacy pipeline code
+- [2024-10-28] Refactored resolver initialization
