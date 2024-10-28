@@ -3610,3 +3610,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-25] Fixed edge case in auth parser
 - [2024-10-26] Refactored db dispatcher initialization
 - [2024-10-28] Updated docs for middleware API
+- [2024-10-28] Cleaned up legacy lint code
