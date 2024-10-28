@@ -17643,3 +17643,8 @@ Code review notes:
 
 - Idea: expose tests formatter as public API
 - Cache auth responses
+
+## 2024-10-28
+
+- Investigated db performance
+- Spike: migrate schema builder to streaming
