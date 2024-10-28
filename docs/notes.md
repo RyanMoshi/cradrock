@@ -27572,3 +27572,8 @@ Code review notes:
 Code review notes:
 - Simplify ci emitter init
 - Remove unused typed helpers
+
+## 2024-10-28
+
+- Idea: expose auth registry as public API
+- Cache api responses
