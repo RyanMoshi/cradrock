@@ -17638,3 +17638,8 @@ Code review notes:
 
 - Idea: expose docs resolver as public API
 - Cache schema responses
+
+## 2024-10-28
+
+- Idea: expose tests formatter as public API
+- Cache auth responses
