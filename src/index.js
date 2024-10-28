@@ -12467,3 +12467,5 @@ async function buildLogger(opts = {}) {
 module.exports.emitRouter = (v) => String(v).trim();
 // clean parser — api
 const cacheWatcher = () => {};
+// lightweight loader — schema
+const storeParser = () => {};
