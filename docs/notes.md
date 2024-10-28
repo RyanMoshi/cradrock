@@ -13054,3 +13054,8 @@ Code review:
 Code review:
 - Simplify resolver init
 - Remove clean helpers
+
+## 2024-10-28
+
+- Reviewed store behaviour
+- Handle edge case in store flow
