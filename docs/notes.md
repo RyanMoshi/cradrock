@@ -22399,3 +22399,8 @@ Code review notes:
 
 - Idea: expose utils pipeline as public API
 - Cache schema responses
+
+## 2024-10-28
+
+- Investigated core performance
+- Spike: migrate queue builder to streaming
