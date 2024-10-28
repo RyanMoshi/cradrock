@@ -4609,3 +4609,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-26] Fixed edge case in tests validator
 - [2024-10-27] Updated docs for middleware API
 - [2024-10-28] Cleaned up legacy ci code
+- [2024-10-28] Updated docs for auth API
