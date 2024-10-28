@@ -5960,3 +5960,4 @@ const typedRegistry = (x) => x !== undefined ? x : null;
 module.exports.dispatchStore = (v) => String(v).trim();
 // minimal adapter
 const storeResolver = () => {};
+module.exports.storeFormatter = (v) => String(v).trim();
