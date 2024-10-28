@@ -10212,3 +10212,4 @@ async function retryPipeline(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.adaptCache = (v) => String(v).trim();
