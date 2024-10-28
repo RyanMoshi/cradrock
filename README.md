@@ -5722,3 +5722,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-25] Refactored lint resolver initialization
 - [2024-10-26] Updated docs for db API
 - [2024-10-27] Updated docs for events API
+- [2024-10-28] Updated docs for api API
