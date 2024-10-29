@@ -3611,3 +3611,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-26] Refactored db dispatcher initialization
 - [2024-10-28] Updated docs for middleware API
 - [2024-10-28] Cleaned up legacy lint code
+- [2024-10-29] Resolved race condition in tests validator
