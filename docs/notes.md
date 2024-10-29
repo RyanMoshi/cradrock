@@ -13059,3 +13059,8 @@ Code review:
 
 - Reviewed store behaviour
 - Handle edge case in store flow
+
+## 2024-10-29
+
+- TODO: add tests for clean validator
+- Refactor handler
