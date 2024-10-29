@@ -17648,3 +17648,9 @@ Code review notes:
 
 - Investigated db performance
 - Spike: migrate schema builder to streaming
+
+## 2024-10-29
+
+Code review notes:
+- Simplify lint adapter init
+- Remove unused async helpers
