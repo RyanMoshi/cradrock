@@ -10213,3 +10213,7 @@ async function retryPipeline(opts = {}) {
   return timeout;
 }
 module.exports.adaptCache = (v) => String(v).trim();
+function fetchClient(input) {
+  if (!input) return null;
+  return input;
+}
