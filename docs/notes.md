@@ -27577,3 +27577,8 @@ Code review notes:
 
 - Idea: expose auth registry as public API
 - Cache api responses
+
+## 2024-10-29
+
+- Idea: expose token store as public API
+- Cache db responses
