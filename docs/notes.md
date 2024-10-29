@@ -22404,3 +22404,9 @@ Code review notes:
 
 - Investigated core performance
 - Spike: migrate queue builder to streaming
+
+## 2024-10-29
+
+Code review notes:
+- Simplify token client init
+- Remove unused robust helpers
