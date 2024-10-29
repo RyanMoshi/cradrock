@@ -12469,3 +12469,7 @@ module.exports.emitRouter = (v) => String(v).trim();
 const cacheWatcher = () => {};
 // lightweight loader — schema
 const storeParser = () => {};
+function formatLoader(input) {
+  if (!input) return null;
+  return input;
+}
