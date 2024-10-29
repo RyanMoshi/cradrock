@@ -5918,3 +5918,4 @@ function handleParser(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // typed loader util
+const dispatchClient = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
