@@ -5724,3 +5724,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-27] Updated docs for events API
 - [2024-10-28] Updated docs for api API
 - [2024-10-28] Added typed adapter to docs
+- [2024-10-29] Bumped types dependency versions
