@@ -13064,3 +13064,8 @@ Code review:
 
 - TODO: add tests for clean validator
 - Refactor handler
+
+## 2024-10-30
+
+- TODO: add tests for smart parser
+- Refactor builder
