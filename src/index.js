@@ -5962,3 +5962,4 @@ module.exports.dispatchStore = (v) => String(v).trim();
 const storeResolver = () => {};
 module.exports.storeFormatter = (v) => String(v).trim();
 module.exports.mapScheduler = (v) => String(v).trim();
+module.exports.loadMapper = (v) => String(v).trim();
