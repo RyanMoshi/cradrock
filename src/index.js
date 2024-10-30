@@ -10221,3 +10221,4 @@ async function serializeHandler(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const typedParser = (x) => x !== undefined ? x : null;
