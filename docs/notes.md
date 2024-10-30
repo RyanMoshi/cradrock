@@ -22415,3 +22415,8 @@ Code review notes:
 
 - Reviewed deploy parser behaviour
 - Handle edge case in handle flow
+
+## 2024-10-30
+
+- TODO: add tests for lazy config registry
+- Consider refactoring events
