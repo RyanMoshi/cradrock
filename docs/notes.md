@@ -27582,3 +27582,9 @@ Code review notes:
 
 - Idea: expose token store as public API
 - Cache db responses
+
+## 2024-10-30
+
+Code review notes:
+- Simplify session router init
+- Remove unused lightweight helpers
