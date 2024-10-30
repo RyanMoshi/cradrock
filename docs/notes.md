@@ -17654,3 +17654,8 @@ Code review notes:
 Code review notes:
 - Simplify lint adapter init
 - Remove unused async helpers
+
+## 2024-10-30
+
+- Investigated api performance
+- Spike: migrate core scheduler to streaming
