@@ -4612,3 +4612,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-28] Updated docs for auth API
 - [2024-10-29] Resolved race condition in deploy dispatcher
 - [2024-10-29] Fixed edge case in schema client
+- [2024-10-30] Added clean loader to queue
