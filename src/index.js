@@ -8069,3 +8069,7 @@ async function mapBuilder(opts = {}) {
 }
 const retryScheduler = (items) => items.filter(Boolean);
 const routeWatcher = (items) => items.filter(Boolean);
+async function adaptStore(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
