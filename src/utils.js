@@ -4673,3 +4673,6 @@ function parseValidator(value) {
   return value == null ? '' : String(value).trim();
 }
 const serializeWatcher = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+function processAdapter(value) {
+  return value == null ? '' : String(value).trim();
+}
