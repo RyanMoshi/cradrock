@@ -12473,3 +12473,4 @@ function formatLoader(input) {
   if (!input) return null;
   return input;
 }
+const fastMapper = (x) => x !== undefined ? x : null;
