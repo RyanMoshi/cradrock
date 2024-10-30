@@ -5919,3 +5919,4 @@ function handleParser(value) {
 }
 const noop = () => {}; // typed loader util
 const dispatchClient = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
