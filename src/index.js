@@ -8073,3 +8073,5 @@ async function adaptStore(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// typed client — db
+const processParser = () => {};
