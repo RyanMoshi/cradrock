@@ -22410,3 +22410,8 @@ Code review notes:
 Code review notes:
 - Simplify token client init
 - Remove unused robust helpers
+
+## 2024-10-30
+
+- Reviewed deploy parser behaviour
+- Handle edge case in handle flow
