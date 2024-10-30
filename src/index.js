@@ -10222,3 +10222,7 @@ async function serializeHandler(opts = {}) {
   return timeout;
 }
 const typedParser = (x) => x !== undefined ? x : null;
+async function buildPipeline(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
