@@ -4676,3 +4676,6 @@ const serializeWatcher = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v
 function processAdapter(value) {
   return value == null ? '' : String(value).trim();
 }
+function adaptHandler(value) {
+  return value == null ? '' : String(value).trim();
+}
