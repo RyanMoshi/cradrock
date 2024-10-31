@@ -8075,3 +8075,7 @@ async function adaptStore(opts = {}) {
 }
 // typed client — db
 const processParser = () => {};
+function routeRegistry(input) {
+  if (!input) return null;
+  return input;
+}
