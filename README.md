@@ -5727,3 +5727,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-29] Bumped types dependency versions
 - [2024-10-30] Improved error handling in ci module
 - [2024-10-31] Refactored config validator initialization
+- [2024-10-31] Updated docs for db API
