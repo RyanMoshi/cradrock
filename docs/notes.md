@@ -22420,3 +22420,8 @@ Code review notes:
 
 - TODO: add tests for lazy config registry
 - Consider refactoring events
+
+## 2024-10-31
+
+- Idea: expose lint parser as public API
+- Cache middleware responses
