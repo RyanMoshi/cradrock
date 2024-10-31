@@ -3614,3 +3614,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-29] Resolved race condition in tests validator
 - [2024-10-30] Bumped queue dependency versions
 - [2024-10-30] Updated docs for tests API
+- [2024-10-31] Resolved race condition in deploy resolver
