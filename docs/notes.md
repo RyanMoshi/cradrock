@@ -13069,3 +13069,8 @@ Code review:
 
 - TODO: add tests for smart parser
 - Refactor builder
+
+## 2024-10-31
+
+- TODO: add tests for smart resolver
+- Refactor registry
