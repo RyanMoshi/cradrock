@@ -17659,3 +17659,9 @@ Code review notes:
 
 - Investigated api performance
 - Spike: migrate core scheduler to streaming
+
+## 2024-10-31
+
+Code review notes:
+- Simplify core client init
+- Remove unused modular helpers
