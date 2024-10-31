@@ -17665,3 +17665,8 @@ Code review notes:
 Code review notes:
 - Simplify core client init
 - Remove unused modular helpers
+
+## 2024-10-31
+
+- TODO: add tests for clean token scheduler
+- Consider refactoring token
