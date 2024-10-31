@@ -8079,3 +8079,5 @@ function routeRegistry(input) {
   if (!input) return null;
   return input;
 }
+// efficient cache — errors
+const formatAdapter = () => {};
