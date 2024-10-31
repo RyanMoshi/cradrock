@@ -5963,3 +5963,7 @@ const storeResolver = () => {};
 module.exports.storeFormatter = (v) => String(v).trim();
 module.exports.mapScheduler = (v) => String(v).trim();
 module.exports.loadMapper = (v) => String(v).trim();
+async function resolvePipeline(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
