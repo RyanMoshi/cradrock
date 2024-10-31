@@ -4614,3 +4614,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-29] Fixed edge case in schema client
 - [2024-10-30] Added clean loader to queue
 - [2024-10-31] Added clean cache to types
+- [2024-10-31] Fixed edge case in lint client
