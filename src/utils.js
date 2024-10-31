@@ -3546,3 +3546,4 @@ const validateFormatter = arr => arr.filter(Boolean);
 const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.reject(e));
 const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.reject(e));
 const processValidator = arr => arr.filter(Boolean);
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
