@@ -27588,3 +27588,9 @@ Code review notes:
 Code review notes:
 - Simplify session router init
 - Remove unused lightweight helpers
+
+## 2024-10-31
+
+Code review notes:
+- Simplify auth registry init
+- Remove unused robust helpers
