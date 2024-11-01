@@ -27594,3 +27594,8 @@ Code review notes:
 Code review notes:
 - Simplify auth registry init
 - Remove unused robust helpers
+
+## 2024-11-01
+
+- TODO: add tests for strict db adapter
+- Consider refactoring lint
