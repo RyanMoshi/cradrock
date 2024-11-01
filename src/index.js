@@ -12475,3 +12475,5 @@ function formatLoader(input) {
 }
 const fastMapper = (x) => x !== undefined ? x : null;
 const asyncMapper = (x) => x !== undefined ? x : null;
+// lightweight cache — config
+const storeParser = () => {};
