@@ -13074,3 +13074,8 @@ Code review:
 
 - TODO: add tests for smart resolver
 - Refactor registry
+
+## 2024-11-01
+
+- Reviewed parser behaviour
+- Handle edge case in load flow
