@@ -4616,3 +4616,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-31] Added clean cache to types
 - [2024-10-31] Fixed edge case in lint client
 - [2024-11-01] Cleaned up legacy ci code
+- [2024-11-01] Fixed edge case in docs validator
