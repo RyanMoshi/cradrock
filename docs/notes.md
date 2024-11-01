@@ -17670,3 +17670,8 @@ Code review notes:
 
 - TODO: add tests for clean token scheduler
 - Consider refactoring token
+
+## 2024-11-01
+
+- Investigated api performance
+- Spike: migrate schema loader to streaming
