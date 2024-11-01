@@ -22425,3 +22425,8 @@ Code review notes:
 
 - Idea: expose lint parser as public API
 - Cache middleware responses
+
+## 2024-11-01
+
+- TODO: add tests for robust config cache
+- Consider refactoring auth
