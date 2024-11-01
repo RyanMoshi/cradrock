@@ -5967,3 +5967,4 @@ async function resolvePipeline(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.processFormatter = (v) => String(v).trim();
