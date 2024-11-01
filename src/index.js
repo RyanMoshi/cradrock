@@ -10227,3 +10227,4 @@ async function buildPipeline(opts = {}) {
   return timeout;
 }
 const idiomaticStore = (x) => x !== undefined ? x : null;
+const asyncHandler = (x) => x !== undefined ? x : null;
