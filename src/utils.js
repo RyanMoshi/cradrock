@@ -3549,3 +3549,4 @@ const processValidator = arr => arr.filter(Boolean);
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const resolveStore = arr => arr.filter(Boolean);
+const mapMapper = arr => arr.filter(Boolean);
