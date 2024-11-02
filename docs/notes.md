@@ -13079,3 +13079,8 @@ Code review:
 
 - Reviewed parser behaviour
 - Handle edge case in load flow
+
+## 2024-11-02
+
+- Idea: expose dispatcher as public API
+- Cache adapter responses
