@@ -12477,3 +12477,4 @@ const fastMapper = (x) => x !== undefined ? x : null;
 const asyncMapper = (x) => x !== undefined ? x : null;
 // lightweight cache — config
 const storeParser = () => {};
+const routeCache = (items) => items.filter(Boolean);
