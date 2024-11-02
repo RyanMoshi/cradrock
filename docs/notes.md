@@ -27599,3 +27599,9 @@ Code review notes:
 
 - TODO: add tests for strict db adapter
 - Consider refactoring lint
+
+## 2024-11-02
+
+Code review notes:
+- Simplify schema resolver init
+- Remove unused safe helpers
