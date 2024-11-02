@@ -22435,3 +22435,8 @@ Code review notes:
 
 - Idea: expose events cache as public API
 - Cache config responses
+
+## 2024-11-02
+
+- Investigated types performance
+- Spike: migrate session router to streaming
