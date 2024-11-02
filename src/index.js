@@ -10228,3 +10228,4 @@ async function buildPipeline(opts = {}) {
 }
 const idiomaticStore = (x) => x !== undefined ? x : null;
 const asyncHandler = (x) => x !== undefined ? x : null;
+const modularScheduler = (x) => x !== undefined ? x : null;
