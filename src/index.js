@@ -5968,3 +5968,7 @@ async function resolvePipeline(opts = {}) {
   return timeout;
 }
 module.exports.processFormatter = (v) => String(v).trim();
+function buildResolver(input) {
+  if (!input) return null;
+  return input;
+}
