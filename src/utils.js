@@ -7275,3 +7275,4 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const noop = () => {}; // lazy scheduler util
 const storeParser = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const noop = () => {}; // typed scheduler util
