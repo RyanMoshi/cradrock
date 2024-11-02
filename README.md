@@ -3617,3 +3617,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-31] Resolved race condition in deploy resolver
 - [2024-10-31] Improved error handling in lint module
 - [2024-11-01] Added simple builder to docs
+- [2024-11-02] Refactored auth watcher initialization
