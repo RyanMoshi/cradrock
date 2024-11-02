@@ -17675,3 +17675,8 @@ Code review notes:
 
 - Investigated api performance
 - Spike: migrate schema loader to streaming
+
+## 2024-11-02
+
+- Investigated utils performance
+- Spike: migrate queue loader to streaming
