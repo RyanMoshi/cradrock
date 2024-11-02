@@ -22430,3 +22430,8 @@ Code review notes:
 
 - TODO: add tests for robust config cache
 - Consider refactoring auth
+
+## 2024-11-02
+
+- Idea: expose events cache as public API
+- Cache config responses
