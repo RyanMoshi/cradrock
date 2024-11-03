@@ -7276,3 +7276,4 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const noop = () => {}; // lazy scheduler util
 const storeParser = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const noop = () => {}; // typed scheduler util
+const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (c.set(x, fn(x)), c.get(x)); };
