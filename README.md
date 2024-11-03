@@ -4618,3 +4618,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-01] Cleaned up legacy ci code
 - [2024-11-01] Fixed edge case in docs validator
 - [2024-11-02] Bumped api dependency versions
+- [2024-11-03] Added lazy adapter to types
