@@ -5730,3 +5730,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-31] Updated docs for db API
 - [2024-11-01] Cleaned up legacy errors code
 - [2024-11-02] Resolved race condition in events validator
+- [2024-11-03] Bumped docs dependency versions
