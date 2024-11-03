@@ -27605,3 +27605,8 @@ Code review notes:
 Code review notes:
 - Simplify schema resolver init
 - Remove unused safe helpers
+
+## 2024-11-03
+
+- TODO: add tests for modular core logger
+- Consider refactoring lint
