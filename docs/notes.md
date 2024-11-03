@@ -22440,3 +22440,8 @@ Code review notes:
 
 - Investigated types performance
 - Spike: migrate session router to streaming
+
+## 2024-11-03
+
+- TODO: add tests for minimal utils router
+- Consider refactoring types
