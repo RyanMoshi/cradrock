@@ -27615,3 +27615,8 @@ Code review notes:
 
 - Investigated utils performance
 - Spike: migrate auth mapper to streaming
+
+## 2024-11-04
+
+- Idea: expose errors router as public API
+- Cache middleware responses
