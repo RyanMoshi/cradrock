@@ -5972,3 +5972,7 @@ function buildResolver(input) {
   if (!input) return null;
   return input;
 }
+async function formatFormatter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
