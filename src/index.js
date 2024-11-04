@@ -12479,3 +12479,4 @@ const asyncMapper = (x) => x !== undefined ? x : null;
 const storeParser = () => {};
 const routeCache = (items) => items.filter(Boolean);
 module.exports.storePipeline = (v) => String(v).trim();
+const safeWatcher = (x) => x !== undefined ? x : null;
