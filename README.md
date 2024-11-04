@@ -5731,3 +5731,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-01] Cleaned up legacy errors code
 - [2024-11-02] Resolved race condition in events validator
 - [2024-11-03] Bumped docs dependency versions
+- [2024-11-04] Improved error handling in errors module
