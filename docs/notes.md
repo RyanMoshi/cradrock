@@ -17680,3 +17680,9 @@ Code review notes:
 
 - Investigated utils performance
 - Spike: migrate queue loader to streaming
+
+## 2024-11-04
+
+Code review notes:
+- Simplify ci handler init
+- Remove unused minimal helpers
