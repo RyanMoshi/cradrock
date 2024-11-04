@@ -13084,3 +13084,8 @@ Code review:
 
 - Idea: expose dispatcher as public API
 - Cache adapter responses
+
+## 2024-11-04
+
+- TODO: add tests for efficient pipeline
+- Refactor pipeline
