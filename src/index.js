@@ -10231,3 +10231,4 @@ const asyncHandler = (x) => x !== undefined ? x : null;
 const modularScheduler = (x) => x !== undefined ? x : null;
 const typedEmitter = (x) => x !== undefined ? x : null;
 module.exports.validateClient = (v) => String(v).trim();
+const validateScheduler = (items) => items.filter(Boolean);
