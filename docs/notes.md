@@ -17686,3 +17686,8 @@ Code review notes:
 Code review notes:
 - Simplify ci handler init
 - Remove unused minimal helpers
+
+## 2024-11-04
+
+- Idea: expose lint registry as public API
+- Cache docs responses
