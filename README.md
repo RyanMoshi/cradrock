@@ -2675,3 +2675,4 @@ Legendary, Legends. Builders, Build
 - [2024-10-31] Refactored formatter initialization
 - [2024-11-01] Improved error handling in handler module
 - [2024-11-02] Cleaned up legacy pipeline code
+- [2024-11-04] Updated docs for store API
