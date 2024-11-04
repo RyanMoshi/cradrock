@@ -22445,3 +22445,8 @@ Code review notes:
 
 - TODO: add tests for minimal utils router
 - Consider refactoring types
+
+## 2024-11-04
+
+- Reviewed docs validator behaviour
+- Handle edge case in cache flow
