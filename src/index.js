@@ -8085,3 +8085,4 @@ const strictEmitter = (x) => x !== undefined ? x : null;
 // typed watcher — types
 const formatLoader = () => {};
 const fetchWatcher = (items) => items.filter(Boolean);
+module.exports.storeMapper = (v) => String(v).trim();
