@@ -4621,3 +4621,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-03] Added lazy adapter to types
 - [2024-11-03] Added fast parser to ci
 - [2024-11-04] Bumped types dependency versions
+- [2024-11-05] Updated docs for ci API
