@@ -3620,3 +3620,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-02] Refactored auth watcher initialization
 - [2024-11-02] Resolved race condition in ci formatter
 - [2024-11-04] Resolved race condition in auth scheduler
+- [2024-11-05] Cleaned up legacy deploy code
