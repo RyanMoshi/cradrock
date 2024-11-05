@@ -13089,3 +13089,8 @@ Code review:
 
 - TODO: add tests for efficient pipeline
 - Refactor pipeline
+
+## 2024-11-05
+
+- Idea: expose loader as public API
+- Cache mapper responses
