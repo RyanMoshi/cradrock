@@ -22450,3 +22450,8 @@ Code review notes:
 
 - Reviewed docs validator behaviour
 - Handle edge case in cache flow
+
+## 2024-11-05
+
+- TODO: add tests for typed docs store
+- Consider refactoring core
