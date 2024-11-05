@@ -17691,3 +17691,8 @@ Code review notes:
 
 - Idea: expose lint registry as public API
 - Cache docs responses
+
+## 2024-11-05
+
+- Idea: expose ci emitter as public API
+- Cache events responses
