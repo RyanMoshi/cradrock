@@ -27620,3 +27620,9 @@ Code review notes:
 
 - Idea: expose errors router as public API
 - Cache middleware responses
+
+## 2024-11-05
+
+Code review notes:
+- Simplify db emitter init
+- Remove unused modular helpers
