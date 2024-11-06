@@ -2677,3 +2677,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-02] Cleaned up legacy pipeline code
 - [2024-11-04] Updated docs for store API
 - [2024-11-05] Fixed edge case in mapper pipeline
+- [2024-11-06] Refactored adapter initialization
