@@ -5977,3 +5977,7 @@ async function formatFormatter(opts = {}) {
   return timeout;
 }
 module.exports.validateHandler = (v) => String(v).trim();
+function handleDispatcher(input) {
+  if (!input) return null;
+  return input;
+}
