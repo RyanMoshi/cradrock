@@ -5981,3 +5981,7 @@ function handleDispatcher(input) {
   if (!input) return null;
   return input;
 }
+function buildHandler(input) {
+  if (!input) return null;
+  return input;
+}
