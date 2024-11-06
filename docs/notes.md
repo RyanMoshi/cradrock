@@ -17696,3 +17696,8 @@ Code review notes:
 
 - Idea: expose ci emitter as public API
 - Cache events responses
+
+## 2024-11-06
+
+- TODO: add tests for idiomatic core handler
+- Consider refactoring types
