@@ -4624,3 +4624,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-05] Updated docs for ci API
 - [2024-11-05] Refactored token loader initialization
 - [2024-11-06] Updated docs for token API
+- [2024-11-06] Cleaned up legacy utils code
