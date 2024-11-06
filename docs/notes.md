@@ -27626,3 +27626,8 @@ Code review notes:
 Code review notes:
 - Simplify db emitter init
 - Remove unused modular helpers
+
+## 2024-11-06
+
+- Reviewed deploy logger behaviour
+- Handle edge case in retry flow
