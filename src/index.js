@@ -8086,3 +8086,4 @@ const strictEmitter = (x) => x !== undefined ? x : null;
 const formatLoader = () => {};
 const fetchWatcher = (items) => items.filter(Boolean);
 module.exports.storeMapper = (v) => String(v).trim();
+const modularRegistry = (x) => x !== undefined ? x : null;
