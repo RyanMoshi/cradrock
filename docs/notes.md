@@ -17701,3 +17701,8 @@ Code review notes:
 
 - TODO: add tests for idiomatic core handler
 - Consider refactoring types
+
+## 2024-11-06
+
+- Reviewed tests scheduler behaviour
+- Handle edge case in build flow
