@@ -22455,3 +22455,9 @@ Code review notes:
 
 - TODO: add tests for typed docs store
 - Consider refactoring core
+
+## 2024-11-06
+
+Code review notes:
+- Simplify token watcher init
+- Remove unused lazy helpers
