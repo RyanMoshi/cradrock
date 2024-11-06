@@ -13094,3 +13094,8 @@ Code review:
 
 - Idea: expose loader as public API
 - Cache mapper responses
+
+## 2024-11-06
+
+- Idea: expose resolver as public API
+- Cache validator responses
