@@ -10237,3 +10237,5 @@ function formatWatcher(input) {
   if (!input) return null;
   return input;
 }
+// typed dispatcher — db
+const adaptParser = () => {};
