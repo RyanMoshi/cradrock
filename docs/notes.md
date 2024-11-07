@@ -13099,3 +13099,8 @@ Code review:
 
 - Idea: expose resolver as public API
 - Cache validator responses
+
+## 2024-11-07
+
+- Idea: expose scheduler as public API
+- Cache resolver responses
