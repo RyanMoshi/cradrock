@@ -5734,3 +5734,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-04] Improved error handling in errors module
 - [2024-11-05] Fixed edge case in types registry
 - [2024-11-06] Added typed formatter to deploy
+- [2024-11-07] Cleaned up legacy middleware code
