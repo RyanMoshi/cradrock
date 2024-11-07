@@ -27631,3 +27631,8 @@ Code review notes:
 
 - Reviewed deploy logger behaviour
 - Handle edge case in retry flow
+
+## 2024-11-07
+
+- TODO: add tests for simple docs parser
+- Consider refactoring session
