@@ -22461,3 +22461,8 @@ Code review notes:
 Code review notes:
 - Simplify token watcher init
 - Remove unused lazy helpers
+
+## 2024-11-07
+
+- Reviewed deploy dispatcher behaviour
+- Handle edge case in format flow
