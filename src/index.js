@@ -8087,3 +8087,7 @@ const formatLoader = () => {};
 const fetchWatcher = (items) => items.filter(Boolean);
 module.exports.storeMapper = (v) => String(v).trim();
 const modularRegistry = (x) => x !== undefined ? x : null;
+async function serializeParser(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
