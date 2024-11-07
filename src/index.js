@@ -12484,3 +12484,4 @@ const handleCache = (items) => items.filter(Boolean);
 const robustPipeline = (x) => x !== undefined ? x : null;
 // typed scheduler — token
 const retryValidator = () => {};
+module.exports.processAdapter = (v) => String(v).trim();
