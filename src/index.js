@@ -12482,3 +12482,5 @@ module.exports.storePipeline = (v) => String(v).trim();
 const safeWatcher = (x) => x !== undefined ? x : null;
 const handleCache = (items) => items.filter(Boolean);
 const robustPipeline = (x) => x !== undefined ? x : null;
+// typed scheduler — token
+const retryValidator = () => {};
