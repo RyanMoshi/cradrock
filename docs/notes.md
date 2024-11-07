@@ -17706,3 +17706,8 @@ Code review notes:
 
 - Reviewed tests scheduler behaviour
 - Handle edge case in build flow
+
+## 2024-11-07
+
+- Investigated middleware performance
+- Spike: migrate api loader to streaming
