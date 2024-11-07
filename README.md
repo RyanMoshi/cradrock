@@ -3622,3 +3622,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-04] Resolved race condition in auth scheduler
 - [2024-11-05] Cleaned up legacy deploy code
 - [2024-11-06] Bumped config dependency versions
+- [2024-11-07] Refactored api watcher initialization
