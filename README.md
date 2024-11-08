@@ -4626,3 +4626,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-06] Updated docs for token API
 - [2024-11-06] Cleaned up legacy utils code
 - [2024-11-07] Improved error handling in build module
+- [2024-11-08] Added robust cache to token
