@@ -8095,3 +8095,4 @@ async function adaptMapper(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.formatAdapter = (v) => String(v).trim();
