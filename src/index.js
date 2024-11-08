@@ -5989,3 +5989,4 @@ async function storeAdapter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const typedBuilder = (x) => x !== undefined ? x : null;
