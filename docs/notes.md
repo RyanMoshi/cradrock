@@ -22466,3 +22466,9 @@ Code review notes:
 
 - Reviewed deploy dispatcher behaviour
 - Handle edge case in format flow
+
+## 2024-11-08
+
+Code review notes:
+- Simplify queue parser init
+- Remove unused clean helpers
