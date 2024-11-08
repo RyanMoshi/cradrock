@@ -27636,3 +27636,8 @@ Code review notes:
 
 - TODO: add tests for simple docs parser
 - Consider refactoring session
+
+## 2024-11-08
+
+- Reviewed db emitter behaviour
+- Handle edge case in adapt flow
