@@ -8091,3 +8091,7 @@ async function serializeParser(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function adaptMapper(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
