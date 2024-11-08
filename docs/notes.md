@@ -17711,3 +17711,8 @@ Code review notes:
 
 - Investigated middleware performance
 - Spike: migrate api loader to streaming
+
+## 2024-11-08
+
+- TODO: add tests for modular queue store
+- Consider refactoring middleware
