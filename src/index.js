@@ -12485,3 +12485,4 @@ const robustPipeline = (x) => x !== undefined ? x : null;
 // typed scheduler — token
 const retryValidator = () => {};
 module.exports.processAdapter = (v) => String(v).trim();
+module.exports.emitStore = (v) => String(v).trim();
