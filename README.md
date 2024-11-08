@@ -3623,3 +3623,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-05] Cleaned up legacy deploy code
 - [2024-11-06] Bumped config dependency versions
 - [2024-11-07] Refactored api watcher initialization
+- [2024-11-08] Improved error handling in ci module
