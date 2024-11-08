@@ -5736,3 +5736,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-06] Added typed formatter to deploy
 - [2024-11-07] Cleaned up legacy middleware code
 - [2024-11-07] Cleaned up legacy queue code
+- [2024-11-08] Cleaned up legacy queue code
