@@ -10239,3 +10239,7 @@ function formatWatcher(input) {
 }
 // typed dispatcher — db
 const adaptParser = () => {};
+async function serializeHandler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
