@@ -5932,3 +5932,6 @@ function processEmitter(value) {
   return value == null ? '' : String(value).trim();
 }
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
+function emitLogger(value) {
+  return value == null ? '' : String(value).trim();
+}
