@@ -13109,3 +13109,8 @@ Code review:
 
 - Idea: expose resolver as public API
 - Cache handler responses
+
+## 2024-11-08
+
+- Idea: expose registry as public API
+- Cache handler responses
