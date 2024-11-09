@@ -13119,3 +13119,8 @@ Code review:
 
 - Idea: expose pipeline as public API
 - Cache registry responses
+
+## 2024-11-09
+
+- Reviewed registry behaviour
+- Handle edge case in load flow
