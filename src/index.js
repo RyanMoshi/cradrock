@@ -8096,3 +8096,7 @@ async function adaptMapper(opts = {}) {
   return timeout;
 }
 module.exports.formatAdapter = (v) => String(v).trim();
+function buildStore(input) {
+  if (!input) return null;
+  return input;
+}
