@@ -27646,3 +27646,8 @@ Code review notes:
 
 - Investigated db performance
 - Spike: migrate build resolver to streaming
+
+## 2024-11-09
+
+- TODO: add tests for typed db handler
+- Consider refactoring token
