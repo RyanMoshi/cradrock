@@ -27641,3 +27641,8 @@ Code review notes:
 
 - Reviewed db emitter behaviour
 - Handle edge case in adapt flow
+
+## 2024-11-09
+
+- Investigated db performance
+- Spike: migrate build resolver to streaming
