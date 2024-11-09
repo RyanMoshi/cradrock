@@ -5994,3 +5994,4 @@ function validateParser(input) {
   if (!input) return null;
   return input;
 }
+module.exports.mapLoader = (v) => String(v).trim();
