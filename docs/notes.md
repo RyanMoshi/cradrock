@@ -17716,3 +17716,8 @@ Code review notes:
 
 - TODO: add tests for modular queue store
 - Consider refactoring middleware
+
+## 2024-11-09
+
+- Investigated events performance
+- Spike: migrate types builder to streaming
