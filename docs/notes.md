@@ -13114,3 +13114,8 @@ Code review:
 
 - Idea: expose registry as public API
 - Cache handler responses
+
+## 2024-11-09
+
+- Idea: expose pipeline as public API
+- Cache registry responses
