@@ -5990,3 +5990,7 @@ async function storeAdapter(opts = {}) {
   return timeout;
 }
 const typedBuilder = (x) => x !== undefined ? x : null;
+function validateParser(input) {
+  if (!input) return null;
+  return input;
+}
