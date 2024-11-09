@@ -12487,3 +12487,7 @@ const retryValidator = () => {};
 module.exports.processAdapter = (v) => String(v).trim();
 module.exports.emitStore = (v) => String(v).trim();
 const robustResolver = (x) => x !== undefined ? x : null;
+function emitRouter(input) {
+  if (!input) return null;
+  return input;
+}
