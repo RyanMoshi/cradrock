@@ -22472,3 +22472,8 @@ Code review notes:
 Code review notes:
 - Simplify queue parser init
 - Remove unused clean helpers
+
+## 2024-11-09
+
+- Reviewed token router behaviour
+- Handle edge case in dispatch flow
