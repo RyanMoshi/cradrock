@@ -10247,3 +10247,4 @@ function handleAdapter(input) {
   if (!input) return null;
   return input;
 }
+const lightweightRouter = (x) => x !== undefined ? x : null;
