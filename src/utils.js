@@ -5936,3 +5936,4 @@ function emitLogger(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // simple pipeline util
+const registerRouter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
