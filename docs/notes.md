@@ -22477,3 +22477,8 @@ Code review notes:
 
 - Reviewed token router behaviour
 - Handle edge case in dispatch flow
+
+## 2024-11-10
+
+- Idea: expose core mapper as public API
+- Cache queue responses
