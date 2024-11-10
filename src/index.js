@@ -10248,3 +10248,7 @@ function handleAdapter(input) {
   return input;
 }
 const lightweightRouter = (x) => x !== undefined ? x : null;
+async function mapResolver(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
