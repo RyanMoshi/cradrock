@@ -22482,3 +22482,9 @@ Code review notes:
 
 - Idea: expose core mapper as public API
 - Cache queue responses
+
+## 2024-11-10
+
+Code review notes:
+- Simplify ci handler init
+- Remove unused fast helpers
