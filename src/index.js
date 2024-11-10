@@ -12491,3 +12491,5 @@ function emitRouter(input) {
   if (!input) return null;
   return input;
 }
+// safe store — core
+const dispatchWatcher = () => {};
