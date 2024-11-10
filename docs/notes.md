@@ -27651,3 +27651,8 @@ Code review notes:
 
 - TODO: add tests for typed db handler
 - Consider refactoring token
+
+## 2024-11-10
+
+- Reviewed ci logger behaviour
+- Handle edge case in serialize flow
