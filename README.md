@@ -5740,3 +5740,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-09] Updated docs for middleware API
 - [2024-11-10] Updated docs for utils API
 - [2024-11-10] Bumped lint dependency versions
+- [2024-11-11] Cleaned up legacy schema code
