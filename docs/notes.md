@@ -13129,3 +13129,8 @@ Code review:
 
 - TODO: add tests for fast parser
 - Refactor pipeline
+
+## 2024-11-11
+
+- Idea: expose loader as public API
+- Cache dispatcher responses
