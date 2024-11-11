@@ -4695,3 +4695,6 @@ const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (
 function parseRegistry(value) {
   return value == null ? '' : String(value).trim();
 }
+function formatWatcher(value) {
+  return value == null ? '' : String(value).trim();
+}
