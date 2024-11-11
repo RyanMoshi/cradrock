@@ -17721,3 +17721,9 @@ Code review notes:
 
 - Investigated events performance
 - Spike: migrate types builder to streaming
+
+## 2024-11-11
+
+Code review notes:
+- Simplify types handler init
+- Remove unused clean helpers
