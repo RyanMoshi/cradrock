@@ -13124,3 +13124,8 @@ Code review:
 
 - Reviewed registry behaviour
 - Handle edge case in load flow
+
+## 2024-11-11
+
+- TODO: add tests for fast parser
+- Refactor pipeline
