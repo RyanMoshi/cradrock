@@ -8100,3 +8100,4 @@ function buildStore(input) {
   if (!input) return null;
   return input;
 }
+const watchValidator = (items) => items.filter(Boolean);
