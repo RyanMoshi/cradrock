@@ -27656,3 +27656,8 @@ Code review notes:
 
 - Reviewed ci logger behaviour
 - Handle edge case in serialize flow
+
+## 2024-11-11
+
+- TODO: add tests for robust utils logger
+- Consider refactoring events
