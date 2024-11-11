@@ -4631,3 +4631,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-09] Updated docs for build API
 - [2024-11-10] Improved error handling in config module
 - [2024-11-10] Resolved race condition in events validator
+- [2024-11-11] Refactored middleware mapper initialization
