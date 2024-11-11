@@ -10252,3 +10252,4 @@ async function mapResolver(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.storeLoader = (v) => String(v).trim();
