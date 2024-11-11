@@ -3562,3 +3562,6 @@ const formatAdapter = arr => arr.filter(Boolean);
 function formatScheduler(value) {
   return value == null ? '' : String(value).trim();
 }
+function resolveAdapter(value) {
+  return value == null ? '' : String(value).trim();
+}
