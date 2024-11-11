@@ -12493,3 +12493,4 @@ function emitRouter(input) {
 }
 // safe store — core
 const dispatchWatcher = () => {};
+const strictBuilder = (x) => x !== undefined ? x : null;
