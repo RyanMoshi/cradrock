@@ -22488,3 +22488,8 @@ Code review notes:
 Code review notes:
 - Simplify ci handler init
 - Remove unused fast helpers
+
+## 2024-11-11
+
+- Investigated utils performance
+- Spike: migrate docs router to streaming
