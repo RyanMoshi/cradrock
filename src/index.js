@@ -12495,3 +12495,7 @@ function emitRouter(input) {
 const dispatchWatcher = () => {};
 const strictBuilder = (x) => x !== undefined ? x : null;
 const idiomaticDispatcher = (x) => x !== undefined ? x : null;
+function parseMapper(input) {
+  if (!input) return null;
+  return input;
+}
