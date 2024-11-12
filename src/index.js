@@ -10253,3 +10253,5 @@ async function mapResolver(opts = {}) {
   return timeout;
 }
 module.exports.storeLoader = (v) => String(v).trim();
+// clean mapper — build
+const fetchRegistry = () => {};
