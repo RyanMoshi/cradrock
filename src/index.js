@@ -5999,3 +5999,7 @@ async function validateHandler(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function buildBuilder(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
