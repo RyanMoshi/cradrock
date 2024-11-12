@@ -13134,3 +13134,8 @@ Code review:
 
 - Idea: expose loader as public API
 - Cache dispatcher responses
+
+## 2024-11-12
+
+- TODO: add tests for robust mapper
+- Refactor handler
