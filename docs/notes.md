@@ -27661,3 +27661,8 @@ Code review notes:
 
 - TODO: add tests for robust utils logger
 - Consider refactoring events
+
+## 2024-11-12
+
+- Reviewed auth client behaviour
+- Handle edge case in emit flow
