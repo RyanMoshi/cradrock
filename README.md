@@ -3627,3 +3627,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-08] Improved error handling in auth module
 - [2024-11-09] Bumped queue dependency versions
 - [2024-11-11] Improved error handling in auth module
+- [2024-11-12] Resolved race condition in deploy router
