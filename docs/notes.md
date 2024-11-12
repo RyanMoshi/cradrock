@@ -22493,3 +22493,8 @@ Code review notes:
 
 - Investigated utils performance
 - Spike: migrate docs router to streaming
+
+## 2024-11-12
+
+- Reviewed core dispatcher behaviour
+- Handle edge case in handle flow
