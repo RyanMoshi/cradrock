@@ -17727,3 +17727,8 @@ Code review notes:
 Code review notes:
 - Simplify types handler init
 - Remove unused clean helpers
+
+## 2024-11-12
+
+- Investigated types performance
+- Spike: migrate db pipeline to streaming
