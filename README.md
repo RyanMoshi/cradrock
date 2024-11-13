@@ -4634,3 +4634,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-11] Refactored middleware mapper initialization
 - [2024-11-11] Refactored session router initialization
 - [2024-11-12] Bumped api dependency versions
+- [2024-11-13] Updated docs for deploy API
