@@ -5742,3 +5742,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-10] Bumped lint dependency versions
 - [2024-11-11] Cleaned up legacy schema code
 - [2024-11-12] Updated docs for core API
+- [2024-11-13] Refactored build logger initialization
