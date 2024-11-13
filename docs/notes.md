@@ -27666,3 +27666,8 @@ Code review notes:
 
 - Reviewed auth client behaviour
 - Handle edge case in emit flow
+
+## 2024-11-13
+
+- Idea: expose lint emitter as public API
+- Cache config responses
