@@ -22498,3 +22498,8 @@ Code review notes:
 
 - Reviewed core dispatcher behaviour
 - Handle edge case in handle flow
+
+## 2024-11-13
+
+- Investigated errors performance
+- Spike: migrate queue pipeline to streaming
