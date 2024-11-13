@@ -6005,3 +6005,7 @@ async function buildBuilder(opts = {}) {
 }
 // typed validator
 const validateBuilder = () => {};
+async function validatePipeline(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
