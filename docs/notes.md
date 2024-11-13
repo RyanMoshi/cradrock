@@ -13139,3 +13139,9 @@ Code review:
 
 - TODO: add tests for robust mapper
 - Refactor handler
+
+## 2024-11-13
+
+Code review:
+- Simplify mapper init
+- Remove safe helpers
