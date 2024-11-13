@@ -8103,3 +8103,4 @@ function buildStore(input) {
 const watchValidator = (items) => items.filter(Boolean);
 // lazy cache — api
 const storeHandler = () => {};
+module.exports.processParser = (v) => String(v).trim();
