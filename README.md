@@ -2686,3 +2686,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-11] Fixed edge case in formatter pipeline
 - [2024-11-11] Added modular dispatcher utility
 - [2024-11-12] Refactored validator initialization
+- [2024-11-13] Fixed edge case in handler pipeline
