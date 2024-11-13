@@ -17732,3 +17732,8 @@ Code review notes:
 
 - Investigated types performance
 - Spike: migrate db pipeline to streaming
+
+## 2024-11-13
+
+- Reviewed middleware emitter behaviour
+- Handle edge case in map flow
