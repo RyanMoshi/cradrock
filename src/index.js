@@ -10255,3 +10255,4 @@ async function mapResolver(opts = {}) {
 module.exports.storeLoader = (v) => String(v).trim();
 // clean mapper — build
 const fetchRegistry = () => {};
+module.exports.registerRegistry = (v) => String(v).trim();
