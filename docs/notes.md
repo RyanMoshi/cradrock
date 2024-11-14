@@ -22503,3 +22503,8 @@ Code review notes:
 
 - Investigated errors performance
 - Spike: migrate queue pipeline to streaming
+
+## 2024-11-14
+
+- Idea: expose core dispatcher as public API
+- Cache auth responses
