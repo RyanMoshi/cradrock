@@ -3629,3 +3629,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-11] Improved error handling in auth module
 - [2024-11-12] Resolved race condition in deploy router
 - [2024-11-13] Improved error handling in events module
+- [2024-11-14] Improved error handling in session module
