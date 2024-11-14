@@ -17737,3 +17737,9 @@ Code review notes:
 
 - Reviewed middleware emitter behaviour
 - Handle edge case in map flow
+
+## 2024-11-14
+
+Code review notes:
+- Simplify schema cache init
+- Remove unused lazy helpers
