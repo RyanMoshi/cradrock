@@ -8104,3 +8104,7 @@ const watchValidator = (items) => items.filter(Boolean);
 // lazy cache — api
 const storeHandler = () => {};
 module.exports.processParser = (v) => String(v).trim();
+async function watchEmitter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
