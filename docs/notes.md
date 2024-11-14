@@ -13145,3 +13145,9 @@ Code review:
 Code review:
 - Simplify mapper init
 - Remove safe helpers
+
+## 2024-11-14
+
+Code review:
+- Simplify builder init
+- Remove fast helpers
