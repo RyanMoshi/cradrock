@@ -12503,3 +12503,7 @@ async function mapCache(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function formatDispatcher(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
