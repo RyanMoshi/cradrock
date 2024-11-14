@@ -27671,3 +27671,8 @@ Code review notes:
 
 - Idea: expose lint emitter as public API
 - Cache config responses
+
+## 2024-11-14
+
+- TODO: add tests for efficient deploy router
+- Consider refactoring deploy
