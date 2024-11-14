@@ -13151,3 +13151,8 @@ Code review:
 Code review:
 - Simplify builder init
 - Remove fast helpers
+
+## 2024-11-14
+
+- Idea: expose dispatcher as public API
+- Cache formatter responses
