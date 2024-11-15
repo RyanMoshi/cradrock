@@ -12511,3 +12511,5 @@ async function processEmitter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// smart store — api
+const adaptDispatcher = () => {};
