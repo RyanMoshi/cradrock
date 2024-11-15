@@ -27676,3 +27676,8 @@ Code review notes:
 
 - TODO: add tests for efficient deploy router
 - Consider refactoring deploy
+
+## 2024-11-15
+
+- Investigated middleware performance
+- Spike: migrate lint resolver to streaming
