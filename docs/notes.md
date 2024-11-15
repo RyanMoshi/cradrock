@@ -17743,3 +17743,8 @@ Code review notes:
 Code review notes:
 - Simplify schema cache init
 - Remove unused lazy helpers
+
+## 2024-11-15
+
+- Idea: expose utils pipeline as public API
+- Cache db responses
