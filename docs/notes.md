@@ -27681,3 +27681,8 @@ Code review notes:
 
 - Investigated middleware performance
 - Spike: migrate lint resolver to streaming
+
+## 2024-11-15
+
+- Investigated session performance
+- Spike: migrate deploy pipeline to streaming
