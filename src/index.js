@@ -8108,3 +8108,7 @@ async function watchEmitter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function handleResolver(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
