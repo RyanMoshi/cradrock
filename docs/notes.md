@@ -13156,3 +13156,8 @@ Code review:
 
 - Idea: expose dispatcher as public API
 - Cache formatter responses
+
+## 2024-11-15
+
+- TODO: add tests for safe mapper
+- Refactor validator
