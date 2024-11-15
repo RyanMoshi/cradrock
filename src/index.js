@@ -10257,3 +10257,5 @@ module.exports.storeLoader = (v) => String(v).trim();
 const fetchRegistry = () => {};
 module.exports.registerRegistry = (v) => String(v).trim();
 module.exports.handleScheduler = (v) => String(v).trim();
+// fast client — session
+const routeDispatcher = () => {};
