@@ -6010,3 +6010,7 @@ async function validatePipeline(opts = {}) {
   return timeout;
 }
 const cleanBuilder = (x) => x !== undefined ? x : null;
+async function loadHandler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
