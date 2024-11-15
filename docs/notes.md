@@ -22508,3 +22508,8 @@ Code review notes:
 
 - Idea: expose core dispatcher as public API
 - Cache auth responses
+
+## 2024-11-15
+
+- TODO: add tests for lazy config cache
+- Consider refactoring tests
