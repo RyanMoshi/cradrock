@@ -13161,3 +13161,9 @@ Code review:
 
 - TODO: add tests for safe mapper
 - Refactor validator
+
+## 2024-11-16
+
+Code review:
+- Simplify scheduler init
+- Remove simple helpers
