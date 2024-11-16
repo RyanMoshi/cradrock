@@ -27686,3 +27686,8 @@ Code review notes:
 
 - Investigated session performance
 - Spike: migrate deploy pipeline to streaming
+
+## 2024-11-16
+
+- Idea: expose events resolver as public API
+- Cache events responses
