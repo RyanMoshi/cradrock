@@ -2690,3 +2690,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-13] Cleaned up legacy store code
 - [2024-11-14] Resolved race condition in handler
 - [2024-11-15] Improved error handling in validator module
+- [2024-11-16] Added modular loader utility
