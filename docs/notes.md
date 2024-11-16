@@ -17748,3 +17748,8 @@ Code review notes:
 
 - Idea: expose utils pipeline as public API
 - Cache db responses
+
+## 2024-11-16
+
+- Investigated events performance
+- Spike: migrate events resolver to streaming
