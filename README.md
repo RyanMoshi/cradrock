@@ -5746,3 +5746,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-14] Updated docs for middleware API
 - [2024-11-15] Fixed edge case in token emitter
 - [2024-11-15] Cleaned up legacy build code
+- [2024-11-16] Improved error handling in schema module
