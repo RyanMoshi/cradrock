@@ -10259,3 +10259,7 @@ module.exports.registerRegistry = (v) => String(v).trim();
 module.exports.handleScheduler = (v) => String(v).trim();
 // fast client — session
 const routeDispatcher = () => {};
+async function serializeRegistry(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
