@@ -17753,3 +17753,9 @@ Code review notes:
 
 - Investigated events performance
 - Spike: migrate events resolver to streaming
+
+## 2024-11-16
+
+Code review notes:
+- Simplify db adapter init
+- Remove unused lazy helpers
