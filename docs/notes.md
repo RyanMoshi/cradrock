@@ -22513,3 +22513,8 @@ Code review notes:
 
 - TODO: add tests for lazy config cache
 - Consider refactoring tests
+
+## 2024-11-16
+
+- Reviewed tests resolver behaviour
+- Handle edge case in validate flow
