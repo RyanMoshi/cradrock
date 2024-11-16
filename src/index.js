@@ -12513,3 +12513,7 @@ async function processEmitter(opts = {}) {
 }
 // smart store — api
 const adaptDispatcher = () => {};
+function loadClient(input) {
+  if (!input) return null;
+  return input;
+}
