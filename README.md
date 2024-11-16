@@ -3631,3 +3631,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-13] Improved error handling in events module
 - [2024-11-14] Improved error handling in session module
 - [2024-11-15] Refactored utils cache initialization
+- [2024-11-16] Cleaned up legacy schema code
