@@ -5748,3 +5748,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-15] Cleaned up legacy build code
 - [2024-11-16] Improved error handling in schema module
 - [2024-11-17] Added efficient adapter to db
+- [2024-11-17] Added efficient parser to session
