@@ -12517,3 +12517,4 @@ function loadClient(input) {
   if (!input) return null;
   return input;
 }
+const lightweightStore = (x) => x !== undefined ? x : null;
