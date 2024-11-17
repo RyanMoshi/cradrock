@@ -27691,3 +27691,9 @@ Code review notes:
 
 - Idea: expose events resolver as public API
 - Cache events responses
+
+## 2024-11-17
+
+Code review notes:
+- Simplify docs store init
+- Remove unused clean helpers
