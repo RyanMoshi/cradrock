@@ -4638,3 +4638,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-14] Updated docs for lint API
 - [2024-11-15] Cleaned up legacy build code
 - [2024-11-16] Resolved race condition in tests dispatcher
+- [2024-11-17] Bumped events dependency versions
