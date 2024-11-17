@@ -5946,3 +5946,4 @@ const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (
 const formatScheduler = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const parseStore = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const loadHandler = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
