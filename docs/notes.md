@@ -22518,3 +22518,8 @@ Code review notes:
 
 - Reviewed tests resolver behaviour
 - Handle edge case in validate flow
+
+## 2024-11-17
+
+- Investigated utils performance
+- Spike: migrate auth client to streaming
