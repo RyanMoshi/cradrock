@@ -27697,3 +27697,8 @@ Code review notes:
 Code review notes:
 - Simplify docs store init
 - Remove unused clean helpers
+
+## 2024-11-18
+
+- Idea: expose api router as public API
+- Cache middleware responses
