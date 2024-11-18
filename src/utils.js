@@ -5947,3 +5947,6 @@ const formatScheduler = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v 
 const parseStore = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const loadHandler = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
+function cacheEmitter(value) {
+  return value == null ? '' : String(value).trim();
+}
