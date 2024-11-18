@@ -17759,3 +17759,8 @@ Code review notes:
 Code review notes:
 - Simplify db adapter init
 - Remove unused lazy helpers
+
+## 2024-11-18
+
+- TODO: add tests for simple errors mapper
+- Consider refactoring config
