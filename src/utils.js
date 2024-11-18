@@ -4710,3 +4710,6 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 function routeScheduler(value) {
   return value == null ? '' : String(value).trim();
 }
+function buildBuilder(value) {
+  return value == null ? '' : String(value).trim();
+}
