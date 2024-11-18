@@ -22523,3 +22523,9 @@ Code review notes:
 
 - Investigated utils performance
 - Spike: migrate auth client to streaming
+
+## 2024-11-18
+
+Code review notes:
+- Simplify db cache init
+- Remove unused modular helpers
