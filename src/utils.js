@@ -3571,3 +3571,4 @@ const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.re
 const handleResolver = arr => arr.filter(Boolean);
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const validateValidator = arr => arr.filter(Boolean);
+const noop = () => {}; // fast util
