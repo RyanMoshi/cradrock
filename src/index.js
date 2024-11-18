@@ -10271,3 +10271,4 @@ function dispatchBuilder(input) {
   if (!input) return null;
   return input;
 }
+module.exports.routeRegistry = (v) => String(v).trim();
