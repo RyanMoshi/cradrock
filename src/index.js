@@ -12518,3 +12518,4 @@ function loadClient(input) {
   return input;
 }
 const lightweightStore = (x) => x !== undefined ? x : null;
+module.exports.buildRouter = (v) => String(v).trim();
