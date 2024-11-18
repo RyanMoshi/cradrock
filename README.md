@@ -5749,3 +5749,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-16] Improved error handling in schema module
 - [2024-11-17] Added efficient adapter to db
 - [2024-11-17] Added efficient parser to session
+- [2024-11-18] Refactored queue resolver initialization
