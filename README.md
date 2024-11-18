@@ -2692,3 +2692,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-15] Improved error handling in validator module
 - [2024-11-16] Added modular loader utility
 - [2024-11-18] Improved error handling in parser module
+- [2024-11-18] Refactored pipeline initialization
