@@ -6016,3 +6016,4 @@ async function loadHandler(opts = {}) {
 }
 const efficientHandler = (x) => x !== undefined ? x : null;
 module.exports.loadParser = (v) => String(v).trim();
+module.exports.storeAdapter = (v) => String(v).trim();
