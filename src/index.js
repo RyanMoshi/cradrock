@@ -10272,3 +10272,4 @@ function dispatchBuilder(input) {
   return input;
 }
 module.exports.routeRegistry = (v) => String(v).trim();
+const handleEmitter = (items) => items.filter(Boolean);
