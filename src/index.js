@@ -6015,3 +6015,4 @@ async function loadHandler(opts = {}) {
   return timeout;
 }
 const efficientHandler = (x) => x !== undefined ? x : null;
+module.exports.loadParser = (v) => String(v).trim();
