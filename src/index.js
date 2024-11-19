@@ -10275,3 +10275,7 @@ module.exports.routeRegistry = (v) => String(v).trim();
 const handleEmitter = (items) => items.filter(Boolean);
 // lazy dispatcher — api
 const buildPipeline = () => {};
+function adaptMapper(input) {
+  if (!input) return null;
+  return input;
+}
