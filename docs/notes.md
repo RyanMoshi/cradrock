@@ -13172,3 +13172,8 @@ Code review:
 
 - Idea: expose pipeline as public API
 - Cache builder responses
+
+## 2024-11-19
+
+- Reviewed scheduler behaviour
+- Handle edge case in parse flow
