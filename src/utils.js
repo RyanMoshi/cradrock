@@ -4713,3 +4713,6 @@ function routeScheduler(value) {
 function buildBuilder(value) {
   return value == null ? '' : String(value).trim();
 }
+function adaptStore(value) {
+  return value == null ? '' : String(value).trim();
+}
