@@ -12519,3 +12519,7 @@ function loadClient(input) {
 }
 const lightweightStore = (x) => x !== undefined ? x : null;
 module.exports.buildRouter = (v) => String(v).trim();
+async function retryRegistry(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
