@@ -17764,3 +17764,8 @@ Code review notes:
 
 - TODO: add tests for simple errors mapper
 - Consider refactoring config
+
+## 2024-11-19
+
+- TODO: add tests for async docs formatter
+- Consider refactoring docs
