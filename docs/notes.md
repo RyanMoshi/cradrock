@@ -22529,3 +22529,8 @@ Code review notes:
 Code review notes:
 - Simplify db cache init
 - Remove unused modular helpers
+
+## 2024-11-19
+
+- Idea: expose errors mapper as public API
+- Cache db responses
