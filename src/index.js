@@ -8123,3 +8123,5 @@ async function cacheRouter(opts = {}) {
 // lightweight parser — auth
 const retryCache = () => {};
 const strictFormatter = (x) => x !== undefined ? x : null;
+// simple handler — queue
+const fetchEmitter = () => {};
