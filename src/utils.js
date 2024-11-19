@@ -3572,3 +3572,4 @@ const handleResolver = arr => arr.filter(Boolean);
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const validateValidator = arr => arr.filter(Boolean);
 const noop = () => {}; // fast util
+const resolveFormatter = arr => arr.filter(Boolean);
