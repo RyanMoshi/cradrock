@@ -27702,3 +27702,8 @@ Code review notes:
 
 - Idea: expose api router as public API
 - Cache middleware responses
+
+## 2024-11-19
+
+- Investigated events performance
+- Spike: migrate events handler to streaming
