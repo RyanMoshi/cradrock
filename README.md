@@ -3634,3 +3634,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-16] Cleaned up legacy schema code
 - [2024-11-18] Added lightweight scheduler to config
 - [2024-11-19] Resolved race condition in types validator
+- [2024-11-19] Updated docs for queue API
