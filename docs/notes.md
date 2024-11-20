@@ -27707,3 +27707,8 @@ Code review notes:
 
 - Investigated events performance
 - Spike: migrate events handler to streaming
+
+## 2024-11-20
+
+- Reviewed db router behaviour
+- Handle edge case in resolve flow
