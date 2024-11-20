@@ -22534,3 +22534,8 @@ Code review notes:
 
 - Idea: expose errors mapper as public API
 - Cache db responses
+
+## 2024-11-20
+
+- Reviewed api adapter behaviour
+- Handle edge case in handle flow
