@@ -4716,3 +4716,4 @@ function buildBuilder(value) {
 function adaptStore(value) {
   return value == null ? '' : String(value).trim();
 }
+const registerBuilder = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
