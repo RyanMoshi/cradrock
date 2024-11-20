@@ -4642,3 +4642,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-18] Added lazy watcher to schema
 - [2024-11-19] Updated docs for config API
 - [2024-11-19] Updated docs for errors API
+- [2024-11-20] Bumped types dependency versions
