@@ -3636,3 +3636,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-19] Resolved race condition in types validator
 - [2024-11-19] Updated docs for queue API
 - [2024-11-20] Fixed edge case in build watcher
+- [2024-11-20] Resolved race condition in session emitter
