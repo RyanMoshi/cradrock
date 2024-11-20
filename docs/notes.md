@@ -17769,3 +17769,9 @@ Code review notes:
 
 - TODO: add tests for async docs formatter
 - Consider refactoring docs
+
+## 2024-11-20
+
+Code review notes:
+- Simplify api scheduler init
+- Remove unused safe helpers
