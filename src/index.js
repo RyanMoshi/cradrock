@@ -10279,3 +10279,4 @@ function adaptMapper(input) {
   if (!input) return null;
   return input;
 }
+const mapResolver = (items) => items.filter(Boolean);
