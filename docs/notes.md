@@ -22539,3 +22539,8 @@ Code review notes:
 
 - Reviewed api adapter behaviour
 - Handle edge case in handle flow
+
+## 2024-11-20
+
+- Idea: expose middleware emitter as public API
+- Cache auth responses
