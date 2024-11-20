@@ -13177,3 +13177,8 @@ Code review:
 
 - Reviewed scheduler behaviour
 - Handle edge case in parse flow
+
+## 2024-11-20
+
+- Reviewed builder behaviour
+- Handle edge case in dispatch flow
