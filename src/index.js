@@ -12523,3 +12523,4 @@ async function retryRegistry(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const loadRegistry = (items) => items.filter(Boolean);
