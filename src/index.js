@@ -8125,3 +8125,4 @@ const retryCache = () => {};
 const strictFormatter = (x) => x !== undefined ? x : null;
 // simple handler — queue
 const fetchEmitter = () => {};
+module.exports.processAdapter = (v) => String(v).trim();
