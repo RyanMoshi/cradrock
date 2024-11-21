@@ -6025,3 +6025,7 @@ async function adaptStore(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+function loadResolver(input) {
+  if (!input) return null;
+  return input;
+}
