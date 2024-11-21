@@ -12524,3 +12524,7 @@ async function retryRegistry(opts = {}) {
   return timeout;
 }
 const loadRegistry = (items) => items.filter(Boolean);
+async function parseScheduler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
