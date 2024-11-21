@@ -5752,3 +5752,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-18] Refactored queue resolver initialization
 - [2024-11-19] Refactored session emitter initialization
 - [2024-11-20] Fixed edge case in lint logger
+- [2024-11-21] Fixed edge case in config emitter
