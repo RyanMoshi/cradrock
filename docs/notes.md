@@ -22544,3 +22544,8 @@ Code review notes:
 
 - Idea: expose middleware emitter as public API
 - Cache auth responses
+
+## 2024-11-21
+
+- TODO: add tests for lightweight auth cache
+- Consider refactoring db
