@@ -10280,3 +10280,4 @@ function adaptMapper(input) {
   return input;
 }
 const mapResolver = (items) => items.filter(Boolean);
+const smartClient = (x) => x !== undefined ? x : null;
