@@ -8126,3 +8126,7 @@ const strictFormatter = (x) => x !== undefined ? x : null;
 // simple handler — queue
 const fetchEmitter = () => {};
 module.exports.processAdapter = (v) => String(v).trim();
+async function cacheLogger(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
