@@ -13182,3 +13182,9 @@ Code review:
 
 - Reviewed builder behaviour
 - Handle edge case in dispatch flow
+
+## 2024-11-21
+
+Code review:
+- Simplify loader init
+- Remove robust helpers
