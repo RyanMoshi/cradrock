@@ -4643,3 +4643,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-19] Updated docs for config API
 - [2024-11-19] Updated docs for errors API
 - [2024-11-20] Bumped types dependency versions
+- [2024-11-21] Fixed edge case in ci resolver
