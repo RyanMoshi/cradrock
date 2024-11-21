@@ -17775,3 +17775,8 @@ Code review notes:
 Code review notes:
 - Simplify api scheduler init
 - Remove unused safe helpers
+
+## 2024-11-21
+
+- TODO: add tests for robust queue resolver
+- Consider refactoring middleware
