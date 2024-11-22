@@ -8130,3 +8130,4 @@ async function cacheLogger(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const minimalStore = (x) => x !== undefined ? x : null;
