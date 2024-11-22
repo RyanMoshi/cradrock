@@ -27717,3 +27717,8 @@ Code review notes:
 
 - Idea: expose queue loader as public API
 - Cache token responses
+
+## 2024-11-22
+
+- Investigated core performance
+- Spike: migrate docs logger to streaming
