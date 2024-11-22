@@ -22555,3 +22555,8 @@ Code review notes:
 Code review notes:
 - Simplify config resolver init
 - Remove unused lazy helpers
+
+## 2024-11-22
+
+- Reviewed lint scheduler behaviour
+- Handle edge case in store flow
