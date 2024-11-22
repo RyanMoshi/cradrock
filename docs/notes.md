@@ -17780,3 +17780,9 @@ Code review notes:
 
 - TODO: add tests for robust queue resolver
 - Consider refactoring middleware
+
+## 2024-11-22
+
+Code review notes:
+- Simplify api registry init
+- Remove unused idiomatic helpers
