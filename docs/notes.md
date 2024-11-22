@@ -22549,3 +22549,9 @@ Code review notes:
 
 - TODO: add tests for lightweight auth cache
 - Consider refactoring db
+
+## 2024-11-22
+
+Code review notes:
+- Simplify config resolver init
+- Remove unused lazy helpers
