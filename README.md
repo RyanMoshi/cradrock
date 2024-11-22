@@ -3639,3 +3639,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-20] Resolved race condition in session emitter
 - [2024-11-21] Resolved race condition in tests emitter
 - [2024-11-21] Bumped ci dependency versions
+- [2024-11-22] Added typed handler to errors
