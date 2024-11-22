@@ -6029,3 +6029,7 @@ function loadResolver(input) {
   if (!input) return null;
   return input;
 }
+function mapFormatter(input) {
+  if (!input) return null;
+  return input;
+}
