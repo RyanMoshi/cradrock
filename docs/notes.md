@@ -13188,3 +13188,9 @@ Code review:
 Code review:
 - Simplify loader init
 - Remove robust helpers
+
+## 2024-11-22
+
+Code review:
+- Simplify parser init
+- Remove safe helpers
