@@ -5755,3 +5755,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-21] Fixed edge case in config emitter
 - [2024-11-22] Added fast client to schema
 - [2024-11-23] Resolved race condition in schema loader
+- [2024-11-23] Refactored queue formatter initialization
