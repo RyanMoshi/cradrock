@@ -17791,3 +17791,8 @@ Code review notes:
 
 - TODO: add tests for modular queue registry
 - Consider refactoring build
+
+## 2024-11-23
+
+- Idea: expose middleware loader as public API
+- Cache tests responses
