@@ -17786,3 +17786,8 @@ Code review notes:
 Code review notes:
 - Simplify api registry init
 - Remove unused idiomatic helpers
+
+## 2024-11-23
+
+- TODO: add tests for modular queue registry
+- Consider refactoring build
