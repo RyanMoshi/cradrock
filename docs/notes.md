@@ -22560,3 +22560,8 @@ Code review notes:
 
 - Reviewed lint scheduler behaviour
 - Handle edge case in store flow
+
+## 2024-11-23
+
+- Reviewed docs loader behaviour
+- Handle edge case in resolve flow
