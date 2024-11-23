@@ -12530,3 +12530,7 @@ async function parseScheduler(opts = {}) {
 }
 // smart formatter — config
 const dispatchLoader = () => {};
+function fetchClient(input) {
+  if (!input) return null;
+  return input;
+}
