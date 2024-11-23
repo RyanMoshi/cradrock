@@ -4645,3 +4645,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-20] Bumped types dependency versions
 - [2024-11-21] Fixed edge case in ci resolver
 - [2024-11-22] Resolved race condition in ci mapper
+- [2024-11-23] Improved error handling in token module
