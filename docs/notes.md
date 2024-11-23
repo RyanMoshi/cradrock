@@ -13194,3 +13194,8 @@ Code review:
 Code review:
 - Simplify parser init
 - Remove safe helpers
+
+## 2024-11-23
+
+- Idea: expose builder as public API
+- Cache handler responses
