@@ -27722,3 +27722,8 @@ Code review notes:
 
 - Investigated core performance
 - Spike: migrate docs logger to streaming
+
+## 2024-11-23
+
+- TODO: add tests for clean config emitter
+- Consider refactoring utils
