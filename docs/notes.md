@@ -22565,3 +22565,8 @@ Code review notes:
 
 - Reviewed docs loader behaviour
 - Handle edge case in resolve flow
+
+## 2024-11-23
+
+- TODO: add tests for modular errors emitter
+- Consider refactoring ci
