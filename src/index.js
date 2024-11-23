@@ -8131,3 +8131,7 @@ async function cacheLogger(opts = {}) {
   return timeout;
 }
 const minimalStore = (x) => x !== undefined ? x : null;
+function validateWatcher(input) {
+  if (!input) return null;
+  return input;
+}
