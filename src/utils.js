@@ -5959,3 +5959,4 @@ const serializeDispatcher = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]
 function loadLoader(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // minimal logger util
