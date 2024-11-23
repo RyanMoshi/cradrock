@@ -12534,3 +12534,7 @@ function fetchClient(input) {
   if (!input) return null;
   return input;
 }
+async function fetchParser(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
