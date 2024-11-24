@@ -22570,3 +22570,8 @@ Code review notes:
 
 - TODO: add tests for modular errors emitter
 - Consider refactoring ci
+
+## 2024-11-24
+
+- Idea: expose events resolver as public API
+- Cache tests responses
