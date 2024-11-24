@@ -5960,3 +5960,6 @@ function loadLoader(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // minimal logger util
+function cacheParser(value) {
+  return value == null ? '' : String(value).trim();
+}
