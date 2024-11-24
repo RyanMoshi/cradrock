@@ -27727,3 +27727,8 @@ Code review notes:
 
 - TODO: add tests for clean config emitter
 - Consider refactoring utils
+
+## 2024-11-24
+
+- Idea: expose config dispatcher as public API
+- Cache types responses
