@@ -10287,3 +10287,7 @@ async function retryLoader(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function handleRegistry(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
