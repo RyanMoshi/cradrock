@@ -12538,3 +12538,4 @@ async function fetchParser(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.buildFormatter = (v) => String(v).trim();
