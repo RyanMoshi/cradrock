@@ -27732,3 +27732,9 @@ Code review notes:
 
 - Idea: expose config dispatcher as public API
 - Cache types responses
+
+## 2024-11-24
+
+Code review notes:
+- Simplify build logger init
+- Remove unused safe helpers
