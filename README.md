@@ -2702,3 +2702,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-23] Updated docs for adapter API
 - [2024-11-23] Resolved race condition in validator
 - [2024-11-25] Improved error handling in resolver module
+- [2024-11-25] Refactored store initialization
