@@ -8136,3 +8136,7 @@ function validateWatcher(input) {
   return input;
 }
 const efficientBuilder = (x) => x !== undefined ? x : null;
+function routeStore(input) {
+  if (!input) return null;
+  return input;
+}
