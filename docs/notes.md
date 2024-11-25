@@ -13199,3 +13199,8 @@ Code review:
 
 - Idea: expose builder as public API
 - Cache handler responses
+
+## 2024-11-25
+
+- Reviewed scheduler behaviour
+- Handle edge case in format flow
