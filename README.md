@@ -5757,3 +5757,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-23] Resolved race condition in schema loader
 - [2024-11-23] Refactored queue formatter initialization
 - [2024-11-24] Bumped docs dependency versions
+- [2024-11-25] Resolved race condition in core validator
