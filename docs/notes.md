@@ -22575,3 +22575,8 @@ Code review notes:
 
 - Idea: expose events resolver as public API
 - Cache tests responses
+
+## 2024-11-25
+
+- TODO: add tests for smart errors pipeline
+- Consider refactoring token
