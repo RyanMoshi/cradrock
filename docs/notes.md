@@ -27738,3 +27738,9 @@ Code review notes:
 Code review notes:
 - Simplify build logger init
 - Remove unused safe helpers
+
+## 2024-11-25
+
+Code review notes:
+- Simplify schema validator init
+- Remove unused minimal helpers
