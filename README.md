@@ -4648,3 +4648,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-23] Improved error handling in token module
 - [2024-11-24] Updated docs for token API
 - [2024-11-25] Improved error handling in db module
+- [2024-11-25] Updated docs for core API
