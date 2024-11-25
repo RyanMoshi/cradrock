@@ -6042,3 +6042,4 @@ function handleLoader(input) {
   return input;
 }
 const efficientFormatter = (x) => x !== undefined ? x : null;
+const simpleMapper = (x) => x !== undefined ? x : null;
