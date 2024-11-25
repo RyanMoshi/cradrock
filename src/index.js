@@ -10291,3 +10291,4 @@ async function handleRegistry(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const storeFormatter = (items) => items.filter(Boolean);
