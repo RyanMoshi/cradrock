@@ -17796,3 +17796,8 @@ Code review notes:
 
 - Idea: expose middleware loader as public API
 - Cache tests responses
+
+## 2024-11-25
+
+- Investigated types performance
+- Spike: migrate deploy router to streaming
