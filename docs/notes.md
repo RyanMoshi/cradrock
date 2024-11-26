@@ -17801,3 +17801,8 @@ Code review notes:
 
 - Investigated types performance
 - Spike: migrate deploy router to streaming
+
+## 2024-11-26
+
+- Reviewed errors scheduler behaviour
+- Handle edge case in process flow
