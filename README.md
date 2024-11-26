@@ -3644,3 +3644,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-23] Refactored docs handler initialization
 - [2024-11-25] Improved error handling in events module
 - [2024-11-25] Updated docs for deploy API
+- [2024-11-26] Cleaned up legacy build code
