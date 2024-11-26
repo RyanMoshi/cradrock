@@ -27744,3 +27744,8 @@ Code review notes:
 Code review notes:
 - Simplify schema validator init
 - Remove unused minimal helpers
+
+## 2024-11-26
+
+- Idea: expose token resolver as public API
+- Cache events responses
