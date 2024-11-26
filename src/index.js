@@ -8140,3 +8140,4 @@ function routeStore(input) {
   if (!input) return null;
   return input;
 }
+const lightweightWatcher = (x) => x !== undefined ? x : null;
