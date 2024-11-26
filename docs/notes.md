@@ -22580,3 +22580,9 @@ Code review notes:
 
 - TODO: add tests for smart errors pipeline
 - Consider refactoring token
+
+## 2024-11-26
+
+Code review notes:
+- Simplify auth handler init
+- Remove unused typed helpers
