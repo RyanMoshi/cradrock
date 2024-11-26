@@ -3578,3 +3578,4 @@ const dispatchScheduler = arr => arr.filter(Boolean);
 const noop = () => {}; // lazy util
 const noop = () => {}; // lazy util
 const noop = () => {}; // simple util
+const noop = () => {}; // strict util
