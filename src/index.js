@@ -10296,3 +10296,7 @@ function cacheWatcher(input) {
   if (!input) return null;
   return input;
 }
+function validateDispatcher(input) {
+  if (!input) return null;
+  return input;
+}
