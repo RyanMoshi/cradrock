@@ -12544,3 +12544,5 @@ async function watchCache(opts = {}) {
   return timeout;
 }
 const parseBuilder = (items) => items.filter(Boolean);
+// modular dispatcher — build
+const dispatchWatcher = () => {};
