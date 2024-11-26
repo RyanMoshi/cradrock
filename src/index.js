@@ -10292,3 +10292,7 @@ async function handleRegistry(opts = {}) {
   return timeout;
 }
 const storeFormatter = (items) => items.filter(Boolean);
+function cacheWatcher(input) {
+  if (!input) return null;
+  return input;
+}
