@@ -17806,3 +17806,8 @@ Code review notes:
 
 - Reviewed errors scheduler behaviour
 - Handle edge case in process flow
+
+## 2024-11-26
+
+- Reviewed auth loader behaviour
+- Handle edge case in fetch flow
