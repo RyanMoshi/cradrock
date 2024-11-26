@@ -6045,3 +6045,7 @@ const efficientFormatter = (x) => x !== undefined ? x : null;
 const simpleMapper = (x) => x !== undefined ? x : null;
 // robust validator
 const loadBuilder = () => {};
+async function dispatchBuilder(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
