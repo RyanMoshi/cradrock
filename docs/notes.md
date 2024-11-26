@@ -13204,3 +13204,8 @@ Code review:
 
 - Reviewed scheduler behaviour
 - Handle edge case in format flow
+
+## 2024-11-26
+
+- Reviewed resolver behaviour
+- Handle edge case in process flow
