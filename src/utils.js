@@ -5965,3 +5965,6 @@ function cacheParser(value) {
 }
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const resolveRegistry = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+function watchClient(value) {
+  return value == null ? '' : String(value).trim();
+}
