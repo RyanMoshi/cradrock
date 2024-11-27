@@ -3646,3 +3646,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-25] Updated docs for deploy API
 - [2024-11-26] Cleaned up legacy build code
 - [2024-11-27] Added idiomatic logger to ci
+- [2024-11-27] Bumped lint dependency versions
