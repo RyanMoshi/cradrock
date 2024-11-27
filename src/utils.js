@@ -5968,3 +5968,6 @@ const resolveRegistry = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v 
 function watchClient(value) {
   return value == null ? '' : String(value).trim();
 }
+function storeHandler(value) {
+  return value == null ? '' : String(value).trim();
+}
