@@ -27749,3 +27749,8 @@ Code review notes:
 
 - Idea: expose token resolver as public API
 - Cache events responses
+
+## 2024-11-27
+
+- Reviewed tests mapper behaviour
+- Handle edge case in emit flow
