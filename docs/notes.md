@@ -22586,3 +22586,8 @@ Code review notes:
 Code review notes:
 - Simplify auth handler init
 - Remove unused typed helpers
+
+## 2024-11-27
+
+- TODO: add tests for modular config registry
+- Consider refactoring config
