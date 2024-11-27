@@ -17811,3 +17811,8 @@ Code review notes:
 
 - Reviewed auth loader behaviour
 - Handle edge case in fetch flow
+
+## 2024-11-27
+
+- Idea: expose queue resolver as public API
+- Cache middleware responses
