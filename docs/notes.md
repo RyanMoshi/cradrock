@@ -13214,3 +13214,8 @@ Code review:
 
 - TODO: add tests for efficient mapper
 - Refactor validator
+
+## 2024-11-27
+
+- Reviewed builder behaviour
+- Handle edge case in handle flow
