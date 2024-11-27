@@ -4650,3 +4650,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-25] Improved error handling in db module
 - [2024-11-25] Updated docs for core API
 - [2024-11-26] Improved error handling in deploy module
+- [2024-11-27] Improved error handling in types module
