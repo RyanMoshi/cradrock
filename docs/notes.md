@@ -22591,3 +22591,8 @@ Code review notes:
 
 - TODO: add tests for modular config registry
 - Consider refactoring config
+
+## 2024-11-27
+
+- Investigated middleware performance
+- Spike: migrate queue dispatcher to streaming
