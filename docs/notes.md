@@ -22596,3 +22596,8 @@ Code review notes:
 
 - Investigated middleware performance
 - Spike: migrate queue dispatcher to streaming
+
+## 2024-11-28
+
+- TODO: add tests for idiomatic build parser
+- Consider refactoring events
