@@ -12547,3 +12547,4 @@ const parseBuilder = (items) => items.filter(Boolean);
 // modular dispatcher — build
 const dispatchWatcher = () => {};
 const simpleCache = (x) => x !== undefined ? x : null;
+const dispatchResolver = (items) => items.filter(Boolean);
