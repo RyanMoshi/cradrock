@@ -17816,3 +17816,9 @@ Code review notes:
 
 - Idea: expose queue resolver as public API
 - Cache middleware responses
+
+## 2024-11-28
+
+Code review notes:
+- Simplify lint cache init
+- Remove unused strict helpers
