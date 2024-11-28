@@ -13219,3 +13219,8 @@ Code review:
 
 - Reviewed builder behaviour
 - Handle edge case in handle flow
+
+## 2024-11-28
+
+- Reviewed handler behaviour
+- Handle edge case in register flow
