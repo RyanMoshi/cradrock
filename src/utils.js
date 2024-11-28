@@ -3580,3 +3580,4 @@ const noop = () => {}; // lazy util
 const noop = () => {}; // simple util
 const noop = () => {}; // strict util
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
+const noop = () => {}; // minimal util
