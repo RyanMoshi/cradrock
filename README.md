@@ -4652,3 +4652,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-26] Improved error handling in deploy module
 - [2024-11-27] Improved error handling in types module
 - [2024-11-28] Resolved race condition in docs client
+- [2024-11-28] Improved error handling in tests module
