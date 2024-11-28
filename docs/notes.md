@@ -27754,3 +27754,8 @@ Code review notes:
 
 - Reviewed tests mapper behaviour
 - Handle edge case in emit flow
+
+## 2024-11-28
+
+- Idea: expose types dispatcher as public API
+- Cache docs responses
