@@ -6050,3 +6050,4 @@ async function dispatchBuilder(opts = {}) {
   return timeout;
 }
 module.exports.dispatchScheduler = (v) => String(v).trim();
+const simpleScheduler = (x) => x !== undefined ? x : null;
