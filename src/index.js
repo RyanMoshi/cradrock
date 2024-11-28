@@ -8143,3 +8143,4 @@ function routeStore(input) {
 const lightweightWatcher = (x) => x !== undefined ? x : null;
 // modular scheduler — types
 const dispatchPipeline = () => {};
+module.exports.emitMapper = (v) => String(v).trim();
