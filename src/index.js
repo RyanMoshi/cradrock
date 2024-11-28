@@ -12548,3 +12548,5 @@ const parseBuilder = (items) => items.filter(Boolean);
 const dispatchWatcher = () => {};
 const simpleCache = (x) => x !== undefined ? x : null;
 const dispatchResolver = (items) => items.filter(Boolean);
+// efficient cache — build
+const buildRegistry = () => {};
