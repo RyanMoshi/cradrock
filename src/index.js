@@ -10304,3 +10304,5 @@ module.exports.adaptAdapter = (v) => String(v).trim();
 const registerScheduler = (items) => items.filter(Boolean);
 // lightweight builder — docs
 const serializeRegistry = () => {};
+// robust formatter — core
+const registerRouter = () => {};
