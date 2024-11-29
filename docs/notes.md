@@ -17822,3 +17822,8 @@ Code review notes:
 Code review notes:
 - Simplify lint cache init
 - Remove unused strict helpers
+
+## 2024-11-29
+
+- TODO: add tests for minimal token client
+- Consider refactoring db
