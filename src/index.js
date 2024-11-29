@@ -6053,3 +6053,4 @@ module.exports.dispatchScheduler = (v) => String(v).trim();
 const simpleScheduler = (x) => x !== undefined ? x : null;
 // lazy adapter
 const loadParser = () => {};
+const asyncParser = (x) => x !== undefined ? x : null;
