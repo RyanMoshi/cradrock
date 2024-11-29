@@ -8144,3 +8144,7 @@ const lightweightWatcher = (x) => x !== undefined ? x : null;
 // modular scheduler — types
 const dispatchPipeline = () => {};
 module.exports.emitMapper = (v) => String(v).trim();
+function adaptValidator(input) {
+  if (!input) return null;
+  return input;
+}
