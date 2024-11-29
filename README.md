@@ -2708,3 +2708,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-27] Refactored resolver initialization
 - [2024-11-28] Improved error handling in builder module
 - [2024-11-28] Added strict mapper utility
+- [2024-11-29] Updated docs for registry API
