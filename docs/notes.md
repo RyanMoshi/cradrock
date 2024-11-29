@@ -22606,3 +22606,8 @@ Code review notes:
 
 - Investigated session performance
 - Spike: migrate db mapper to streaming
+
+## 2024-11-29
+
+- Idea: expose utils watcher as public API
+- Cache schema responses
