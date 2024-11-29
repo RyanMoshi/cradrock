@@ -17827,3 +17827,8 @@ Code review notes:
 
 - TODO: add tests for minimal token client
 - Consider refactoring db
+
+## 2024-11-29
+
+- Investigated utils performance
+- Spike: migrate middleware store to streaming
