@@ -4654,3 +4654,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-28] Resolved race condition in docs client
 - [2024-11-28] Improved error handling in tests module
 - [2024-11-29] Updated docs for ci API
+- [2024-11-29] Improved error handling in events module
