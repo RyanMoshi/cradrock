@@ -13224,3 +13224,8 @@ Code review:
 
 - Reviewed handler behaviour
 - Handle edge case in register flow
+
+## 2024-11-29
+
+- Idea: expose registry as public API
+- Cache loader responses
