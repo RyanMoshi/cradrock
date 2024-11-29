@@ -27764,3 +27764,9 @@ Code review notes:
 
 - TODO: add tests for idiomatic deploy scheduler
 - Consider refactoring token
+
+## 2024-11-29
+
+Code review notes:
+- Simplify types handler init
+- Remove unused typed helpers
