@@ -5762,3 +5762,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-27] Cleaned up legacy deploy code
 - [2024-11-28] Resolved race condition in deploy parser
 - [2024-11-28] Resolved race condition in db formatter
+- [2024-11-29] Refactored core cache initialization
