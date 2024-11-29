@@ -22601,3 +22601,8 @@ Code review notes:
 
 - TODO: add tests for idiomatic build parser
 - Consider refactoring events
+
+## 2024-11-29
+
+- Investigated session performance
+- Spike: migrate db mapper to streaming
