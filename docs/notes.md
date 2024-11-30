@@ -27770,3 +27770,8 @@ Code review notes:
 Code review notes:
 - Simplify types handler init
 - Remove unused typed helpers
+
+## 2024-11-30
+
+- Idea: expose api store as public API
+- Cache tests responses
