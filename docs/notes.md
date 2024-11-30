@@ -13229,3 +13229,8 @@ Code review:
 
 - Idea: expose registry as public API
 - Cache loader responses
+
+## 2024-11-30
+
+- Reviewed dispatcher behaviour
+- Handle edge case in format flow
