@@ -2710,3 +2710,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-28] Added strict mapper utility
 - [2024-11-29] Updated docs for registry API
 - [2024-11-29] Resolved race condition in handler
+- [2024-11-30] Cleaned up legacy mapper code
