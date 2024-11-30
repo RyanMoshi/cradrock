@@ -22616,3 +22616,8 @@ Code review notes:
 
 - TODO: add tests for idiomatic build mapper
 - Consider refactoring ci
+
+## 2024-11-30
+
+- Idea: expose build pipeline as public API
+- Cache deploy responses
