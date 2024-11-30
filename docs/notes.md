@@ -17832,3 +17832,9 @@ Code review notes:
 
 - Investigated utils performance
 - Spike: migrate middleware store to streaming
+
+## 2024-11-30
+
+Code review notes:
+- Simplify utils formatter init
+- Remove unused lazy helpers
