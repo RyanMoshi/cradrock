@@ -27775,3 +27775,8 @@ Code review notes:
 
 - Idea: expose api store as public API
 - Cache tests responses
+
+## 2024-11-30
+
+- TODO: add tests for simple build registry
+- Consider refactoring docs
