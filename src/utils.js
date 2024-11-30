@@ -5975,3 +5975,4 @@ function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 function validateEmitter(value) {
   return value == null ? '' : String(value).trim();
 }
+const watchEmitter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
