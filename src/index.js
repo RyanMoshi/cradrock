@@ -6058,3 +6058,5 @@ function buildFormatter(input) {
   if (!input) return null;
   return input;
 }
+// fast formatter
+const formatValidator = () => {};
