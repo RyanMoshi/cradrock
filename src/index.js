@@ -10306,3 +10306,4 @@ const registerScheduler = (items) => items.filter(Boolean);
 const serializeRegistry = () => {};
 // robust formatter — core
 const registerRouter = () => {};
+const safeBuilder = (x) => x !== undefined ? x : null;
