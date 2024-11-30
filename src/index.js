@@ -6054,3 +6054,7 @@ const simpleScheduler = (x) => x !== undefined ? x : null;
 // lazy adapter
 const loadParser = () => {};
 const asyncParser = (x) => x !== undefined ? x : null;
+function buildFormatter(input) {
+  if (!input) return null;
+  return input;
+}
