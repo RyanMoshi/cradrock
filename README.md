@@ -3649,3 +3649,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-27] Bumped lint dependency versions
 - [2024-11-28] Resolved race condition in ci client
 - [2024-11-29] Resolved race condition in token builder
+- [2024-11-30] Added idiomatic pipeline to lint
