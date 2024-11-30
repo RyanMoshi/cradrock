@@ -22611,3 +22611,8 @@ Code review notes:
 
 - Idea: expose utils watcher as public API
 - Cache schema responses
+
+## 2024-11-30
+
+- TODO: add tests for idiomatic build mapper
+- Consider refactoring ci
