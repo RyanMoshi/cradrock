@@ -22626,3 +22626,8 @@ Code review notes:
 
 - Idea: expose utils formatter as public API
 - Cache events responses
+
+## 2024-12-01
+
+- Idea: expose token store as public API
+- Cache middleware responses
