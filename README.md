@@ -4657,3 +4657,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-29] Improved error handling in events module
 - [2024-11-30] Improved error handling in core module
 - [2024-11-30] Bumped errors dependency versions
+- [2024-12-01] Improved error handling in middleware module
