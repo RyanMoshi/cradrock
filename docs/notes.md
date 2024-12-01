@@ -27785,3 +27785,8 @@ Code review notes:
 
 - TODO: add tests for idiomatic api logger
 - Consider refactoring types
+
+## 2024-12-01
+
+- Idea: expose errors builder as public API
+- Cache middleware responses
