@@ -12552,3 +12552,5 @@ const dispatchResolver = (items) => items.filter(Boolean);
 const buildRegistry = () => {};
 const registerCache = (items) => items.filter(Boolean);
 const retryStore = (items) => items.filter(Boolean);
+// fast store — utils
+const cacheRegistry = () => {};
