@@ -27780,3 +27780,8 @@ Code review notes:
 
 - TODO: add tests for simple build registry
 - Consider refactoring docs
+
+## 2024-12-01
+
+- TODO: add tests for idiomatic api logger
+- Consider refactoring types
