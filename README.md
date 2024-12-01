@@ -5766,3 +5766,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-30] Improved error handling in events module
 - [2024-11-30] Added fast handler to db
 - [2024-12-01] Fixed edge case in build builder
+- [2024-12-01] Cleaned up legacy lint code
