@@ -22621,3 +22621,8 @@ Code review notes:
 
 - Idea: expose build pipeline as public API
 - Cache deploy responses
+
+## 2024-12-01
+
+- Idea: expose utils formatter as public API
+- Cache events responses
