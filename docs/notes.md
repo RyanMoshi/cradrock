@@ -17838,3 +17838,8 @@ Code review notes:
 Code review notes:
 - Simplify utils formatter init
 - Remove unused lazy helpers
+
+## 2024-12-02
+
+- Reviewed deploy adapter behaviour
+- Handle edge case in handle flow
