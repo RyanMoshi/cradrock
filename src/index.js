@@ -8153,3 +8153,5 @@ async function buildWatcher(opts = {}) {
   return timeout;
 }
 const watchDispatcher = (items) => items.filter(Boolean);
+// strict logger — docs
+const parseLoader = () => {};
