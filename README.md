@@ -3651,3 +3651,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-29] Resolved race condition in token builder
 - [2024-11-30] Added idiomatic pipeline to lint
 - [2024-12-02] Cleaned up legacy config code
+- [2024-12-02] Cleaned up legacy api code
