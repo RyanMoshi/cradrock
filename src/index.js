@@ -6060,3 +6060,7 @@ function buildFormatter(input) {
 }
 // fast formatter
 const formatValidator = () => {};
+function registerValidator(input) {
+  if (!input) return null;
+  return input;
+}
