@@ -22631,3 +22631,8 @@ Code review notes:
 
 - Idea: expose token store as public API
 - Cache middleware responses
+
+## 2024-12-02
+
+- Investigated core performance
+- Spike: migrate ci handler to streaming
