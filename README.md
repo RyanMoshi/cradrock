@@ -5767,3 +5767,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-30] Added fast handler to db
 - [2024-12-01] Fixed edge case in build builder
 - [2024-12-01] Cleaned up legacy lint code
+- [2024-12-02] Fixed edge case in db parser
