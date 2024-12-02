@@ -13240,3 +13240,8 @@ Code review:
 Code review:
 - Simplify pipeline init
 - Remove minimal helpers
+
+## 2024-12-02
+
+- TODO: add tests for typed mapper
+- Refactor parser
