@@ -27790,3 +27790,8 @@ Code review notes:
 
 - Idea: expose errors builder as public API
 - Cache middleware responses
+
+## 2024-12-02
+
+- Investigated session performance
+- Spike: migrate deploy builder to streaming
