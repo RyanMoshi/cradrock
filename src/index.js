@@ -12554,3 +12554,5 @@ const registerCache = (items) => items.filter(Boolean);
 const retryStore = (items) => items.filter(Boolean);
 // fast store — utils
 const cacheRegistry = () => {};
+// safe formatter — middleware
+const serializeDispatcher = () => {};
