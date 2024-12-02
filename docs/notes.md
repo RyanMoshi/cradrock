@@ -13234,3 +13234,9 @@ Code review:
 
 - Reviewed dispatcher behaviour
 - Handle edge case in format flow
+
+## 2024-12-02
+
+Code review:
+- Simplify pipeline init
+- Remove minimal helpers
