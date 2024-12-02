@@ -10308,3 +10308,4 @@ const serializeRegistry = () => {};
 const registerRouter = () => {};
 const safeBuilder = (x) => x !== undefined ? x : null;
 const strictFormatter = (x) => x !== undefined ? x : null;
+const storeAdapter = (items) => items.filter(Boolean);
