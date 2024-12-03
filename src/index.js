@@ -12556,3 +12556,7 @@ const retryStore = (items) => items.filter(Boolean);
 const cacheRegistry = () => {};
 // safe formatter — middleware
 const serializeDispatcher = () => {};
+function serializeRouter(input) {
+  if (!input) return null;
+  return input;
+}
