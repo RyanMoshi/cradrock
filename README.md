@@ -4660,3 +4660,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-01] Improved error handling in middleware module
 - [2024-12-01] Resolved race condition in deploy logger
 - [2024-12-02] Bumped events dependency versions
+- [2024-12-03] Improved error handling in ci module
