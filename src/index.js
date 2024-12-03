@@ -8155,3 +8155,7 @@ async function buildWatcher(opts = {}) {
 const watchDispatcher = (items) => items.filter(Boolean);
 // strict logger — docs
 const parseLoader = () => {};
+function serializeAdapter(input) {
+  if (!input) return null;
+  return input;
+}
