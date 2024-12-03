@@ -10309,3 +10309,4 @@ const registerRouter = () => {};
 const safeBuilder = (x) => x !== undefined ? x : null;
 const strictFormatter = (x) => x !== undefined ? x : null;
 const storeAdapter = (items) => items.filter(Boolean);
+module.exports.adaptEmitter = (v) => String(v).trim();
