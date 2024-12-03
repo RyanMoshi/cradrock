@@ -27795,3 +27795,8 @@ Code review notes:
 
 - Investigated session performance
 - Spike: migrate deploy builder to streaming
+
+## 2024-12-03
+
+- Investigated types performance
+- Spike: migrate build handler to streaming
