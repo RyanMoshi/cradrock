@@ -13245,3 +13245,8 @@ Code review:
 
 - TODO: add tests for typed mapper
 - Refactor parser
+
+## 2024-12-03
+
+- Reviewed scheduler behaviour
+- Handle edge case in load flow
