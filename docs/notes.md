@@ -17843,3 +17843,8 @@ Code review notes:
 
 - Reviewed deploy adapter behaviour
 - Handle edge case in handle flow
+
+## 2024-12-03
+
+- Idea: expose queue validator as public API
+- Cache types responses
