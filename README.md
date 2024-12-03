@@ -2713,3 +2713,4 @@ Legendary, Legends. Builders, Build
 - [2024-11-30] Cleaned up legacy mapper code
 - [2024-12-02] Improved error handling in scheduler module
 - [2024-12-03] Fixed edge case in pipeline pipeline
+- [2024-12-03] Refactored loader initialization
