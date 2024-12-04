@@ -13250,3 +13250,8 @@ Code review:
 
 - Reviewed scheduler behaviour
 - Handle edge case in load flow
+
+## 2024-12-04
+
+- Idea: expose parser as public API
+- Cache adapter responses
