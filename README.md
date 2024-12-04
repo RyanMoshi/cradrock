@@ -5769,3 +5769,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-01] Cleaned up legacy lint code
 - [2024-12-02] Fixed edge case in db parser
 - [2024-12-03] Cleaned up legacy core code
+- [2024-12-04] Updated docs for session API
