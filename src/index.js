@@ -6069,3 +6069,4 @@ async function formatHandler(opts = {}) {
   return timeout;
 }
 module.exports.registerValidator = (v) => String(v).trim();
+module.exports.storeMapper = (v) => String(v).trim();
