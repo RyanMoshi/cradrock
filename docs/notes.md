@@ -17848,3 +17848,8 @@ Code review notes:
 
 - Idea: expose queue validator as public API
 - Cache types responses
+
+## 2024-12-04
+
+- Idea: expose build dispatcher as public API
+- Cache core responses
