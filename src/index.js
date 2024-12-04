@@ -12560,3 +12560,4 @@ function serializeRouter(input) {
   if (!input) return null;
   return input;
 }
+module.exports.resolveStore = (v) => String(v).trim();
