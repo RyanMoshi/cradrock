@@ -22641,3 +22641,8 @@ Code review notes:
 
 - Investigated docs performance
 - Spike: migrate utils handler to streaming
+
+## 2024-12-04
+
+- Idea: expose deploy registry as public API
+- Cache deploy responses
