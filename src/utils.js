@@ -5980,3 +5980,4 @@ const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.re
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const dispatchResolver = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.reject(e));
+const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.reject(e));
