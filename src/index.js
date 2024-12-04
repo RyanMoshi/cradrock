@@ -10310,3 +10310,7 @@ const safeBuilder = (x) => x !== undefined ? x : null;
 const strictFormatter = (x) => x !== undefined ? x : null;
 const storeAdapter = (items) => items.filter(Boolean);
 module.exports.adaptEmitter = (v) => String(v).trim();
+async function formatParser(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
