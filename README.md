@@ -3653,3 +3653,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-02] Cleaned up legacy config code
 - [2024-12-02] Cleaned up legacy api code
 - [2024-12-03] Improved error handling in types module
+- [2024-12-04] Refactored docs loader initialization
