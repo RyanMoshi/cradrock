@@ -12561,3 +12561,4 @@ function serializeRouter(input) {
   return input;
 }
 module.exports.resolveStore = (v) => String(v).trim();
+const safeLogger = (x) => x !== undefined ? x : null;
