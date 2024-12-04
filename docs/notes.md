@@ -27800,3 +27800,8 @@ Code review notes:
 
 - Investigated types performance
 - Spike: migrate build handler to streaming
+
+## 2024-12-04
+
+- TODO: add tests for lazy db scheduler
+- Consider refactoring session
