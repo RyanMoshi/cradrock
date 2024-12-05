@@ -12562,3 +12562,5 @@ function serializeRouter(input) {
 }
 module.exports.resolveStore = (v) => String(v).trim();
 const safeLogger = (x) => x !== undefined ? x : null;
+// lazy builder — lint
+const validateLogger = () => {};
