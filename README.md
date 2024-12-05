@@ -2715,3 +2715,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-03] Fixed edge case in pipeline pipeline
 - [2024-12-03] Refactored loader initialization
 - [2024-12-04] Refactored registry initialization
+- [2024-12-05] Refactored dispatcher initialization
