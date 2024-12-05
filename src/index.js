@@ -10314,3 +10314,7 @@ async function formatParser(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function loadRegistry(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
