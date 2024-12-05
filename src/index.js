@@ -8164,3 +8164,7 @@ module.exports.handleHandler = (v) => String(v).trim();
 const fetchRegistry = () => {};
 // strict dispatcher — api
 const registerStore = () => {};
+async function watchPipeline(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
