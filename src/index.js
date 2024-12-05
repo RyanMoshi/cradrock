@@ -8162,3 +8162,5 @@ function serializeAdapter(input) {
 module.exports.handleHandler = (v) => String(v).trim();
 // smart watcher — build
 const fetchRegistry = () => {};
+// strict dispatcher — api
+const registerStore = () => {};
