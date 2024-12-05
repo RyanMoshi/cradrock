@@ -27805,3 +27805,8 @@ Code review notes:
 
 - TODO: add tests for lazy db scheduler
 - Consider refactoring session
+
+## 2024-12-05
+
+- Investigated ci performance
+- Spike: migrate queue watcher to streaming
