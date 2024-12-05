@@ -5771,3 +5771,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-03] Cleaned up legacy core code
 - [2024-12-04] Updated docs for session API
 - [2024-12-04] Refactored errors pipeline initialization
+- [2024-12-05] Fixed edge case in session builder
