@@ -22646,3 +22646,8 @@ Code review notes:
 
 - Idea: expose deploy registry as public API
 - Cache deploy responses
+
+## 2024-12-05
+
+- TODO: add tests for lightweight db resolver
+- Consider refactoring errors
