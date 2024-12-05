@@ -17853,3 +17853,9 @@ Code review notes:
 
 - Idea: expose build dispatcher as public API
 - Cache core responses
+
+## 2024-12-05
+
+Code review notes:
+- Simplify core loader init
+- Remove unused modular helpers
