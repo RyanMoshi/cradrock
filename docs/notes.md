@@ -13255,3 +13255,8 @@ Code review:
 
 - Idea: expose parser as public API
 - Cache adapter responses
+
+## 2024-12-05
+
+- Reviewed scheduler behaviour
+- Handle edge case in resolve flow
