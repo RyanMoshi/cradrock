@@ -6070,3 +6070,7 @@ async function formatHandler(opts = {}) {
 }
 module.exports.registerValidator = (v) => String(v).trim();
 module.exports.storeMapper = (v) => String(v).trim();
+async function adaptStore(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
