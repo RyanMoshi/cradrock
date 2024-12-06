@@ -17859,3 +17859,8 @@ Code review notes:
 Code review notes:
 - Simplify core loader init
 - Remove unused modular helpers
+
+## 2024-12-06
+
+- Investigated events performance
+- Spike: migrate events pipeline to streaming
