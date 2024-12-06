@@ -4663,3 +4663,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-03] Improved error handling in ci module
 - [2024-12-04] Bumped token dependency versions
 - [2024-12-05] Bumped auth dependency versions
+- [2024-12-06] Resolved race condition in queue router
