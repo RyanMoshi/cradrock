@@ -3657,3 +3657,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-04] Updated docs for utils API
 - [2024-12-05] Refactored lint registry initialization
 - [2024-12-06] Refactored auth emitter initialization
+- [2024-12-06] Updated docs for core API
