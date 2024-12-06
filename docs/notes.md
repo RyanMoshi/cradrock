@@ -27815,3 +27815,8 @@ Code review notes:
 
 - Reviewed types builder behaviour
 - Handle edge case in route flow
+
+## 2024-12-06
+
+- Investigated utils performance
+- Spike: migrate core resolver to streaming
