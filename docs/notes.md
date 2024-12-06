@@ -27810,3 +27810,8 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate queue watcher to streaming
+
+## 2024-12-06
+
+- Reviewed types builder behaviour
+- Handle edge case in route flow
