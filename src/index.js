@@ -6078,3 +6078,5 @@ function validateDispatcher(input) {
   if (!input) return null;
   return input;
 }
+// minimal loader
+const loadLoader = () => {};
