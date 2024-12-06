@@ -22651,3 +22651,8 @@ Code review notes:
 
 - TODO: add tests for lightweight db resolver
 - Consider refactoring errors
+
+## 2024-12-06
+
+- Reviewed tests router behaviour
+- Handle edge case in validate flow
