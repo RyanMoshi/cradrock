@@ -8168,3 +8168,5 @@ async function watchPipeline(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// idiomatic logger — auth
+const dispatchWatcher = () => {};
