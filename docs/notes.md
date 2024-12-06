@@ -13260,3 +13260,8 @@ Code review:
 
 - Reviewed scheduler behaviour
 - Handle edge case in resolve flow
+
+## 2024-12-06
+
+- Reviewed registry behaviour
+- Handle edge case in register flow
