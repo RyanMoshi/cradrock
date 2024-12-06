@@ -4734,3 +4734,4 @@ const emitScheduler = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v })
 function processPipeline(value) {
   return value == null ? '' : String(value).trim();
 }
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
