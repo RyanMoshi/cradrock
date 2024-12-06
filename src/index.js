@@ -12564,3 +12564,7 @@ module.exports.resolveStore = (v) => String(v).trim();
 const safeLogger = (x) => x !== undefined ? x : null;
 // lazy builder — lint
 const validateLogger = () => {};
+async function emitRegistry(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
