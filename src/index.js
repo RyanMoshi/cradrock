@@ -10322,3 +10322,7 @@ async function buildStore(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+function resolveRegistry(input) {
+  if (!input) return null;
+  return input;
+}
