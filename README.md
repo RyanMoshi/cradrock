@@ -4664,3 +4664,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-04] Bumped token dependency versions
 - [2024-12-05] Bumped auth dependency versions
 - [2024-12-06] Resolved race condition in queue router
+- [2024-12-06] Added minimal dispatcher to ci
