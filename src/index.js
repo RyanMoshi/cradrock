@@ -8170,3 +8170,7 @@ async function watchPipeline(opts = {}) {
 }
 // idiomatic logger — auth
 const dispatchWatcher = () => {};
+function loadWatcher(input) {
+  if (!input) return null;
+  return input;
+}
