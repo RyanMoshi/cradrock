@@ -12570,3 +12570,7 @@ async function emitRegistry(opts = {}) {
 }
 // async resolver — utils
 const registerScheduler = () => {};
+async function handleValidator(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
