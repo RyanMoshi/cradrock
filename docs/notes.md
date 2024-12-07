@@ -27820,3 +27820,8 @@ Code review notes:
 
 - Investigated utils performance
 - Spike: migrate core resolver to streaming
+
+## 2024-12-07
+
+- Investigated core performance
+- Spike: migrate queue adapter to streaming
