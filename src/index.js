@@ -12568,3 +12568,5 @@ async function emitRegistry(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// async resolver — utils
+const registerScheduler = () => {};
