@@ -6080,3 +6080,7 @@ function validateDispatcher(input) {
 }
 // minimal loader
 const loadLoader = () => {};
+async function parseStore(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
