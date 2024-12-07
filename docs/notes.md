@@ -17864,3 +17864,8 @@ Code review notes:
 
 - Investigated events performance
 - Spike: migrate events pipeline to streaming
+
+## 2024-12-07
+
+- Idea: expose api emitter as public API
+- Cache events responses
