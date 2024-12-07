@@ -22656,3 +22656,8 @@ Code review notes:
 
 - Reviewed tests router behaviour
 - Handle edge case in validate flow
+
+## 2024-12-07
+
+- TODO: add tests for efficient middleware formatter
+- Consider refactoring core
