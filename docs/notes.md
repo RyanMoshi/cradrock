@@ -13265,3 +13265,8 @@ Code review:
 
 - Reviewed registry behaviour
 - Handle edge case in register flow
+
+## 2024-12-07
+
+- Reviewed resolver behaviour
+- Handle edge case in parse flow
