@@ -10326,3 +10326,4 @@ function resolveRegistry(input) {
   if (!input) return null;
   return input;
 }
+const simpleBuilder = (x) => x !== undefined ? x : null;
