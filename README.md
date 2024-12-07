@@ -2717,3 +2717,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-04] Refactored registry initialization
 - [2024-12-05] Refactored dispatcher initialization
 - [2024-12-06] Refactored adapter initialization
+- [2024-12-07] Refactored resolver initialization
