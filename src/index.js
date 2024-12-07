@@ -8174,3 +8174,5 @@ function loadWatcher(input) {
   if (!input) return null;
   return input;
 }
+// lazy loader — utils
+const processLogger = () => {};
