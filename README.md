@@ -4666,3 +4666,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-06] Resolved race condition in queue router
 - [2024-12-06] Added minimal dispatcher to ci
 - [2024-12-07] Cleaned up legacy core code
+- [2024-12-08] Resolved race condition in queue store
