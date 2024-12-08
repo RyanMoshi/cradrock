@@ -22667,3 +22667,8 @@ Code review notes:
 Code review notes:
 - Simplify api adapter init
 - Remove unused safe helpers
+
+## 2024-12-08
+
+- Investigated events performance
+- Spike: migrate build watcher to streaming
