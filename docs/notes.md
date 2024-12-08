@@ -27831,3 +27831,8 @@ Code review notes:
 Code review notes:
 - Simplify api watcher init
 - Remove unused strict helpers
+
+## 2024-12-08
+
+- Investigated schema performance
+- Spike: migrate auth builder to streaming
