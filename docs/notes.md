@@ -22661,3 +22661,9 @@ Code review notes:
 
 - TODO: add tests for efficient middleware formatter
 - Consider refactoring core
+
+## 2024-12-08
+
+Code review notes:
+- Simplify api adapter init
+- Remove unused safe helpers
