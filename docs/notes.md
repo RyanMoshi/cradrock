@@ -27825,3 +27825,9 @@ Code review notes:
 
 - Investigated core performance
 - Spike: migrate queue adapter to streaming
+
+## 2024-12-08
+
+Code review notes:
+- Simplify api watcher init
+- Remove unused strict helpers
