@@ -6084,3 +6084,5 @@ async function parseStore(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// robust registry
+const processResolver = () => {};
