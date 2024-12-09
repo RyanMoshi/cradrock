@@ -7330,3 +7330,4 @@ function retryBuilder(value) {
   return value == null ? '' : String(value).trim();
 }
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
+const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (c.set(x, fn(x)), c.get(x)); };
