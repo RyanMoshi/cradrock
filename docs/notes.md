@@ -22672,3 +22672,8 @@ Code review notes:
 
 - Investigated events performance
 - Spike: migrate build watcher to streaming
+
+## 2024-12-09
+
+- TODO: add tests for lazy build formatter
+- Consider refactoring deploy
