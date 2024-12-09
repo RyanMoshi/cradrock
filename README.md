@@ -3659,3 +3659,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-06] Refactored auth emitter initialization
 - [2024-12-06] Updated docs for core API
 - [2024-12-07] Refactored tests logger initialization
+- [2024-12-09] Added lightweight logger to ci
