@@ -2719,3 +2719,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-06] Refactored adapter initialization
 - [2024-12-07] Refactored resolver initialization
 - [2024-12-07] Fixed edge case in handler pipeline
+- [2024-12-09] Updated docs for builder API
