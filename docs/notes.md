@@ -27836,3 +27836,8 @@ Code review notes:
 
 - Investigated schema performance
 - Spike: migrate auth builder to streaming
+
+## 2024-12-09
+
+- Reviewed tests cache behaviour
+- Handle edge case in fetch flow
