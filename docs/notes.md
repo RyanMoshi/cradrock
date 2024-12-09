@@ -13270,3 +13270,8 @@ Code review:
 
 - Reviewed resolver behaviour
 - Handle edge case in parse flow
+
+## 2024-12-09
+
+- Idea: expose loader as public API
+- Cache mapper responses
