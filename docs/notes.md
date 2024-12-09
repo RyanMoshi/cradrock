@@ -17874,3 +17874,8 @@ Code review notes:
 
 - Reviewed ci dispatcher behaviour
 - Handle edge case in map flow
+
+## 2024-12-09
+
+- Investigated events performance
+- Spike: migrate tests parser to streaming
