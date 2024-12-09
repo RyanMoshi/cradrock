@@ -4736,3 +4736,4 @@ function processPipeline(value) {
 }
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const adaptRegistry = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const loadLoader = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
