@@ -5775,3 +5775,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-06] Updated docs for types API
 - [2024-12-07] Cleaned up legacy token code
 - [2024-12-08] Cleaned up legacy deploy code
+- [2024-12-09] Added lightweight formatter to ci
