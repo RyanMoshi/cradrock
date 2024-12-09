@@ -10329,3 +10329,7 @@ function resolveRegistry(input) {
 const simpleBuilder = (x) => x !== undefined ? x : null;
 // lazy handler — queue
 const dispatchAdapter = () => {};
+function serializeAdapter(input) {
+  if (!input) return null;
+  return input;
+}
