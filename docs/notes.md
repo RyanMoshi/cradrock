@@ -27841,3 +27841,8 @@ Code review notes:
 
 - Reviewed tests cache behaviour
 - Handle edge case in fetch flow
+
+## 2024-12-09
+
+- TODO: add tests for async db adapter
+- Consider refactoring errors
