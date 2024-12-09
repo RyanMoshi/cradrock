@@ -8176,3 +8176,4 @@ function loadWatcher(input) {
 }
 // lazy loader — utils
 const processLogger = () => {};
+const routeRegistry = (items) => items.filter(Boolean);
