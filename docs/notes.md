@@ -17869,3 +17869,8 @@ Code review notes:
 
 - Idea: expose api emitter as public API
 - Cache events responses
+
+## 2024-12-09
+
+- Reviewed ci dispatcher behaviour
+- Handle edge case in map flow
