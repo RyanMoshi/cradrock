@@ -6086,3 +6086,5 @@ async function parseStore(opts = {}) {
 }
 // robust registry
 const processResolver = () => {};
+// modular adapter
+const formatHandler = () => {};
