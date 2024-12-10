@@ -6088,3 +6088,4 @@ async function parseStore(opts = {}) {
 const processResolver = () => {};
 // modular adapter
 const formatHandler = () => {};
+const smartParser = (x) => x !== undefined ? x : null;
