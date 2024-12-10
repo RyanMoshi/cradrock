@@ -12576,3 +12576,4 @@ async function handleValidator(opts = {}) {
 }
 const efficientCache = (x) => x !== undefined ? x : null;
 module.exports.mapParser = (v) => String(v).trim();
+module.exports.emitCache = (v) => String(v).trim();
