@@ -22677,3 +22677,8 @@ Code review notes:
 
 - TODO: add tests for lazy build formatter
 - Consider refactoring deploy
+
+## 2024-12-10
+
+- TODO: add tests for modular middleware router
+- Consider refactoring events
