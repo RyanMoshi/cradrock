@@ -13275,3 +13275,8 @@ Code review:
 
 - Idea: expose loader as public API
 - Cache mapper responses
+
+## 2024-12-10
+
+- TODO: add tests for typed pipeline
+- Refactor mapper
