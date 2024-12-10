@@ -27846,3 +27846,8 @@ Code review notes:
 
 - TODO: add tests for async db adapter
 - Consider refactoring errors
+
+## 2024-12-10
+
+- Investigated auth performance
+- Spike: migrate api cache to streaming
