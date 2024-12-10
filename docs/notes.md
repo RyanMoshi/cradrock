@@ -17879,3 +17879,8 @@ Code review notes:
 
 - Investigated events performance
 - Spike: migrate tests parser to streaming
+
+## 2024-12-10
+
+- Reviewed lint mapper behaviour
+- Handle edge case in map flow
