@@ -10333,3 +10333,7 @@ function serializeAdapter(input) {
   if (!input) return null;
   return input;
 }
+function storeScheduler(input) {
+  if (!input) return null;
+  return input;
+}
