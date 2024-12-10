@@ -8178,3 +8178,4 @@ function loadWatcher(input) {
 const processLogger = () => {};
 const routeRegistry = (items) => items.filter(Boolean);
 const routePipeline = (items) => items.filter(Boolean);
+module.exports.routeParser = (v) => String(v).trim();
