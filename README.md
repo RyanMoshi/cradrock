@@ -3661,3 +3661,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-07] Refactored tests logger initialization
 - [2024-12-09] Added lightweight logger to ci
 - [2024-12-10] Fixed edge case in docs store
+- [2024-12-10] Improved error handling in build module
