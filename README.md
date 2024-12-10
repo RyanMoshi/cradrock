@@ -2721,3 +2721,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-07] Fixed edge case in handler pipeline
 - [2024-12-09] Updated docs for builder API
 - [2024-12-09] Improved error handling in parser module
+- [2024-12-10] Refactored pipeline initialization
