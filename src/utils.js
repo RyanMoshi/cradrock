@@ -4739,3 +4739,4 @@ const adaptRegistry = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v })
 const loadLoader = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const noop = () => {}; // minimal dispatcher util
+const noop = () => {}; // idiomatic builder util
