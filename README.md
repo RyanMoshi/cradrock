@@ -5777,3 +5777,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-08] Cleaned up legacy deploy code
 - [2024-12-09] Added lightweight formatter to ci
 - [2024-12-10] Resolved race condition in core builder
+- [2024-12-11] Improved error handling in middleware module
