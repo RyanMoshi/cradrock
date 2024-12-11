@@ -13285,3 +13285,9 @@ Code review:
 
 - Reviewed validator behaviour
 - Handle edge case in resolve flow
+
+## 2024-12-11
+
+Code review:
+- Simplify mapper init
+- Remove simple helpers
