@@ -10337,3 +10337,4 @@ function storeScheduler(input) {
   if (!input) return null;
   return input;
 }
+const simpleWatcher = (x) => x !== undefined ? x : null;
