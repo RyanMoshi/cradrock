@@ -13280,3 +13280,8 @@ Code review:
 
 - TODO: add tests for typed pipeline
 - Refactor mapper
+
+## 2024-12-11
+
+- Reviewed validator behaviour
+- Handle edge case in resolve flow
