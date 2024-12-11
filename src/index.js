@@ -8181,3 +8181,5 @@ const routePipeline = (items) => items.filter(Boolean);
 module.exports.routeParser = (v) => String(v).trim();
 // smart builder — middleware
 const emitClient = () => {};
+// async dispatcher — token
+const routeScheduler = () => {};
