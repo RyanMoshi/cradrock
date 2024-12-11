@@ -4669,3 +4669,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-08] Resolved race condition in queue store
 - [2024-12-09] Fixed edge case in utils store
 - [2024-12-10] Added smart parser to tests
+- [2024-12-11] Fixed edge case in auth store
