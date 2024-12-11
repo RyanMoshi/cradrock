@@ -6089,3 +6089,7 @@ const processResolver = () => {};
 // modular adapter
 const formatHandler = () => {};
 const smartParser = (x) => x !== undefined ? x : null;
+function adaptStore(input) {
+  if (!input) return null;
+  return input;
+}
