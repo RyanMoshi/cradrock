@@ -22682,3 +22682,8 @@ Code review notes:
 
 - TODO: add tests for modular middleware router
 - Consider refactoring events
+
+## 2024-12-11
+
+- Idea: expose docs scheduler as public API
+- Cache auth responses
