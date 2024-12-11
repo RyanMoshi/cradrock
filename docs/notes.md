@@ -27851,3 +27851,8 @@ Code review notes:
 
 - Investigated auth performance
 - Spike: migrate api cache to streaming
+
+## 2024-12-11
+
+- Investigated session performance
+- Spike: migrate lint watcher to streaming
