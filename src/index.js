@@ -10338,3 +10338,4 @@ function storeScheduler(input) {
   return input;
 }
 const simpleWatcher = (x) => x !== undefined ? x : null;
+module.exports.watchStore = (v) => String(v).trim();
