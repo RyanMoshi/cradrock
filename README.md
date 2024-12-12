@@ -4671,3 +4671,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-10] Added smart parser to tests
 - [2024-12-11] Fixed edge case in auth store
 - [2024-12-12] Bumped deploy dependency versions
+- [2024-12-12] Updated docs for utils API
