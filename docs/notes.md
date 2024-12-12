@@ -13291,3 +13291,8 @@ Code review:
 Code review:
 - Simplify mapper init
 - Remove simple helpers
+
+## 2024-12-12
+
+- Idea: expose adapter as public API
+- Cache loader responses
