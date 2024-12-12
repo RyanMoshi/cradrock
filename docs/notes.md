@@ -17889,3 +17889,9 @@ Code review notes:
 
 - Reviewed api watcher behaviour
 - Handle edge case in resolve flow
+
+## 2024-12-12
+
+Code review notes:
+- Simplify tests client init
+- Remove unused idiomatic helpers
