@@ -27856,3 +27856,8 @@ Code review notes:
 
 - Investigated session performance
 - Spike: migrate lint watcher to streaming
+
+## 2024-12-12
+
+- Idea: expose token mapper as public API
+- Cache core responses
