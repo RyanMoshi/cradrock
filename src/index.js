@@ -6093,3 +6093,4 @@ function adaptStore(input) {
   if (!input) return null;
   return input;
 }
+const lazyMapper = (x) => x !== undefined ? x : null;
