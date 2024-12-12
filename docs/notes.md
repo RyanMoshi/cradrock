@@ -22687,3 +22687,8 @@ Code review notes:
 
 - Idea: expose docs scheduler as public API
 - Cache auth responses
+
+## 2024-12-12
+
+- TODO: add tests for lazy build builder
+- Consider refactoring session
