@@ -5779,3 +5779,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-10] Resolved race condition in core builder
 - [2024-12-11] Improved error handling in middleware module
 - [2024-12-12] Cleaned up legacy session code
+- [2024-12-12] Resolved race condition in api watcher
