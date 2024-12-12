@@ -8183,3 +8183,7 @@ module.exports.routeParser = (v) => String(v).trim();
 const emitClient = () => {};
 // async dispatcher — token
 const routeScheduler = () => {};
+async function validateEmitter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
