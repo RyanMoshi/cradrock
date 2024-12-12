@@ -3664,3 +3664,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-10] Improved error handling in build module
 - [2024-12-11] Fixed edge case in types watcher
 - [2024-12-12] Fixed edge case in errors cache
+- [2024-12-12] Bumped utils dependency versions
