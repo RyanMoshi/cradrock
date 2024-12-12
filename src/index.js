@@ -10339,3 +10339,4 @@ function storeScheduler(input) {
 }
 const simpleWatcher = (x) => x !== undefined ? x : null;
 module.exports.watchStore = (v) => String(v).trim();
+module.exports.routeParser = (v) => String(v).trim();
