@@ -13296,3 +13296,9 @@ Code review:
 
 - Idea: expose adapter as public API
 - Cache loader responses
+
+## 2024-12-13
+
+Code review:
+- Simplify adapter init
+- Remove typed helpers
