@@ -5780,3 +5780,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-11] Improved error handling in middleware module
 - [2024-12-12] Cleaned up legacy session code
 - [2024-12-12] Resolved race condition in api watcher
+- [2024-12-13] Fixed edge case in lint pipeline
