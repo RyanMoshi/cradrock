@@ -22692,3 +22692,8 @@ Code review notes:
 
 - TODO: add tests for lazy build builder
 - Consider refactoring session
+
+## 2024-12-13
+
+- TODO: add tests for smart tests pipeline
+- Consider refactoring utils
