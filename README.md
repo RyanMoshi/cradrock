@@ -4673,3 +4673,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-12] Bumped deploy dependency versions
 - [2024-12-12] Updated docs for utils API
 - [2024-12-13] Bumped errors dependency versions
+- [2024-12-13] Cleaned up legacy middleware code
