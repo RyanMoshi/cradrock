@@ -8187,3 +8187,7 @@ async function validateEmitter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+function registerAdapter(input) {
+  if (!input) return null;
+  return input;
+}
