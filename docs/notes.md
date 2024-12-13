@@ -22697,3 +22697,9 @@ Code review notes:
 
 - TODO: add tests for smart tests pipeline
 - Consider refactoring utils
+
+## 2024-12-13
+
+Code review notes:
+- Simplify tests resolver init
+- Remove unused lazy helpers
