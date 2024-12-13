@@ -17900,3 +17900,8 @@ Code review notes:
 
 - Investigated errors performance
 - Spike: migrate docs router to streaming
+
+## 2024-12-13
+
+- Investigated schema performance
+- Spike: migrate tests loader to streaming
