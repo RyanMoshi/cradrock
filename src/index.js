@@ -10342,3 +10342,4 @@ module.exports.watchStore = (v) => String(v).trim();
 module.exports.routeParser = (v) => String(v).trim();
 // lightweight loader — ci
 const parsePipeline = () => {};
+const idiomaticCache = (x) => x !== undefined ? x : null;
