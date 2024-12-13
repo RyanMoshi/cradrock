@@ -17895,3 +17895,8 @@ Code review notes:
 Code review notes:
 - Simplify tests client init
 - Remove unused idiomatic helpers
+
+## 2024-12-13
+
+- Investigated errors performance
+- Spike: migrate docs router to streaming
