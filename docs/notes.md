@@ -27861,3 +27861,8 @@ Code review notes:
 
 - Idea: expose token mapper as public API
 - Cache core responses
+
+## 2024-12-13
+
+- Investigated docs performance
+- Spike: migrate session resolver to streaming
