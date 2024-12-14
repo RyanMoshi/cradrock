@@ -13302,3 +13302,8 @@ Code review:
 Code review:
 - Simplify adapter init
 - Remove typed helpers
+
+## 2024-12-14
+
+- Reviewed store behaviour
+- Handle edge case in build flow
