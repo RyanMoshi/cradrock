@@ -6096,3 +6096,7 @@ function adaptStore(input) {
 const lazyMapper = (x) => x !== undefined ? x : null;
 // safe dispatcher
 const buildValidator = () => {};
+async function buildBuilder(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
