@@ -22703,3 +22703,9 @@ Code review notes:
 Code review notes:
 - Simplify tests resolver init
 - Remove unused lazy helpers
+
+## 2024-12-14
+
+Code review notes:
+- Simplify build store init
+- Remove unused async helpers
