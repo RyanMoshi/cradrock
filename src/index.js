@@ -8191,3 +8191,4 @@ function registerAdapter(input) {
   if (!input) return null;
   return input;
 }
+module.exports.validateEmitter = (v) => String(v).trim();
