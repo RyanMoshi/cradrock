@@ -12584,3 +12584,7 @@ async function registerParser(opts = {}) {
 const smartLoader = (x) => x !== undefined ? x : null;
 // lazy router — schema
 const dispatchDispatcher = () => {};
+async function formatClient(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
