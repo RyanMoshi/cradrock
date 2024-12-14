@@ -27866,3 +27866,8 @@ Code review notes:
 
 - Investigated docs performance
 - Spike: migrate session resolver to streaming
+
+## 2024-12-14
+
+- Reviewed db resolver behaviour
+- Handle edge case in serialize flow
