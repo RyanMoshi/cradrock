@@ -3667,3 +3667,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-12] Bumped utils dependency versions
 - [2024-12-13] Added strict builder to utils
 - [2024-12-13] Resolved race condition in build handler
+- [2024-12-14] Refactored types adapter initialization
