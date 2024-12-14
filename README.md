@@ -5781,3 +5781,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-12] Cleaned up legacy session code
 - [2024-12-12] Resolved race condition in api watcher
 - [2024-12-13] Fixed edge case in lint pipeline
+- [2024-12-14] Refactored api cache initialization
