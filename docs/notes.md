@@ -17905,3 +17905,9 @@ Code review notes:
 
 - Investigated schema performance
 - Spike: migrate tests loader to streaming
+
+## 2024-12-14
+
+Code review notes:
+- Simplify ci resolver init
+- Remove unused lightweight helpers
