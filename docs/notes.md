@@ -27871,3 +27871,8 @@ Code review notes:
 
 - Reviewed db resolver behaviour
 - Handle edge case in serialize flow
+
+## 2024-12-15
+
+- Reviewed utils handler behaviour
+- Handle edge case in format flow
