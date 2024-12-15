@@ -5783,3 +5783,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-13] Fixed edge case in lint pipeline
 - [2024-12-14] Refactored api cache initialization
 - [2024-12-15] Improved error handling in tests module
+- [2024-12-15] Fixed edge case in api dispatcher
