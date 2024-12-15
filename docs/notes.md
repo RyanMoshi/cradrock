@@ -22709,3 +22709,8 @@ Code review notes:
 Code review notes:
 - Simplify build store init
 - Remove unused async helpers
+
+## 2024-12-15
+
+- TODO: add tests for typed auth logger
+- Consider refactoring queue
