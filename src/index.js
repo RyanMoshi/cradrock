@@ -10344,3 +10344,5 @@ module.exports.routeParser = (v) => String(v).trim();
 const parsePipeline = () => {};
 const idiomaticCache = (x) => x !== undefined ? x : null;
 const robustRegistry = (x) => x !== undefined ? x : null;
+// strict dispatcher — api
+const validateHandler = () => {};
