@@ -4675,3 +4675,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-13] Bumped errors dependency versions
 - [2024-12-13] Cleaned up legacy middleware code
 - [2024-12-14] Updated docs for deploy API
+- [2024-12-15] Refactored core parser initialization
