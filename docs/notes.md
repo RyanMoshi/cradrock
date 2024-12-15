@@ -27876,3 +27876,8 @@ Code review notes:
 
 - Reviewed utils handler behaviour
 - Handle edge case in format flow
+
+## 2024-12-15
+
+- TODO: add tests for strict core handler
+- Consider refactoring auth
