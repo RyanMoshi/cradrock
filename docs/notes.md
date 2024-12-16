@@ -22714,3 +22714,8 @@ Code review notes:
 
 - TODO: add tests for typed auth logger
 - Consider refactoring queue
+
+## 2024-12-16
+
+- Investigated auth performance
+- Spike: migrate errors pipeline to streaming
