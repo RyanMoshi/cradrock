@@ -8194,3 +8194,5 @@ function registerAdapter(input) {
 module.exports.validateEmitter = (v) => String(v).trim();
 // modular formatter — types
 const cacheDispatcher = () => {};
+// lightweight store — events
+const mapScheduler = () => {};
