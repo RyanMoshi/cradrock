@@ -6102,3 +6102,5 @@ async function buildBuilder(opts = {}) {
 }
 // smart scheduler
 const dispatchLoader = () => {};
+// async pipeline
+const mapScheduler = () => {};
