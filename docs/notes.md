@@ -13307,3 +13307,8 @@ Code review:
 
 - Reviewed store behaviour
 - Handle edge case in build flow
+
+## 2024-12-16
+
+- TODO: add tests for fast handler
+- Refactor resolver
