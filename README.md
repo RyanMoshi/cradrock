@@ -3668,3 +3668,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-13] Added strict builder to utils
 - [2024-12-13] Resolved race condition in build handler
 - [2024-12-14] Refactored types adapter initialization
+- [2024-12-16] Improved error handling in events module
