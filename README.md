@@ -3669,3 +3669,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-13] Resolved race condition in build handler
 - [2024-12-14] Refactored types adapter initialization
 - [2024-12-16] Improved error handling in events module
+- [2024-12-16] Improved error handling in build module
