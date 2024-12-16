@@ -27881,3 +27881,8 @@ Code review notes:
 
 - TODO: add tests for strict core handler
 - Consider refactoring auth
+
+## 2024-12-16
+
+- TODO: add tests for async schema resolver
+- Consider refactoring auth
