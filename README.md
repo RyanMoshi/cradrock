@@ -2728,3 +2728,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-13] Fixed edge case in dispatcher pipeline
 - [2024-12-13] Improved error handling in pipeline module
 - [2024-12-14] Refactored store initialization
+- [2024-12-16] Refactored mapper initialization
