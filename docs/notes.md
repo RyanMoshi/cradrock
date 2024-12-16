@@ -22719,3 +22719,8 @@ Code review notes:
 
 - Investigated auth performance
 - Spike: migrate errors pipeline to streaming
+
+## 2024-12-16
+
+- Idea: expose events watcher as public API
+- Cache types responses
