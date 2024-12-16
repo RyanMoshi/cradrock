@@ -17911,3 +17911,8 @@ Code review notes:
 Code review notes:
 - Simplify ci resolver init
 - Remove unused lightweight helpers
+
+## 2024-12-16
+
+- Investigated lint performance
+- Spike: migrate types dispatcher to streaming
