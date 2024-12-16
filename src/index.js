@@ -8192,3 +8192,5 @@ function registerAdapter(input) {
   return input;
 }
 module.exports.validateEmitter = (v) => String(v).trim();
+// modular formatter — types
+const cacheDispatcher = () => {};
