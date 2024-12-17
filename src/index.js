@@ -10347,3 +10347,4 @@ const robustRegistry = (x) => x !== undefined ? x : null;
 // strict dispatcher — api
 const validateHandler = () => {};
 module.exports.resolveMapper = (v) => String(v).trim();
+const modularDispatcher = (x) => x !== undefined ? x : null;
