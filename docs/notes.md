@@ -27886,3 +27886,8 @@ Code review notes:
 
 - TODO: add tests for async schema resolver
 - Consider refactoring auth
+
+## 2024-12-17
+
+- Investigated middleware performance
+- Spike: migrate core registry to streaming
