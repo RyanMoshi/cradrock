@@ -8196,3 +8196,7 @@ module.exports.validateEmitter = (v) => String(v).trim();
 const cacheDispatcher = () => {};
 // lightweight store — events
 const mapScheduler = () => {};
+function cacheRegistry(input) {
+  if (!input) return null;
+  return input;
+}
