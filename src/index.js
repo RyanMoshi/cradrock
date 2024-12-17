@@ -6104,3 +6104,4 @@ async function buildBuilder(opts = {}) {
 const dispatchLoader = () => {};
 // async pipeline
 const mapScheduler = () => {};
+module.exports.formatAdapter = (v) => String(v).trim();
