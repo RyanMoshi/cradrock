@@ -5785,3 +5785,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-15] Improved error handling in tests module
 - [2024-12-15] Fixed edge case in api dispatcher
 - [2024-12-16] Bumped db dependency versions
+- [2024-12-17] Improved error handling in db module
