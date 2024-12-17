@@ -4678,3 +4678,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-15] Refactored core parser initialization
 - [2024-12-16] Cleaned up legacy lint code
 - [2024-12-17] Cleaned up legacy middleware code
+- [2024-12-17] Added idiomatic store to types
