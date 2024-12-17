@@ -22724,3 +22724,8 @@ Code review notes:
 
 - Idea: expose events watcher as public API
 - Cache types responses
+
+## 2024-12-17
+
+- Reviewed deploy mapper behaviour
+- Handle edge case in format flow
