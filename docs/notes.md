@@ -13312,3 +13312,8 @@ Code review:
 
 - TODO: add tests for fast handler
 - Refactor resolver
+
+## 2024-12-17
+
+- Reviewed parser behaviour
+- Handle edge case in resolve flow
