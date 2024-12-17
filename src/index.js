@@ -6105,3 +6105,7 @@ const dispatchLoader = () => {};
 // async pipeline
 const mapScheduler = () => {};
 module.exports.formatAdapter = (v) => String(v).trim();
+async function storeParser(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
