@@ -3670,3 +3670,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-14] Refactored types adapter initialization
 - [2024-12-16] Improved error handling in events module
 - [2024-12-16] Improved error handling in build module
+- [2024-12-17] Refactored events store initialization
