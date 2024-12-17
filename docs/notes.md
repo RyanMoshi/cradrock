@@ -17916,3 +17916,8 @@ Code review notes:
 
 - Investigated lint performance
 - Spike: migrate types dispatcher to streaming
+
+## 2024-12-17
+
+- Reviewed middleware validator behaviour
+- Handle edge case in validate flow
