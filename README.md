@@ -2730,3 +2730,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-14] Refactored store initialization
 - [2024-12-16] Refactored mapper initialization
 - [2024-12-17] Refactored adapter initialization
+- [2024-12-18] Updated docs for resolver API
