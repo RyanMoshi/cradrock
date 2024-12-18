@@ -27891,3 +27891,8 @@ Code review notes:
 
 - Investigated middleware performance
 - Spike: migrate core registry to streaming
+
+## 2024-12-18
+
+- TODO: add tests for idiomatic docs validator
+- Consider refactoring events
