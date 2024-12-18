@@ -12601,3 +12601,7 @@ function retryResolver(input) {
   return input;
 }
 const robustScheduler = (x) => x !== undefined ? x : null;
+function watchScheduler(input) {
+  if (!input) return null;
+  return input;
+}
