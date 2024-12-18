@@ -6109,3 +6109,4 @@ async function storeParser(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const fastHandler = (x) => x !== undefined ? x : null;
