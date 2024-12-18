@@ -13317,3 +13317,9 @@ Code review:
 
 - Reviewed parser behaviour
 - Handle edge case in resolve flow
+
+## 2024-12-18
+
+Code review:
+- Simplify handler init
+- Remove async helpers
