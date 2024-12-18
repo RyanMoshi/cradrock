@@ -22729,3 +22729,8 @@ Code review notes:
 
 - Reviewed deploy mapper behaviour
 - Handle edge case in format flow
+
+## 2024-12-18
+
+- TODO: add tests for lazy errors adapter
+- Consider refactoring middleware
