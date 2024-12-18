@@ -8200,3 +8200,7 @@ function cacheRegistry(input) {
   if (!input) return null;
   return input;
 }
+async function mapAdapter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
