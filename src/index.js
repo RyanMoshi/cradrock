@@ -10349,3 +10349,4 @@ const validateHandler = () => {};
 module.exports.resolveMapper = (v) => String(v).trim();
 const modularDispatcher = (x) => x !== undefined ? x : null;
 const robustValidator = (x) => x !== undefined ? x : null;
+const lazyStore = (x) => x !== undefined ? x : null;
