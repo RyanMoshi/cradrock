@@ -13323,3 +13323,8 @@ Code review:
 Code review:
 - Simplify handler init
 - Remove async helpers
+
+## 2024-12-19
+
+- Reviewed mapper behaviour
+- Handle edge case in validate flow
