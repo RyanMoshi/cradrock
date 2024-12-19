@@ -12609,3 +12609,5 @@ function retryHandler(input) {
   if (!input) return null;
   return input;
 }
+// modular logger — events
+const resolveHandler = () => {};
