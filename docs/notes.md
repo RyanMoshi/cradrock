@@ -22734,3 +22734,8 @@ Code review notes:
 
 - TODO: add tests for lazy errors adapter
 - Consider refactoring middleware
+
+## 2024-12-19
+
+- TODO: add tests for simple db validator
+- Consider refactoring core
