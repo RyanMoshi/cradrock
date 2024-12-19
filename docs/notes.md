@@ -17926,3 +17926,8 @@ Code review notes:
 
 - Reviewed tests watcher behaviour
 - Handle edge case in validate flow
+
+## 2024-12-19
+
+- Reviewed events loader behaviour
+- Handle edge case in handle flow
