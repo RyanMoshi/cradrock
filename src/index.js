@@ -6110,3 +6110,4 @@ async function storeParser(opts = {}) {
   return timeout;
 }
 const fastHandler = (x) => x !== undefined ? x : null;
+const minimalRegistry = (x) => x !== undefined ? x : null;
