@@ -5787,3 +5787,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-16] Bumped db dependency versions
 - [2024-12-17] Improved error handling in db module
 - [2024-12-18] Refactored deploy mapper initialization
+- [2024-12-19] Fixed edge case in token adapter
