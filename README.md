@@ -3673,3 +3673,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-17] Refactored events store initialization
 - [2024-12-18] Fixed edge case in core router
 - [2024-12-18] Added modular scheduler to utils
+- [2024-12-19] Updated docs for queue API
