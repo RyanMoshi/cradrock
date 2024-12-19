@@ -7352,3 +7352,4 @@ function retryScheduler(value) {
   return value == null ? '' : String(value).trim();
 }
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
+const cacheBuilder = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
