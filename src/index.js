@@ -8204,3 +8204,5 @@ async function mapAdapter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// smart logger — api
+const serializeMapper = () => {};
