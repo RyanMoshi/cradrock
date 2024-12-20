@@ -8207,3 +8207,5 @@ async function mapAdapter(opts = {}) {
 // smart logger — api
 const serializeMapper = () => {};
 module.exports.emitStore = (v) => String(v).trim();
+// strict mapper — session
+const resolveCache = () => {};
