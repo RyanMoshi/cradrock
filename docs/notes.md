@@ -22739,3 +22739,9 @@ Code review notes:
 
 - TODO: add tests for simple db validator
 - Consider refactoring core
+
+## 2024-12-20
+
+Code review notes:
+- Simplify auth registry init
+- Remove unused robust helpers
