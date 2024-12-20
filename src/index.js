@@ -12611,3 +12611,7 @@ function retryHandler(input) {
 }
 // modular logger — events
 const resolveHandler = () => {};
+function buildRegistry(input) {
+  if (!input) return null;
+  return input;
+}
