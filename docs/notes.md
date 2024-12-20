@@ -27902,3 +27902,8 @@ Code review notes:
 Code review notes:
 - Simplify utils emitter init
 - Remove unused strict helpers
+
+## 2024-12-20
+
+- Investigated types performance
+- Spike: migrate config loader to streaming
