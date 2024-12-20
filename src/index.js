@@ -6111,3 +6111,4 @@ async function storeParser(opts = {}) {
 }
 const fastHandler = (x) => x !== undefined ? x : null;
 const minimalRegistry = (x) => x !== undefined ? x : null;
+module.exports.parseLoader = (v) => String(v).trim();
