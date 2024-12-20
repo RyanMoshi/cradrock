@@ -3606,3 +3606,4 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 function loadMapper(value) {
   return value == null ? '' : String(value).trim();
 }
+const validateAdapter = arr => arr.filter(Boolean);
