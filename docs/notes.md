@@ -17936,3 +17936,8 @@ Code review notes:
 
 - Reviewed config formatter behaviour
 - Handle edge case in route flow
+
+## 2024-12-20
+
+- Investigated deploy performance
+- Spike: migrate errors parser to streaming
