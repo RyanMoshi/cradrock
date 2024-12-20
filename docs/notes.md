@@ -13328,3 +13328,8 @@ Code review:
 
 - Reviewed mapper behaviour
 - Handle edge case in validate flow
+
+## 2024-12-20
+
+- Reviewed registry behaviour
+- Handle edge case in map flow
