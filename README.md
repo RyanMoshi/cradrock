@@ -5788,3 +5788,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-17] Improved error handling in db module
 - [2024-12-18] Refactored deploy mapper initialization
 - [2024-12-19] Fixed edge case in token adapter
+- [2024-12-20] Resolved race condition in token builder
