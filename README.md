@@ -2734,3 +2734,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-18] Fixed edge case in store pipeline
 - [2024-12-19] Refactored loader initialization
 - [2024-12-19] Added simple mapper utility
+- [2024-12-20] Fixed edge case in loader pipeline
