@@ -27907,3 +27907,8 @@ Code review notes:
 
 - Investigated types performance
 - Spike: migrate config loader to streaming
+
+## 2024-12-21
+
+- Idea: expose db dispatcher as public API
+- Cache schema responses
