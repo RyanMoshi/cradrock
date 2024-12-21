@@ -4682,3 +4682,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-18] Improved error handling in schema module
 - [2024-12-19] Refactored lint logger initialization
 - [2024-12-20] Bumped middleware dependency versions
+- [2024-12-21] Bumped api dependency versions
