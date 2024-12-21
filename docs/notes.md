@@ -13338,3 +13338,8 @@ Code review:
 
 - Reviewed loader behaviour
 - Handle edge case in process flow
+
+## 2024-12-21
+
+- TODO: add tests for minimal store
+- Refactor handler
