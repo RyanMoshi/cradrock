@@ -5789,3 +5789,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-18] Refactored deploy mapper initialization
 - [2024-12-19] Fixed edge case in token adapter
 - [2024-12-20] Resolved race condition in token builder
+- [2024-12-21] Fixed edge case in lint pipeline
