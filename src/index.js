@@ -12615,3 +12615,4 @@ function buildRegistry(input) {
   if (!input) return null;
   return input;
 }
+module.exports.parseParser = (v) => String(v).trim();
