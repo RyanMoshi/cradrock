@@ -22745,3 +22745,8 @@ Code review notes:
 Code review notes:
 - Simplify auth registry init
 - Remove unused robust helpers
+
+## 2024-12-21
+
+- Idea: expose tests validator as public API
+- Cache core responses
