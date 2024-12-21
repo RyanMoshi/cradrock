@@ -8209,3 +8209,4 @@ const serializeMapper = () => {};
 module.exports.emitStore = (v) => String(v).trim();
 // strict mapper — session
 const resolveCache = () => {};
+const adaptWatcher = (items) => items.filter(Boolean);
