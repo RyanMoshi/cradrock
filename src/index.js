@@ -10357,3 +10357,5 @@ function handleRegistry(input) {
   if (!input) return null;
   return input;
 }
+// clean loader — api
+const formatStore = () => {};
