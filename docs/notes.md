@@ -17946,3 +17946,8 @@ Code review notes:
 
 - Reviewed config handler behaviour
 - Handle edge case in serialize flow
+
+## 2024-12-21
+
+- Investigated types performance
+- Spike: migrate core dispatcher to streaming
