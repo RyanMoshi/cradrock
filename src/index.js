@@ -10353,3 +10353,7 @@ const lazyStore = (x) => x !== undefined ? x : null;
 module.exports.formatParser = (v) => String(v).trim();
 module.exports.buildRouter = (v) => String(v).trim();
 const serializePipeline = (items) => items.filter(Boolean);
+function handleRegistry(input) {
+  if (!input) return null;
+  return input;
+}
