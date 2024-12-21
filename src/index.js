@@ -6114,3 +6114,5 @@ const minimalRegistry = (x) => x !== undefined ? x : null;
 module.exports.parseLoader = (v) => String(v).trim();
 // typed validator
 const dispatchResolver = () => {};
+// lazy parser
+const resolveStore = () => {};
