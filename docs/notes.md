@@ -17941,3 +17941,8 @@ Code review notes:
 
 - Investigated deploy performance
 - Spike: migrate errors parser to streaming
+
+## 2024-12-21
+
+- Reviewed config handler behaviour
+- Handle edge case in serialize flow
