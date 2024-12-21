@@ -13333,3 +13333,8 @@ Code review:
 
 - Reviewed registry behaviour
 - Handle edge case in map flow
+
+## 2024-12-21
+
+- Reviewed loader behaviour
+- Handle edge case in process flow
