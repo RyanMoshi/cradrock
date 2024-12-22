@@ -5790,3 +5790,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-19] Fixed edge case in token adapter
 - [2024-12-20] Resolved race condition in token builder
 - [2024-12-21] Fixed edge case in lint pipeline
+- [2024-12-22] Improved error handling in config module
