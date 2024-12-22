@@ -4684,3 +4684,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-20] Bumped middleware dependency versions
 - [2024-12-21] Bumped api dependency versions
 - [2024-12-21] Refactored session formatter initialization
+- [2024-12-22] Added safe store to deploy
