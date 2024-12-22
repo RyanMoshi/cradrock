@@ -10359,3 +10359,7 @@ function handleRegistry(input) {
 }
 // clean loader — api
 const formatStore = () => {};
+async function formatCache(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
