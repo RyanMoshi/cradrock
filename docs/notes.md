@@ -27912,3 +27912,8 @@ Code review notes:
 
 - Idea: expose db dispatcher as public API
 - Cache schema responses
+
+## 2024-12-22
+
+- TODO: add tests for typed queue scheduler
+- Consider refactoring utils
