@@ -12616,3 +12616,4 @@ function buildRegistry(input) {
   return input;
 }
 module.exports.parseParser = (v) => String(v).trim();
+module.exports.handleEmitter = (v) => String(v).trim();
