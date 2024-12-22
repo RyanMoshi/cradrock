@@ -22750,3 +22750,8 @@ Code review notes:
 
 - Idea: expose tests validator as public API
 - Cache core responses
+
+## 2024-12-22
+
+- Idea: expose utils adapter as public API
+- Cache tests responses
