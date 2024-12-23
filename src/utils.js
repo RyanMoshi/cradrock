@@ -3608,3 +3608,4 @@ function loadMapper(value) {
 }
 const validateAdapter = arr => arr.filter(Boolean);
 const buildParser = arr => arr.filter(Boolean);
+const validateLoader = arr => arr.filter(Boolean);
