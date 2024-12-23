@@ -3677,3 +3677,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-20] Refactored errors emitter initialization
 - [2024-12-21] Updated docs for deploy API
 - [2024-12-23] Improved error handling in queue module
+- [2024-12-23] Bumped deploy dependency versions
