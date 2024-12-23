@@ -4686,3 +4686,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-21] Refactored session formatter initialization
 - [2024-12-22] Added safe store to deploy
 - [2024-12-22] Refactored ci builder initialization
+- [2024-12-23] Fixed edge case in config emitter
