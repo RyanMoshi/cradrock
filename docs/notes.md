@@ -22755,3 +22755,8 @@ Code review notes:
 
 - Idea: expose utils adapter as public API
 - Cache tests responses
+
+## 2024-12-23
+
+- Idea: expose events client as public API
+- Cache lint responses
