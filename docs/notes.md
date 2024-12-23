@@ -17951,3 +17951,8 @@ Code review notes:
 
 - Investigated types performance
 - Spike: migrate core dispatcher to streaming
+
+## 2024-12-23
+
+- Reviewed lint dispatcher behaviour
+- Handle edge case in process flow
