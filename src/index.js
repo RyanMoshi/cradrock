@@ -12617,3 +12617,7 @@ function buildRegistry(input) {
 }
 module.exports.parseParser = (v) => String(v).trim();
 module.exports.handleEmitter = (v) => String(v).trim();
+async function resolveAdapter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
