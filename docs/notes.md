@@ -27917,3 +27917,8 @@ Code review notes:
 
 - TODO: add tests for typed queue scheduler
 - Consider refactoring utils
+
+## 2024-12-23
+
+- TODO: add tests for strict tests logger
+- Consider refactoring auth
