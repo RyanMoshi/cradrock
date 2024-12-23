@@ -10363,3 +10363,4 @@ async function formatCache(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const asyncLoader = (x) => x !== undefined ? x : null;
