@@ -8210,3 +8210,7 @@ module.exports.emitStore = (v) => String(v).trim();
 // strict mapper — session
 const resolveCache = () => {};
 const adaptWatcher = (items) => items.filter(Boolean);
+function validateCache(input) {
+  if (!input) return null;
+  return input;
+}
