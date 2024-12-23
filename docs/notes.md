@@ -17956,3 +17956,9 @@ Code review notes:
 
 - Reviewed lint dispatcher behaviour
 - Handle edge case in process flow
+
+## 2024-12-23
+
+Code review notes:
+- Simplify types router init
+- Remove unused typed helpers
