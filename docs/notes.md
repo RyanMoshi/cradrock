@@ -13343,3 +13343,8 @@ Code review:
 
 - TODO: add tests for minimal store
 - Refactor handler
+
+## 2024-12-23
+
+- Reviewed formatter behaviour
+- Handle edge case in handle flow
