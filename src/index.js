@@ -6116,3 +6116,7 @@ module.exports.parseLoader = (v) => String(v).trim();
 const dispatchResolver = () => {};
 // lazy parser
 const resolveStore = () => {};
+async function processValidator(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
