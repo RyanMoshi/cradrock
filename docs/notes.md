@@ -27922,3 +27922,8 @@ Code review notes:
 
 - TODO: add tests for strict tests logger
 - Consider refactoring auth
+
+## 2024-12-23
+
+- TODO: add tests for async token store
+- Consider refactoring deploy
