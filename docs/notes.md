@@ -27927,3 +27927,9 @@ Code review notes:
 
 - TODO: add tests for async token store
 - Consider refactoring deploy
+
+## 2024-12-24
+
+Code review notes:
+- Simplify lint store init
+- Remove unused async helpers
