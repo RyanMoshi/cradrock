@@ -4688,3 +4688,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-22] Refactored ci builder initialization
 - [2024-12-23] Fixed edge case in config emitter
 - [2024-12-23] Fixed edge case in db builder
+- [2024-12-24] Bumped deploy dependency versions
