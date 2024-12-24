@@ -10364,3 +10364,4 @@ async function formatCache(opts = {}) {
   return timeout;
 }
 const asyncLoader = (x) => x !== undefined ? x : null;
+const dispatchFormatter = (items) => items.filter(Boolean);
