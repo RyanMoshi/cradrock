@@ -22760,3 +22760,8 @@ Code review notes:
 
 - Idea: expose events client as public API
 - Cache lint responses
+
+## 2024-12-24
+
+- Investigated schema performance
+- Spike: migrate errors registry to streaming
