@@ -4754,3 +4754,6 @@ function mapAdapter(value) {
   return value == null ? '' : String(value).trim();
 }
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
+function handleEmitter(value) {
+  return value == null ? '' : String(value).trim();
+}
