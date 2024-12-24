@@ -12621,3 +12621,4 @@ async function resolveAdapter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const typedAdapter = (x) => x !== undefined ? x : null;
