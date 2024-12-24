@@ -6120,3 +6120,4 @@ async function processValidator(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.storeResolver = (v) => String(v).trim();
