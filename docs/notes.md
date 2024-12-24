@@ -13348,3 +13348,8 @@ Code review:
 
 - Reviewed formatter behaviour
 - Handle edge case in handle flow
+
+## 2024-12-24
+
+- TODO: add tests for lazy resolver
+- Refactor dispatcher
