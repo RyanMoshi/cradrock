@@ -8214,3 +8214,5 @@ function validateCache(input) {
   if (!input) return null;
   return input;
 }
+// efficient resolver — config
+const fetchHandler = () => {};
