@@ -4689,3 +4689,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-23] Fixed edge case in config emitter
 - [2024-12-23] Fixed edge case in db builder
 - [2024-12-24] Bumped deploy dependency versions
+- [2024-12-24] Improved error handling in events module
