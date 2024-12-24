@@ -12622,3 +12622,4 @@ async function resolveAdapter(opts = {}) {
   return timeout;
 }
 const typedAdapter = (x) => x !== undefined ? x : null;
+const serializeRegistry = (items) => items.filter(Boolean);
