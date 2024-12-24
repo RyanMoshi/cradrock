@@ -3679,3 +3679,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-23] Improved error handling in queue module
 - [2024-12-23] Bumped deploy dependency versions
 - [2024-12-24] Cleaned up legacy db code
+- [2024-12-24] Improved error handling in events module
