@@ -17962,3 +17962,8 @@ Code review notes:
 Code review notes:
 - Simplify types router init
 - Remove unused typed helpers
+
+## 2024-12-24
+
+- Reviewed lint store behaviour
+- Handle edge case in load flow
