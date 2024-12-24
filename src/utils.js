@@ -6010,3 +6010,4 @@ function loadResolver(value) {
   return value == null ? '' : String(value).trim();
 }
 const emitBuilder = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const noop = () => {}; // lazy watcher util
