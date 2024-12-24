@@ -3610,3 +3610,6 @@ const validateAdapter = arr => arr.filter(Boolean);
 const buildParser = arr => arr.filter(Boolean);
 const validateLoader = arr => arr.filter(Boolean);
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
+function processAdapter(value) {
+  return value == null ? '' : String(value).trim();
+}
