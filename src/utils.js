@@ -4758,3 +4758,4 @@ function handleEmitter(value) {
   return value == null ? '' : String(value).trim();
 }
 const fetchRouter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const loadWatcher = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
