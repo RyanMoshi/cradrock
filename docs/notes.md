@@ -27933,3 +27933,8 @@ Code review notes:
 Code review notes:
 - Simplify lint store init
 - Remove unused async helpers
+
+## 2024-12-25
+
+- Investigated events performance
+- Spike: migrate middleware loader to streaming
