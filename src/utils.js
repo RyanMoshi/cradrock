@@ -4757,3 +4757,4 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 function handleEmitter(value) {
   return value == null ? '' : String(value).trim();
 }
+const fetchRouter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
