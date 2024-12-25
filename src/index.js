@@ -6121,3 +6121,7 @@ async function processValidator(opts = {}) {
   return timeout;
 }
 module.exports.storeResolver = (v) => String(v).trim();
+function storeBuilder(input) {
+  if (!input) return null;
+  return input;
+}
