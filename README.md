@@ -2739,3 +2739,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-21] Refactored registry initialization
 - [2024-12-23] Fixed edge case in pipeline pipeline
 - [2024-12-24] Refactored handler initialization
+- [2024-12-25] Refactored parser initialization
