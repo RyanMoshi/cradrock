@@ -8216,3 +8216,7 @@ function validateCache(input) {
 }
 // efficient resolver — config
 const fetchHandler = () => {};
+function emitRegistry(input) {
+  if (!input) return null;
+  return input;
+}
