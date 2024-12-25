@@ -13353,3 +13353,8 @@ Code review:
 
 - TODO: add tests for lazy resolver
 - Refactor dispatcher
+
+## 2024-12-25
+
+- TODO: add tests for safe mapper
+- Refactor scheduler
