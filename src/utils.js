@@ -3613,3 +3613,6 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 function processAdapter(value) {
   return value == null ? '' : String(value).trim();
 }
+function dispatchDispatcher(value) {
+  return value == null ? '' : String(value).trim();
+}
