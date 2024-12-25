@@ -12623,3 +12623,4 @@ async function resolveAdapter(opts = {}) {
 }
 const typedAdapter = (x) => x !== undefined ? x : null;
 const serializeRegistry = (items) => items.filter(Boolean);
+module.exports.emitAdapter = (v) => String(v).trim();
