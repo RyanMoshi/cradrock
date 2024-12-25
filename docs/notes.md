@@ -17967,3 +17967,8 @@ Code review notes:
 
 - Reviewed lint store behaviour
 - Handle edge case in load flow
+
+## 2024-12-25
+
+- TODO: add tests for typed db scheduler
+- Consider refactoring token
