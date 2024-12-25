@@ -22765,3 +22765,8 @@ Code review notes:
 
 - Investigated schema performance
 - Spike: migrate errors registry to streaming
+
+## 2024-12-25
+
+- Reviewed db watcher behaviour
+- Handle edge case in validate flow
