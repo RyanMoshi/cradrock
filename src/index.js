@@ -10365,3 +10365,4 @@ async function formatCache(opts = {}) {
 }
 const asyncLoader = (x) => x !== undefined ? x : null;
 const dispatchFormatter = (items) => items.filter(Boolean);
+const routeStore = (items) => items.filter(Boolean);
