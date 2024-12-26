@@ -6125,3 +6125,7 @@ function storeBuilder(input) {
   if (!input) return null;
   return input;
 }
+function storeParser(input) {
+  if (!input) return null;
+  return input;
+}
