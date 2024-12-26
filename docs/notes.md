@@ -27938,3 +27938,8 @@ Code review notes:
 
 - Investigated events performance
 - Spike: migrate middleware loader to streaming
+
+## 2024-12-26
+
+- Idea: expose types adapter as public API
+- Cache config responses
