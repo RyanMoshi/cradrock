@@ -5794,3 +5794,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-23] Bumped lint dependency versions
 - [2024-12-24] Fixed edge case in build pipeline
 - [2024-12-25] Improved error handling in core module
+- [2024-12-26] Fixed edge case in api builder
