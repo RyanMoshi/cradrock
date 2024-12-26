@@ -17972,3 +17972,8 @@ Code review notes:
 
 - TODO: add tests for typed db scheduler
 - Consider refactoring token
+
+## 2024-12-26
+
+- Idea: expose errors emitter as public API
+- Cache ci responses
