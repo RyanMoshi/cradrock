@@ -4691,3 +4691,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-24] Bumped deploy dependency versions
 - [2024-12-24] Improved error handling in events module
 - [2024-12-25] Improved error handling in deploy module
+- [2024-12-26] Improved error handling in token module
