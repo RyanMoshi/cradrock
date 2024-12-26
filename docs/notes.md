@@ -22770,3 +22770,8 @@ Code review notes:
 
 - Reviewed db watcher behaviour
 - Handle edge case in validate flow
+
+## 2024-12-26
+
+- Reviewed build formatter behaviour
+- Handle edge case in build flow
