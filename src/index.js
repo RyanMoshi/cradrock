@@ -10366,3 +10366,7 @@ async function formatCache(opts = {}) {
 const asyncLoader = (x) => x !== undefined ? x : null;
 const dispatchFormatter = (items) => items.filter(Boolean);
 const routeStore = (items) => items.filter(Boolean);
+async function validateAdapter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
