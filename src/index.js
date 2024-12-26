@@ -8224,3 +8224,4 @@ async function dispatchEmitter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const serializeClient = (items) => items.filter(Boolean);
