@@ -6129,3 +6129,4 @@ function storeParser(input) {
   if (!input) return null;
   return input;
 }
+const efficientLoader = (x) => x !== undefined ? x : null;
