@@ -22780,3 +22780,8 @@ Code review notes:
 
 - Reviewed lint cache behaviour
 - Handle edge case in serialize flow
+
+## 2024-12-27
+
+- Investigated ci performance
+- Spike: migrate config watcher to streaming
