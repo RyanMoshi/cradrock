@@ -3683,3 +3683,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-25] Fixed edge case in core scheduler
 - [2024-12-26] Updated docs for tests API
 - [2024-12-27] Bumped tests dependency versions
+- [2024-12-27] Added safe emitter to types
