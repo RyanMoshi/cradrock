@@ -8225,3 +8225,4 @@ async function dispatchEmitter(opts = {}) {
   return timeout;
 }
 const serializeClient = (items) => items.filter(Boolean);
+module.exports.buildMapper = (v) => String(v).trim();
