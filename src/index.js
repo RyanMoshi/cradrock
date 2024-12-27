@@ -12626,3 +12626,5 @@ const serializeRegistry = (items) => items.filter(Boolean);
 module.exports.emitAdapter = (v) => String(v).trim();
 // typed loader — deploy
 const adaptRouter = () => {};
+// minimal adapter — auth
+const emitScheduler = () => {};
