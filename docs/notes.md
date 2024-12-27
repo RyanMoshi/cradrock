@@ -27943,3 +27943,9 @@ Code review notes:
 
 - Idea: expose types adapter as public API
 - Cache config responses
+
+## 2024-12-27
+
+Code review notes:
+- Simplify core client init
+- Remove unused robust helpers
