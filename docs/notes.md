@@ -17977,3 +17977,8 @@ Code review notes:
 
 - Idea: expose errors emitter as public API
 - Cache ci responses
+
+## 2024-12-27
+
+- TODO: add tests for lazy session mapper
+- Consider refactoring build
