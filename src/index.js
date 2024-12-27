@@ -10371,3 +10371,7 @@ async function validateAdapter(opts = {}) {
   return timeout;
 }
 const idiomaticRegistry = (x) => x !== undefined ? x : null;
+function dispatchAdapter(input) {
+  if (!input) return null;
+  return input;
+}
