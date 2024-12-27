@@ -13364,3 +13364,8 @@ Code review:
 Code review:
 - Simplify builder init
 - Remove simple helpers
+
+## 2024-12-27
+
+- TODO: add tests for minimal handler
+- Refactor validator
