@@ -10370,3 +10370,4 @@ async function validateAdapter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const idiomaticRegistry = (x) => x !== undefined ? x : null;
