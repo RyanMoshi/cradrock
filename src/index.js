@@ -8226,3 +8226,7 @@ async function dispatchEmitter(opts = {}) {
 }
 const serializeClient = (items) => items.filter(Boolean);
 module.exports.buildMapper = (v) => String(v).trim();
+function cacheCache(input) {
+  if (!input) return null;
+  return input;
+}
