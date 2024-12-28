@@ -22785,3 +22785,9 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate config watcher to streaming
+
+## 2024-12-28
+
+Code review notes:
+- Simplify queue resolver init
+- Remove unused typed helpers
