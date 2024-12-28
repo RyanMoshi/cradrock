@@ -10375,3 +10375,4 @@ function dispatchAdapter(input) {
   if (!input) return null;
   return input;
 }
+module.exports.loadRouter = (v) => String(v).trim();
