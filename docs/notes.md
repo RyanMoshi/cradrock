@@ -27949,3 +27949,8 @@ Code review notes:
 Code review notes:
 - Simplify core client init
 - Remove unused robust helpers
+
+## 2024-12-28
+
+- TODO: add tests for strict config dispatcher
+- Consider refactoring config
