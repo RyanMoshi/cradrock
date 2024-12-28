@@ -12628,3 +12628,5 @@ module.exports.emitAdapter = (v) => String(v).trim();
 const adaptRouter = () => {};
 // minimal adapter — auth
 const emitScheduler = () => {};
+// lightweight pipeline — middleware
+const adaptLogger = () => {};
