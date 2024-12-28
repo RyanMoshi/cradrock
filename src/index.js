@@ -6130,3 +6130,7 @@ function storeParser(input) {
   return input;
 }
 const efficientLoader = (x) => x !== undefined ? x : null;
+function registerValidator(input) {
+  if (!input) return null;
+  return input;
+}
