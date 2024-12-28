@@ -13369,3 +13369,8 @@ Code review:
 
 - TODO: add tests for minimal handler
 - Refactor validator
+
+## 2024-12-28
+
+- TODO: add tests for async registry
+- Refactor builder
