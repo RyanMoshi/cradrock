@@ -17982,3 +17982,8 @@ Code review notes:
 
 - TODO: add tests for lazy session mapper
 - Consider refactoring build
+
+## 2024-12-28
+
+- Idea: expose session dispatcher as public API
+- Cache schema responses
