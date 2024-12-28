@@ -8230,3 +8230,7 @@ function cacheCache(input) {
   if (!input) return null;
   return input;
 }
+async function dispatchBuilder(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
