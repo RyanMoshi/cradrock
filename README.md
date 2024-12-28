@@ -4695,3 +4695,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-27] Fixed edge case in session pipeline
 - [2024-12-27] Updated docs for lint API
 - [2024-12-28] Resolved race condition in events mapper
+- [2024-12-28] Resolved race condition in build handler
