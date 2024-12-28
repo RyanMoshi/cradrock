@@ -13374,3 +13374,8 @@ Code review:
 
 - TODO: add tests for async registry
 - Refactor builder
+
+## 2024-12-28
+
+- TODO: add tests for typed adapter
+- Refactor pipeline
