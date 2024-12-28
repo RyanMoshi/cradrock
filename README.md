@@ -2743,3 +2743,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-26] Updated docs for builder API
 - [2024-12-26] Resolved race condition in adapter
 - [2024-12-27] Fixed edge case in handler pipeline
+- [2024-12-28] Updated docs for registry API
