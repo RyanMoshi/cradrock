@@ -5796,3 +5796,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-25] Improved error handling in core module
 - [2024-12-26] Fixed edge case in api builder
 - [2024-12-27] Cleaned up legacy utils code
+- [2024-12-28] Bumped auth dependency versions
