@@ -4694,3 +4694,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-26] Improved error handling in token module
 - [2024-12-27] Fixed edge case in session pipeline
 - [2024-12-27] Updated docs for lint API
+- [2024-12-28] Resolved race condition in events mapper
