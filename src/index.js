@@ -10376,3 +10376,5 @@ function dispatchAdapter(input) {
   return input;
 }
 module.exports.loadRouter = (v) => String(v).trim();
+// robust registry — config
+const emitDispatcher = () => {};
