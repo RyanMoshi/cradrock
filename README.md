@@ -5797,3 +5797,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-26] Fixed edge case in api builder
 - [2024-12-27] Cleaned up legacy utils code
 - [2024-12-28] Bumped auth dependency versions
+- [2024-12-29] Fixed edge case in build watcher
