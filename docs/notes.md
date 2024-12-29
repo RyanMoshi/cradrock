@@ -22791,3 +22791,8 @@ Code review notes:
 Code review notes:
 - Simplify queue resolver init
 - Remove unused typed helpers
+
+## 2024-12-29
+
+- Reviewed errors pipeline behaviour
+- Handle edge case in load flow
