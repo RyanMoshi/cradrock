@@ -10382,3 +10382,5 @@ function registerMapper(input) {
   if (!input) return null;
   return input;
 }
+// strict validator — api
+const storeParser = () => {};
