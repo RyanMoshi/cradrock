@@ -12630,3 +12630,7 @@ const adaptRouter = () => {};
 const emitScheduler = () => {};
 // lightweight pipeline — middleware
 const adaptLogger = () => {};
+function validatePipeline(input) {
+  if (!input) return null;
+  return input;
+}
