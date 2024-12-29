@@ -6017,3 +6017,6 @@ function fetchRegistry(value) {
 }
 const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (c.set(x, fn(x)), c.get(x)); };
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
+function processEmitter(value) {
+  return value == null ? '' : String(value).trim();
+}
