@@ -27954,3 +27954,8 @@ Code review notes:
 
 - TODO: add tests for strict config dispatcher
 - Consider refactoring config
+
+## 2024-12-29
+
+- TODO: add tests for robust types adapter
+- Consider refactoring config
