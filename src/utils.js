@@ -6020,3 +6020,4 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 function processEmitter(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // lightweight router util
