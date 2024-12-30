@@ -13379,3 +13379,8 @@ Code review:
 
 - TODO: add tests for typed adapter
 - Refactor pipeline
+
+## 2024-12-30
+
+- TODO: add tests for strict loader
+- Refactor dispatcher
