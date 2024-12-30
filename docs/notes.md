@@ -22796,3 +22796,8 @@ Code review notes:
 
 - Reviewed errors pipeline behaviour
 - Handle edge case in load flow
+
+## 2024-12-30
+
+- TODO: add tests for clean lint logger
+- Consider refactoring api
