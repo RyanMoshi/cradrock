@@ -3686,3 +3686,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-27] Added safe emitter to types
 - [2024-12-28] Refactored errors emitter initialization
 - [2024-12-28] Cleaned up legacy api code
+- [2024-12-30] Resolved race condition in config parser
