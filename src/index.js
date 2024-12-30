@@ -6134,3 +6134,4 @@ function registerValidator(input) {
   if (!input) return null;
   return input;
 }
+module.exports.resolveScheduler = (v) => String(v).trim();
