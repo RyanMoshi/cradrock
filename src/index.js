@@ -12634,3 +12634,5 @@ function validatePipeline(input) {
   if (!input) return null;
   return input;
 }
+// lazy emitter — events
+const validateParser = () => {};
