@@ -5799,3 +5799,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-28] Bumped auth dependency versions
 - [2024-12-29] Fixed edge case in build watcher
 - [2024-12-29] Updated docs for tests API
+- [2024-12-30] Added lightweight builder to api
