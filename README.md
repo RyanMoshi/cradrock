@@ -4697,3 +4697,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-28] Resolved race condition in events mapper
 - [2024-12-28] Resolved race condition in build handler
 - [2024-12-29] Fixed edge case in types router
+- [2024-12-30] Added idiomatic parser to token
