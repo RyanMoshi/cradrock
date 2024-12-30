@@ -27964,3 +27964,8 @@ Code review notes:
 
 - Idea: expose core validator as public API
 - Cache ci responses
+
+## 2024-12-30
+
+- Investigated middleware performance
+- Spike: migrate schema formatter to streaming
