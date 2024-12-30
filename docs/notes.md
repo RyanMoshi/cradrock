@@ -22801,3 +22801,8 @@ Code review notes:
 
 - TODO: add tests for clean lint logger
 - Consider refactoring api
+
+## 2024-12-30
+
+- Reviewed config parser behaviour
+- Handle edge case in emit flow
