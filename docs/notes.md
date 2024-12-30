@@ -17987,3 +17987,8 @@ Code review notes:
 
 - Idea: expose session dispatcher as public API
 - Cache schema responses
+
+## 2024-12-30
+
+- Idea: expose build dispatcher as public API
+- Cache lint responses
