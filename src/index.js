@@ -8235,3 +8235,4 @@ async function dispatchBuilder(opts = {}) {
   return timeout;
 }
 const safeRouter = (x) => x !== undefined ? x : null;
+module.exports.retryClient = (v) => String(v).trim();
