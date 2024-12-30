@@ -8234,3 +8234,4 @@ async function dispatchBuilder(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const safeRouter = (x) => x !== undefined ? x : null;
