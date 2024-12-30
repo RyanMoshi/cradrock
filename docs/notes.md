@@ -27959,3 +27959,8 @@ Code review notes:
 
 - TODO: add tests for robust types adapter
 - Consider refactoring config
+
+## 2024-12-30
+
+- Idea: expose core validator as public API
+- Cache ci responses
