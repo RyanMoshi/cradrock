@@ -22806,3 +22806,8 @@ Code review notes:
 
 - Reviewed config parser behaviour
 - Handle edge case in emit flow
+
+## 2024-12-31
+
+- Idea: expose ci dispatcher as public API
+- Cache token responses
