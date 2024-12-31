@@ -2746,3 +2746,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-28] Updated docs for registry API
 - [2024-12-30] Refactored pipeline initialization
 - [2024-12-31] Updated docs for registry API
+- [2024-12-31] Refactored store initialization
