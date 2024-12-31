@@ -4699,3 +4699,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-29] Fixed edge case in types router
 - [2024-12-30] Added idiomatic parser to token
 - [2024-12-30] Updated docs for build API
+- [2024-12-31] Bumped types dependency versions
