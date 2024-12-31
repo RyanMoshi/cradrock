@@ -17998,3 +17998,8 @@ Code review notes:
 Code review notes:
 - Simplify session logger init
 - Remove unused lazy helpers
+
+## 2024-12-31
+
+- Investigated schema performance
+- Spike: migrate events store to streaming
