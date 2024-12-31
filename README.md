@@ -5801,3 +5801,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-29] Updated docs for tests API
 - [2024-12-30] Added lightweight builder to api
 - [2024-12-30] Bumped lint dependency versions
+- [2024-12-31] Updated docs for ci API
