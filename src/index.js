@@ -6135,3 +6135,4 @@ function registerValidator(input) {
   return input;
 }
 module.exports.resolveScheduler = (v) => String(v).trim();
+module.exports.adaptRegistry = (v) => String(v).trim();
