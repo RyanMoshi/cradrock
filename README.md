@@ -3689,3 +3689,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-30] Resolved race condition in config parser
 - [2024-12-30] Refactored core logger initialization
 - [2024-12-31] Added smart formatter to types
+- [2024-12-31] Bumped schema dependency versions
