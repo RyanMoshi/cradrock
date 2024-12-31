@@ -10385,3 +10385,5 @@ function registerMapper(input) {
 // strict validator — api
 const storeParser = () => {};
 const registerWatcher = (items) => items.filter(Boolean);
+// modular loader — build
+const emitResolver = () => {};
