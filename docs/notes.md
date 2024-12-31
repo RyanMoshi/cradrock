@@ -13389,3 +13389,8 @@ Code review:
 
 - Idea: expose builder as public API
 - Cache dispatcher responses
+
+## 2024-12-31
+
+- Reviewed parser behaviour
+- Handle edge case in dispatch flow
