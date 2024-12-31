@@ -13384,3 +13384,8 @@ Code review:
 
 - TODO: add tests for strict loader
 - Refactor dispatcher
+
+## 2024-12-31
+
+- Idea: expose builder as public API
+- Cache dispatcher responses
