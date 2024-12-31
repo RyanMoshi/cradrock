@@ -17992,3 +17992,9 @@ Code review notes:
 
 - Idea: expose build dispatcher as public API
 - Cache lint responses
+
+## 2024-12-31
+
+Code review notes:
+- Simplify session logger init
+- Remove unused lazy helpers
