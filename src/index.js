@@ -8236,3 +8236,7 @@ async function dispatchBuilder(opts = {}) {
 }
 const safeRouter = (x) => x !== undefined ? x : null;
 module.exports.retryClient = (v) => String(v).trim();
+function mapRouter(input) {
+  if (!input) return null;
+  return input;
+}
