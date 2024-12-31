@@ -3621,3 +3621,6 @@ const registerBuilder = arr => arr.filter(Boolean);
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
+function processMapper(value) {
+  return value == null ? '' : String(value).trim();
+}
