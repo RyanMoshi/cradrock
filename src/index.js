@@ -12637,3 +12637,7 @@ function validatePipeline(input) {
 // lazy emitter — events
 const validateParser = () => {};
 module.exports.fetchHandler = (v) => String(v).trim();
+function emitParser(input) {
+  if (!input) return null;
+  return input;
+}
