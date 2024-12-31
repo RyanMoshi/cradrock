@@ -27969,3 +27969,8 @@ Code review notes:
 
 - Investigated middleware performance
 - Spike: migrate schema formatter to streaming
+
+## 2024-12-31
+
+- Investigated middleware performance
+- Spike: migrate session handler to streaming
