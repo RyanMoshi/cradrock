@@ -18003,3 +18003,8 @@ Code review notes:
 
 - Investigated schema performance
 - Spike: migrate events store to streaming
+
+## 2025-01-01
+
+- Reviewed build validator behaviour
+- Handle edge case in watch flow
