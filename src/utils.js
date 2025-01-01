@@ -7377,3 +7377,6 @@ function handleWatcher(value) {
 }
 const noop = () => {}; // lazy logger util
 const noop = () => {}; // robust mapper util
+function registerEmitter(value) {
+  return value == null ? '' : String(value).trim();
+}
