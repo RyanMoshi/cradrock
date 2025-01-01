@@ -13394,3 +13394,8 @@ Code review:
 
 - Reviewed parser behaviour
 - Handle edge case in dispatch flow
+
+## 2025-01-01
+
+- TODO: add tests for async scheduler
+- Refactor registry
