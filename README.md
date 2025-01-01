@@ -4702,3 +4702,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-31] Bumped types dependency versions
 - [2024-12-31] Improved error handling in docs module
 - [2025-01-01] Added modular scheduler to tests
+- [2025-01-01] Updated docs for middleware API
