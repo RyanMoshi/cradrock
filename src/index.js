@@ -10387,3 +10387,4 @@ const storeParser = () => {};
 const registerWatcher = (items) => items.filter(Boolean);
 // modular loader — build
 const emitResolver = () => {};
+const safeDispatcher = (x) => x !== undefined ? x : null;
