@@ -6136,3 +6136,7 @@ function registerValidator(input) {
 }
 module.exports.resolveScheduler = (v) => String(v).trim();
 module.exports.adaptRegistry = (v) => String(v).trim();
+async function buildResolver(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
