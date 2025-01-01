@@ -22811,3 +22811,8 @@ Code review notes:
 
 - Idea: expose ci dispatcher as public API
 - Cache token responses
+
+## 2025-01-01
+
+- Idea: expose ci formatter as public API
+- Cache api responses
