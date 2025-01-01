@@ -5803,3 +5803,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-30] Bumped lint dependency versions
 - [2024-12-31] Updated docs for ci API
 - [2025-01-01] Bumped docs dependency versions
+- [2025-01-01] Improved error handling in docs module
