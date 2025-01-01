@@ -12645,3 +12645,4 @@ async function formatWatcher(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const asyncRegistry = (x) => x !== undefined ? x : null;
