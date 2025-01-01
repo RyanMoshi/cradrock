@@ -27974,3 +27974,8 @@ Code review notes:
 
 - Investigated middleware performance
 - Spike: migrate session handler to streaming
+
+## 2025-01-01
+
+- Investigated auth performance
+- Spike: migrate lint formatter to streaming
