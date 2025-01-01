@@ -8240,3 +8240,4 @@ function mapRouter(input) {
   if (!input) return null;
   return input;
 }
+module.exports.fetchResolver = (v) => String(v).trim();
