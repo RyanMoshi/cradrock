@@ -10390,3 +10390,7 @@ const emitResolver = () => {};
 const safeDispatcher = (x) => x !== undefined ? x : null;
 module.exports.formatPipeline = (v) => String(v).trim();
 module.exports.mapResolver = (v) => String(v).trim();
+function buildMapper(input) {
+  if (!input) return null;
+  return input;
+}
