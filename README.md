@@ -3692,3 +3692,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-31] Bumped schema dependency versions
 - [2025-01-01] Refactored utils emitter initialization
 - [2025-01-01] Bumped db dependency versions
+- [2025-01-02] Refactored session builder initialization
