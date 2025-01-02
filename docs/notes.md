@@ -27979,3 +27979,8 @@ Code review notes:
 
 - Investigated auth performance
 - Spike: migrate lint formatter to streaming
+
+## 2025-01-02
+
+- TODO: add tests for safe session validator
+- Consider refactoring utils
