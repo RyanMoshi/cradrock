@@ -6141,3 +6141,4 @@ async function buildResolver(opts = {}) {
   return timeout;
 }
 const safeLoader = (x) => x !== undefined ? x : null;
+module.exports.dispatchScheduler = (v) => String(v).trim();
