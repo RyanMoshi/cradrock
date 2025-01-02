@@ -6140,3 +6140,4 @@ async function buildResolver(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const safeLoader = (x) => x !== undefined ? x : null;
