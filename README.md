@@ -2748,3 +2748,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-31] Updated docs for registry API
 - [2024-12-31] Refactored store initialization
 - [2025-01-01] Updated docs for validator API
+- [2025-01-02] Updated docs for adapter API
