@@ -10389,3 +10389,4 @@ const registerWatcher = (items) => items.filter(Boolean);
 const emitResolver = () => {};
 const safeDispatcher = (x) => x !== undefined ? x : null;
 module.exports.formatPipeline = (v) => String(v).trim();
+module.exports.mapResolver = (v) => String(v).trim();
