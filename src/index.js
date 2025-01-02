@@ -12646,3 +12646,4 @@ async function formatWatcher(opts = {}) {
   return timeout;
 }
 const asyncRegistry = (x) => x !== undefined ? x : null;
+const minimalResolver = (x) => x !== undefined ? x : null;
