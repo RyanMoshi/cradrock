@@ -13399,3 +13399,8 @@ Code review:
 
 - TODO: add tests for async scheduler
 - Refactor registry
+
+## 2025-01-02
+
+- TODO: add tests for simple resolver
+- Refactor dispatcher
