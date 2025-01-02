@@ -4703,3 +4703,4 @@ Legendary, Legends. Builders, Build
 - [2024-12-31] Improved error handling in docs module
 - [2025-01-01] Added modular scheduler to tests
 - [2025-01-01] Updated docs for middleware API
+- [2025-01-02] Resolved race condition in ci client
