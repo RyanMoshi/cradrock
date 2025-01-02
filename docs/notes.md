@@ -18008,3 +18008,8 @@ Code review notes:
 
 - Reviewed build validator behaviour
 - Handle edge case in watch flow
+
+## 2025-01-02
+
+- Investigated queue performance
+- Spike: migrate auth validator to streaming
