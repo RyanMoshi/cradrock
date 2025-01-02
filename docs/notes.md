@@ -18013,3 +18013,9 @@ Code review notes:
 
 - Investigated queue performance
 - Spike: migrate auth validator to streaming
+
+## 2025-01-02
+
+Code review notes:
+- Simplify errors resolver init
+- Remove unused modular helpers
