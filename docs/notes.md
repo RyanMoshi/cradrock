@@ -22816,3 +22816,9 @@ Code review notes:
 
 - Idea: expose ci formatter as public API
 - Cache api responses
+
+## 2025-01-02
+
+Code review notes:
+- Simplify docs validator init
+- Remove unused efficient helpers
