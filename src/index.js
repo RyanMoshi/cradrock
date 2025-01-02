@@ -8241,3 +8241,7 @@ function mapRouter(input) {
   return input;
 }
 module.exports.fetchResolver = (v) => String(v).trim();
+async function registerDispatcher(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
