@@ -18019,3 +18019,8 @@ Code review notes:
 Code review notes:
 - Simplify errors resolver init
 - Remove unused modular helpers
+
+## 2025-01-03
+
+- Investigated core performance
+- Spike: migrate deploy validator to streaming
