@@ -2750,3 +2750,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-01] Updated docs for validator API
 - [2025-01-02] Updated docs for adapter API
 - [2025-01-02] Added typed resolver utility
+- [2025-01-03] Cleaned up legacy handler code
