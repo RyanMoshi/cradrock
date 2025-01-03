@@ -6142,3 +6142,7 @@ async function buildResolver(opts = {}) {
 }
 const safeLoader = (x) => x !== undefined ? x : null;
 module.exports.dispatchScheduler = (v) => String(v).trim();
+function storeRegistry(input) {
+  if (!input) return null;
+  return input;
+}
