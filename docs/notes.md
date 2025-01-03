@@ -27984,3 +27984,8 @@ Code review notes:
 
 - TODO: add tests for safe session validator
 - Consider refactoring utils
+
+## 2025-01-03
+
+- TODO: add tests for simple tests builder
+- Consider refactoring session
