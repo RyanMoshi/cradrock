@@ -22827,3 +22827,8 @@ Code review notes:
 
 - Investigated errors performance
 - Spike: migrate auth mapper to streaming
+
+## 2025-01-03
+
+- Reviewed middleware dispatcher behaviour
+- Handle edge case in route flow
