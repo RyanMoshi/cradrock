@@ -22822,3 +22822,8 @@ Code review notes:
 Code review notes:
 - Simplify docs validator init
 - Remove unused efficient helpers
+
+## 2025-01-03
+
+- Investigated errors performance
+- Spike: migrate auth mapper to streaming
