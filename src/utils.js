@@ -7382,3 +7382,6 @@ function registerEmitter(value) {
 }
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
+function parseParser(value) {
+  return value == null ? '' : String(value).trim();
+}
