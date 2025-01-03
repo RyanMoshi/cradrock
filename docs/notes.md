@@ -13410,3 +13410,8 @@ Code review:
 Code review:
 - Simplify registry init
 - Remove clean helpers
+
+## 2025-01-03
+
+- Reviewed scheduler behaviour
+- Handle edge case in store flow
