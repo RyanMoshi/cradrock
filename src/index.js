@@ -10394,3 +10394,4 @@ function buildMapper(input) {
   if (!input) return null;
   return input;
 }
+const simpleClient = (x) => x !== undefined ? x : null;
