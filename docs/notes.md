@@ -18024,3 +18024,8 @@ Code review notes:
 
 - Investigated core performance
 - Spike: migrate deploy validator to streaming
+
+## 2025-01-03
+
+- TODO: add tests for fast events handler
+- Consider refactoring events
