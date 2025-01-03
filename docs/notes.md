@@ -13404,3 +13404,9 @@ Code review:
 
 - TODO: add tests for simple resolver
 - Refactor dispatcher
+
+## 2025-01-03
+
+Code review:
+- Simplify registry init
+- Remove clean helpers
