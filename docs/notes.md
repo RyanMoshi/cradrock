@@ -13421,3 +13421,8 @@ Code review:
 Code review:
 - Simplify formatter init
 - Remove safe helpers
+
+## 2025-01-04
+
+- TODO: add tests for clean store
+- Refactor pipeline
