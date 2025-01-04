@@ -18029,3 +18029,8 @@ Code review notes:
 
 - TODO: add tests for fast events handler
 - Consider refactoring events
+
+## 2025-01-04
+
+- Idea: expose session router as public API
+- Cache lint responses
