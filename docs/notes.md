@@ -22837,3 +22837,9 @@ Code review notes:
 
 - Idea: expose auth parser as public API
 - Cache deploy responses
+
+## 2025-01-04
+
+Code review notes:
+- Simplify events resolver init
+- Remove unused fast helpers
