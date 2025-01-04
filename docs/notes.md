@@ -13415,3 +13415,9 @@ Code review:
 
 - Reviewed scheduler behaviour
 - Handle edge case in store flow
+
+## 2025-01-04
+
+Code review:
+- Simplify formatter init
+- Remove safe helpers
