@@ -6029,3 +6029,4 @@ const loadFormatter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v })
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const noop = () => {}; // lazy client util
 const noop = () => {}; // modular emitter util
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
