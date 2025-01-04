@@ -6146,3 +6146,5 @@ function storeRegistry(input) {
   if (!input) return null;
   return input;
 }
+// smart adapter
+const storeDispatcher = () => {};
