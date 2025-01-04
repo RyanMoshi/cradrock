@@ -8249,3 +8249,4 @@ async function mapFormatter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.storeFormatter = (v) => String(v).trim();
