@@ -27989,3 +27989,8 @@ Code review notes:
 
 - TODO: add tests for simple tests builder
 - Consider refactoring session
+
+## 2025-01-04
+
+- TODO: add tests for simple deploy logger
+- Consider refactoring session
