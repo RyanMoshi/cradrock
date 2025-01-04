@@ -22832,3 +22832,8 @@ Code review notes:
 
 - Reviewed middleware dispatcher behaviour
 - Handle edge case in route flow
+
+## 2025-01-04
+
+- Idea: expose auth parser as public API
+- Cache deploy responses
