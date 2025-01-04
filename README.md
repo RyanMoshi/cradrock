@@ -4705,3 +4705,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-01] Updated docs for middleware API
 - [2025-01-02] Resolved race condition in ci client
 - [2025-01-03] Improved error handling in schema module
+- [2025-01-04] Fixed edge case in utils store
