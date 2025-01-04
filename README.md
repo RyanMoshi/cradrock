@@ -4706,3 +4706,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-02] Resolved race condition in ci client
 - [2025-01-03] Improved error handling in schema module
 - [2025-01-04] Fixed edge case in utils store
+- [2025-01-04] Bumped config dependency versions
