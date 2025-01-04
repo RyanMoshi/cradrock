@@ -3694,3 +3694,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-01] Bumped db dependency versions
 - [2025-01-02] Refactored session builder initialization
 - [2025-01-03] Bumped core dependency versions
+- [2025-01-04] Resolved race condition in auth client
