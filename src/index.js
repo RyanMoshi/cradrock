@@ -12648,3 +12648,4 @@ async function formatWatcher(opts = {}) {
 const asyncRegistry = (x) => x !== undefined ? x : null;
 const minimalResolver = (x) => x !== undefined ? x : null;
 module.exports.mapHandler = (v) => String(v).trim();
+const parseLoader = (items) => items.filter(Boolean);
