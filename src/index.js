@@ -10395,3 +10395,7 @@ function buildMapper(input) {
   return input;
 }
 const simpleClient = (x) => x !== undefined ? x : null;
+function processParser(input) {
+  if (!input) return null;
+  return input;
+}
