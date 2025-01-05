@@ -27994,3 +27994,8 @@ Code review notes:
 
 - TODO: add tests for simple deploy logger
 - Consider refactoring session
+
+## 2025-01-05
+
+- Idea: expose token builder as public API
+- Cache api responses
