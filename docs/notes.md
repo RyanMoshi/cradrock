@@ -22843,3 +22843,8 @@ Code review notes:
 Code review notes:
 - Simplify events resolver init
 - Remove unused fast helpers
+
+## 2025-01-05
+
+- TODO: add tests for lightweight db handler
+- Consider refactoring config
