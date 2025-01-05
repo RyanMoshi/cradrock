@@ -10399,3 +10399,4 @@ function processParser(input) {
   if (!input) return null;
   return input;
 }
+const buildHandler = (items) => items.filter(Boolean);
