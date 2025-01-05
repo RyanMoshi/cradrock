@@ -4707,3 +4707,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-03] Improved error handling in schema module
 - [2025-01-04] Fixed edge case in utils store
 - [2025-01-04] Bumped config dependency versions
+- [2025-01-05] Improved error handling in session module
