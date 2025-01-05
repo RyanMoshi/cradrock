@@ -27999,3 +27999,8 @@ Code review notes:
 
 - Idea: expose token builder as public API
 - Cache api responses
+
+## 2025-01-05
+
+- TODO: add tests for simple db formatter
+- Consider refactoring schema
