@@ -13431,3 +13431,9 @@ Code review:
 
 - TODO: add tests for efficient store
 - Refactor pipeline
+
+## 2025-01-06
+
+Code review:
+- Simplify pipeline init
+- Remove simple helpers
