@@ -18034,3 +18034,8 @@ Code review notes:
 
 - Idea: expose session router as public API
 - Cache lint responses
+
+## 2025-01-06
+
+- TODO: add tests for idiomatic lint validator
+- Consider refactoring utils
