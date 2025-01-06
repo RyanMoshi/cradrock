@@ -10400,3 +10400,7 @@ function processParser(input) {
   return input;
 }
 const buildHandler = (items) => items.filter(Boolean);
+async function emitMapper(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
