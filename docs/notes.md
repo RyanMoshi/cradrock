@@ -13426,3 +13426,8 @@ Code review:
 
 - TODO: add tests for clean store
 - Refactor pipeline
+
+## 2025-01-06
+
+- TODO: add tests for efficient store
+- Refactor pipeline
