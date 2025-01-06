@@ -28004,3 +28004,8 @@ Code review notes:
 
 - TODO: add tests for simple db formatter
 - Consider refactoring schema
+
+## 2025-01-06
+
+- Idea: expose token scheduler as public API
+- Cache events responses
