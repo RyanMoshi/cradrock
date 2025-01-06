@@ -22848,3 +22848,9 @@ Code review notes:
 
 - TODO: add tests for lightweight db handler
 - Consider refactoring config
+
+## 2025-01-06
+
+Code review notes:
+- Simplify session formatter init
+- Remove unused lightweight helpers
