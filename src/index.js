@@ -8250,3 +8250,7 @@ async function mapFormatter(opts = {}) {
   return timeout;
 }
 module.exports.storeFormatter = (v) => String(v).trim();
+function mapRegistry(input) {
+  if (!input) return null;
+  return input;
+}
