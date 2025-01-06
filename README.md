@@ -5809,3 +5809,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-04] Updated docs for api API
 - [2025-01-05] Cleaned up legacy core code
 - [2025-01-05] Refactored utils watcher initialization
+- [2025-01-06] Added modular loader to build
