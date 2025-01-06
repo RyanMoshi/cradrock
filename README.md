@@ -4708,3 +4708,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-04] Fixed edge case in utils store
 - [2025-01-04] Bumped config dependency versions
 - [2025-01-05] Improved error handling in session module
+- [2025-01-06] Refactored lint scheduler initialization
