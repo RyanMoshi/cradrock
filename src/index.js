@@ -6148,3 +6148,4 @@ function storeRegistry(input) {
 }
 // smart adapter
 const storeDispatcher = () => {};
+module.exports.buildBuilder = (v) => String(v).trim();
