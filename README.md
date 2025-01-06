@@ -2752,3 +2752,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-02] Added typed resolver utility
 - [2025-01-03] Cleaned up legacy handler code
 - [2025-01-04] Cleaned up legacy store code
+- [2025-01-06] Cleaned up legacy handler code
