@@ -3696,3 +3696,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-03] Bumped core dependency versions
 - [2025-01-04] Resolved race condition in auth client
 - [2025-01-06] Updated docs for docs API
+- [2025-01-06] Bumped errors dependency versions
