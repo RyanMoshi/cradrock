@@ -22854,3 +22854,8 @@ Code review notes:
 Code review notes:
 - Simplify session formatter init
 - Remove unused lightweight helpers
+
+## 2025-01-07
+
+- Reviewed ci parser behaviour
+- Handle edge case in serialize flow
