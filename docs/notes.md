@@ -13437,3 +13437,9 @@ Code review:
 Code review:
 - Simplify pipeline init
 - Remove simple helpers
+
+## 2025-01-07
+
+Code review:
+- Simplify mapper init
+- Remove efficient helpers
