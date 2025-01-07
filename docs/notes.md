@@ -28009,3 +28009,8 @@ Code review notes:
 
 - Idea: expose token scheduler as public API
 - Cache events responses
+
+## 2025-01-07
+
+- Reviewed errors pipeline behaviour
+- Handle edge case in resolve flow
