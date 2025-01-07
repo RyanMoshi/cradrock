@@ -6149,3 +6149,7 @@ function storeRegistry(input) {
 // smart adapter
 const storeDispatcher = () => {};
 module.exports.buildBuilder = (v) => String(v).trim();
+async function registerParser(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
