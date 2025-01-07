@@ -12657,3 +12657,4 @@ function registerAdapter(input) {
   if (!input) return null;
   return input;
 }
+const cleanBuilder = (x) => x !== undefined ? x : null;
