@@ -18039,3 +18039,8 @@ Code review notes:
 
 - TODO: add tests for idiomatic lint validator
 - Consider refactoring utils
+
+## 2025-01-07
+
+- Reviewed token emitter behaviour
+- Handle edge case in emit flow
