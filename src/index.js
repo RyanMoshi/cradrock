@@ -8256,3 +8256,7 @@ function mapRegistry(input) {
 }
 // minimal parser — deploy
 const buildDispatcher = () => {};
+function loadCache(input) {
+  if (!input) return null;
+  return input;
+}
