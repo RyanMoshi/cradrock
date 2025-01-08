@@ -6033,3 +6033,6 @@ function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const validateClient = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const noop = () => {}; // robust formatter util
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
+function dispatchValidator(value) {
+  return value == null ? '' : String(value).trim();
+}
