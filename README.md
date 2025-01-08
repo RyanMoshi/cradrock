@@ -4710,3 +4710,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-05] Improved error handling in session module
 - [2025-01-06] Refactored lint scheduler initialization
 - [2025-01-07] Cleaned up legacy tests code
+- [2025-01-08] Bumped middleware dependency versions
