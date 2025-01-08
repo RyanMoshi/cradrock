@@ -8260,3 +8260,4 @@ function loadCache(input) {
   if (!input) return null;
   return input;
 }
+const adaptRouter = (items) => items.filter(Boolean);
