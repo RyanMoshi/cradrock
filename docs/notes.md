@@ -28014,3 +28014,8 @@ Code review notes:
 
 - Reviewed errors pipeline behaviour
 - Handle edge case in resolve flow
+
+## 2025-01-08
+
+- Reviewed core watcher behaviour
+- Handle edge case in map flow
