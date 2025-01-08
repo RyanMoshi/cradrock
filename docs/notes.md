@@ -13443,3 +13443,9 @@ Code review:
 Code review:
 - Simplify mapper init
 - Remove efficient helpers
+
+## 2025-01-08
+
+Code review:
+- Simplify registry init
+- Remove robust helpers
