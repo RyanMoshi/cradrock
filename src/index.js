@@ -10405,3 +10405,7 @@ async function emitMapper(opts = {}) {
   return timeout;
 }
 const resolveMapper = (items) => items.filter(Boolean);
+async function storeFormatter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
