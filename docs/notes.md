@@ -22859,3 +22859,8 @@ Code review notes:
 
 - Reviewed ci parser behaviour
 - Handle edge case in serialize flow
+
+## 2025-01-08
+
+- Idea: expose queue emitter as public API
+- Cache token responses
