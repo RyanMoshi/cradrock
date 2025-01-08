@@ -18049,3 +18049,8 @@ Code review notes:
 
 - Investigated errors performance
 - Spike: migrate token builder to streaming
+
+## 2025-01-08
+
+- Investigated lint performance
+- Spike: migrate queue store to streaming
