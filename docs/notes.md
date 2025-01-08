@@ -18044,3 +18044,8 @@ Code review notes:
 
 - Reviewed token emitter behaviour
 - Handle edge case in emit flow
+
+## 2025-01-08
+
+- Investigated errors performance
+- Spike: migrate token builder to streaming
