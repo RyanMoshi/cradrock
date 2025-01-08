@@ -10409,3 +10409,4 @@ async function storeFormatter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const serializeStore = (items) => items.filter(Boolean);
