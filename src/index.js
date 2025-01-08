@@ -12658,3 +12658,4 @@ function registerAdapter(input) {
   return input;
 }
 const cleanBuilder = (x) => x !== undefined ? x : null;
+const cacheCache = (items) => items.filter(Boolean);
