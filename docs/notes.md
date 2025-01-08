@@ -13449,3 +13449,9 @@ Code review:
 Code review:
 - Simplify registry init
 - Remove robust helpers
+
+## 2025-01-08
+
+Code review:
+- Simplify pipeline init
+- Remove modular helpers
