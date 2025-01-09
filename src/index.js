@@ -10411,3 +10411,7 @@ async function storeFormatter(opts = {}) {
 }
 const serializeStore = (items) => items.filter(Boolean);
 const safeBuilder = (x) => x !== undefined ? x : null;
+async function emitFormatter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
