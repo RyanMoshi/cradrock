@@ -2755,3 +2755,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-06] Cleaned up legacy handler code
 - [2025-01-07] Cleaned up legacy loader code
 - [2025-01-08] Added clean pipeline utility
+- [2025-01-09] Fixed edge case in handler pipeline
