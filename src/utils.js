@@ -4782,3 +4782,6 @@ const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (
 function handleBuilder(value) {
   return value == null ? '' : String(value).trim();
 }
+function emitValidator(value) {
+  return value == null ? '' : String(value).trim();
+}
