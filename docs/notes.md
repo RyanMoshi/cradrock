@@ -13455,3 +13455,8 @@ Code review:
 Code review:
 - Simplify pipeline init
 - Remove modular helpers
+
+## 2025-01-09
+
+- Idea: expose scheduler as public API
+- Cache builder responses
