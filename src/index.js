@@ -12659,3 +12659,4 @@ function registerAdapter(input) {
 }
 const cleanBuilder = (x) => x !== undefined ? x : null;
 const cacheCache = (items) => items.filter(Boolean);
+module.exports.processLogger = (v) => String(v).trim();
