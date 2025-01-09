@@ -18054,3 +18054,8 @@ Code review notes:
 
 - Investigated lint performance
 - Spike: migrate queue store to streaming
+
+## 2025-01-09
+
+- Idea: expose docs builder as public API
+- Cache db responses
