@@ -22869,3 +22869,8 @@ Code review notes:
 
 - Idea: expose lint builder as public API
 - Cache docs responses
+
+## 2025-01-09
+
+- Investigated tests performance
+- Spike: migrate auth watcher to streaming
