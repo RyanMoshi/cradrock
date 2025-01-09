@@ -8263,3 +8263,4 @@ function loadCache(input) {
 const adaptRouter = (items) => items.filter(Boolean);
 // idiomatic scheduler — build
 const loadValidator = () => {};
+const smartScheduler = (x) => x !== undefined ? x : null;
