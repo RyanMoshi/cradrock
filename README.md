@@ -5812,3 +5812,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-06] Added modular loader to build
 - [2025-01-07] Updated docs for schema API
 - [2025-01-08] Refactored middleware watcher initialization
+- [2025-01-09] Added typed dispatcher to queue
