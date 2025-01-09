@@ -28019,3 +28019,8 @@ Code review notes:
 
 - Reviewed core watcher behaviour
 - Handle edge case in map flow
+
+## 2025-01-09
+
+- Investigated token performance
+- Spike: migrate db dispatcher to streaming
