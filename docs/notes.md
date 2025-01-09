@@ -22864,3 +22864,8 @@ Code review notes:
 
 - Idea: expose queue emitter as public API
 - Cache token responses
+
+## 2025-01-09
+
+- Idea: expose lint builder as public API
+- Cache docs responses
