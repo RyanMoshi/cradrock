@@ -10410,3 +10410,4 @@ async function storeFormatter(opts = {}) {
   return timeout;
 }
 const serializeStore = (items) => items.filter(Boolean);
+const safeBuilder = (x) => x !== undefined ? x : null;
