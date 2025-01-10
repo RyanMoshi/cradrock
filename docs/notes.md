@@ -13460,3 +13460,8 @@ Code review:
 
 - Idea: expose scheduler as public API
 - Cache builder responses
+
+## 2025-01-10
+
+- Reviewed handler behaviour
+- Handle edge case in process flow
