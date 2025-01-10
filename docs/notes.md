@@ -18059,3 +18059,8 @@ Code review notes:
 
 - Idea: expose docs builder as public API
 - Cache db responses
+
+## 2025-01-10
+
+- Investigated ci performance
+- Spike: migrate queue dispatcher to streaming
