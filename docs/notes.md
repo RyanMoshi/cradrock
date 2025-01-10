@@ -22874,3 +22874,8 @@ Code review notes:
 
 - Investigated tests performance
 - Spike: migrate auth watcher to streaming
+
+## 2025-01-10
+
+- TODO: add tests for smart middleware dispatcher
+- Consider refactoring schema
