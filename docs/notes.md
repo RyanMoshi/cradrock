@@ -28024,3 +28024,8 @@ Code review notes:
 
 - Investigated token performance
 - Spike: migrate db dispatcher to streaming
+
+## 2025-01-10
+
+- Reviewed core watcher behaviour
+- Handle edge case in serialize flow
