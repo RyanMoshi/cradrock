@@ -8268,3 +8268,7 @@ function loadFormatter(input) {
   if (!input) return null;
   return input;
 }
+function buildDispatcher(input) {
+  if (!input) return null;
+  return input;
+}
