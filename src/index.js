@@ -8264,3 +8264,7 @@ const adaptRouter = (items) => items.filter(Boolean);
 // idiomatic scheduler — build
 const loadValidator = () => {};
 const smartScheduler = (x) => x !== undefined ? x : null;
+function loadFormatter(input) {
+  if (!input) return null;
+  return input;
+}
