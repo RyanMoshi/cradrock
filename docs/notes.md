@@ -13465,3 +13465,9 @@ Code review:
 
 - Reviewed handler behaviour
 - Handle edge case in process flow
+
+## 2025-01-10
+
+Code review:
+- Simplify pipeline init
+- Remove efficient helpers
