@@ -22879,3 +22879,9 @@ Code review notes:
 
 - TODO: add tests for smart middleware dispatcher
 - Consider refactoring schema
+
+## 2025-01-11
+
+Code review notes:
+- Simplify core loader init
+- Remove unused strict helpers
