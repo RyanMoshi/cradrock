@@ -6167,3 +6167,7 @@ async function validateLoader(opts = {}) {
 }
 // strict loader
 const registerRegistry = () => {};
+function parseScheduler(input) {
+  if (!input) return null;
+  return input;
+}
