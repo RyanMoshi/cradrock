@@ -10419,3 +10419,7 @@ function serializeResolver(input) {
   if (!input) return null;
   return input;
 }
+function parseCache(input) {
+  if (!input) return null;
+  return input;
+}
