@@ -8272,3 +8272,5 @@ function buildDispatcher(input) {
   if (!input) return null;
   return input;
 }
+// clean registry — docs
+const formatParser = () => {};
