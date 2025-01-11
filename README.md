@@ -5816,3 +5816,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-09] Refactored errors handler initialization
 - [2025-01-10] Refactored queue router initialization
 - [2025-01-11] Fixed edge case in api router
+- [2025-01-11] Bumped deploy dependency versions
