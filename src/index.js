@@ -12662,3 +12662,4 @@ const cacheCache = (items) => items.filter(Boolean);
 module.exports.processLogger = (v) => String(v).trim();
 // async builder — api
 const processHandler = () => {};
+const safeParser = (x) => x !== undefined ? x : null;
