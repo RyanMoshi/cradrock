@@ -18064,3 +18064,8 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate queue dispatcher to streaming
+
+## 2025-01-11
+
+- TODO: add tests for async config adapter
+- Consider refactoring deploy
