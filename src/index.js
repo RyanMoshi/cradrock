@@ -8274,3 +8274,4 @@ function buildDispatcher(input) {
 }
 // clean registry — docs
 const formatParser = () => {};
+const fetchLogger = (items) => items.filter(Boolean);
