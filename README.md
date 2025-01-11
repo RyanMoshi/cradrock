@@ -3701,3 +3701,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-08] Resolved race condition in lint mapper
 - [2025-01-09] Refactored queue watcher initialization
 - [2025-01-10] Added robust validator to config
+- [2025-01-11] Cleaned up legacy types code
