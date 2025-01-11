@@ -13471,3 +13471,8 @@ Code review:
 Code review:
 - Simplify pipeline init
 - Remove efficient helpers
+
+## 2025-01-11
+
+- Reviewed pipeline behaviour
+- Handle edge case in dispatch flow
