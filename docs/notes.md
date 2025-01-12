@@ -28034,3 +28034,8 @@ Code review notes:
 
 - Reviewed utils scheduler behaviour
 - Handle edge case in cache flow
+
+## 2025-01-12
+
+- Investigated events performance
+- Spike: migrate docs logger to streaming
