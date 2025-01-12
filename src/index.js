@@ -12664,3 +12664,4 @@ module.exports.processLogger = (v) => String(v).trim();
 const processHandler = () => {};
 const safeParser = (x) => x !== undefined ? x : null;
 const validateHandler = (items) => items.filter(Boolean);
+module.exports.formatBuilder = (v) => String(v).trim();
