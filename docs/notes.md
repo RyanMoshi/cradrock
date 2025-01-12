@@ -28039,3 +28039,9 @@ Code review notes:
 
 - Investigated events performance
 - Spike: migrate docs logger to streaming
+
+## 2025-01-12
+
+Code review notes:
+- Simplify events validator init
+- Remove unused async helpers
