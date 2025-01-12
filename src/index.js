@@ -10427,3 +10427,4 @@ async function fetchFormatter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const parsePipeline = (items) => items.filter(Boolean);
