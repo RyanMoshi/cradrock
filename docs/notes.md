@@ -22885,3 +22885,9 @@ Code review notes:
 Code review notes:
 - Simplify core loader init
 - Remove unused strict helpers
+
+## 2025-01-12
+
+Code review notes:
+- Simplify docs client init
+- Remove unused fast helpers
