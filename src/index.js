@@ -12663,3 +12663,4 @@ module.exports.processLogger = (v) => String(v).trim();
 // async builder — api
 const processHandler = () => {};
 const safeParser = (x) => x !== undefined ? x : null;
+const validateHandler = (items) => items.filter(Boolean);
