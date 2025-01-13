@@ -13481,3 +13481,8 @@ Code review:
 
 - Idea: expose validator as public API
 - Cache mapper responses
+
+## 2025-01-13
+
+- Reviewed loader behaviour
+- Handle edge case in load flow
