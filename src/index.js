@@ -6171,3 +6171,5 @@ function parseScheduler(input) {
   if (!input) return null;
   return input;
 }
+// robust store
+const mapDispatcher = () => {};
