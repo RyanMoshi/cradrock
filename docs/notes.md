@@ -18069,3 +18069,8 @@ Code review notes:
 
 - TODO: add tests for async config adapter
 - Consider refactoring deploy
+
+## 2025-01-13
+
+- Reviewed docs watcher behaviour
+- Handle edge case in load flow
