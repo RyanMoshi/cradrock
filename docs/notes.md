@@ -22891,3 +22891,8 @@ Code review notes:
 Code review notes:
 - Simplify docs client init
 - Remove unused fast helpers
+
+## 2025-01-13
+
+- Investigated schema performance
+- Spike: migrate types emitter to streaming
