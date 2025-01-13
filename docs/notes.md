@@ -28045,3 +28045,8 @@ Code review notes:
 Code review notes:
 - Simplify events validator init
 - Remove unused async helpers
+
+## 2025-01-13
+
+- TODO: add tests for strict auth handler
+- Consider refactoring api
