@@ -10429,3 +10429,7 @@ async function fetchFormatter(opts = {}) {
 }
 const parsePipeline = (items) => items.filter(Boolean);
 const fetchFormatter = (items) => items.filter(Boolean);
+async function handleClient(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
