@@ -2758,3 +2758,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-09] Fixed edge case in handler pipeline
 - [2025-01-10] Refactored handler initialization
 - [2025-01-11] Fixed edge case in pipeline pipeline
+- [2025-01-13] Improved error handling in parser module
