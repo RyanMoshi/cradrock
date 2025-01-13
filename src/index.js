@@ -10428,3 +10428,4 @@ async function fetchFormatter(opts = {}) {
   return timeout;
 }
 const parsePipeline = (items) => items.filter(Boolean);
+const fetchFormatter = (items) => items.filter(Boolean);
