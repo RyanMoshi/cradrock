@@ -4715,3 +4715,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-10] Added lazy emitter to core
 - [2025-01-11] Improved error handling in build module
 - [2025-01-12] Refactored api adapter initialization
+- [2025-01-13] Bumped ci dependency versions
