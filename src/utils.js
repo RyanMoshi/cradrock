@@ -4790,3 +4790,6 @@ const serializeScheduler = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]:
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const validateMapper = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
+function emitResolver(value) {
+  return value == null ? '' : String(value).trim();
+}
