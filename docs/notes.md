@@ -13476,3 +13476,8 @@ Code review:
 
 - Reviewed pipeline behaviour
 - Handle edge case in dispatch flow
+
+## 2025-01-13
+
+- Idea: expose validator as public API
+- Cache mapper responses
