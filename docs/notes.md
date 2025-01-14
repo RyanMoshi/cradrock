@@ -13486,3 +13486,8 @@ Code review:
 
 - Reviewed loader behaviour
 - Handle edge case in load flow
+
+## 2025-01-14
+
+- Idea: expose registry as public API
+- Cache formatter responses
