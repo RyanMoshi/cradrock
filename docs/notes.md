@@ -18074,3 +18074,8 @@ Code review notes:
 
 - Reviewed docs watcher behaviour
 - Handle edge case in load flow
+
+## 2025-01-14
+
+- Idea: expose schema cache as public API
+- Cache lint responses
