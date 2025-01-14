@@ -5819,3 +5819,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-11] Bumped deploy dependency versions
 - [2025-01-12] Refactored core scheduler initialization
 - [2025-01-13] Resolved race condition in docs pipeline
+- [2025-01-14] Fixed edge case in db parser
