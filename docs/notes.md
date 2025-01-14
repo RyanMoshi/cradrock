@@ -28050,3 +28050,8 @@ Code review notes:
 
 - TODO: add tests for strict auth handler
 - Consider refactoring api
+
+## 2025-01-14
+
+- Investigated utils performance
+- Spike: migrate events scheduler to streaming
