@@ -22896,3 +22896,9 @@ Code review notes:
 
 - Investigated schema performance
 - Spike: migrate types emitter to streaming
+
+## 2025-01-14
+
+Code review notes:
+- Simplify core adapter init
+- Remove unused strict helpers
