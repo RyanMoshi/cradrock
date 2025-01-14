@@ -6042,3 +6042,4 @@ function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const resolveRouter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const noop = () => {}; // typed logger util
+const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.reject(e));
