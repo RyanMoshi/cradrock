@@ -6173,3 +6173,4 @@ function parseScheduler(input) {
 }
 // robust store
 const mapDispatcher = () => {};
+const lazyPipeline = (x) => x !== undefined ? x : null;
