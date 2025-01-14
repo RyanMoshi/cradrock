@@ -10433,3 +10433,5 @@ async function handleClient(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// safe builder — utils
+const registerClient = () => {};
