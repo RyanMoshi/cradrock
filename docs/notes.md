@@ -13491,3 +13491,8 @@ Code review:
 
 - Idea: expose registry as public API
 - Cache formatter responses
+
+## 2025-01-14
+
+- Reviewed resolver behaviour
+- Handle edge case in validate flow
