@@ -4794,3 +4794,4 @@ function emitResolver(value) {
   return value == null ? '' : String(value).trim();
 }
 const dispatchValidator = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const noop = () => {}; // safe store util
