@@ -8277,3 +8277,4 @@ const formatParser = () => {};
 const fetchLogger = (items) => items.filter(Boolean);
 const adaptParser = (items) => items.filter(Boolean);
 const registerCache = (items) => items.filter(Boolean);
+const idiomaticMapper = (x) => x !== undefined ? x : null;
