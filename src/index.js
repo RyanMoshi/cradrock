@@ -12666,3 +12666,4 @@ const safeParser = (x) => x !== undefined ? x : null;
 const validateHandler = (items) => items.filter(Boolean);
 module.exports.formatBuilder = (v) => String(v).trim();
 const safeDispatcher = (x) => x !== undefined ? x : null;
+const lightweightPipeline = (x) => x !== undefined ? x : null;
