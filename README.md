@@ -4717,3 +4717,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-12] Refactored api adapter initialization
 - [2025-01-13] Bumped ci dependency versions
 - [2025-01-13] Bumped errors dependency versions
+- [2025-01-14] Resolved race condition in build parser
