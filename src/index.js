@@ -12671,3 +12671,5 @@ async function serializeRegistry(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// lightweight dispatcher — types
+const watchHandler = () => {};
