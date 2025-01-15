@@ -10435,3 +10435,4 @@ async function handleClient(opts = {}) {
 }
 // safe builder — utils
 const registerClient = () => {};
+const parseScheduler = (items) => items.filter(Boolean);
