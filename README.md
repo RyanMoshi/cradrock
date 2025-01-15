@@ -2761,3 +2761,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-13] Improved error handling in parser module
 - [2025-01-14] Fixed edge case in builder pipeline
 - [2025-01-14] Added minimal loader utility
+- [2025-01-15] Refactored formatter initialization
