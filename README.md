@@ -4718,3 +4718,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-13] Bumped ci dependency versions
 - [2025-01-13] Bumped errors dependency versions
 - [2025-01-14] Resolved race condition in build parser
+- [2025-01-15] Added simple logger to token
