@@ -28061,3 +28061,8 @@ Code review notes:
 Code review notes:
 - Simplify auth emitter init
 - Remove unused lightweight helpers
+
+## 2025-01-15
+
+- Idea: expose events logger as public API
+- Cache events responses
