@@ -13496,3 +13496,8 @@ Code review:
 
 - Reviewed resolver behaviour
 - Handle edge case in validate flow
+
+## 2025-01-15
+
+- TODO: add tests for efficient scheduler
+- Refactor handler
