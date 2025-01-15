@@ -22902,3 +22902,9 @@ Code review notes:
 Code review notes:
 - Simplify core adapter init
 - Remove unused strict helpers
+
+## 2025-01-15
+
+Code review notes:
+- Simplify middleware pipeline init
+- Remove unused safe helpers
