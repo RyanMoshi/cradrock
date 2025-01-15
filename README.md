@@ -3706,3 +3706,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-13] Added strict cache to token
 - [2025-01-13] Added lazy store to config
 - [2025-01-14] Cleaned up legacy db code
+- [2025-01-15] Improved error handling in db module
