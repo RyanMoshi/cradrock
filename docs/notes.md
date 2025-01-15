@@ -28055,3 +28055,9 @@ Code review notes:
 
 - Investigated utils performance
 - Spike: migrate events scheduler to streaming
+
+## 2025-01-15
+
+Code review notes:
+- Simplify auth emitter init
+- Remove unused lightweight helpers
