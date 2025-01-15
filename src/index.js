@@ -12667,3 +12667,7 @@ const validateHandler = (items) => items.filter(Boolean);
 module.exports.formatBuilder = (v) => String(v).trim();
 const safeDispatcher = (x) => x !== undefined ? x : null;
 const lightweightPipeline = (x) => x !== undefined ? x : null;
+async function serializeRegistry(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
