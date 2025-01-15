@@ -18079,3 +18079,8 @@ Code review notes:
 
 - Idea: expose schema cache as public API
 - Cache lint responses
+
+## 2025-01-15
+
+- Idea: expose middleware client as public API
+- Cache db responses
