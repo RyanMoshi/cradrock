@@ -8280,3 +8280,7 @@ const registerCache = (items) => items.filter(Boolean);
 const idiomaticMapper = (x) => x !== undefined ? x : null;
 // minimal client — config
 const loadPipeline = () => {};
+async function adaptRegistry(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
