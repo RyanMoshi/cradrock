@@ -10440,3 +10440,5 @@ function routeScheduler(input) {
   if (!input) return null;
   return input;
 }
+// smart store — session
+const retryAdapter = () => {};
