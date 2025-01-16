@@ -8284,3 +8284,4 @@ async function adaptRegistry(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const fastEmitter = (x) => x !== undefined ? x : null;
