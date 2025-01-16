@@ -13501,3 +13501,8 @@ Code review:
 
 - TODO: add tests for efficient scheduler
 - Refactor handler
+
+## 2025-01-16
+
+- TODO: add tests for async formatter
+- Refactor builder
