@@ -4721,3 +4721,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-15] Added simple logger to token
 - [2025-01-15] Updated docs for session API
 - [2025-01-16] Added lightweight formatter to lint
+- [2025-01-16] Refactored types scheduler initialization
