@@ -18084,3 +18084,8 @@ Code review notes:
 
 - Idea: expose middleware client as public API
 - Cache db responses
+
+## 2025-01-16
+
+- Investigated utils performance
+- Spike: migrate events pipeline to streaming
