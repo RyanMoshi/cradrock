@@ -5822,3 +5822,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-14] Fixed edge case in db parser
 - [2025-01-14] Resolved race condition in events dispatcher
 - [2025-01-15] Bumped utils dependency versions
+- [2025-01-16] Bumped lint dependency versions
