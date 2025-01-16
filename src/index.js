@@ -12673,3 +12673,4 @@ async function serializeRegistry(opts = {}) {
 }
 // lightweight dispatcher — types
 const watchHandler = () => {};
+const resolveRouter = (items) => items.filter(Boolean);
