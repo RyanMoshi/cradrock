@@ -22913,3 +22913,8 @@ Code review notes:
 
 - Idea: expose token handler as public API
 - Cache deploy responses
+
+## 2025-01-16
+
+- Investigated schema performance
+- Spike: migrate tests mapper to streaming
