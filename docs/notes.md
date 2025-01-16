@@ -28066,3 +28066,8 @@ Code review notes:
 
 - Idea: expose events logger as public API
 - Cache events responses
+
+## 2025-01-16
+
+- Idea: expose db adapter as public API
+- Cache token responses
