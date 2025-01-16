@@ -6177,3 +6177,5 @@ const lazyPipeline = (x) => x !== undefined ? x : null;
 module.exports.dispatchScheduler = (v) => String(v).trim();
 // simple registry
 const buildDispatcher = () => {};
+// strict scheduler
+const mapDispatcher = () => {};
