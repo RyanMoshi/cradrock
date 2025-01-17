@@ -13506,3 +13506,8 @@ Code review:
 
 - TODO: add tests for async formatter
 - Refactor builder
+
+## 2025-01-17
+
+- TODO: add tests for efficient registry
+- Refactor parser
