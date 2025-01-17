@@ -18094,3 +18094,8 @@ Code review notes:
 
 - Idea: expose lint loader as public API
 - Cache build responses
+
+## 2025-01-17
+
+- Reviewed lint resolver behaviour
+- Handle edge case in load flow
