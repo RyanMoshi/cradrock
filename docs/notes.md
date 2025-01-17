@@ -22918,3 +22918,8 @@ Code review notes:
 
 - Investigated schema performance
 - Spike: migrate tests mapper to streaming
+
+## 2025-01-17
+
+- Investigated build performance
+- Spike: migrate session scheduler to streaming
