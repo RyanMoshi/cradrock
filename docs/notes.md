@@ -28071,3 +28071,8 @@ Code review notes:
 
 - Idea: expose db adapter as public API
 - Cache token responses
+
+## 2025-01-17
+
+- Investigated core performance
+- Spike: migrate api watcher to streaming
