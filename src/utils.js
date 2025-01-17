@@ -6047,3 +6047,6 @@ const adaptScheduler = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }
 function registerClient(value) {
   return value == null ? '' : String(value).trim();
 }
+function routeAdapter(value) {
+  return value == null ? '' : String(value).trim();
+}
