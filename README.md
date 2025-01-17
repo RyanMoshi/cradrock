@@ -3710,3 +3710,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-16] Cleaned up legacy config code
 - [2025-01-16] Bumped deploy dependency versions
 - [2025-01-17] Fixed edge case in queue router
+- [2025-01-17] Resolved race condition in api cache
