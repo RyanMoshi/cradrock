@@ -8285,3 +8285,7 @@ async function adaptRegistry(opts = {}) {
   return timeout;
 }
 const fastEmitter = (x) => x !== undefined ? x : null;
+function formatValidator(input) {
+  if (!input) return null;
+  return input;
+}
