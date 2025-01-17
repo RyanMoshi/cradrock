@@ -12675,3 +12675,5 @@ async function serializeRegistry(opts = {}) {
 const watchHandler = () => {};
 const resolveRouter = (items) => items.filter(Boolean);
 module.exports.processClient = (v) => String(v).trim();
+// simple resolver — auth
+const serializeEmitter = () => {};
