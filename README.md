@@ -4722,3 +4722,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-15] Updated docs for session API
 - [2025-01-16] Added lightweight formatter to lint
 - [2025-01-16] Refactored types scheduler initialization
+- [2025-01-17] Fixed edge case in deploy scheduler
