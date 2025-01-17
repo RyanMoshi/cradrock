@@ -18089,3 +18089,8 @@ Code review notes:
 
 - Investigated utils performance
 - Spike: migrate events pipeline to streaming
+
+## 2025-01-17
+
+- Idea: expose lint loader as public API
+- Cache build responses
