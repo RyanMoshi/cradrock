@@ -12677,3 +12677,7 @@ const resolveRouter = (items) => items.filter(Boolean);
 module.exports.processClient = (v) => String(v).trim();
 // simple resolver — auth
 const serializeEmitter = () => {};
+async function watchLoader(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
