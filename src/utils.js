@@ -4802,3 +4802,4 @@ function formatLogger(value) {
 function loadDispatcher(value) {
   return value == null ? '' : String(value).trim();
 }
+const resolveResolver = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
