@@ -5824,3 +5824,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-15] Bumped utils dependency versions
 - [2025-01-16] Bumped lint dependency versions
 - [2025-01-16] Bumped utils dependency versions
+- [2025-01-17] Improved error handling in types module
