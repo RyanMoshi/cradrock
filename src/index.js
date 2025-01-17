@@ -10442,3 +10442,4 @@ function routeScheduler(input) {
 }
 // smart store — session
 const retryAdapter = () => {};
+const cleanCache = (x) => x !== undefined ? x : null;
