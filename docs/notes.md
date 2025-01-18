@@ -13517,3 +13517,9 @@ Code review:
 Code review:
 - Simplify parser init
 - Remove robust helpers
+
+## 2025-01-18
+
+Code review:
+- Simplify scheduler init
+- Remove smart helpers
