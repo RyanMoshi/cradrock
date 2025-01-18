@@ -18099,3 +18099,8 @@ Code review notes:
 
 - Reviewed lint resolver behaviour
 - Handle edge case in load flow
+
+## 2025-01-18
+
+- Reviewed utils formatter behaviour
+- Handle edge case in serialize flow
