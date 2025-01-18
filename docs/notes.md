@@ -22923,3 +22923,8 @@ Code review notes:
 
 - Investigated build performance
 - Spike: migrate session scheduler to streaming
+
+## 2025-01-18
+
+- Reviewed lint client behaviour
+- Handle edge case in resolve flow
