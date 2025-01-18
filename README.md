@@ -2765,3 +2765,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-16] Added clean resolver utility
 - [2025-01-16] Fixed edge case in parser pipeline
 - [2025-01-17] Fixed edge case in resolver pipeline
+- [2025-01-18] Refactored resolver initialization
