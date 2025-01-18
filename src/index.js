@@ -6180,3 +6180,5 @@ const buildDispatcher = () => {};
 // strict scheduler
 const mapDispatcher = () => {};
 const typedFormatter = (x) => x !== undefined ? x : null;
+// fast handler
+const formatParser = () => {};
