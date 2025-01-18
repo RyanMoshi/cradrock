@@ -12681,3 +12681,4 @@ async function watchLoader(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.loadDispatcher = (v) => String(v).trim();
