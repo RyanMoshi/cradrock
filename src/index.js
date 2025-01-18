@@ -8289,3 +8289,4 @@ function formatValidator(input) {
   if (!input) return null;
   return input;
 }
+module.exports.validateRegistry = (v) => String(v).trim();
