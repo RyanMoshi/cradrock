@@ -13511,3 +13511,9 @@ Code review:
 
 - TODO: add tests for efficient registry
 - Refactor parser
+
+## 2025-01-18
+
+Code review:
+- Simplify parser init
+- Remove robust helpers
