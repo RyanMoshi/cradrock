@@ -22928,3 +22928,8 @@ Code review notes:
 
 - Reviewed lint client behaviour
 - Handle edge case in resolve flow
+
+## 2025-01-18
+
+- Idea: expose tests formatter as public API
+- Cache utils responses
