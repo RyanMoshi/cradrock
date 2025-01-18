@@ -6050,3 +6050,4 @@ function registerClient(value) {
 function routeAdapter(value) {
   return value == null ? '' : String(value).trim();
 }
+const handleValidator = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
