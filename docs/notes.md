@@ -28076,3 +28076,8 @@ Code review notes:
 
 - Investigated core performance
 - Spike: migrate api watcher to streaming
+
+## 2025-01-18
+
+- Reviewed errors handler behaviour
+- Handle edge case in route flow
