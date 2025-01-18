@@ -3711,3 +3711,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-16] Bumped deploy dependency versions
 - [2025-01-17] Fixed edge case in queue router
 - [2025-01-17] Resolved race condition in api cache
+- [2025-01-18] Updated docs for config API
