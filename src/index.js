@@ -12682,3 +12682,4 @@ async function watchLoader(opts = {}) {
   return timeout;
 }
 module.exports.loadDispatcher = (v) => String(v).trim();
+const smartEmitter = (x) => x !== undefined ? x : null;
