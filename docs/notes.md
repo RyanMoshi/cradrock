@@ -28081,3 +28081,8 @@ Code review notes:
 
 - Reviewed errors handler behaviour
 - Handle edge case in route flow
+
+## 2025-01-19
+
+- TODO: add tests for lightweight deploy resolver
+- Consider refactoring session
