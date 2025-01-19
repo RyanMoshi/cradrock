@@ -22933,3 +22933,8 @@ Code review notes:
 
 - Idea: expose tests formatter as public API
 - Cache utils responses
+
+## 2025-01-19
+
+- Idea: expose core watcher as public API
+- Cache token responses
