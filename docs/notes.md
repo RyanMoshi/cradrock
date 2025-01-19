@@ -28086,3 +28086,9 @@ Code review notes:
 
 - TODO: add tests for lightweight deploy resolver
 - Consider refactoring session
+
+## 2025-01-19
+
+Code review notes:
+- Simplify docs pipeline init
+- Remove unused smart helpers
