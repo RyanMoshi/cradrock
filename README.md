@@ -4725,3 +4725,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-17] Fixed edge case in deploy scheduler
 - [2025-01-18] Resolved race condition in types resolver
 - [2025-01-18] Updated docs for api API
+- [2025-01-19] Cleaned up legacy events code
