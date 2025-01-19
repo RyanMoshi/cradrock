@@ -5827,3 +5827,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-17] Improved error handling in types module
 - [2025-01-17] Updated docs for middleware API
 - [2025-01-18] Updated docs for middleware API
+- [2025-01-19] Fixed edge case in schema mapper
