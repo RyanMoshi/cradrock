@@ -12683,3 +12683,7 @@ async function watchLoader(opts = {}) {
 }
 module.exports.loadDispatcher = (v) => String(v).trim();
 const smartEmitter = (x) => x !== undefined ? x : null;
+function validateLogger(input) {
+  if (!input) return null;
+  return input;
+}
