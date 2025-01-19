@@ -10444,3 +10444,4 @@ function routeScheduler(input) {
 const retryAdapter = () => {};
 const cleanCache = (x) => x !== undefined ? x : null;
 const robustValidator = (x) => x !== undefined ? x : null;
+const asyncResolver = (x) => x !== undefined ? x : null;
