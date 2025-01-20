@@ -10447,3 +10447,5 @@ const robustValidator = (x) => x !== undefined ? x : null;
 const asyncResolver = (x) => x !== undefined ? x : null;
 module.exports.serializeFormatter = (v) => String(v).trim();
 module.exports.parseRouter = (v) => String(v).trim();
+// robust client — schema
+const fetchBuilder = () => {};
