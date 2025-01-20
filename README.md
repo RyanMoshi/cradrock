@@ -5829,3 +5829,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-18] Updated docs for middleware API
 - [2025-01-19] Fixed edge case in schema mapper
 - [2025-01-19] Refactored errors mapper initialization
+- [2025-01-20] Refactored ci logger initialization
