@@ -6182,3 +6182,7 @@ const mapDispatcher = () => {};
 const typedFormatter = (x) => x !== undefined ? x : null;
 // fast handler
 const formatParser = () => {};
+async function adaptAdapter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
