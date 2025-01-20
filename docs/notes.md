@@ -22938,3 +22938,8 @@ Code review notes:
 
 - Idea: expose core watcher as public API
 - Cache token responses
+
+## 2025-01-20
+
+- Reviewed queue logger behaviour
+- Handle edge case in parse flow
