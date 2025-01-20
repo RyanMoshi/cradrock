@@ -12691,3 +12691,7 @@ async function mapLogger(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function mapEmitter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
