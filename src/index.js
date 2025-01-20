@@ -6186,3 +6186,7 @@ async function adaptAdapter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+function loadBuilder(input) {
+  if (!input) return null;
+  return input;
+}
