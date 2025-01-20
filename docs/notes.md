@@ -22943,3 +22943,8 @@ Code review notes:
 
 - Reviewed queue logger behaviour
 - Handle edge case in parse flow
+
+## 2025-01-20
+
+- TODO: add tests for modular auth cache
+- Consider refactoring ci
