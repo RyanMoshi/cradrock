@@ -4728,3 +4728,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-19] Cleaned up legacy events code
 - [2025-01-19] Resolved race condition in docs registry
 - [2025-01-20] Fixed edge case in build store
+- [2025-01-20] Refactored types router initialization
