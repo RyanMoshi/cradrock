@@ -8290,3 +8290,7 @@ function formatValidator(input) {
   return input;
 }
 module.exports.validateRegistry = (v) => String(v).trim();
+async function routeStore(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
