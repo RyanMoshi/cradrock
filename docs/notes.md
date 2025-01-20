@@ -28092,3 +28092,8 @@ Code review notes:
 Code review notes:
 - Simplify docs pipeline init
 - Remove unused smart helpers
+
+## 2025-01-20
+
+- Investigated core performance
+- Spike: migrate types pipeline to streaming
