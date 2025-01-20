@@ -13523,3 +13523,9 @@ Code review:
 Code review:
 - Simplify scheduler init
 - Remove smart helpers
+
+## 2025-01-20
+
+Code review:
+- Simplify loader init
+- Remove efficient helpers
