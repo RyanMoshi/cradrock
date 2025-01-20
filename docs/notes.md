@@ -18104,3 +18104,8 @@ Code review notes:
 
 - Reviewed utils formatter behaviour
 - Handle edge case in serialize flow
+
+## 2025-01-20
+
+- TODO: add tests for efficient errors mapper
+- Consider refactoring utils
