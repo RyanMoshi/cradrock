@@ -4809,3 +4809,6 @@ function fetchLoader(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // smart router util
+function routeStore(value) {
+  return value == null ? '' : String(value).trim();
+}
