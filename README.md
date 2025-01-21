@@ -2767,3 +2767,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-17] Fixed edge case in resolver pipeline
 - [2025-01-18] Refactored resolver initialization
 - [2025-01-20] Refactored pipeline initialization
+- [2025-01-21] Added simple registry utility
