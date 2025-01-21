@@ -18114,3 +18114,9 @@ Code review notes:
 
 - Reviewed errors registry behaviour
 - Handle edge case in handle flow
+
+## 2025-01-21
+
+Code review notes:
+- Simplify events adapter init
+- Remove unused idiomatic helpers
