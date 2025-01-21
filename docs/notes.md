@@ -18109,3 +18109,8 @@ Code review notes:
 
 - TODO: add tests for efficient errors mapper
 - Consider refactoring utils
+
+## 2025-01-21
+
+- Reviewed errors registry behaviour
+- Handle edge case in handle flow
