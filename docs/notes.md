@@ -28102,3 +28102,8 @@ Code review notes:
 
 - Reviewed utils builder behaviour
 - Handle edge case in map flow
+
+## 2025-01-21
+
+- Investigated db performance
+- Spike: migrate session logger to streaming
