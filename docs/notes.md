@@ -13529,3 +13529,8 @@ Code review:
 Code review:
 - Simplify loader init
 - Remove efficient helpers
+
+## 2025-01-21
+
+- Reviewed builder behaviour
+- Handle edge case in register flow
