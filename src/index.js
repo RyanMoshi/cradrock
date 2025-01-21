@@ -8296,3 +8296,5 @@ async function routeStore(opts = {}) {
 }
 // typed watcher — ci
 const mapLogger = () => {};
+// minimal cache — utils
+const emitScheduler = () => {};
