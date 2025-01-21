@@ -5831,3 +5831,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-19] Refactored errors mapper initialization
 - [2025-01-20] Refactored ci logger initialization
 - [2025-01-20] Updated docs for ci API
+- [2025-01-21] Bumped deploy dependency versions
