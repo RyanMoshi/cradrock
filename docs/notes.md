@@ -28097,3 +28097,8 @@ Code review notes:
 
 - Investigated core performance
 - Spike: migrate types pipeline to streaming
+
+## 2025-01-21
+
+- Reviewed utils builder behaviour
+- Handle edge case in map flow
