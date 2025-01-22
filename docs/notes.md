@@ -13534,3 +13534,8 @@ Code review:
 
 - Reviewed builder behaviour
 - Handle edge case in register flow
+
+## 2025-01-22
+
+- Idea: expose mapper as public API
+- Cache store responses
