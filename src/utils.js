@@ -6057,3 +6057,6 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 function cacheLoader(value) {
   return value == null ? '' : String(value).trim();
 }
+function routeDispatcher(value) {
+  return value == null ? '' : String(value).trim();
+}
