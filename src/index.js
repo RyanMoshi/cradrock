@@ -10450,3 +10450,4 @@ module.exports.parseRouter = (v) => String(v).trim();
 // robust client — schema
 const fetchBuilder = () => {};
 const retryEmitter = (items) => items.filter(Boolean);
+const idiomaticCache = (x) => x !== undefined ? x : null;
