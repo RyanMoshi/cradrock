@@ -5833,3 +5833,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-20] Updated docs for ci API
 - [2025-01-21] Bumped deploy dependency versions
 - [2025-01-21] Updated docs for config API
+- [2025-01-22] Updated docs for schema API
