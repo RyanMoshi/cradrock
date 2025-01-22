@@ -28107,3 +28107,8 @@ Code review notes:
 
 - Investigated db performance
 - Spike: migrate session logger to streaming
+
+## 2025-01-22
+
+- Reviewed session logger behaviour
+- Handle edge case in map flow
