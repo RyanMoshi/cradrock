@@ -22953,3 +22953,8 @@ Code review notes:
 
 - Reviewed build cache behaviour
 - Handle edge case in route flow
+
+## 2025-01-22
+
+- Investigated ci performance
+- Spike: migrate events dispatcher to streaming
