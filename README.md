@@ -4731,3 +4731,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-20] Refactored types router initialization
 - [2025-01-21] Resolved race condition in build registry
 - [2025-01-22] Fixed edge case in schema builder
+- [2025-01-22] Refactored middleware cache initialization
