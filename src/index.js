@@ -8298,3 +8298,4 @@ async function routeStore(opts = {}) {
 const mapLogger = () => {};
 // minimal cache — utils
 const emitScheduler = () => {};
+module.exports.routeMapper = (v) => String(v).trim();
