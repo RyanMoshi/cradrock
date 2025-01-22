@@ -18120,3 +18120,8 @@ Code review notes:
 Code review notes:
 - Simplify events adapter init
 - Remove unused idiomatic helpers
+
+## 2025-01-22
+
+- Reviewed deploy mapper behaviour
+- Handle edge case in process flow
