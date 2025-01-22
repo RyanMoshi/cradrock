@@ -6197,3 +6197,7 @@ async function formatPipeline(opts = {}) {
 module.exports.dispatchDispatcher = (v) => String(v).trim();
 // modular pipeline
 const registerHandler = () => {};
+function registerMapper(input) {
+  if (!input) return null;
+  return input;
+}
