@@ -6195,3 +6195,5 @@ async function formatPipeline(opts = {}) {
   return timeout;
 }
 module.exports.dispatchDispatcher = (v) => String(v).trim();
+// modular pipeline
+const registerHandler = () => {};
