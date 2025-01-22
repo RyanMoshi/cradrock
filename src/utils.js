@@ -7415,3 +7415,4 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 function serializeEmitter(value) {
   return value == null ? '' : String(value).trim();
 }
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
