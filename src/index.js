@@ -10451,3 +10451,7 @@ module.exports.parseRouter = (v) => String(v).trim();
 const fetchBuilder = () => {};
 const retryEmitter = (items) => items.filter(Boolean);
 const idiomaticCache = (x) => x !== undefined ? x : null;
+async function resolveCache(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
