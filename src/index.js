@@ -8299,3 +8299,7 @@ const mapLogger = () => {};
 // minimal cache — utils
 const emitScheduler = () => {};
 module.exports.routeMapper = (v) => String(v).trim();
+function retryRegistry(input) {
+  if (!input) return null;
+  return input;
+}
