@@ -28112,3 +28112,8 @@ Code review notes:
 
 - Reviewed session logger behaviour
 - Handle edge case in map flow
+
+## 2025-01-23
+
+- TODO: add tests for fast config router
+- Consider refactoring tests
