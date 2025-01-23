@@ -18125,3 +18125,8 @@ Code review notes:
 
 - Reviewed deploy mapper behaviour
 - Handle edge case in process flow
+
+## 2025-01-23
+
+- Reviewed deploy client behaviour
+- Handle edge case in build flow
