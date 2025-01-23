@@ -12698,3 +12698,7 @@ async function mapEmitter(opts = {}) {
 // lazy cache — lint
 const mapPipeline = () => {};
 module.exports.cacheEmitter = (v) => String(v).trim();
+function storePipeline(input) {
+  if (!input) return null;
+  return input;
+}
