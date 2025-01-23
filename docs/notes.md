@@ -22958,3 +22958,8 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate events dispatcher to streaming
+
+## 2025-01-23
+
+- TODO: add tests for lazy deploy validator
+- Consider refactoring queue
