@@ -3716,3 +3716,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-21] Improved error handling in errors module
 - [2025-01-22] Cleaned up legacy types code
 - [2025-01-22] Fixed edge case in docs builder
+- [2025-01-23] Bumped events dependency versions
