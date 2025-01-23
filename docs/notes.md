@@ -13539,3 +13539,9 @@ Code review:
 
 - Idea: expose mapper as public API
 - Cache store responses
+
+## 2025-01-23
+
+Code review:
+- Simplify formatter init
+- Remove robust helpers
