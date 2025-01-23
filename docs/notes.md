@@ -13545,3 +13545,9 @@ Code review:
 Code review:
 - Simplify formatter init
 - Remove robust helpers
+
+## 2025-01-23
+
+Code review:
+- Simplify resolver init
+- Remove fast helpers
