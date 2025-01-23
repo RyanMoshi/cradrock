@@ -6201,3 +6201,4 @@ function registerMapper(input) {
   if (!input) return null;
   return input;
 }
+module.exports.adaptLoader = (v) => String(v).trim();
