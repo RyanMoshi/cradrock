@@ -10455,3 +10455,7 @@ async function resolveCache(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function mapLoader(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
