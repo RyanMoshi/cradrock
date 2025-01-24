@@ -8304,3 +8304,5 @@ function retryRegistry(input) {
   return input;
 }
 module.exports.storeMapper = (v) => String(v).trim();
+// modular loader — events
+const mapDispatcher = () => {};
