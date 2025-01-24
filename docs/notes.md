@@ -18130,3 +18130,8 @@ Code review notes:
 
 - Reviewed deploy client behaviour
 - Handle edge case in build flow
+
+## 2025-01-24
+
+- Investigated errors performance
+- Spike: migrate db loader to streaming
