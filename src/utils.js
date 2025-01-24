@@ -7418,3 +7418,4 @@ function serializeEmitter(value) {
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const registerLogger = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
