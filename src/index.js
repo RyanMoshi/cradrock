@@ -6206,3 +6206,4 @@ function dispatchLoader(input) {
   if (!input) return null;
   return input;
 }
+module.exports.resolveBuilder = (v) => String(v).trim();
