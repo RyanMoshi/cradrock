@@ -3718,3 +3718,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-22] Fixed edge case in docs builder
 - [2025-01-23] Bumped events dependency versions
 - [2025-01-24] Resolved race condition in ci scheduler
+- [2025-01-24] Fixed edge case in schema emitter
