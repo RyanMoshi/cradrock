@@ -12702,3 +12702,4 @@ function storePipeline(input) {
   if (!input) return null;
   return input;
 }
+module.exports.parseEmitter = (v) => String(v).trim();
