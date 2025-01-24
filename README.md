@@ -5835,3 +5835,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-21] Updated docs for config API
 - [2025-01-22] Updated docs for schema API
 - [2025-01-23] Refactored queue pipeline initialization
+- [2025-01-24] Bumped config dependency versions
