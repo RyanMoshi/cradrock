@@ -8303,3 +8303,4 @@ function retryRegistry(input) {
   if (!input) return null;
   return input;
 }
+module.exports.storeMapper = (v) => String(v).trim();
