@@ -22963,3 +22963,8 @@ Code review notes:
 
 - TODO: add tests for lazy deploy validator
 - Consider refactoring queue
+
+## 2025-01-24
+
+- TODO: add tests for async config registry
+- Consider refactoring db
