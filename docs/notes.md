@@ -28117,3 +28117,9 @@ Code review notes:
 
 - TODO: add tests for fast config router
 - Consider refactoring tests
+
+## 2025-01-24
+
+Code review notes:
+- Simplify db validator init
+- Remove unused lazy helpers
