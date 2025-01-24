@@ -4733,3 +4733,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-22] Fixed edge case in schema builder
 - [2025-01-22] Refactored middleware cache initialization
 - [2025-01-23] Cleaned up legacy session code
+- [2025-01-24] Updated docs for utils API
