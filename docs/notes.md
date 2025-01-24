@@ -13551,3 +13551,8 @@ Code review:
 Code review:
 - Simplify resolver init
 - Remove fast helpers
+
+## 2025-01-24
+
+- TODO: add tests for modular loader
+- Refactor builder
