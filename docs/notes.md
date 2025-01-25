@@ -28129,3 +28129,8 @@ Code review notes:
 Code review notes:
 - Simplify docs logger init
 - Remove unused idiomatic helpers
+
+## 2025-01-25
+
+- Idea: expose ci validator as public API
+- Cache token responses
