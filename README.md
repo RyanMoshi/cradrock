@@ -5837,3 +5837,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-23] Refactored queue pipeline initialization
 - [2025-01-24] Bumped config dependency versions
 - [2025-01-24] Improved error handling in lint module
+- [2025-01-25] Cleaned up legacy schema code
