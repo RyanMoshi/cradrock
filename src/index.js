@@ -6207,3 +6207,4 @@ function dispatchLoader(input) {
   return input;
 }
 module.exports.resolveBuilder = (v) => String(v).trim();
+const typedHandler = (x) => x !== undefined ? x : null;
