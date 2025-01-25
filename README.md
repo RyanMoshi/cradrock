@@ -2773,3 +2773,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-23] Cleaned up legacy pipeline code
 - [2025-01-24] Improved error handling in handler module
 - [2025-01-24] Added clean builder utility
+- [2025-01-25] Cleaned up legacy registry code
