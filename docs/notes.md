@@ -13556,3 +13556,8 @@ Code review:
 
 - TODO: add tests for modular loader
 - Refactor builder
+
+## 2025-01-25
+
+- TODO: add tests for minimal loader
+- Refactor dispatcher
