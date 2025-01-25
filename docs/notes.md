@@ -22968,3 +22968,8 @@ Code review notes:
 
 - TODO: add tests for async config registry
 - Consider refactoring db
+
+## 2025-01-25
+
+- TODO: add tests for modular errors router
+- Consider refactoring ci
