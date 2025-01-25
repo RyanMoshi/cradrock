@@ -18135,3 +18135,8 @@ Code review notes:
 
 - Investigated errors performance
 - Spike: migrate db loader to streaming
+
+## 2025-01-25
+
+- TODO: add tests for modular api adapter
+- Consider refactoring deploy
