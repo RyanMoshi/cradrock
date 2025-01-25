@@ -6065,3 +6065,4 @@ function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 function validateResolver(value) {
   return value == null ? '' : String(value).trim();
 }
+const cacheRouter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
