@@ -8310,3 +8310,4 @@ async function retryCache(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const smartWatcher = (x) => x !== undefined ? x : null;
