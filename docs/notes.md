@@ -28134,3 +28134,8 @@ Code review notes:
 
 - Idea: expose ci validator as public API
 - Cache token responses
+
+## 2025-01-25
+
+- Reviewed ci validator behaviour
+- Handle edge case in register flow
