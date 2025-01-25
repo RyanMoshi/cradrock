@@ -3719,3 +3719,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-23] Bumped events dependency versions
 - [2025-01-24] Resolved race condition in ci scheduler
 - [2025-01-24] Fixed edge case in schema emitter
+- [2025-01-25] Improved error handling in schema module
