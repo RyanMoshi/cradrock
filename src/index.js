@@ -8306,3 +8306,7 @@ function retryRegistry(input) {
 module.exports.storeMapper = (v) => String(v).trim();
 // modular loader — events
 const mapDispatcher = () => {};
+async function retryCache(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
