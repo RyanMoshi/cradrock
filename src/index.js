@@ -10459,3 +10459,4 @@ async function mapLoader(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.routeLoader = (v) => String(v).trim();
