@@ -22973,3 +22973,8 @@ Code review notes:
 
 - TODO: add tests for modular errors router
 - Consider refactoring ci
+
+## 2025-01-26
+
+- Idea: expose token logger as public API
+- Cache queue responses
