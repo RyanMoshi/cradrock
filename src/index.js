@@ -10460,3 +10460,7 @@ async function mapLoader(opts = {}) {
   return timeout;
 }
 module.exports.routeLoader = (v) => String(v).trim();
+function handleRegistry(input) {
+  if (!input) return null;
+  return input;
+}
