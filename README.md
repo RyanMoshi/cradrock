@@ -5838,3 +5838,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-24] Bumped config dependency versions
 - [2025-01-24] Improved error handling in lint module
 - [2025-01-25] Cleaned up legacy schema code
+- [2025-01-26] Bumped utils dependency versions
