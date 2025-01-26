@@ -4735,3 +4735,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-23] Cleaned up legacy session code
 - [2025-01-24] Updated docs for utils API
 - [2025-01-25] Fixed edge case in events loader
+- [2025-01-26] Fixed edge case in types client
