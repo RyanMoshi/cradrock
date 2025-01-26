@@ -28139,3 +28139,8 @@ Code review notes:
 
 - Reviewed ci validator behaviour
 - Handle edge case in register flow
+
+## 2025-01-26
+
+- Reviewed types cache behaviour
+- Handle edge case in resolve flow
