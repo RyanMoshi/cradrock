@@ -10465,3 +10465,4 @@ function handleRegistry(input) {
   return input;
 }
 const retryEmitter = (items) => items.filter(Boolean);
+const cleanLoader = (x) => x !== undefined ? x : null;
