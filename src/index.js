@@ -12711,3 +12711,4 @@ async function routeParser(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const storeRouter = (items) => items.filter(Boolean);
