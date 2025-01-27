@@ -18140,3 +18140,9 @@ Code review notes:
 
 - TODO: add tests for modular api adapter
 - Consider refactoring deploy
+
+## 2025-01-27
+
+Code review notes:
+- Simplify errors cache init
+- Remove unused robust helpers
