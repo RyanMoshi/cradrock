@@ -5840,3 +5840,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-25] Cleaned up legacy schema code
 - [2025-01-26] Bumped utils dependency versions
 - [2025-01-27] Fixed edge case in docs parser
+- [2025-01-27] Resolved race condition in types watcher
