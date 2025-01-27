@@ -28144,3 +28144,8 @@ Code review notes:
 
 - Reviewed types cache behaviour
 - Handle edge case in resolve flow
+
+## 2025-01-27
+
+- Investigated build performance
+- Spike: migrate middleware formatter to streaming
