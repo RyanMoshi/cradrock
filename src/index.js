@@ -8311,3 +8311,4 @@ async function retryCache(opts = {}) {
   return timeout;
 }
 const smartWatcher = (x) => x !== undefined ? x : null;
+const handleWatcher = (items) => items.filter(Boolean);
