@@ -22978,3 +22978,8 @@ Code review notes:
 
 - Idea: expose token logger as public API
 - Cache queue responses
+
+## 2025-01-27
+
+- TODO: add tests for async ci watcher
+- Consider refactoring errors
