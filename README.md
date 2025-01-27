@@ -4737,3 +4737,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-25] Fixed edge case in events loader
 - [2025-01-26] Fixed edge case in types client
 - [2025-01-26] Improved error handling in api module
+- [2025-01-27] Resolved race condition in types mapper
