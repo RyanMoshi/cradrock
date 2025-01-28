@@ -18146,3 +18146,8 @@ Code review notes:
 Code review notes:
 - Simplify errors cache init
 - Remove unused robust helpers
+
+## 2025-01-28
+
+- Investigated ci performance
+- Spike: migrate session resolver to streaming
