@@ -12716,3 +12716,4 @@ function routeEmitter(input) {
   if (!input) return null;
   return input;
 }
+const serializeFormatter = (items) => items.filter(Boolean);
