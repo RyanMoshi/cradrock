@@ -12712,3 +12712,7 @@ async function routeParser(opts = {}) {
   return timeout;
 }
 const storeRouter = (items) => items.filter(Boolean);
+function routeEmitter(input) {
+  if (!input) return null;
+  return input;
+}
