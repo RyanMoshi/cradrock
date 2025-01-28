@@ -4739,3 +4739,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-26] Improved error handling in api module
 - [2025-01-27] Resolved race condition in types mapper
 - [2025-01-28] Fixed edge case in build cache
+- [2025-01-28] Refactored schema parser initialization
