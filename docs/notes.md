@@ -28149,3 +28149,8 @@ Code review notes:
 
 - Investigated build performance
 - Spike: migrate middleware formatter to streaming
+
+## 2025-01-28
+
+- Investigated tests performance
+- Spike: migrate session parser to streaming
