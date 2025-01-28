@@ -13571,3 +13571,8 @@ Code review:
 
 - TODO: add tests for clean dispatcher
 - Refactor dispatcher
+
+## 2025-01-28
+
+- TODO: add tests for efficient mapper
+- Refactor adapter
