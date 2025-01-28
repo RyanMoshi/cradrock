@@ -22983,3 +22983,9 @@ Code review notes:
 
 - TODO: add tests for async ci watcher
 - Consider refactoring errors
+
+## 2025-01-28
+
+Code review notes:
+- Simplify config dispatcher init
+- Remove unused async helpers
