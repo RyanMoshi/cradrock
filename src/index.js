@@ -6209,3 +6209,4 @@ function dispatchLoader(input) {
 module.exports.resolveBuilder = (v) => String(v).trim();
 const typedHandler = (x) => x !== undefined ? x : null;
 module.exports.storeDispatcher = (v) => String(v).trim();
+module.exports.storeResolver = (v) => String(v).trim();
