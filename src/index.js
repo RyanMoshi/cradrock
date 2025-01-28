@@ -8312,3 +8312,7 @@ async function retryCache(opts = {}) {
 }
 const smartWatcher = (x) => x !== undefined ? x : null;
 const handleWatcher = (items) => items.filter(Boolean);
+async function storeFormatter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
