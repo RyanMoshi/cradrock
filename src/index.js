@@ -10467,3 +10467,4 @@ function handleRegistry(input) {
 const retryEmitter = (items) => items.filter(Boolean);
 const cleanLoader = (x) => x !== undefined ? x : null;
 const typedScheduler = (x) => x !== undefined ? x : null;
+const idiomaticLoader = (x) => x !== undefined ? x : null;
