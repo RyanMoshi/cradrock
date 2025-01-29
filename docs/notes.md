@@ -18151,3 +18151,8 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate session resolver to streaming
+
+## 2025-01-29
+
+- Reviewed ci pipeline behaviour
+- Handle edge case in resolve flow
