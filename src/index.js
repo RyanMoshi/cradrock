@@ -8317,3 +8317,7 @@ async function storeFormatter(opts = {}) {
   return timeout;
 }
 const resolveDispatcher = (items) => items.filter(Boolean);
+function buildStore(input) {
+  if (!input) return null;
+  return input;
+}
