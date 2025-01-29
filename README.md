@@ -5843,3 +5843,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-27] Resolved race condition in types watcher
 - [2025-01-28] Bumped build dependency versions
 - [2025-01-29] Resolved race condition in lint formatter
+- [2025-01-29] Improved error handling in ci module
