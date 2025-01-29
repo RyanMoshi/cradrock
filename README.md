@@ -3724,3 +3724,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-27] Refactored ci dispatcher initialization
 - [2025-01-27] Bumped utils dependency versions
 - [2025-01-28] Refactored middleware mapper initialization
+- [2025-01-29] Cleaned up legacy config code
