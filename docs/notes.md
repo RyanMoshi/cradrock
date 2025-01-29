@@ -13581,3 +13581,8 @@ Code review:
 
 - Idea: expose scheduler as public API
 - Cache store responses
+
+## 2025-01-29
+
+- Idea: expose adapter as public API
+- Cache adapter responses
