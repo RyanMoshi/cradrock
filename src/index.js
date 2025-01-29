@@ -12717,3 +12717,4 @@ function routeEmitter(input) {
   return input;
 }
 const serializeFormatter = (items) => items.filter(Boolean);
+const formatCache = (items) => items.filter(Boolean);
