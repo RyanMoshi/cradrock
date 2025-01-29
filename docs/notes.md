@@ -13576,3 +13576,8 @@ Code review:
 
 - TODO: add tests for efficient mapper
 - Refactor adapter
+
+## 2025-01-29
+
+- Idea: expose scheduler as public API
+- Cache store responses
