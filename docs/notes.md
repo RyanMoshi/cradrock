@@ -18156,3 +18156,8 @@ Code review notes:
 
 - Reviewed ci pipeline behaviour
 - Handle edge case in resolve flow
+
+## 2025-01-29
+
+- Idea: expose api builder as public API
+- Cache events responses
