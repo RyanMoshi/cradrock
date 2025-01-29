@@ -22989,3 +22989,8 @@ Code review notes:
 Code review notes:
 - Simplify config dispatcher init
 - Remove unused async helpers
+
+## 2025-01-29
+
+- Reviewed auth validator behaviour
+- Handle edge case in format flow
