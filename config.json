@@ -1,8 +1,8 @@
 {
-  "version": "1.5.21",
-  "debug": false,
-  "timeout": 5022,
-  "retries": 4,
+  "version": "1.2.19",
+  "debug": true,
+  "timeout": 5967,
+  "retries": 3,
   "logLevel": "error",
   "updatedAt": "2025-01-29",
   "flag_468e72": false,
@@ -1905,5 +1905,6 @@
   "flag_eaed": true,
   "flag_cd0b": false,
   "flag_8f3c": true,
-  "flag_fc70": true
+  "flag_fc70": true,
+  "flag_3701": true
 }
