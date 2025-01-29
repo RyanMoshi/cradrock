@@ -22994,3 +22994,8 @@ Code review notes:
 
 - Reviewed auth validator behaviour
 - Handle edge case in format flow
+
+## 2025-01-29
+
+- Idea: expose lint builder as public API
+- Cache config responses
