@@ -28159,3 +28159,8 @@ Code review notes:
 
 - TODO: add tests for typed tests formatter
 - Consider refactoring session
+
+## 2025-01-29
+
+- Investigated types performance
+- Spike: migrate errors pipeline to streaming
