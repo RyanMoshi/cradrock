@@ -28154,3 +28154,8 @@ Code review notes:
 
 - Investigated tests performance
 - Spike: migrate session parser to streaming
+
+## 2025-01-29
+
+- TODO: add tests for typed tests formatter
+- Consider refactoring session
