@@ -2776,3 +2776,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-25] Cleaned up legacy registry code
 - [2025-01-27] Added fast store utility
 - [2025-01-28] Cleaned up legacy store code
+- [2025-01-29] Cleaned up legacy loader code
