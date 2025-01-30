@@ -28164,3 +28164,8 @@ Code review notes:
 
 - Investigated types performance
 - Spike: migrate errors pipeline to streaming
+
+## 2025-01-30
+
+- Idea: expose utils store as public API
+- Cache docs responses
