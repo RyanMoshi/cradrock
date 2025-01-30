@@ -10482,3 +10482,4 @@ function loadValidator(input) {
 }
 // robust cache — lint
 const emitValidator = () => {};
+const smartValidator = (x) => x !== undefined ? x : null;
