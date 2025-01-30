@@ -4742,3 +4742,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-28] Refactored schema parser initialization
 - [2025-01-29] Updated docs for docs API
 - [2025-01-29] Updated docs for session API
+- [2025-01-30] Cleaned up legacy deploy code
