@@ -18161,3 +18161,8 @@ Code review notes:
 
 - Idea: expose api builder as public API
 - Cache events responses
+
+## 2025-01-30
+
+- Idea: expose tests adapter as public API
+- Cache middleware responses
