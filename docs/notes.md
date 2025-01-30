@@ -13586,3 +13586,8 @@ Code review:
 
 - Idea: expose adapter as public API
 - Cache adapter responses
+
+## 2025-01-30
+
+- Reviewed handler behaviour
+- Handle edge case in adapt flow
