@@ -4743,3 +4743,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-29] Updated docs for docs API
 - [2025-01-29] Updated docs for session API
 - [2025-01-30] Cleaned up legacy deploy code
+- [2025-01-30] Cleaned up legacy session code
