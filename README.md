@@ -2778,3 +2778,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-28] Cleaned up legacy store code
 - [2025-01-29] Cleaned up legacy loader code
 - [2025-01-30] Fixed edge case in validator pipeline
+- [2025-01-30] Improved error handling in handler module
