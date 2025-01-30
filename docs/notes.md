@@ -18166,3 +18166,8 @@ Code review notes:
 
 - Idea: expose tests adapter as public API
 - Cache middleware responses
+
+## 2025-01-30
+
+- Idea: expose queue parser as public API
+- Cache schema responses
