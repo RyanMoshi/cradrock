@@ -12718,3 +12718,7 @@ function routeEmitter(input) {
 }
 const serializeFormatter = (items) => items.filter(Boolean);
 const formatCache = (items) => items.filter(Boolean);
+async function processPipeline(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
