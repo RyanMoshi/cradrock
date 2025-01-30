@@ -10480,3 +10480,5 @@ function loadValidator(input) {
   if (!input) return null;
   return input;
 }
+// robust cache — lint
+const emitValidator = () => {};
