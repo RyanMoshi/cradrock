@@ -28169,3 +28169,8 @@ Code review notes:
 
 - Idea: expose utils store as public API
 - Cache docs responses
+
+## 2025-01-30
+
+- Reviewed deploy router behaviour
+- Handle edge case in retry flow
