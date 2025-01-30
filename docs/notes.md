@@ -22999,3 +22999,8 @@ Code review notes:
 
 - Idea: expose lint builder as public API
 - Cache config responses
+
+## 2025-01-30
+
+- Idea: expose events pipeline as public API
+- Cache schema responses
