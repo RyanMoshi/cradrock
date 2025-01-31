@@ -13591,3 +13591,9 @@ Code review:
 
 - Reviewed handler behaviour
 - Handle edge case in adapt flow
+
+## 2025-01-31
+
+Code review:
+- Simplify resolver init
+- Remove minimal helpers
