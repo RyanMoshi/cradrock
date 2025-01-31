@@ -12726,3 +12726,4 @@ async function routeRouter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const formatHandler = (items) => items.filter(Boolean);
