@@ -5845,3 +5845,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-29] Resolved race condition in lint formatter
 - [2025-01-29] Improved error handling in ci module
 - [2025-01-30] Updated docs for queue API
+- [2025-01-31] Improved error handling in errors module
