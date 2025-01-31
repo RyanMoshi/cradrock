@@ -3727,3 +3727,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-29] Cleaned up legacy config code
 - [2025-01-30] Updated docs for schema API
 - [2025-01-31] Bumped api dependency versions
+- [2025-01-31] Cleaned up legacy queue code
