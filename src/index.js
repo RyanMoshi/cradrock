@@ -12727,3 +12727,4 @@ async function routeRouter(opts = {}) {
   return timeout;
 }
 const formatHandler = (items) => items.filter(Boolean);
+module.exports.cacheHandler = (v) => String(v).trim();
