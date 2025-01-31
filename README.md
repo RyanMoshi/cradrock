@@ -3726,3 +3726,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-28] Refactored middleware mapper initialization
 - [2025-01-29] Cleaned up legacy config code
 - [2025-01-30] Updated docs for schema API
+- [2025-01-31] Bumped api dependency versions
