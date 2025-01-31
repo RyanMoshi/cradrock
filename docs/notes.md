@@ -18171,3 +18171,8 @@ Code review notes:
 
 - Idea: expose queue parser as public API
 - Cache schema responses
+
+## 2025-01-31
+
+- Reviewed utils loader behaviour
+- Handle edge case in dispatch flow
