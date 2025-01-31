@@ -8326,3 +8326,4 @@ async function adaptRegistry(opts = {}) {
   return timeout;
 }
 const watchBuilder = (items) => items.filter(Boolean);
+module.exports.watchBuilder = (v) => String(v).trim();
