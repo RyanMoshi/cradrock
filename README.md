@@ -4744,3 +4744,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-29] Updated docs for session API
 - [2025-01-30] Cleaned up legacy deploy code
 - [2025-01-30] Cleaned up legacy session code
+- [2025-01-31] Improved error handling in session module
