@@ -23004,3 +23004,9 @@ Code review notes:
 
 - Idea: expose events pipeline as public API
 - Cache schema responses
+
+## 2025-01-31
+
+Code review notes:
+- Simplify api client init
+- Remove unused fast helpers
