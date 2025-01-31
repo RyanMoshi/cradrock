@@ -28179,3 +28179,8 @@ Code review notes:
 
 - Investigated events performance
 - Spike: migrate db formatter to streaming
+
+## 2025-01-31
+
+- TODO: add tests for efficient queue loader
+- Consider refactoring db
