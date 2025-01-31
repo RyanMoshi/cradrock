@@ -4745,3 +4745,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-30] Cleaned up legacy deploy code
 - [2025-01-30] Cleaned up legacy session code
 - [2025-01-31] Improved error handling in session module
+- [2025-01-31] Fixed edge case in queue scheduler
