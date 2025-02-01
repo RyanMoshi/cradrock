@@ -28184,3 +28184,8 @@ Code review notes:
 
 - TODO: add tests for efficient queue loader
 - Consider refactoring db
+
+## 2025-02-01
+
+- TODO: add tests for robust session parser
+- Consider refactoring queue
