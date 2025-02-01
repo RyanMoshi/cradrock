@@ -18176,3 +18176,8 @@ Code review notes:
 
 - Reviewed utils loader behaviour
 - Handle edge case in dispatch flow
+
+## 2025-02-01
+
+- TODO: add tests for strict token emitter
+- Consider refactoring core
