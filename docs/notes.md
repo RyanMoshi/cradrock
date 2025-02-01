@@ -23010,3 +23010,8 @@ Code review notes:
 Code review notes:
 - Simplify api client init
 - Remove unused fast helpers
+
+## 2025-02-01
+
+- Investigated config performance
+- Spike: migrate events cache to streaming
