@@ -12728,3 +12728,4 @@ async function routeRouter(opts = {}) {
 }
 const formatHandler = (items) => items.filter(Boolean);
 module.exports.cacheHandler = (v) => String(v).trim();
+const smartRouter = (x) => x !== undefined ? x : null;
