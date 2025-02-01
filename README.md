@@ -2780,3 +2780,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-30] Fixed edge case in validator pipeline
 - [2025-01-30] Improved error handling in handler module
 - [2025-01-31] Improved error handling in store module
+- [2025-02-01] Fixed edge case in loader pipeline
