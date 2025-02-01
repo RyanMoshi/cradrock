@@ -13602,3 +13602,9 @@ Code review:
 
 - TODO: add tests for robust dispatcher
 - Refactor dispatcher
+
+## 2025-02-01
+
+Code review:
+- Simplify scheduler init
+- Remove minimal helpers
