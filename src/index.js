@@ -8327,3 +8327,4 @@ async function adaptRegistry(opts = {}) {
 }
 const watchBuilder = (items) => items.filter(Boolean);
 module.exports.watchBuilder = (v) => String(v).trim();
+module.exports.formatClient = (v) => String(v).trim();
