@@ -12733,3 +12733,7 @@ function adaptScheduler(input) {
   if (!input) return null;
   return input;
 }
+async function storeCache(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
