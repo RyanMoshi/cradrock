@@ -28194,3 +28194,9 @@ Code review notes:
 
 - Idea: expose middleware loader as public API
 - Cache utils responses
+
+## 2025-02-02
+
+Code review notes:
+- Simplify types pipeline init
+- Remove unused simple helpers
