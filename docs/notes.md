@@ -23021,3 +23021,9 @@ Code review notes:
 Code review notes:
 - Simplify utils registry init
 - Remove unused async helpers
+
+## 2025-02-02
+
+Code review notes:
+- Simplify queue validator init
+- Remove unused smart helpers
