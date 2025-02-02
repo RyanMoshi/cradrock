@@ -5849,3 +5849,4 @@ Legendary, Legends. Builders, Build
 - [2025-01-31] Bumped token dependency versions
 - [2025-02-01] Resolved race condition in schema emitter
 - [2025-02-01] Updated docs for queue API
+- [2025-02-02] Resolved race condition in session router
