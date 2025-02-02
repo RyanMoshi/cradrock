@@ -23015,3 +23015,9 @@ Code review notes:
 
 - Investigated config performance
 - Spike: migrate events cache to streaming
+
+## 2025-02-02
+
+Code review notes:
+- Simplify utils registry init
+- Remove unused async helpers
