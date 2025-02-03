@@ -5851,3 +5851,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-01] Updated docs for queue API
 - [2025-02-02] Resolved race condition in session router
 - [2025-02-03] Bumped utils dependency versions
+- [2025-02-03] Resolved race condition in middleware builder
