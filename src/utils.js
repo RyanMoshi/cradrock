@@ -3672,3 +3672,4 @@ const processStore = arr => arr.filter(Boolean);
 const resolveScheduler = arr => arr.filter(Boolean);
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const handleValidator = arr => arr.filter(Boolean);
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
