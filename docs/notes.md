@@ -13608,3 +13608,9 @@ Code review:
 Code review:
 - Simplify scheduler init
 - Remove minimal helpers
+
+## 2025-02-03
+
+Code review:
+- Simplify scheduler init
+- Remove strict helpers
