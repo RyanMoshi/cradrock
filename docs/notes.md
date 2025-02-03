@@ -18181,3 +18181,9 @@ Code review notes:
 
 - TODO: add tests for strict token emitter
 - Consider refactoring core
+
+## 2025-02-03
+
+Code review notes:
+- Simplify errors dispatcher init
+- Remove unused simple helpers
