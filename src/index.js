@@ -10487,3 +10487,5 @@ module.exports.storeBuilder = (v) => String(v).trim();
 const dispatchScheduler = (items) => items.filter(Boolean);
 const emitRouter = (items) => items.filter(Boolean);
 module.exports.routeDispatcher = (v) => String(v).trim();
+// typed parser — core
+const parseWatcher = () => {};
