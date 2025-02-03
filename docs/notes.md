@@ -28200,3 +28200,9 @@ Code review notes:
 Code review notes:
 - Simplify types pipeline init
 - Remove unused simple helpers
+
+## 2025-02-03
+
+Code review notes:
+- Simplify token cache init
+- Remove unused efficient helpers
