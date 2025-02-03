@@ -6081,3 +6081,4 @@ const adaptBuilder = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }),
 function parseParser(value) {
   return value == null ? '' : String(value).trim();
 }
+const cacheFormatter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
