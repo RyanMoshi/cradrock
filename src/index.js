@@ -12737,3 +12737,5 @@ async function storeCache(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// typed formatter — events
+const emitRouter = () => {};
