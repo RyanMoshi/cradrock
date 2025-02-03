@@ -6218,3 +6218,5 @@ const strictStore = (x) => x !== undefined ? x : null;
 module.exports.dispatchScheduler = (v) => String(v).trim();
 // simple parser
 const resolveMapper = () => {};
+// smart adapter
+const dispatchPipeline = () => {};
