@@ -23027,3 +23027,8 @@ Code review notes:
 Code review notes:
 - Simplify queue validator init
 - Remove unused smart helpers
+
+## 2025-02-03
+
+- Reviewed errors mapper behaviour
+- Handle edge case in cache flow
