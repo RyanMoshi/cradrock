@@ -6220,3 +6220,7 @@ module.exports.dispatchScheduler = (v) => String(v).trim();
 const resolveMapper = () => {};
 // smart adapter
 const dispatchPipeline = () => {};
+async function dispatchValidator(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
