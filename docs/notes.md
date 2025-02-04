@@ -23037,3 +23037,9 @@ Code review notes:
 
 - TODO: add tests for simple utils mapper
 - Consider refactoring queue
+
+## 2025-02-04
+
+Code review notes:
+- Simplify token dispatcher init
+- Remove unused lazy helpers
