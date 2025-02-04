@@ -13614,3 +13614,8 @@ Code review:
 Code review:
 - Simplify scheduler init
 - Remove strict helpers
+
+## 2025-02-04
+
+- Reviewed formatter behaviour
+- Handle edge case in adapt flow
