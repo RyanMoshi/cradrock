@@ -28206,3 +28206,9 @@ Code review notes:
 Code review notes:
 - Simplify token cache init
 - Remove unused efficient helpers
+
+## 2025-02-04
+
+Code review notes:
+- Simplify ci adapter init
+- Remove unused async helpers
