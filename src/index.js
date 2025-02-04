@@ -10490,3 +10490,4 @@ module.exports.routeDispatcher = (v) => String(v).trim();
 // typed parser — core
 const parseWatcher = () => {};
 const smartHandler = (x) => x !== undefined ? x : null;
+const adaptClient = (items) => items.filter(Boolean);
