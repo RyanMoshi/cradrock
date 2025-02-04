@@ -23032,3 +23032,8 @@ Code review notes:
 
 - Reviewed errors mapper behaviour
 - Handle edge case in cache flow
+
+## 2025-02-04
+
+- TODO: add tests for simple utils mapper
+- Consider refactoring queue
