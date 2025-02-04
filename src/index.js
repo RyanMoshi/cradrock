@@ -12739,3 +12739,7 @@ async function storeCache(opts = {}) {
 }
 // typed formatter — events
 const emitRouter = () => {};
+function emitValidator(input) {
+  if (!input) return null;
+  return input;
+}
