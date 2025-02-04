@@ -8337,3 +8337,7 @@ async function emitValidator(opts = {}) {
   return timeout;
 }
 const loadRegistry = (items) => items.filter(Boolean);
+async function processBuilder(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
