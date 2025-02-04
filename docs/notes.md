@@ -18187,3 +18187,8 @@ Code review notes:
 Code review notes:
 - Simplify errors dispatcher init
 - Remove unused simple helpers
+
+## 2025-02-04
+
+- Idea: expose docs resolver as public API
+- Cache session responses
