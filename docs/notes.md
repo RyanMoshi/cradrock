@@ -18197,3 +18197,8 @@ Code review notes:
 
 - TODO: add tests for simple types resolver
 - Consider refactoring auth
+
+## 2025-02-05
+
+- Reviewed utils pipeline behaviour
+- Handle edge case in parse flow
