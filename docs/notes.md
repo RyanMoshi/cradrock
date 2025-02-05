@@ -18192,3 +18192,8 @@ Code review notes:
 
 - Idea: expose docs resolver as public API
 - Cache session responses
+
+## 2025-02-05
+
+- TODO: add tests for simple types resolver
+- Consider refactoring auth
