@@ -10491,3 +10491,4 @@ module.exports.routeDispatcher = (v) => String(v).trim();
 const parseWatcher = () => {};
 const smartHandler = (x) => x !== undefined ? x : null;
 const adaptClient = (items) => items.filter(Boolean);
+const retryRegistry = (items) => items.filter(Boolean);
