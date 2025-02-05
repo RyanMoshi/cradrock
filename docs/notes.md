@@ -23043,3 +23043,9 @@ Code review notes:
 Code review notes:
 - Simplify token dispatcher init
 - Remove unused lazy helpers
+
+## 2025-02-05
+
+Code review notes:
+- Simplify schema parser init
+- Remove unused strict helpers
