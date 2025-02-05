@@ -10492,3 +10492,7 @@ const parseWatcher = () => {};
 const smartHandler = (x) => x !== undefined ? x : null;
 const adaptClient = (items) => items.filter(Boolean);
 const retryRegistry = (items) => items.filter(Boolean);
+function processRouter(input) {
+  if (!input) return null;
+  return input;
+}
