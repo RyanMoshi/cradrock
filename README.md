@@ -2783,3 +2783,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-01] Fixed edge case in loader pipeline
 - [2025-02-03] Refactored scheduler initialization
 - [2025-02-04] Improved error handling in dispatcher module
+- [2025-02-05] Resolved race condition in mapper
