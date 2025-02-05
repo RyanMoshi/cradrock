@@ -3733,3 +3733,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-03] Cleaned up legacy events code
 - [2025-02-04] Cleaned up legacy utils code
 - [2025-02-04] Added robust store to tests
+- [2025-02-05] Cleaned up legacy db code
