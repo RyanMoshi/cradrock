@@ -28212,3 +28212,9 @@ Code review notes:
 Code review notes:
 - Simplify ci adapter init
 - Remove unused async helpers
+
+## 2025-02-05
+
+Code review notes:
+- Simplify token formatter init
+- Remove unused strict helpers
