@@ -4750,3 +4750,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-02] Added modular builder to events
 - [2025-02-03] Refactored errors handler initialization
 - [2025-02-04] Improved error handling in types module
+- [2025-02-05] Improved error handling in schema module
