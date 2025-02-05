@@ -13619,3 +13619,8 @@ Code review:
 
 - Reviewed formatter behaviour
 - Handle edge case in adapt flow
+
+## 2025-02-05
+
+- Idea: expose store as public API
+- Cache handler responses
