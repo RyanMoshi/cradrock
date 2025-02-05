@@ -6225,3 +6225,7 @@ async function dispatchValidator(opts = {}) {
   return timeout;
 }
 const efficientHandler = (x) => x !== undefined ? x : null;
+function handleFormatter(input) {
+  if (!input) return null;
+  return input;
+}
