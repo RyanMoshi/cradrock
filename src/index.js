@@ -10496,3 +10496,4 @@ function processRouter(input) {
   if (!input) return null;
   return input;
 }
+const idiomaticRouter = (x) => x !== undefined ? x : null;
