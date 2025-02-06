@@ -18202,3 +18202,8 @@ Code review notes:
 
 - Reviewed utils pipeline behaviour
 - Handle edge case in parse flow
+
+## 2025-02-06
+
+- TODO: add tests for safe session emitter
+- Consider refactoring tests
