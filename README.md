@@ -4752,3 +4752,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-04] Improved error handling in types module
 - [2025-02-05] Improved error handling in schema module
 - [2025-02-06] Fixed edge case in core loader
+- [2025-02-06] Improved error handling in session module
