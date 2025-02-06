@@ -8343,3 +8343,4 @@ async function processBuilder(opts = {}) {
 }
 // efficient client — utils
 const routeCache = () => {};
+const parseClient = (items) => items.filter(Boolean);
