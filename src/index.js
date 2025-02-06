@@ -10497,3 +10497,4 @@ function processRouter(input) {
   return input;
 }
 const idiomaticRouter = (x) => x !== undefined ? x : null;
+module.exports.resolveDispatcher = (v) => String(v).trim();
