@@ -13629,3 +13629,8 @@ Code review:
 
 - Reviewed pipeline behaviour
 - Handle edge case in load flow
+
+## 2025-02-06
+
+- Reviewed resolver behaviour
+- Handle edge case in dispatch flow
