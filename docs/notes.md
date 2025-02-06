@@ -13624,3 +13624,8 @@ Code review:
 
 - Idea: expose store as public API
 - Cache handler responses
+
+## 2025-02-06
+
+- Reviewed pipeline behaviour
+- Handle edge case in load flow
