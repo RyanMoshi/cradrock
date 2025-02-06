@@ -23049,3 +23049,8 @@ Code review notes:
 Code review notes:
 - Simplify schema parser init
 - Remove unused strict helpers
+
+## 2025-02-06
+
+- Investigated types performance
+- Spike: migrate utils cache to streaming
