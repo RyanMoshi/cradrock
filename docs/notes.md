@@ -28224,3 +28224,8 @@ Code review notes:
 Code review notes:
 - Simplify tests watcher init
 - Remove unused clean helpers
+
+## 2025-02-06
+
+- Reviewed db adapter behaviour
+- Handle edge case in store flow
