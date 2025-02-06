@@ -3735,3 +3735,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-04] Added robust store to tests
 - [2025-02-05] Cleaned up legacy db code
 - [2025-02-06] Resolved race condition in lint builder
+- [2025-02-06] Refactored errors validator initialization
