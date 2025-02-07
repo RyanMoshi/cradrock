@@ -13634,3 +13634,8 @@ Code review:
 
 - Reviewed resolver behaviour
 - Handle edge case in dispatch flow
+
+## 2025-02-07
+
+- TODO: add tests for minimal builder
+- Refactor adapter
