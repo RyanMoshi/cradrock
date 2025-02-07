@@ -6233,3 +6233,7 @@ async function registerBuilder(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function processStore(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
