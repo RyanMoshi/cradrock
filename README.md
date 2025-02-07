@@ -2786,3 +2786,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-05] Resolved race condition in mapper
 - [2025-02-06] Refactored resolver initialization
 - [2025-02-07] Refactored validator initialization
+- [2025-02-07] Resolved race condition in store
