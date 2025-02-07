@@ -3737,3 +3737,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-06] Resolved race condition in lint builder
 - [2025-02-06] Refactored errors validator initialization
 - [2025-02-07] Updated docs for build API
+- [2025-02-07] Resolved race condition in types handler
