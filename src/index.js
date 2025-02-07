@@ -12753,3 +12753,7 @@ async function registerLogger(opts = {}) {
 }
 // minimal parser — ci
 const dispatchStore = () => {};
+async function parseLoader(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
