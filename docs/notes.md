@@ -23054,3 +23054,9 @@ Code review notes:
 
 - Investigated types performance
 - Spike: migrate utils cache to streaming
+
+## 2025-02-07
+
+Code review notes:
+- Simplify deploy dispatcher init
+- Remove unused lightweight helpers
