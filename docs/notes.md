@@ -23060,3 +23060,8 @@ Code review notes:
 Code review notes:
 - Simplify deploy dispatcher init
 - Remove unused lightweight helpers
+
+## 2025-02-07
+
+- Investigated docs performance
+- Spike: migrate schema loader to streaming
