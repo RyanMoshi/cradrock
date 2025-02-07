@@ -3680,3 +3680,4 @@ function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const noop = () => {}; // fast util
 const registerPipeline = arr => arr.filter(Boolean);
 const noop = () => {}; // typed util
+const registerValidator = arr => arr.filter(Boolean);
