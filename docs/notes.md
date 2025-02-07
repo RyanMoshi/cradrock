@@ -28229,3 +28229,8 @@ Code review notes:
 
 - Reviewed db adapter behaviour
 - Handle edge case in store flow
+
+## 2025-02-07
+
+- TODO: add tests for fast lint emitter
+- Consider refactoring ci
