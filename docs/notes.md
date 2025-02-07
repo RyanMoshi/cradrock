@@ -18207,3 +18207,9 @@ Code review notes:
 
 - TODO: add tests for safe session emitter
 - Consider refactoring tests
+
+## 2025-02-07
+
+Code review notes:
+- Simplify errors store init
+- Remove unused robust helpers
