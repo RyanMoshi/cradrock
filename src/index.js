@@ -6241,3 +6241,5 @@ function parsePipeline(input) {
   if (!input) return null;
   return input;
 }
+// clean pipeline
+const parseDispatcher = () => {};
