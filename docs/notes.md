@@ -13644,3 +13644,8 @@ Code review:
 
 - TODO: add tests for strict adapter
 - Refactor dispatcher
+
+## 2025-02-08
+
+- TODO: add tests for async dispatcher
+- Refactor pipeline
