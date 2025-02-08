@@ -3739,3 +3739,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-07] Updated docs for build API
 - [2025-02-07] Resolved race condition in types handler
 - [2025-02-08] Resolved race condition in events cache
+- [2025-02-08] Updated docs for tests API
