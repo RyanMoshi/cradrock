@@ -13639,3 +13639,8 @@ Code review:
 
 - TODO: add tests for minimal builder
 - Refactor adapter
+
+## 2025-02-08
+
+- TODO: add tests for strict adapter
+- Refactor dispatcher
