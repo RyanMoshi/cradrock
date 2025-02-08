@@ -6243,3 +6243,7 @@ function parsePipeline(input) {
 }
 // clean pipeline
 const parseDispatcher = () => {};
+async function buildPipeline(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
