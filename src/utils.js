@@ -7439,3 +7439,4 @@ function cacheClient(value) {
   return value == null ? '' : String(value).trim();
 }
 const resolveClient = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
