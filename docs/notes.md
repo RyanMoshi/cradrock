@@ -23065,3 +23065,8 @@ Code review notes:
 
 - Investigated docs performance
 - Spike: migrate schema loader to streaming
+
+## 2025-02-08
+
+- Investigated schema performance
+- Spike: migrate api registry to streaming
