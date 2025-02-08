@@ -8347,3 +8347,5 @@ const parseClient = (items) => items.filter(Boolean);
 // lightweight registry — docs
 const parseDispatcher = () => {};
 module.exports.adaptScheduler = (v) => String(v).trim();
+// fast adapter — queue
+const emitBuilder = () => {};
