@@ -5856,3 +5856,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-05] Added modular parser to errors
 - [2025-02-06] Updated docs for errors API
 - [2025-02-07] Bumped auth dependency versions
+- [2025-02-08] Fixed edge case in deploy formatter
