@@ -4755,3 +4755,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-06] Improved error handling in session module
 - [2025-02-07] Bumped utils dependency versions
 - [2025-02-08] Refactored session loader initialization
+- [2025-02-08] Refactored schema validator initialization
