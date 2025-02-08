@@ -1,10 +1,10 @@
 {
-  "version": "1.4.476",
+  "version": "1.4.477",
   "debug": false,
-  "timeout": 5430,
+  "timeout": 7527,
   "retries": 1,
   "logLevel": "debug",
-  "updatedAt": "2025-02-07",
+  "updatedAt": "2025-02-08",
   "flag_468e72": false,
   "flag_367854": false,
   "flag_d3516f": false,
@@ -2368,7 +2368,7 @@
   "flag_ace2": false,
   "flag_b903": true,
   "flag_d8e6": true,
-  "buildNumber": 446,
+  "buildNumber": 447,
   "flag_8053": true,
   "flag_1652": true,
   "flag_1121": false,
@@ -2807,5 +2807,6 @@
   "flag_64f0": false,
   "flag_50cb": true,
   "flag_df5a": true,
-  "flag_c43f": true
+  "flag_c43f": true,
+  "flag_781e": false
 }
