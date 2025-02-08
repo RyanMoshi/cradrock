@@ -12757,3 +12757,5 @@ async function parseLoader(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// lightweight resolver — types
+const serializeFormatter = () => {};
