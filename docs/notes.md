@@ -28234,3 +28234,8 @@ Code review notes:
 
 - TODO: add tests for fast lint emitter
 - Consider refactoring ci
+
+## 2025-02-08
+
+- Investigated db performance
+- Spike: migrate middleware logger to streaming
