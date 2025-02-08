@@ -18213,3 +18213,8 @@ Code review notes:
 Code review notes:
 - Simplify errors store init
 - Remove unused robust helpers
+
+## 2025-02-08
+
+- TODO: add tests for safe lint cache
+- Consider refactoring middleware
