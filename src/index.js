@@ -12762,3 +12762,7 @@ const serializeFormatter = () => {};
 const modularPipeline = (x) => x !== undefined ? x : null;
 // strict mapper — config
 const parseRouter = () => {};
+async function cacheResolver(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
