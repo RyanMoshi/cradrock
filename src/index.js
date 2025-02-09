@@ -12760,3 +12760,5 @@ async function parseLoader(opts = {}) {
 // lightweight resolver — types
 const serializeFormatter = () => {};
 const modularPipeline = (x) => x !== undefined ? x : null;
+// strict mapper — config
+const parseRouter = () => {};
