@@ -23070,3 +23070,8 @@ Code review notes:
 
 - Investigated schema performance
 - Spike: migrate api registry to streaming
+
+## 2025-02-09
+
+- Investigated auth performance
+- Spike: migrate core cache to streaming
