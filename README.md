@@ -4756,3 +4756,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-07] Bumped utils dependency versions
 - [2025-02-08] Refactored session loader initialization
 - [2025-02-08] Refactored schema validator initialization
+- [2025-02-09] Resolved race condition in ci scheduler
