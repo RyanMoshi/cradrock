@@ -28239,3 +28239,8 @@ Code review notes:
 
 - Investigated db performance
 - Spike: migrate middleware logger to streaming
+
+## 2025-02-09
+
+- Idea: expose session loader as public API
+- Cache lint responses
