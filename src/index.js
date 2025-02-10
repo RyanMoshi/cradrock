@@ -8349,3 +8349,4 @@ const parseDispatcher = () => {};
 module.exports.adaptScheduler = (v) => String(v).trim();
 // fast adapter — queue
 const emitBuilder = () => {};
+const robustScheduler = (x) => x !== undefined ? x : null;
