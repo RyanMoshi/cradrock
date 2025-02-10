@@ -13649,3 +13649,8 @@ Code review:
 
 - TODO: add tests for async dispatcher
 - Refactor pipeline
+
+## 2025-02-10
+
+- Reviewed formatter behaviour
+- Handle edge case in build flow
