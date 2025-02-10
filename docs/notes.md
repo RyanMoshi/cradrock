@@ -28244,3 +28244,9 @@ Code review notes:
 
 - Idea: expose session loader as public API
 - Cache lint responses
+
+## 2025-02-10
+
+Code review notes:
+- Simplify queue parser init
+- Remove unused typed helpers
