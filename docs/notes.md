@@ -23075,3 +23075,8 @@ Code review notes:
 
 - Investigated auth performance
 - Spike: migrate core cache to streaming
+
+## 2025-02-10
+
+- Reviewed types pipeline behaviour
+- Handle edge case in load flow
