@@ -18218,3 +18218,8 @@ Code review notes:
 
 - TODO: add tests for safe lint cache
 - Consider refactoring middleware
+
+## 2025-02-10
+
+- Reviewed types dispatcher behaviour
+- Handle edge case in process flow
