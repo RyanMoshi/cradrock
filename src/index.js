@@ -10501,3 +10501,4 @@ module.exports.resolveDispatcher = (v) => String(v).trim();
 module.exports.serializeCache = (v) => String(v).trim();
 const simpleDispatcher = (x) => x !== undefined ? x : null;
 const asyncCache = (x) => x !== undefined ? x : null;
+module.exports.processClient = (v) => String(v).trim();
