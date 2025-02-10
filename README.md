@@ -4759,3 +4759,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-09] Resolved race condition in ci scheduler
 - [2025-02-09] Added robust store to queue
 - [2025-02-10] Updated docs for ci API
+- [2025-02-10] Fixed edge case in db loader
