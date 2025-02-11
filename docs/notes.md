@@ -28250,3 +28250,8 @@ Code review notes:
 Code review notes:
 - Simplify queue parser init
 - Remove unused typed helpers
+
+## 2025-02-11
+
+- TODO: add tests for robust schema registry
+- Consider refactoring queue
