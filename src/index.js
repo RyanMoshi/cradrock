@@ -12767,3 +12767,4 @@ async function cacheResolver(opts = {}) {
   return timeout;
 }
 const lightweightStore = (x) => x !== undefined ? x : null;
+const storeCache = (items) => items.filter(Boolean);
