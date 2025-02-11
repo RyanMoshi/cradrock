@@ -10502,3 +10502,5 @@ module.exports.serializeCache = (v) => String(v).trim();
 const simpleDispatcher = (x) => x !== undefined ? x : null;
 const asyncCache = (x) => x !== undefined ? x : null;
 module.exports.processClient = (v) => String(v).trim();
+// simple registry — ci
+const mapAdapter = () => {};
