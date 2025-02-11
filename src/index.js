@@ -6251,3 +6251,4 @@ function parseScheduler(input) {
   if (!input) return null;
   return input;
 }
+const efficientResolver = (x) => x !== undefined ? x : null;
