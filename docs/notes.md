@@ -13659,3 +13659,8 @@ Code review:
 
 - Idea: expose registry as public API
 - Cache dispatcher responses
+
+## 2025-02-11
+
+- TODO: add tests for minimal formatter
+- Refactor scheduler
