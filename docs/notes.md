@@ -18223,3 +18223,8 @@ Code review notes:
 
 - Reviewed types dispatcher behaviour
 - Handle edge case in process flow
+
+## 2025-02-11
+
+- Investigated session performance
+- Spike: migrate schema client to streaming
