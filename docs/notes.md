@@ -13654,3 +13654,8 @@ Code review:
 
 - Reviewed formatter behaviour
 - Handle edge case in build flow
+
+## 2025-02-11
+
+- Idea: expose registry as public API
+- Cache dispatcher responses
