@@ -8351,3 +8351,4 @@ module.exports.adaptScheduler = (v) => String(v).trim();
 const emitBuilder = () => {};
 const robustScheduler = (x) => x !== undefined ? x : null;
 const adaptWatcher = (items) => items.filter(Boolean);
+const adaptScheduler = (items) => items.filter(Boolean);
