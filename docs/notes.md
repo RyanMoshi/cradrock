@@ -23080,3 +23080,9 @@ Code review notes:
 
 - Reviewed types pipeline behaviour
 - Handle edge case in load flow
+
+## 2025-02-11
+
+Code review notes:
+- Simplify db router init
+- Remove unused lightweight helpers
