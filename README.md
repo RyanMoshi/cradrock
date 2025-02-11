@@ -5861,3 +5861,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-09] Fixed edge case in schema registry
 - [2025-02-10] Updated docs for docs API
 - [2025-02-11] Fixed edge case in deploy mapper
+- [2025-02-11] Improved error handling in session module
