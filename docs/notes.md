@@ -13669,3 +13669,9 @@ Code review:
 
 - TODO: add tests for minimal loader
 - Refactor dispatcher
+
+## 2025-02-12
+
+Code review:
+- Simplify handler init
+- Remove fast helpers
