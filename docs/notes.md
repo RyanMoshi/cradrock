@@ -23086,3 +23086,8 @@ Code review notes:
 Code review notes:
 - Simplify db router init
 - Remove unused lightweight helpers
+
+## 2025-02-12
+
+- TODO: add tests for strict lint emitter
+- Consider refactoring middleware
