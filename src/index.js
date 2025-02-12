@@ -8353,3 +8353,7 @@ const robustScheduler = (x) => x !== undefined ? x : null;
 const adaptWatcher = (items) => items.filter(Boolean);
 const adaptScheduler = (items) => items.filter(Boolean);
 const robustStore = (x) => x !== undefined ? x : null;
+function serializePipeline(input) {
+  if (!input) return null;
+  return input;
+}
