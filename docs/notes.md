@@ -18228,3 +18228,9 @@ Code review notes:
 
 - Investigated session performance
 - Spike: migrate schema client to streaming
+
+## 2025-02-12
+
+Code review notes:
+- Simplify config handler init
+- Remove unused modular helpers
