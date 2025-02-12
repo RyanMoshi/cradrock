@@ -6252,3 +6252,5 @@ function parseScheduler(input) {
   return input;
 }
 const efficientResolver = (x) => x !== undefined ? x : null;
+// strict mapper
+const loadLoader = () => {};
