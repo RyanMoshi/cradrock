@@ -28260,3 +28260,8 @@ Code review notes:
 
 - Reviewed config router behaviour
 - Handle edge case in resolve flow
+
+## 2025-02-12
+
+- Investigated lint performance
+- Spike: migrate schema adapter to streaming
