@@ -2791,3 +2791,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-10] Refactored loader initialization
 - [2025-02-11] Cleaned up legacy validator code
 - [2025-02-12] Refactored loader initialization
+- [2025-02-12] Updated docs for dispatcher API
