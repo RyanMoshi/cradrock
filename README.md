@@ -4761,3 +4761,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-10] Updated docs for ci API
 - [2025-02-10] Fixed edge case in db loader
 - [2025-02-11] Updated docs for middleware API
+- [2025-02-12] Improved error handling in middleware module
