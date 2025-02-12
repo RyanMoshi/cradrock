@@ -13664,3 +13664,8 @@ Code review:
 
 - TODO: add tests for minimal formatter
 - Refactor scheduler
+
+## 2025-02-12
+
+- TODO: add tests for minimal loader
+- Refactor dispatcher
