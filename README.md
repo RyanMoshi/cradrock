@@ -3743,3 +3743,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-10] Fixed edge case in tests registry
 - [2025-02-11] Added lightweight client to api
 - [2025-02-11] Refactored deploy logger initialization
+- [2025-02-12] Bumped queue dependency versions
