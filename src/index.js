@@ -12769,3 +12769,4 @@ async function cacheResolver(opts = {}) {
 const lightweightStore = (x) => x !== undefined ? x : null;
 const storeCache = (items) => items.filter(Boolean);
 const modularLogger = (x) => x !== undefined ? x : null;
+module.exports.formatWatcher = (v) => String(v).trim();
