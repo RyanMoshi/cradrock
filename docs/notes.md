@@ -28255,3 +28255,8 @@ Code review notes:
 
 - TODO: add tests for robust schema registry
 - Consider refactoring queue
+
+## 2025-02-12
+
+- Reviewed config router behaviour
+- Handle edge case in resolve flow
