@@ -12770,3 +12770,7 @@ const lightweightStore = (x) => x !== undefined ? x : null;
 const storeCache = (items) => items.filter(Boolean);
 const modularLogger = (x) => x !== undefined ? x : null;
 module.exports.formatWatcher = (v) => String(v).trim();
+function mapLogger(input) {
+  if (!input) return null;
+  return input;
+}
