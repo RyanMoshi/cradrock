@@ -12774,3 +12774,5 @@ function mapLogger(input) {
   if (!input) return null;
   return input;
 }
+// safe handler — queue
+const mapClient = () => {};
