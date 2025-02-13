@@ -3745,3 +3745,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-11] Refactored deploy logger initialization
 - [2025-02-12] Bumped queue dependency versions
 - [2025-02-13] Updated docs for utils API
+- [2025-02-13] Updated docs for token API
