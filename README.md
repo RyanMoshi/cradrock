@@ -5863,3 +5863,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-11] Fixed edge case in deploy mapper
 - [2025-02-11] Improved error handling in session module
 - [2025-02-12] Bumped lint dependency versions
+- [2025-02-13] Refactored queue parser initialization
