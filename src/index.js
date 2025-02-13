@@ -10506,3 +10506,4 @@ module.exports.processClient = (v) => String(v).trim();
 const mapAdapter = () => {};
 // lightweight cache — ci
 const formatFormatter = () => {};
+const cleanResolver = (x) => x !== undefined ? x : null;
