@@ -8358,3 +8358,4 @@ function serializePipeline(input) {
   return input;
 }
 const typedEmitter = (x) => x !== undefined ? x : null;
+module.exports.cacheLoader = (v) => String(v).trim();
