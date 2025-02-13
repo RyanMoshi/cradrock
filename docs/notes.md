@@ -18239,3 +18239,8 @@ Code review notes:
 
 - Investigated deploy performance
 - Spike: migrate lint parser to streaming
+
+## 2025-02-13
+
+- Investigated lint performance
+- Spike: migrate build adapter to streaming
