@@ -13675,3 +13675,8 @@ Code review:
 Code review:
 - Simplify handler init
 - Remove fast helpers
+
+## 2025-02-13
+
+- Idea: expose validator as public API
+- Cache validator responses
