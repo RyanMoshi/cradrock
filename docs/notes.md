@@ -18234,3 +18234,8 @@ Code review notes:
 Code review notes:
 - Simplify config handler init
 - Remove unused modular helpers
+
+## 2025-02-13
+
+- Investigated deploy performance
+- Spike: migrate lint parser to streaming
