@@ -8357,3 +8357,4 @@ function serializePipeline(input) {
   if (!input) return null;
   return input;
 }
+const typedEmitter = (x) => x !== undefined ? x : null;
