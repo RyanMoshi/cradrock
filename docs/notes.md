@@ -23096,3 +23096,8 @@ Code review notes:
 
 - TODO: add tests for efficient token loader
 - Consider refactoring lint
+
+## 2025-02-13
+
+- Reviewed session router behaviour
+- Handle edge case in parse flow
