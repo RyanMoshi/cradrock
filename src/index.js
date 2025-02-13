@@ -6254,3 +6254,7 @@ function parseScheduler(input) {
 const efficientResolver = (x) => x !== undefined ? x : null;
 // strict mapper
 const loadLoader = () => {};
+function registerMapper(input) {
+  if (!input) return null;
+  return input;
+}
