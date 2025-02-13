@@ -28265,3 +28265,8 @@ Code review notes:
 
 - Investigated lint performance
 - Spike: migrate schema adapter to streaming
+
+## 2025-02-13
+
+- Idea: expose ci scheduler as public API
+- Cache queue responses
