@@ -13680,3 +13680,8 @@ Code review:
 
 - Idea: expose validator as public API
 - Cache validator responses
+
+## 2025-02-13
+
+- TODO: add tests for typed handler
+- Refactor handler
