@@ -4763,3 +4763,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-11] Updated docs for middleware API
 - [2025-02-12] Improved error handling in middleware module
 - [2025-02-13] Refactored deploy builder initialization
+- [2025-02-14] Fixed edge case in session loader
