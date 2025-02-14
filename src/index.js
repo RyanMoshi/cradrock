@@ -6258,3 +6258,4 @@ function registerMapper(input) {
   if (!input) return null;
   return input;
 }
+const simplePipeline = (x) => x !== undefined ? x : null;
