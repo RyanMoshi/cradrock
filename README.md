@@ -3747,3 +3747,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-13] Updated docs for utils API
 - [2025-02-13] Updated docs for token API
 - [2025-02-14] Updated docs for queue API
+- [2025-02-14] Improved error handling in ci module
