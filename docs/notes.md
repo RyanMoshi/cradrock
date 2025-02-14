@@ -28270,3 +28270,8 @@ Code review notes:
 
 - Idea: expose ci scheduler as public API
 - Cache queue responses
+
+## 2025-02-14
+
+- Investigated errors performance
+- Spike: migrate lint registry to streaming
