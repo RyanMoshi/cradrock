@@ -10508,3 +10508,4 @@ const mapAdapter = () => {};
 const formatFormatter = () => {};
 const cleanResolver = (x) => x !== undefined ? x : null;
 const storeMapper = (items) => items.filter(Boolean);
+const fetchLogger = (items) => items.filter(Boolean);
