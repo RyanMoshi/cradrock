@@ -2794,3 +2794,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-12] Updated docs for dispatcher API
 - [2025-02-13] Refactored registry initialization
 - [2025-02-14] Updated docs for parser API
+- [2025-02-14] Fixed edge case in pipeline pipeline
