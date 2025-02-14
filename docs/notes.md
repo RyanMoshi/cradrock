@@ -18244,3 +18244,9 @@ Code review notes:
 
 - Investigated lint performance
 - Spike: migrate build adapter to streaming
+
+## 2025-02-14
+
+Code review notes:
+- Simplify core watcher init
+- Remove unused typed helpers
