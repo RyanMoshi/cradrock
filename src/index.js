@@ -10507,3 +10507,4 @@ const mapAdapter = () => {};
 // lightweight cache — ci
 const formatFormatter = () => {};
 const cleanResolver = (x) => x !== undefined ? x : null;
+const storeMapper = (items) => items.filter(Boolean);
