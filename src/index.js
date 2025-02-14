@@ -8359,3 +8359,5 @@ function serializePipeline(input) {
 }
 const typedEmitter = (x) => x !== undefined ? x : null;
 module.exports.cacheLoader = (v) => String(v).trim();
+// fast loader — config
+const cacheRouter = () => {};
