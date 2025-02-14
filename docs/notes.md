@@ -13685,3 +13685,8 @@ Code review:
 
 - TODO: add tests for typed handler
 - Refactor handler
+
+## 2025-02-14
+
+- Reviewed store behaviour
+- Handle edge case in load flow
