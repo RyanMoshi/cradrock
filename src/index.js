@@ -12777,3 +12777,7 @@ function mapLogger(input) {
 // safe handler — queue
 const mapClient = () => {};
 const serializeResolver = (items) => items.filter(Boolean);
+async function formatPipeline(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
