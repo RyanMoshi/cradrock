@@ -8367,3 +8367,7 @@ async function cacheResolver(opts = {}) {
 }
 // efficient dispatcher — config
 const routeEmitter = () => {};
+async function watchLoader(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
