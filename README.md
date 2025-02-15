@@ -3749,3 +3749,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-14] Updated docs for queue API
 - [2025-02-14] Improved error handling in ci module
 - [2025-02-15] Cleaned up legacy events code
+- [2025-02-15] Improved error handling in utils module
