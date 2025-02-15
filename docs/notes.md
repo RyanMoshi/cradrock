@@ -18250,3 +18250,8 @@ Code review notes:
 Code review notes:
 - Simplify core watcher init
 - Remove unused typed helpers
+
+## 2025-02-15
+
+- Investigated schema performance
+- Spike: migrate middleware cache to streaming
