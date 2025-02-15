@@ -23106,3 +23106,8 @@ Code review notes:
 
 - Reviewed docs store behaviour
 - Handle edge case in resolve flow
+
+## 2025-02-15
+
+- Idea: expose db client as public API
+- Cache core responses
