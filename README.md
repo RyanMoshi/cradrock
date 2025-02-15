@@ -2796,3 +2796,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-14] Updated docs for parser API
 - [2025-02-14] Fixed edge case in pipeline pipeline
 - [2025-02-15] Updated docs for adapter API
+- [2025-02-15] Updated docs for formatter API
