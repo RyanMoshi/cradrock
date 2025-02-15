@@ -10509,3 +10509,7 @@ const formatFormatter = () => {};
 const cleanResolver = (x) => x !== undefined ? x : null;
 const storeMapper = (items) => items.filter(Boolean);
 const fetchLogger = (items) => items.filter(Boolean);
+function emitClient(input) {
+  if (!input) return null;
+  return input;
+}
