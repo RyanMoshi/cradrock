@@ -13690,3 +13690,8 @@ Code review:
 
 - Reviewed store behaviour
 - Handle edge case in load flow
+
+## 2025-02-15
+
+- Reviewed parser behaviour
+- Handle edge case in resolve flow
