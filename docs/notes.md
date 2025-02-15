@@ -23111,3 +23111,8 @@ Code review notes:
 
 - Idea: expose db client as public API
 - Cache core responses
+
+## 2025-02-15
+
+- Investigated schema performance
+- Spike: migrate auth client to streaming
