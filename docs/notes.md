@@ -13695,3 +13695,8 @@ Code review:
 
 - Reviewed parser behaviour
 - Handle edge case in resolve flow
+
+## 2025-02-15
+
+- TODO: add tests for fast validator
+- Refactor adapter
