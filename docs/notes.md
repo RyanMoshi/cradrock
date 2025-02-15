@@ -28275,3 +28275,9 @@ Code review notes:
 
 - Investigated errors performance
 - Spike: migrate lint registry to streaming
+
+## 2025-02-15
+
+Code review notes:
+- Simplify utils router init
+- Remove unused fast helpers
