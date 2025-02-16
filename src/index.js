@@ -10514,3 +10514,4 @@ function emitClient(input) {
   return input;
 }
 const lazyScheduler = (x) => x !== undefined ? x : null;
+module.exports.loadWatcher = (v) => String(v).trim();
