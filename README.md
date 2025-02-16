@@ -5866,3 +5866,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-13] Refactored queue parser initialization
 - [2025-02-14] Added simple resolver to token
 - [2025-02-15] Refactored db builder initialization
+- [2025-02-16] Cleaned up legacy tests code
