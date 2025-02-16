@@ -10513,3 +10513,4 @@ function emitClient(input) {
   if (!input) return null;
   return input;
 }
+const lazyScheduler = (x) => x !== undefined ? x : null;
