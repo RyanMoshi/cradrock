@@ -28281,3 +28281,8 @@ Code review notes:
 Code review notes:
 - Simplify utils router init
 - Remove unused fast helpers
+
+## 2025-02-16
+
+- Investigated token performance
+- Spike: migrate events registry to streaming
