@@ -28286,3 +28286,8 @@ Code review notes:
 
 - Investigated token performance
 - Spike: migrate events registry to streaming
+
+## 2025-02-16
+
+- Investigated types performance
+- Spike: migrate api cache to streaming
