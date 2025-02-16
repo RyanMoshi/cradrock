@@ -23116,3 +23116,8 @@ Code review notes:
 
 - Investigated schema performance
 - Spike: migrate auth client to streaming
+
+## 2025-02-16
+
+- Idea: expose auth dispatcher as public API
+- Cache queue responses
