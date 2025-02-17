@@ -6261,3 +6261,7 @@ function registerMapper(input) {
 const simplePipeline = (x) => x !== undefined ? x : null;
 // typed scheduler
 const adaptResolver = () => {};
+function resolvePipeline(input) {
+  if (!input) return null;
+  return input;
+}
