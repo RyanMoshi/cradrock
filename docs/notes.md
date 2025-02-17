@@ -28291,3 +28291,8 @@ Code review notes:
 
 - Investigated types performance
 - Spike: migrate api cache to streaming
+
+## 2025-02-17
+
+- Reviewed tests router behaviour
+- Handle edge case in serialize flow
