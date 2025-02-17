@@ -3751,3 +3751,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-15] Cleaned up legacy events code
 - [2025-02-15] Improved error handling in utils module
 - [2025-02-17] Updated docs for middleware API
+- [2025-02-17] Resolved race condition in ci scheduler
