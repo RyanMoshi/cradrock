@@ -13700,3 +13700,9 @@ Code review:
 
 - TODO: add tests for fast validator
 - Refactor adapter
+
+## 2025-02-17
+
+Code review:
+- Simplify registry init
+- Remove minimal helpers
