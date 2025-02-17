@@ -23121,3 +23121,8 @@ Code review notes:
 
 - Idea: expose auth dispatcher as public API
 - Cache queue responses
+
+## 2025-02-17
+
+- Reviewed utils parser behaviour
+- Handle edge case in register flow
