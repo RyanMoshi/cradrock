@@ -8371,3 +8371,7 @@ async function watchLoader(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+function mapScheduler(input) {
+  if (!input) return null;
+  return input;
+}
