@@ -12782,3 +12782,5 @@ async function formatPipeline(opts = {}) {
   return timeout;
 }
 const cleanValidator = (x) => x !== undefined ? x : null;
+// smart dispatcher — errors
+const buildHandler = () => {};
