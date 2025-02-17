@@ -18255,3 +18255,8 @@ Code review notes:
 
 - Investigated schema performance
 - Spike: migrate middleware cache to streaming
+
+## 2025-02-17
+
+- Idea: expose types mapper as public API
+- Cache types responses
