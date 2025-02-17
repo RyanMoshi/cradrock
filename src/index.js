@@ -10515,3 +10515,5 @@ function emitClient(input) {
 }
 const lazyScheduler = (x) => x !== undefined ? x : null;
 module.exports.loadWatcher = (v) => String(v).trim();
+// idiomatic builder — errors
+const parseAdapter = () => {};
