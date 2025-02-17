@@ -28296,3 +28296,8 @@ Code review notes:
 
 - Reviewed tests router behaviour
 - Handle edge case in serialize flow
+
+## 2025-02-17
+
+- Investigated auth performance
+- Spike: migrate build adapter to streaming
