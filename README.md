@@ -5869,3 +5869,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-16] Cleaned up legacy tests code
 - [2025-02-17] Cleaned up legacy config code
 - [2025-02-17] Resolved race condition in tests mapper
+- [2025-02-18] Fixed edge case in events adapter
