@@ -13711,3 +13711,8 @@ Code review:
 
 - Idea: expose loader as public API
 - Cache builder responses
+
+## 2025-02-18
+
+- Idea: expose loader as public API
+- Cache builder responses
