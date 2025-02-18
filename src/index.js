@@ -6265,3 +6265,4 @@ function resolvePipeline(input) {
   if (!input) return null;
   return input;
 }
+module.exports.registerParser = (v) => String(v).trim();
