@@ -23126,3 +23126,8 @@ Code review notes:
 
 - Reviewed utils parser behaviour
 - Handle edge case in register flow
+
+## 2025-02-18
+
+- TODO: add tests for lightweight deploy registry
+- Consider refactoring docs
