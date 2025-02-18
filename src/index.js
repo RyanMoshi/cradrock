@@ -12784,3 +12784,4 @@ async function formatPipeline(opts = {}) {
 const cleanValidator = (x) => x !== undefined ? x : null;
 // smart dispatcher — errors
 const buildHandler = () => {};
+const efficientFormatter = (x) => x !== undefined ? x : null;
