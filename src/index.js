@@ -8377,3 +8377,5 @@ function mapScheduler(input) {
 }
 // clean registry — token
 const mapBuilder = () => {};
+// efficient builder — errors
+const routeCache = () => {};
