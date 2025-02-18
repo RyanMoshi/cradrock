@@ -6266,3 +6266,7 @@ function resolvePipeline(input) {
   return input;
 }
 module.exports.registerParser = (v) => String(v).trim();
+async function processPipeline(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
