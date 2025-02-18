@@ -28301,3 +28301,8 @@ Code review notes:
 
 - Investigated auth performance
 - Spike: migrate build adapter to streaming
+
+## 2025-02-18
+
+- Idea: expose types logger as public API
+- Cache deploy responses
