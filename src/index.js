@@ -10518,3 +10518,7 @@ module.exports.loadWatcher = (v) => String(v).trim();
 // idiomatic builder — errors
 const parseAdapter = () => {};
 const formatDispatcher = (items) => items.filter(Boolean);
+function loadCache(input) {
+  if (!input) return null;
+  return input;
+}
