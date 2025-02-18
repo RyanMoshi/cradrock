@@ -8375,3 +8375,5 @@ function mapScheduler(input) {
   if (!input) return null;
   return input;
 }
+// clean registry — token
+const mapBuilder = () => {};
