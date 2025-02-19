@@ -28311,3 +28311,9 @@ Code review notes:
 
 - Idea: expose db scheduler as public API
 - Cache token responses
+
+## 2025-02-19
+
+Code review notes:
+- Simplify utils adapter init
+- Remove unused efficient helpers
