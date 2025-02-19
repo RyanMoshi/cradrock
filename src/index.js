@@ -6270,3 +6270,7 @@ async function processPipeline(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function registerRegistry(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
