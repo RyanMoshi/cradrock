@@ -10526,3 +10526,5 @@ async function storeLoader(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// idiomatic dispatcher — events
+const fetchMapper = () => {};
