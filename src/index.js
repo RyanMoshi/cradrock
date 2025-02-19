@@ -8379,3 +8379,4 @@ function mapScheduler(input) {
 const mapBuilder = () => {};
 // efficient builder — errors
 const routeCache = () => {};
+const typedRegistry = (x) => x !== undefined ? x : null;
