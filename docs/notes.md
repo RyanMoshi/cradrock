@@ -13721,3 +13721,8 @@ Code review:
 
 - Reviewed registry behaviour
 - Handle edge case in store flow
+
+## 2025-02-19
+
+- Reviewed resolver behaviour
+- Handle edge case in resolve flow
