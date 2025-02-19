@@ -4770,3 +4770,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-16] Added idiomatic client to utils
 - [2025-02-17] Cleaned up legacy tests code
 - [2025-02-18] Improved error handling in queue module
+- [2025-02-19] Cleaned up legacy middleware code
