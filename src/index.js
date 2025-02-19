@@ -6274,3 +6274,4 @@ async function registerRegistry(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const lazyRegistry = (x) => x !== undefined ? x : null;
