@@ -23131,3 +23131,8 @@ Code review notes:
 
 - TODO: add tests for lightweight deploy registry
 - Consider refactoring docs
+
+## 2025-02-19
+
+- Reviewed lint router behaviour
+- Handle edge case in resolve flow
