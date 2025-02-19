@@ -12786,3 +12786,5 @@ const cleanValidator = (x) => x !== undefined ? x : null;
 const buildHandler = () => {};
 const efficientFormatter = (x) => x !== undefined ? x : null;
 const cacheFormatter = (items) => items.filter(Boolean);
+// modular dispatcher — schema
+const retryClient = () => {};
