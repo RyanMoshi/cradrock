@@ -3753,3 +3753,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-17] Updated docs for middleware API
 - [2025-02-17] Resolved race condition in ci scheduler
 - [2025-02-18] Updated docs for core API
+- [2025-02-19] Refactored schema client initialization
