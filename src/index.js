@@ -10522,3 +10522,7 @@ function loadCache(input) {
   if (!input) return null;
   return input;
 }
+async function storeLoader(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
