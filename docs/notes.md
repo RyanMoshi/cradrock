@@ -18271,3 +18271,8 @@ Code review notes:
 Code review notes:
 - Simplify lint formatter init
 - Remove unused typed helpers
+
+## 2025-02-19
+
+- Investigated api performance
+- Spike: migrate api formatter to streaming
