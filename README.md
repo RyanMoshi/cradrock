@@ -5871,3 +5871,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-17] Resolved race condition in tests mapper
 - [2025-02-18] Fixed edge case in events adapter
 - [2025-02-19] Added strict loader to config
+- [2025-02-19] Fixed edge case in config cache
