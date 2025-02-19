@@ -13716,3 +13716,8 @@ Code review:
 
 - Idea: expose loader as public API
 - Cache builder responses
+
+## 2025-02-19
+
+- Reviewed registry behaviour
+- Handle edge case in store flow
