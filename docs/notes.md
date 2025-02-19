@@ -18265,3 +18265,9 @@ Code review notes:
 
 - Idea: expose build loader as public API
 - Cache token responses
+
+## 2025-02-19
+
+Code review notes:
+- Simplify lint formatter init
+- Remove unused typed helpers
