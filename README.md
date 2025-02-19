@@ -2799,3 +2799,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-15] Updated docs for formatter API
 - [2025-02-17] Fixed edge case in formatter pipeline
 - [2025-02-18] Fixed edge case in builder pipeline
+- [2025-02-19] Updated docs for adapter API
