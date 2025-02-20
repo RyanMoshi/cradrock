@@ -28317,3 +28317,8 @@ Code review notes:
 Code review notes:
 - Simplify utils adapter init
 - Remove unused efficient helpers
+
+## 2025-02-20
+
+- Investigated session performance
+- Spike: migrate utils loader to streaming
