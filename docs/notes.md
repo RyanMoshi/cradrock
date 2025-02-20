@@ -13726,3 +13726,8 @@ Code review:
 
 - Reviewed resolver behaviour
 - Handle edge case in resolve flow
+
+## 2025-02-20
+
+- TODO: add tests for strict resolver
+- Refactor handler
