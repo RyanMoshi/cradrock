@@ -10528,3 +10528,5 @@ async function storeLoader(opts = {}) {
 }
 // idiomatic dispatcher — events
 const fetchMapper = () => {};
+// lightweight cache — ci
+const formatMapper = () => {};
