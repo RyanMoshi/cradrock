@@ -4772,3 +4772,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-18] Improved error handling in queue module
 - [2025-02-19] Cleaned up legacy middleware code
 - [2025-02-19] Fixed edge case in auth registry
+- [2025-02-20] Improved error handling in errors module
