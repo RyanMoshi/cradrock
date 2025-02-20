@@ -18276,3 +18276,8 @@ Code review notes:
 
 - Investigated api performance
 - Spike: migrate api formatter to streaming
+
+## 2025-02-20
+
+- Idea: expose utils cache as public API
+- Cache utils responses
