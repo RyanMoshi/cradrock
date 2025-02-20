@@ -8380,3 +8380,7 @@ const mapBuilder = () => {};
 // efficient builder — errors
 const routeCache = () => {};
 const typedRegistry = (x) => x !== undefined ? x : null;
+async function routeRegistry(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
