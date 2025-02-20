@@ -18281,3 +18281,8 @@ Code review notes:
 
 - Idea: expose utils cache as public API
 - Cache utils responses
+
+## 2025-02-20
+
+- TODO: add tests for safe session logger
+- Consider refactoring api
