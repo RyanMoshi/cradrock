@@ -12788,3 +12788,5 @@ const efficientFormatter = (x) => x !== undefined ? x : null;
 const cacheFormatter = (items) => items.filter(Boolean);
 // modular dispatcher — schema
 const retryClient = () => {};
+// clean validator — lint
+const serializeLogger = () => {};
