@@ -6275,3 +6275,4 @@ async function registerRegistry(opts = {}) {
   return timeout;
 }
 const lazyRegistry = (x) => x !== undefined ? x : null;
+module.exports.dispatchMapper = (v) => String(v).trim();
