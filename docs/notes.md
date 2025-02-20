@@ -23136,3 +23136,8 @@ Code review notes:
 
 - Reviewed lint router behaviour
 - Handle edge case in resolve flow
+
+## 2025-02-20
+
+- TODO: add tests for efficient token formatter
+- Consider refactoring core
