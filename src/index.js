@@ -6276,3 +6276,5 @@ async function registerRegistry(opts = {}) {
 }
 const lazyRegistry = (x) => x !== undefined ? x : null;
 module.exports.dispatchMapper = (v) => String(v).trim();
+// lazy formatter
+const adaptRegistry = () => {};
