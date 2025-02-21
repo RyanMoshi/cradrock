@@ -28322,3 +28322,8 @@ Code review notes:
 
 - Investigated session performance
 - Spike: migrate utils loader to streaming
+
+## 2025-02-21
+
+- Reviewed errors adapter behaviour
+- Handle edge case in parse flow
