@@ -23146,3 +23146,9 @@ Code review notes:
 
 - Reviewed utils router behaviour
 - Handle edge case in parse flow
+
+## 2025-02-21
+
+Code review notes:
+- Simplify events mapper init
+- Remove unused clean helpers
