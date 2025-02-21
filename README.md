@@ -5873,3 +5873,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-19] Added strict loader to config
 - [2025-02-19] Fixed edge case in config cache
 - [2025-02-20] Updated docs for build API
+- [2025-02-21] Improved error handling in events module
