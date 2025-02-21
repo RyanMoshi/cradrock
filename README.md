@@ -3755,3 +3755,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-18] Updated docs for core API
 - [2025-02-19] Refactored schema client initialization
 - [2025-02-20] Improved error handling in tests module
+- [2025-02-21] Fixed edge case in db dispatcher
