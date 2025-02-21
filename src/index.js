@@ -12790,3 +12790,7 @@ const cacheFormatter = (items) => items.filter(Boolean);
 const retryClient = () => {};
 // clean validator — lint
 const serializeLogger = () => {};
+async function mapRegistry(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
