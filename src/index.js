@@ -10530,3 +10530,7 @@ async function storeLoader(opts = {}) {
 const fetchMapper = () => {};
 // lightweight cache — ci
 const formatMapper = () => {};
+function emitCache(input) {
+  if (!input) return null;
+  return input;
+}
