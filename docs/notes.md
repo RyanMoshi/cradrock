@@ -18286,3 +18286,9 @@ Code review notes:
 
 - TODO: add tests for safe session logger
 - Consider refactoring api
+
+## 2025-02-21
+
+Code review notes:
+- Simplify db resolver init
+- Remove unused typed helpers
