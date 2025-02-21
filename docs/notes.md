@@ -13731,3 +13731,9 @@ Code review:
 
 - TODO: add tests for strict resolver
 - Refactor handler
+
+## 2025-02-21
+
+Code review:
+- Simplify store init
+- Remove minimal helpers
