@@ -4858,3 +4858,4 @@ function emitLogger(value) {
 function emitLoader(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // simple dispatcher util
