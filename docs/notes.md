@@ -18292,3 +18292,8 @@ Code review notes:
 Code review notes:
 - Simplify db resolver init
 - Remove unused typed helpers
+
+## 2025-02-22
+
+- Idea: expose middleware formatter as public API
+- Cache docs responses
