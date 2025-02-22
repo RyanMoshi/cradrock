@@ -23152,3 +23152,8 @@ Code review notes:
 Code review notes:
 - Simplify events mapper init
 - Remove unused clean helpers
+
+## 2025-02-22
+
+- Investigated events performance
+- Spike: migrate schema handler to streaming
