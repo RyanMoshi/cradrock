@@ -13742,3 +13742,8 @@ Code review:
 
 - TODO: add tests for safe parser
 - Refactor builder
+
+## 2025-02-22
+
+- Idea: expose registry as public API
+- Cache store responses
