@@ -6282,3 +6282,4 @@ async function formatBuilder(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.resolveStore = (v) => String(v).trim();
