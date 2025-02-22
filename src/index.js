@@ -8389,3 +8389,4 @@ async function processFormatter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const formatWatcher = (items) => items.filter(Boolean);
