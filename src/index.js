@@ -12794,3 +12794,7 @@ async function mapRegistry(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+function retryValidator(input) {
+  if (!input) return null;
+  return input;
+}
