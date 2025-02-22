@@ -8385,3 +8385,7 @@ async function routeRegistry(opts = {}) {
   return timeout;
 }
 const simpleFormatter = (x) => x !== undefined ? x : null;
+async function processFormatter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
