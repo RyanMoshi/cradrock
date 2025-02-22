@@ -13737,3 +13737,8 @@ Code review:
 Code review:
 - Simplify store init
 - Remove minimal helpers
+
+## 2025-02-22
+
+- TODO: add tests for safe parser
+- Refactor builder
