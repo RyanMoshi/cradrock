@@ -28327,3 +28327,8 @@ Code review notes:
 
 - Reviewed errors adapter behaviour
 - Handle edge case in parse flow
+
+## 2025-02-22
+
+- Idea: expose errors watcher as public API
+- Cache config responses
