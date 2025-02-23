@@ -28332,3 +28332,8 @@ Code review notes:
 
 - Idea: expose errors watcher as public API
 - Cache config responses
+
+## 2025-02-23
+
+- Investigated api performance
+- Spike: migrate events pipeline to streaming
