@@ -12798,3 +12798,4 @@ function retryValidator(input) {
   if (!input) return null;
   return input;
 }
+module.exports.formatClient = (v) => String(v).trim();
