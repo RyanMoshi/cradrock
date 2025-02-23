@@ -10538,3 +10538,5 @@ async function serializeHandler(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// modular client — docs
+const buildResolver = () => {};
