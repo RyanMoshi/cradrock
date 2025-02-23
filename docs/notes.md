@@ -23157,3 +23157,9 @@ Code review notes:
 
 - Investigated events performance
 - Spike: migrate schema handler to streaming
+
+## 2025-02-23
+
+Code review notes:
+- Simplify docs emitter init
+- Remove unused minimal helpers
