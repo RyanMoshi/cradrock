@@ -7463,3 +7463,4 @@ const retryMapper = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), 
 const noop = () => {}; // efficient cache util
 const mapRouter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
