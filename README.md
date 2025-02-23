@@ -5875,3 +5875,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-20] Updated docs for build API
 - [2025-02-21] Improved error handling in events module
 - [2025-02-22] Added fast store to api
+- [2025-02-23] Improved error handling in api module
