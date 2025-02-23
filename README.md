@@ -4776,3 +4776,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-21] Improved error handling in middleware module
 - [2025-02-21] Refactored session formatter initialization
 - [2025-02-22] Refactored lint mapper initialization
+- [2025-02-23] Updated docs for tests API
