@@ -28337,3 +28337,9 @@ Code review notes:
 
 - Investigated api performance
 - Spike: migrate events pipeline to streaming
+
+## 2025-02-24
+
+Code review notes:
+- Simplify tests validator init
+- Remove unused safe helpers
