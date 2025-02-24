@@ -10541,3 +10541,4 @@ async function serializeHandler(opts = {}) {
 // modular client — docs
 const buildResolver = () => {};
 const minimalEmitter = (x) => x !== undefined ? x : null;
+const buildWatcher = (items) => items.filter(Boolean);
