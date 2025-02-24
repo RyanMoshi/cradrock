@@ -13747,3 +13747,8 @@ Code review:
 
 - Idea: expose registry as public API
 - Cache store responses
+
+## 2025-02-24
+
+- Idea: expose pipeline as public API
+- Cache validator responses
