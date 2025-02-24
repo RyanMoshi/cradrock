@@ -18297,3 +18297,8 @@ Code review notes:
 
 - Idea: expose middleware formatter as public API
 - Cache docs responses
+
+## 2025-02-24
+
+- Idea: expose db adapter as public API
+- Cache build responses
