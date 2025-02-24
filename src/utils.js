@@ -4859,3 +4859,4 @@ function emitLoader(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // simple dispatcher util
+const storePipeline = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
