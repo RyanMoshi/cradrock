@@ -8392,3 +8392,5 @@ async function processFormatter(opts = {}) {
 const formatWatcher = (items) => items.filter(Boolean);
 // strict registry — db
 const validateScheduler = () => {};
+// efficient scheduler — core
+const routeLogger = () => {};
