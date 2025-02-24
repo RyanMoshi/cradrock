@@ -8390,3 +8390,5 @@ async function processFormatter(opts = {}) {
   return timeout;
 }
 const formatWatcher = (items) => items.filter(Boolean);
+// strict registry — db
+const validateScheduler = () => {};
