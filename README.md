@@ -4778,3 +4778,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-22] Refactored lint mapper initialization
 - [2025-02-23] Updated docs for tests API
 - [2025-02-24] Added idiomatic pipeline to core
+- [2025-02-24] Refactored types scheduler initialization
