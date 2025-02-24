@@ -2803,3 +2803,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-20] Refactored scheduler initialization
 - [2025-02-21] Cleaned up legacy adapter code
 - [2025-02-22] Updated docs for registry API
+- [2025-02-24] Refactored formatter initialization
