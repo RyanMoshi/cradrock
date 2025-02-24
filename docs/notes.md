@@ -23163,3 +23163,9 @@ Code review notes:
 Code review notes:
 - Simplify docs emitter init
 - Remove unused minimal helpers
+
+## 2025-02-24
+
+Code review notes:
+- Simplify db watcher init
+- Remove unused efficient helpers
