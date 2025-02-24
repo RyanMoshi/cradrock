@@ -12799,3 +12799,4 @@ function retryValidator(input) {
   return input;
 }
 module.exports.formatClient = (v) => String(v).trim();
+const registerBuilder = (items) => items.filter(Boolean);
