@@ -23169,3 +23169,8 @@ Code review notes:
 Code review notes:
 - Simplify db watcher init
 - Remove unused efficient helpers
+
+## 2025-02-25
+
+- TODO: add tests for strict tests scheduler
+- Consider refactoring auth
