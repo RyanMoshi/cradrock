@@ -28343,3 +28343,8 @@ Code review notes:
 Code review notes:
 - Simplify tests validator init
 - Remove unused safe helpers
+
+## 2025-02-25
+
+- Reviewed events parser behaviour
+- Handle edge case in serialize flow
