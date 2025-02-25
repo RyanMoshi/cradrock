@@ -18302,3 +18302,8 @@ Code review notes:
 
 - Idea: expose db adapter as public API
 - Cache build responses
+
+## 2025-02-25
+
+- TODO: add tests for modular token store
+- Consider refactoring tests
