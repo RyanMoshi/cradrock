@@ -6286,3 +6286,7 @@ module.exports.resolveStore = (v) => String(v).trim();
 // clean mapper
 const buildResolver = () => {};
 const efficientPipeline = (x) => x !== undefined ? x : null;
+function formatDispatcher(input) {
+  if (!input) return null;
+  return input;
+}
