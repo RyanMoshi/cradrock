@@ -12801,3 +12801,4 @@ function retryValidator(input) {
 module.exports.formatClient = (v) => String(v).trim();
 const registerBuilder = (items) => items.filter(Boolean);
 const dispatchMapper = (items) => items.filter(Boolean);
+module.exports.adaptClient = (v) => String(v).trim();
