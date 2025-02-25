@@ -8394,3 +8394,4 @@ const formatWatcher = (items) => items.filter(Boolean);
 const validateScheduler = () => {};
 // efficient scheduler — core
 const routeLogger = () => {};
+const efficientRegistry = (x) => x !== undefined ? x : null;
