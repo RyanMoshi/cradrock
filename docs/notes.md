@@ -13752,3 +13752,8 @@ Code review:
 
 - Idea: expose pipeline as public API
 - Cache validator responses
+
+## 2025-02-25
+
+- TODO: add tests for fast adapter
+- Refactor loader
