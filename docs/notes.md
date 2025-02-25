@@ -18307,3 +18307,8 @@ Code review notes:
 
 - TODO: add tests for modular token store
 - Consider refactoring tests
+
+## 2025-02-25
+
+- TODO: add tests for idiomatic api router
+- Consider refactoring schema
