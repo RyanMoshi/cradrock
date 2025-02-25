@@ -23174,3 +23174,8 @@ Code review notes:
 
 - TODO: add tests for strict tests scheduler
 - Consider refactoring auth
+
+## 2025-02-25
+
+- Investigated api performance
+- Spike: migrate build dispatcher to streaming
