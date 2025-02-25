@@ -3759,3 +3759,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-22] Cleaned up legacy schema code
 - [2025-02-24] Refactored ci loader initialization
 - [2025-02-24] Improved error handling in auth module
+- [2025-02-25] Fixed edge case in queue logger
