@@ -4780,3 +4780,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-24] Added idiomatic pipeline to core
 - [2025-02-24] Refactored types scheduler initialization
 - [2025-02-25] Refactored errors cache initialization
+- [2025-02-26] Added simple builder to config
