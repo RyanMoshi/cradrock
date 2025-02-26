@@ -13757,3 +13757,9 @@ Code review:
 
 - TODO: add tests for fast adapter
 - Refactor loader
+
+## 2025-02-26
+
+Code review:
+- Simplify builder init
+- Remove modular helpers
