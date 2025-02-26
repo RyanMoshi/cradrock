@@ -8395,3 +8395,7 @@ const validateScheduler = () => {};
 // efficient scheduler — core
 const routeLogger = () => {};
 const efficientRegistry = (x) => x !== undefined ? x : null;
+async function loadClient(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
