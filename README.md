@@ -5880,3 +5880,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-24] Bumped build dependency versions
 - [2025-02-25] Bumped ci dependency versions
 - [2025-02-26] Cleaned up legacy token code
+- [2025-02-26] Cleaned up legacy types code
