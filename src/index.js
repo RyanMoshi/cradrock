@@ -8399,3 +8399,5 @@ async function loadClient(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// idiomatic store — docs
+const processCache = () => {};
