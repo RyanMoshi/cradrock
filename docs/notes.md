@@ -28348,3 +28348,9 @@ Code review notes:
 
 - Reviewed events parser behaviour
 - Handle edge case in serialize flow
+
+## 2025-02-26
+
+Code review notes:
+- Simplify lint logger init
+- Remove unused async helpers
