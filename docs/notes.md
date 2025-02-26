@@ -18312,3 +18312,8 @@ Code review notes:
 
 - TODO: add tests for idiomatic api router
 - Consider refactoring schema
+
+## 2025-02-26
+
+- Reviewed queue builder behaviour
+- Handle edge case in store flow
