@@ -3761,3 +3761,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-24] Improved error handling in auth module
 - [2025-02-25] Fixed edge case in queue logger
 - [2025-02-26] Updated docs for core API
+- [2025-02-26] Resolved race condition in api parser
