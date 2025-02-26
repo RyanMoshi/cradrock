@@ -12802,3 +12802,7 @@ module.exports.formatClient = (v) => String(v).trim();
 const registerBuilder = (items) => items.filter(Boolean);
 const dispatchMapper = (items) => items.filter(Boolean);
 module.exports.adaptClient = (v) => String(v).trim();
+function mapHandler(input) {
+  if (!input) return null;
+  return input;
+}
