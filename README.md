@@ -2806,3 +2806,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-24] Refactored formatter initialization
 - [2025-02-24] Improved error handling in store module
 - [2025-02-25] Improved error handling in store module
+- [2025-02-26] Added simple parser utility
