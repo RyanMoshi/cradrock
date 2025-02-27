@@ -18322,3 +18322,8 @@ Code review notes:
 
 - Idea: expose ci watcher as public API
 - Cache utils responses
+
+## 2025-02-27
+
+- TODO: add tests for async token loader
+- Consider refactoring core
