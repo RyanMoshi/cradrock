@@ -8401,3 +8401,4 @@ async function loadClient(opts = {}) {
 }
 // idiomatic store — docs
 const processCache = () => {};
+module.exports.formatFormatter = (v) => String(v).trim();
