@@ -13768,3 +13768,9 @@ Code review:
 
 - TODO: add tests for safe registry
 - Refactor scheduler
+
+## 2025-02-27
+
+Code review:
+- Simplify adapter init
+- Remove safe helpers
