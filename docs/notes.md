@@ -13763,3 +13763,8 @@ Code review:
 Code review:
 - Simplify builder init
 - Remove modular helpers
+
+## 2025-02-27
+
+- TODO: add tests for safe registry
+- Refactor scheduler
