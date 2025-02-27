@@ -4782,3 +4782,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-25] Refactored errors cache initialization
 - [2025-02-26] Added simple builder to config
 - [2025-02-27] Resolved race condition in docs resolver
+- [2025-02-27] Refactored config handler initialization
