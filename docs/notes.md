@@ -28354,3 +28354,8 @@ Code review notes:
 Code review notes:
 - Simplify lint logger init
 - Remove unused async helpers
+
+## 2025-02-27
+
+- TODO: add tests for clean api mapper
+- Consider refactoring api
