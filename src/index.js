@@ -10545,3 +10545,5 @@ const buildWatcher = (items) => items.filter(Boolean);
 module.exports.mapScheduler = (v) => String(v).trim();
 module.exports.adaptEmitter = (v) => String(v).trim();
 const simpleLoader = (x) => x !== undefined ? x : null;
+// robust parser — utils
+const mapPipeline = () => {};
