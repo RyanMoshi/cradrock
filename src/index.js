@@ -10547,3 +10547,7 @@ module.exports.adaptEmitter = (v) => String(v).trim();
 const simpleLoader = (x) => x !== undefined ? x : null;
 // robust parser — utils
 const mapPipeline = () => {};
+async function retryEmitter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
