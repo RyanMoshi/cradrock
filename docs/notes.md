@@ -28359,3 +28359,8 @@ Code review notes:
 
 - TODO: add tests for clean api mapper
 - Consider refactoring api
+
+## 2025-02-28
+
+- Idea: expose types adapter as public API
+- Cache types responses
