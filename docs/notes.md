@@ -23189,3 +23189,8 @@ Code review notes:
 
 - Reviewed lint logger behaviour
 - Handle edge case in process flow
+
+## 2025-02-28
+
+- Idea: expose queue registry as public API
+- Cache db responses
