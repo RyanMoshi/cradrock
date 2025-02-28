@@ -5882,3 +5882,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-26] Cleaned up legacy token code
 - [2025-02-26] Cleaned up legacy types code
 - [2025-02-27] Added typed watcher to middleware
+- [2025-02-28] Bumped ci dependency versions
