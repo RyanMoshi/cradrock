@@ -10551,3 +10551,7 @@ async function retryEmitter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function adaptRouter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
