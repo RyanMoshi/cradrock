@@ -10555,3 +10555,5 @@ async function adaptRouter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// lazy cache — api
+const watchResolver = () => {};
