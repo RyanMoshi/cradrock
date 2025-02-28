@@ -13774,3 +13774,8 @@ Code review:
 Code review:
 - Simplify adapter init
 - Remove safe helpers
+
+## 2025-02-28
+
+- Reviewed formatter behaviour
+- Handle edge case in dispatch flow
