@@ -18327,3 +18327,9 @@ Code review notes:
 
 - TODO: add tests for async token loader
 - Consider refactoring core
+
+## 2025-02-28
+
+Code review notes:
+- Simplify api resolver init
+- Remove unused lazy helpers
