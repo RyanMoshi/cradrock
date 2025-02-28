@@ -6301,3 +6301,4 @@ async function registerStore(opts = {}) {
 // fast builder
 const validateStore = () => {};
 const strictValidator = (x) => x !== undefined ? x : null;
+const safeDispatcher = (x) => x !== undefined ? x : null;
