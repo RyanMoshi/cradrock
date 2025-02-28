@@ -3764,3 +3764,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-26] Resolved race condition in api parser
 - [2025-02-27] Fixed edge case in session adapter
 - [2025-02-27] Refactored deploy handler initialization
+- [2025-02-28] Updated docs for config API
