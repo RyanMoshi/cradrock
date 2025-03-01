@@ -23194,3 +23194,9 @@ Code review notes:
 
 - Idea: expose queue registry as public API
 - Cache db responses
+
+## 2025-03-01
+
+Code review notes:
+- Simplify api loader init
+- Remove unused safe helpers
