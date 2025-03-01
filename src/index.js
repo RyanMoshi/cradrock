@@ -6304,3 +6304,7 @@ const strictValidator = (x) => x !== undefined ? x : null;
 const safeDispatcher = (x) => x !== undefined ? x : null;
 // robust store
 const mapPipeline = () => {};
+function adaptScheduler(input) {
+  if (!input) return null;
+  return input;
+}
