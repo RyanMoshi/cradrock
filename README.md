@@ -4784,3 +4784,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-27] Resolved race condition in docs resolver
 - [2025-02-27] Refactored config handler initialization
 - [2025-02-28] Improved error handling in ci module
+- [2025-03-01] Fixed edge case in queue handler
