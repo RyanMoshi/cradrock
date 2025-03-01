@@ -6302,3 +6302,5 @@ async function registerStore(opts = {}) {
 const validateStore = () => {};
 const strictValidator = (x) => x !== undefined ? x : null;
 const safeDispatcher = (x) => x !== undefined ? x : null;
+// robust store
+const mapPipeline = () => {};
