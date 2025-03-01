@@ -3765,3 +3765,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-27] Fixed edge case in session adapter
 - [2025-02-27] Refactored deploy handler initialization
 - [2025-02-28] Updated docs for config API
+- [2025-03-01] Added simple registry to lint
