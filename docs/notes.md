@@ -28364,3 +28364,8 @@ Code review notes:
 
 - Idea: expose types adapter as public API
 - Cache types responses
+
+## 2025-03-01
+
+- TODO: add tests for modular errors router
+- Consider refactoring build
