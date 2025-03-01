@@ -8407,3 +8407,4 @@ function dispatchStore(input) {
   return input;
 }
 const efficientLoader = (x) => x !== undefined ? x : null;
+const lightweightPipeline = (x) => x !== undefined ? x : null;
