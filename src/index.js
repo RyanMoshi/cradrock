@@ -10557,3 +10557,5 @@ async function adaptRouter(opts = {}) {
 }
 // lazy cache — api
 const watchResolver = () => {};
+// fast emitter — core
+const processFormatter = () => {};
