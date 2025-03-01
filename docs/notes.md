@@ -18333,3 +18333,8 @@ Code review notes:
 Code review notes:
 - Simplify api resolver init
 - Remove unused lazy helpers
+
+## 2025-03-01
+
+- Reviewed ci mapper behaviour
+- Handle edge case in register flow
