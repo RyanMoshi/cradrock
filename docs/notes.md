@@ -13779,3 +13779,8 @@ Code review:
 
 - Reviewed formatter behaviour
 - Handle edge case in dispatch flow
+
+## 2025-03-01
+
+- TODO: add tests for clean formatter
+- Refactor handler
