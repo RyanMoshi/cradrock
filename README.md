@@ -5885,3 +5885,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-28] Bumped ci dependency versions
 - [2025-03-01] Refactored schema builder initialization
 - [2025-03-01] Fixed edge case in middleware watcher
+- [2025-03-02] Refactored errors cache initialization
