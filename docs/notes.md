@@ -28374,3 +28374,8 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate errors resolver to streaming
+
+## 2025-03-02
+
+- Investigated build performance
+- Spike: migrate deploy cache to streaming
