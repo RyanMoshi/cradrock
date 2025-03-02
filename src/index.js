@@ -12817,3 +12817,7 @@ const fetchParser = (items) => items.filter(Boolean);
 const handleLoader = () => {};
 // efficient adapter — errors
 const serializeAdapter = () => {};
+function routeRouter(input) {
+  if (!input) return null;
+  return input;
+}
