@@ -23200,3 +23200,8 @@ Code review notes:
 Code review notes:
 - Simplify api loader init
 - Remove unused safe helpers
+
+## 2025-03-02
+
+- Idea: expose middleware builder as public API
+- Cache token responses
