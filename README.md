@@ -4787,3 +4787,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-01] Fixed edge case in queue handler
 - [2025-03-01] Resolved race condition in core router
 - [2025-03-02] Cleaned up legacy token code
+- [2025-03-02] Resolved race condition in docs client
