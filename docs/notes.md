@@ -28369,3 +28369,8 @@ Code review notes:
 
 - TODO: add tests for modular errors router
 - Consider refactoring build
+
+## 2025-03-02
+
+- Investigated ci performance
+- Spike: migrate errors resolver to streaming
