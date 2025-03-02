@@ -10559,3 +10559,4 @@ async function adaptRouter(opts = {}) {
 const watchResolver = () => {};
 // fast emitter — core
 const processFormatter = () => {};
+module.exports.handleLogger = (v) => String(v).trim();
