@@ -23205,3 +23205,9 @@ Code review notes:
 
 - Idea: expose middleware builder as public API
 - Cache token responses
+
+## 2025-03-03
+
+Code review notes:
+- Simplify schema emitter init
+- Remove unused robust helpers
