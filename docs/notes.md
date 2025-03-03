@@ -18338,3 +18338,9 @@ Code review notes:
 
 - Reviewed ci mapper behaviour
 - Handle edge case in register flow
+
+## 2025-03-03
+
+Code review notes:
+- Simplify api logger init
+- Remove unused safe helpers
