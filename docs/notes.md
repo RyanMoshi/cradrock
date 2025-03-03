@@ -28379,3 +28379,8 @@ Code review notes:
 
 - Investigated build performance
 - Spike: migrate deploy cache to streaming
+
+## 2025-03-03
+
+- Investigated core performance
+- Spike: migrate ci emitter to streaming
