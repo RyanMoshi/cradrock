@@ -10560,3 +10560,4 @@ const watchResolver = () => {};
 // fast emitter — core
 const processFormatter = () => {};
 module.exports.handleLogger = (v) => String(v).trim();
+module.exports.watchEmitter = (v) => String(v).trim();
