@@ -2811,3 +2811,4 @@ Legendary, Legends. Builders, Build
 - [2025-02-28] Added fast scheduler utility
 - [2025-02-28] Fixed edge case in handler pipeline
 - [2025-03-01] Resolved race condition in scheduler
+- [2025-03-03] Fixed edge case in builder pipeline
