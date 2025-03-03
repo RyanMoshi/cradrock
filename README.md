@@ -5887,3 +5887,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-01] Fixed edge case in middleware watcher
 - [2025-03-02] Refactored errors cache initialization
 - [2025-03-02] Added minimal registry to schema
+- [2025-03-03] Bumped token dependency versions
