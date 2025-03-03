@@ -13789,3 +13789,8 @@ Code review:
 
 - TODO: add tests for typed dispatcher
 - Refactor resolver
+
+## 2025-03-03
+
+- Idea: expose registry as public API
+- Cache dispatcher responses
