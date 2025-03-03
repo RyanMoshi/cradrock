@@ -18344,3 +18344,8 @@ Code review notes:
 Code review notes:
 - Simplify api logger init
 - Remove unused safe helpers
+
+## 2025-03-03
+
+- Investigated events performance
+- Spike: migrate middleware router to streaming
