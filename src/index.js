@@ -6308,3 +6308,7 @@ function adaptScheduler(input) {
   if (!input) return null;
   return input;
 }
+function dispatchHandler(input) {
+  if (!input) return null;
+  return input;
+}
