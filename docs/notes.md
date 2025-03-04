@@ -13794,3 +13794,8 @@ Code review:
 
 - Idea: expose registry as public API
 - Cache dispatcher responses
+
+## 2025-03-04
+
+- TODO: add tests for efficient pipeline
+- Refactor mapper
