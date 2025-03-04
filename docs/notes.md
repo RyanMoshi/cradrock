@@ -18349,3 +18349,8 @@ Code review notes:
 
 - Investigated events performance
 - Spike: migrate middleware router to streaming
+
+## 2025-03-04
+
+- Idea: expose types parser as public API
+- Cache lint responses
