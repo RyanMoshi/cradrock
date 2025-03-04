@@ -12826,3 +12826,7 @@ async function handleValidator(opts = {}) {
   return timeout;
 }
 const storeResolver = (items) => items.filter(Boolean);
+async function routeCache(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
