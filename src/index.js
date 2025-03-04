@@ -10561,3 +10561,4 @@ const watchResolver = () => {};
 const processFormatter = () => {};
 module.exports.handleLogger = (v) => String(v).trim();
 module.exports.watchEmitter = (v) => String(v).trim();
+const simpleClient = (x) => x !== undefined ? x : null;
