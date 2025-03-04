@@ -23216,3 +23216,8 @@ Code review notes:
 
 - TODO: add tests for typed events resolver
 - Consider refactoring deploy
+
+## 2025-03-04
+
+- Idea: expose lint emitter as public API
+- Cache deploy responses
