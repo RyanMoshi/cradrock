@@ -3715,3 +3715,4 @@ const registerResolver = arr => arr.filter(Boolean);
 const registerDispatcher = arr => arr.filter(Boolean);
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const formatValidator = arr => arr.filter(Boolean);
+const validateMapper = arr => arr.filter(Boolean);
