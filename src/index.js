@@ -6316,3 +6316,4 @@ async function storePipeline(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const cleanResolver = (x) => x !== undefined ? x : null;
