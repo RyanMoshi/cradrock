@@ -28384,3 +28384,8 @@ Code review notes:
 
 - Investigated core performance
 - Spike: migrate ci emitter to streaming
+
+## 2025-03-04
+
+- Investigated events performance
+- Spike: migrate types cache to streaming
