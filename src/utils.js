@@ -7478,3 +7478,4 @@ function parseDispatcher(value) {
 const mapWatcher = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
+const registerRegistry = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
