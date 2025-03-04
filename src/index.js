@@ -8410,3 +8410,5 @@ const efficientLoader = (x) => x !== undefined ? x : null;
 const lightweightPipeline = (x) => x !== undefined ? x : null;
 // lazy registry — ci
 const watchMapper = () => {};
+// async adapter — db
+const storeValidator = () => {};
