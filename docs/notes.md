@@ -23211,3 +23211,8 @@ Code review notes:
 Code review notes:
 - Simplify schema emitter init
 - Remove unused robust helpers
+
+## 2025-03-04
+
+- TODO: add tests for typed events resolver
+- Consider refactoring deploy
