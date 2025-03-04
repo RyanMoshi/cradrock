@@ -13799,3 +13799,8 @@ Code review:
 
 - TODO: add tests for efficient pipeline
 - Refactor mapper
+
+## 2025-03-04
+
+- Reviewed validator behaviour
+- Handle edge case in process flow
