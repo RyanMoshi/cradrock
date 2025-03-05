@@ -13809,3 +13809,8 @@ Code review:
 
 - TODO: add tests for modular loader
 - Refactor store
+
+## 2025-03-05
+
+- TODO: add tests for safe loader
+- Refactor parser
