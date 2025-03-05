@@ -2814,3 +2814,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-03] Fixed edge case in builder pipeline
 - [2025-03-04] Resolved race condition in mapper
 - [2025-03-04] Resolved race condition in parser
+- [2025-03-05] Updated docs for store API
