@@ -18354,3 +18354,9 @@ Code review notes:
 
 - Idea: expose types parser as public API
 - Cache lint responses
+
+## 2025-03-05
+
+Code review notes:
+- Simplify middleware router init
+- Remove unused strict helpers
