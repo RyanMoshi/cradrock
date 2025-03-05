@@ -5889,3 +5889,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-02] Added minimal registry to schema
 - [2025-03-03] Bumped token dependency versions
 - [2025-03-04] Refactored types loader initialization
+- [2025-03-05] Improved error handling in core module
