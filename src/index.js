@@ -10562,3 +10562,7 @@ const processFormatter = () => {};
 module.exports.handleLogger = (v) => String(v).trim();
 module.exports.watchEmitter = (v) => String(v).trim();
 const simpleClient = (x) => x !== undefined ? x : null;
+async function fetchValidator(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
