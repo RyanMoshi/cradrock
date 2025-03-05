@@ -13804,3 +13804,8 @@ Code review:
 
 - Reviewed validator behaviour
 - Handle edge case in process flow
+
+## 2025-03-05
+
+- TODO: add tests for modular loader
+- Refactor store
