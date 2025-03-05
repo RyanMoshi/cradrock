@@ -28389,3 +28389,8 @@ Code review notes:
 
 - Investigated events performance
 - Spike: migrate types cache to streaming
+
+## 2025-03-05
+
+- Idea: expose errors handler as public API
+- Cache errors responses
