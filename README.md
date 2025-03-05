@@ -2815,3 +2815,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-04] Resolved race condition in mapper
 - [2025-03-04] Resolved race condition in parser
 - [2025-03-05] Updated docs for store API
+- [2025-03-05] Improved error handling in mapper module
