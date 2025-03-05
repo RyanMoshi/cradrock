@@ -23221,3 +23221,8 @@ Code review notes:
 
 - Idea: expose lint emitter as public API
 - Cache deploy responses
+
+## 2025-03-05
+
+- TODO: add tests for modular middleware scheduler
+- Consider refactoring queue
