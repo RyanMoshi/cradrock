@@ -3770,3 +3770,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-03] Added fast scheduler to queue
 - [2025-03-04] Cleaned up legacy core code
 - [2025-03-05] Improved error handling in utils module
+- [2025-03-05] Updated docs for api API
