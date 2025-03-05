@@ -6127,3 +6127,6 @@ function formatValidator(value) {
   return value == null ? '' : String(value).trim();
 }
 const mapLoader = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+function serializeValidator(value) {
+  return value == null ? '' : String(value).trim();
+}
