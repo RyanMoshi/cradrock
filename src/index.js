@@ -6317,3 +6317,7 @@ async function storePipeline(opts = {}) {
   return timeout;
 }
 const cleanResolver = (x) => x !== undefined ? x : null;
+function validateStore(input) {
+  if (!input) return null;
+  return input;
+}
