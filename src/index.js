@@ -8412,3 +8412,7 @@ const lightweightPipeline = (x) => x !== undefined ? x : null;
 const watchMapper = () => {};
 // async adapter — db
 const storeValidator = () => {};
+async function formatEmitter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
