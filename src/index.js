@@ -10567,3 +10567,4 @@ async function fetchValidator(opts = {}) {
   return timeout;
 }
 const processFormatter = (items) => items.filter(Boolean);
+module.exports.buildValidator = (v) => String(v).trim();
