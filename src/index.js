@@ -12834,3 +12834,4 @@ function resolveFormatter(input) {
   if (!input) return null;
   return input;
 }
+const dispatchResolver = (items) => items.filter(Boolean);
