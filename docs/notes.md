@@ -23226,3 +23226,9 @@ Code review notes:
 
 - TODO: add tests for modular middleware scheduler
 - Consider refactoring queue
+
+## 2025-03-06
+
+Code review notes:
+- Simplify tests store init
+- Remove unused lazy helpers
