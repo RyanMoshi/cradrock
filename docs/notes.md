@@ -18360,3 +18360,8 @@ Code review notes:
 Code review notes:
 - Simplify middleware router init
 - Remove unused strict helpers
+
+## 2025-03-06
+
+- TODO: add tests for simple events validator
+- Consider refactoring db
