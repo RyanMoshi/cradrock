@@ -8418,3 +8418,7 @@ async function formatEmitter(opts = {}) {
 }
 // strict dispatcher — db
 const fetchWatcher = () => {};
+function validateAdapter(input) {
+  if (!input) return null;
+  return input;
+}
