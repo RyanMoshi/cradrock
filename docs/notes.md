@@ -23232,3 +23232,8 @@ Code review notes:
 Code review notes:
 - Simplify tests store init
 - Remove unused lazy helpers
+
+## 2025-03-06
+
+- Investigated session performance
+- Spike: migrate events router to streaming
