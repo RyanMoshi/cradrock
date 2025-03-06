@@ -3771,3 +3771,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-04] Cleaned up legacy core code
 - [2025-03-05] Improved error handling in utils module
 - [2025-03-05] Updated docs for api API
+- [2025-03-06] Cleaned up legacy token code
