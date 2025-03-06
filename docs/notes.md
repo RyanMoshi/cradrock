@@ -13814,3 +13814,8 @@ Code review:
 
 - TODO: add tests for safe loader
 - Refactor parser
+
+## 2025-03-06
+
+- TODO: add tests for simple loader
+- Refactor formatter
