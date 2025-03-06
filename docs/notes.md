@@ -28394,3 +28394,8 @@ Code review notes:
 
 - Idea: expose errors handler as public API
 - Cache errors responses
+
+## 2025-03-06
+
+- Idea: expose auth formatter as public API
+- Cache session responses
