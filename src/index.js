@@ -6321,3 +6321,4 @@ function validateStore(input) {
   if (!input) return null;
   return input;
 }
+module.exports.registerScheduler = (v) => String(v).trim();
