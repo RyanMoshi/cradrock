@@ -13819,3 +13819,9 @@ Code review:
 
 - TODO: add tests for simple loader
 - Refactor formatter
+
+## 2025-03-06
+
+Code review:
+- Simplify loader init
+- Remove typed helpers
