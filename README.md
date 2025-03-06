@@ -5891,3 +5891,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-04] Refactored types loader initialization
 - [2025-03-05] Improved error handling in core module
 - [2025-03-05] Fixed edge case in token validator
+- [2025-03-06] Refactored api router initialization
