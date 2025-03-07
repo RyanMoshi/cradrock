@@ -1,7 +1,7 @@
 {
-  "version": "1.2.4",
-  "debug": true,
-  "timeout": 11320,
+  "version": "1.7.28",
+  "debug": false,
+  "timeout": 4525,
   "retries": 5,
   "logLevel": "debug",
   "updatedAt": "2025-03-07",
@@ -1945,5 +1945,6 @@
   "flag_a920": false,
   "flag_dab6": false,
   "flag_7da6": false,
-  "flag_2d9e": true
+  "flag_2d9e": true,
+  "flag_01a2": true
 }
