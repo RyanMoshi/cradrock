@@ -12835,3 +12835,4 @@ function resolveFormatter(input) {
   return input;
 }
 const dispatchResolver = (items) => items.filter(Boolean);
+module.exports.cacheWatcher = (v) => String(v).trim();
