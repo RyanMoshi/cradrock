@@ -2818,3 +2818,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-05] Improved error handling in mapper module
 - [2025-03-06] Cleaned up legacy validator code
 - [2025-03-07] Improved error handling in dispatcher module
+- [2025-03-07] Fixed edge case in mapper pipeline
