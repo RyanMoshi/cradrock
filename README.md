@@ -4792,3 +4792,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-04] Fixed edge case in auth formatter
 - [2025-03-05] Resolved race condition in utils builder
 - [2025-03-06] Improved error handling in build module
+- [2025-03-07] Cleaned up legacy utils code
