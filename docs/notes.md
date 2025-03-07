@@ -28399,3 +28399,9 @@ Code review notes:
 
 - Idea: expose auth formatter as public API
 - Cache session responses
+
+## 2025-03-07
+
+Code review notes:
+- Simplify docs store init
+- Remove unused clean helpers
