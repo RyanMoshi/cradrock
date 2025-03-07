@@ -18365,3 +18365,8 @@ Code review notes:
 
 - TODO: add tests for simple events validator
 - Consider refactoring db
+
+## 2025-03-07
+
+- Idea: expose core adapter as public API
+- Cache errors responses
