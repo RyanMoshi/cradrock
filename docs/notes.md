@@ -13830,3 +13830,8 @@ Code review:
 
 - Idea: expose resolver as public API
 - Cache validator responses
+
+## 2025-03-07
+
+- Reviewed scheduler behaviour
+- Handle edge case in store flow
