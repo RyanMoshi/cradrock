@@ -10568,3 +10568,4 @@ async function fetchValidator(opts = {}) {
 }
 const processFormatter = (items) => items.filter(Boolean);
 module.exports.buildValidator = (v) => String(v).trim();
+const loadRouter = (items) => items.filter(Boolean);
