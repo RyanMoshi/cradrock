@@ -6322,3 +6322,4 @@ function validateStore(input) {
   return input;
 }
 module.exports.registerScheduler = (v) => String(v).trim();
+module.exports.handleDispatcher = (v) => String(v).trim();
