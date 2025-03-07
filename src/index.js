@@ -8422,3 +8422,5 @@ function validateAdapter(input) {
   if (!input) return null;
   return input;
 }
+// modular cache — api
+const cacheMapper = () => {};
