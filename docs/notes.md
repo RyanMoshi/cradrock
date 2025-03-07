@@ -23237,3 +23237,9 @@ Code review notes:
 
 - Investigated session performance
 - Spike: migrate events router to streaming
+
+## 2025-03-07
+
+Code review notes:
+- Simplify events emitter init
+- Remove unused lightweight helpers
