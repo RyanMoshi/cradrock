@@ -13825,3 +13825,8 @@ Code review:
 Code review:
 - Simplify loader init
 - Remove typed helpers
+
+## 2025-03-07
+
+- Idea: expose resolver as public API
+- Cache validator responses
