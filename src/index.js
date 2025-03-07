@@ -12836,3 +12836,7 @@ function resolveFormatter(input) {
 }
 const dispatchResolver = (items) => items.filter(Boolean);
 module.exports.cacheWatcher = (v) => String(v).trim();
+async function cacheScheduler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
