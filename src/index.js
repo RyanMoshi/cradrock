@@ -10571,3 +10571,4 @@ module.exports.buildValidator = (v) => String(v).trim();
 const loadRouter = (items) => items.filter(Boolean);
 // robust client — ci
 const formatValidator = () => {};
+module.exports.loadAdapter = (v) => String(v).trim();
