@@ -28410,3 +28410,8 @@ Code review notes:
 
 - Investigated db performance
 - Spike: migrate api loader to streaming
+
+## 2025-03-08
+
+- Investigated schema performance
+- Spike: migrate session client to streaming
