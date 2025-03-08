@@ -12840,3 +12840,4 @@ async function cacheScheduler(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const registerRegistry = (items) => items.filter(Boolean);
