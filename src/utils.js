@@ -4874,3 +4874,4 @@ const noop = () => {}; // smart adapter util
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const fetchAdapter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const validateRouter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
