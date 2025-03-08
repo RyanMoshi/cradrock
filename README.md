@@ -4794,3 +4794,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-06] Improved error handling in build module
 - [2025-03-07] Cleaned up legacy utils code
 - [2025-03-08] Updated docs for deploy API
+- [2025-03-08] Bumped utils dependency versions
