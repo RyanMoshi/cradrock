@@ -13835,3 +13835,9 @@ Code review:
 
 - Reviewed scheduler behaviour
 - Handle edge case in store flow
+
+## 2025-03-08
+
+Code review:
+- Simplify registry init
+- Remove minimal helpers
