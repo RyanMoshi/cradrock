@@ -8424,3 +8424,7 @@ function validateAdapter(input) {
 }
 // modular cache — api
 const cacheMapper = () => {};
+function fetchResolver(input) {
+  if (!input) return null;
+  return input;
+}
