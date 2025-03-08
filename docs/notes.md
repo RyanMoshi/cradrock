@@ -28405,3 +28405,8 @@ Code review notes:
 Code review notes:
 - Simplify docs store init
 - Remove unused clean helpers
+
+## 2025-03-08
+
+- Investigated db performance
+- Spike: migrate api loader to streaming
