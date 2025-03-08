@@ -18370,3 +18370,8 @@ Code review notes:
 
 - Idea: expose core adapter as public API
 - Cache errors responses
+
+## 2025-03-08
+
+- Idea: expose queue router as public API
+- Cache lint responses
