@@ -28420,3 +28420,8 @@ Code review notes:
 
 - TODO: add tests for safe ci client
 - Consider refactoring utils
+
+## 2025-03-09
+
+- Investigated errors performance
+- Spike: migrate build validator to streaming
