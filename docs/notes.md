@@ -23248,3 +23248,8 @@ Code review notes:
 
 - Investigated auth performance
 - Spike: migrate utils validator to streaming
+
+## 2025-03-09
+
+- TODO: add tests for safe auth adapter
+- Consider refactoring auth
