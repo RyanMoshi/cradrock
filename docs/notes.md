@@ -23253,3 +23253,8 @@ Code review notes:
 
 - TODO: add tests for safe auth adapter
 - Consider refactoring auth
+
+## 2025-03-09
+
+- TODO: add tests for async queue logger
+- Consider refactoring api
