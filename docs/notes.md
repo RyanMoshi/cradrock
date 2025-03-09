@@ -28415,3 +28415,8 @@ Code review notes:
 
 - Investigated schema performance
 - Spike: migrate session client to streaming
+
+## 2025-03-09
+
+- TODO: add tests for safe ci client
+- Consider refactoring utils
