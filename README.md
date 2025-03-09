@@ -4795,3 +4795,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-07] Cleaned up legacy utils code
 - [2025-03-08] Updated docs for deploy API
 - [2025-03-08] Bumped utils dependency versions
+- [2025-03-09] Resolved race condition in core dispatcher
