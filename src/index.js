@@ -12841,3 +12841,7 @@ async function cacheScheduler(opts = {}) {
   return timeout;
 }
 const registerRegistry = (items) => items.filter(Boolean);
+async function resolveStore(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
