@@ -10572,3 +10572,7 @@ const loadRouter = (items) => items.filter(Boolean);
 // robust client — ci
 const formatValidator = () => {};
 module.exports.loadAdapter = (v) => String(v).trim();
+async function handleFormatter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
