@@ -23258,3 +23258,8 @@ Code review notes:
 
 - TODO: add tests for async queue logger
 - Consider refactoring api
+
+## 2025-03-10
+
+- Idea: expose tests adapter as public API
+- Cache schema responses
