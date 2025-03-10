@@ -2822,3 +2822,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-08] Updated docs for loader API
 - [2025-03-08] Improved error handling in registry module
 - [2025-03-10] Added robust registry utility
+- [2025-03-10] Updated docs for handler API
