@@ -4797,3 +4797,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-08] Bumped utils dependency versions
 - [2025-03-09] Resolved race condition in core dispatcher
 - [2025-03-10] Resolved race condition in tests validator
+- [2025-03-10] Cleaned up legacy session code
