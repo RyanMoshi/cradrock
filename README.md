@@ -3774,3 +3774,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-06] Cleaned up legacy token code
 - [2025-03-07] Cleaned up legacy config code
 - [2025-03-08] Added safe loader to config
+- [2025-03-10] Cleaned up legacy errors code
