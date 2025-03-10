@@ -13841,3 +13841,8 @@ Code review:
 Code review:
 - Simplify registry init
 - Remove minimal helpers
+
+## 2025-03-10
+
+- TODO: add tests for async mapper
+- Refactor parser
