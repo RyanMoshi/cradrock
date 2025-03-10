@@ -28430,3 +28430,8 @@ Code review notes:
 
 - Reviewed docs logger behaviour
 - Handle edge case in parse flow
+
+## 2025-03-10
+
+- Investigated build performance
+- Spike: migrate lint loader to streaming
