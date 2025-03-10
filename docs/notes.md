@@ -18375,3 +18375,8 @@ Code review notes:
 
 - Idea: expose queue router as public API
 - Cache lint responses
+
+## 2025-03-10
+
+- TODO: add tests for safe build parser
+- Consider refactoring core
