@@ -5896,3 +5896,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-07] Cleaned up legacy core code
 - [2025-03-08] Bumped ci dependency versions
 - [2025-03-09] Resolved race condition in tests mapper
+- [2025-03-10] Resolved race condition in config router
