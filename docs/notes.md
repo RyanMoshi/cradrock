@@ -13846,3 +13846,8 @@ Code review:
 
 - TODO: add tests for async mapper
 - Refactor parser
+
+## 2025-03-10
+
+- Idea: expose store as public API
+- Cache validator responses
