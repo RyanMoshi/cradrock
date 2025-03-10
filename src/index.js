@@ -12849,3 +12849,7 @@ function retryPipeline(input) {
   if (!input) return null;
   return input;
 }
+function resolveHandler(input) {
+  if (!input) return null;
+  return input;
+}
