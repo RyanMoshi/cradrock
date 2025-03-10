@@ -10576,3 +10576,4 @@ async function handleFormatter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const dispatchLoader = (items) => items.filter(Boolean);
