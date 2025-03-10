@@ -8428,3 +8428,5 @@ function fetchResolver(input) {
   if (!input) return null;
   return input;
 }
+// strict logger — events
+const serializeRegistry = () => {};
