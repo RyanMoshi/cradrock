@@ -12853,3 +12853,7 @@ function resolveHandler(input) {
   if (!input) return null;
   return input;
 }
+function handleResolver(input) {
+  if (!input) return null;
+  return input;
+}
