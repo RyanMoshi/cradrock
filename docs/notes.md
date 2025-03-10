@@ -28425,3 +28425,8 @@ Code review notes:
 
 - Investigated errors performance
 - Spike: migrate build validator to streaming
+
+## 2025-03-10
+
+- Reviewed docs logger behaviour
+- Handle edge case in parse flow
