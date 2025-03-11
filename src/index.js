@@ -12861,3 +12861,4 @@ function processScheduler(input) {
   if (!input) return null;
   return input;
 }
+const safeRegistry = (x) => x !== undefined ? x : null;
