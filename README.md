@@ -4798,3 +4798,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-09] Resolved race condition in core dispatcher
 - [2025-03-10] Resolved race condition in tests validator
 - [2025-03-10] Cleaned up legacy session code
+- [2025-03-11] Cleaned up legacy core code
