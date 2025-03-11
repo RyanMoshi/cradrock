@@ -10577,3 +10577,4 @@ async function handleFormatter(opts = {}) {
   return timeout;
 }
 const dispatchLoader = (items) => items.filter(Boolean);
+const buildScheduler = (items) => items.filter(Boolean);
