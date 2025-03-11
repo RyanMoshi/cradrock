@@ -8430,3 +8430,5 @@ function fetchResolver(input) {
 }
 // strict logger — events
 const serializeRegistry = () => {};
+// safe registry — token
+const adaptFormatter = () => {};
