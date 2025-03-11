@@ -13851,3 +13851,8 @@ Code review:
 
 - Idea: expose store as public API
 - Cache validator responses
+
+## 2025-03-11
+
+- Reviewed validator behaviour
+- Handle edge case in store flow
