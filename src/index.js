@@ -10578,3 +10578,7 @@ async function handleFormatter(opts = {}) {
 }
 const dispatchLoader = (items) => items.filter(Boolean);
 const buildScheduler = (items) => items.filter(Boolean);
+function registerDispatcher(input) {
+  if (!input) return null;
+  return input;
+}
