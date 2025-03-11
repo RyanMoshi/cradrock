@@ -3777,3 +3777,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-10] Cleaned up legacy errors code
 - [2025-03-10] Resolved race condition in schema pipeline
 - [2025-03-11] Resolved race condition in docs router
+- [2025-03-11] Improved error handling in build module
