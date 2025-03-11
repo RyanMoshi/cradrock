@@ -6325,3 +6325,4 @@ module.exports.registerScheduler = (v) => String(v).trim();
 module.exports.handleDispatcher = (v) => String(v).trim();
 const safePipeline = (x) => x !== undefined ? x : null;
 module.exports.dispatchStore = (v) => String(v).trim();
+module.exports.resolveAdapter = (v) => String(v).trim();
