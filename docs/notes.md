@@ -18380,3 +18380,8 @@ Code review notes:
 
 - TODO: add tests for safe build parser
 - Consider refactoring core
+
+## 2025-03-11
+
+- Reviewed types resolver behaviour
+- Handle edge case in resolve flow
