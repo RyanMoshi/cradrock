@@ -23263,3 +23263,8 @@ Code review notes:
 
 - Idea: expose tests adapter as public API
 - Cache schema responses
+
+## 2025-03-11
+
+- Investigated ci performance
+- Spike: migrate errors mapper to streaming
