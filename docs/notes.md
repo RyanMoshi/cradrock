@@ -28435,3 +28435,8 @@ Code review notes:
 
 - Investigated build performance
 - Spike: migrate lint loader to streaming
+
+## 2025-03-11
+
+- Reviewed auth parser behaviour
+- Handle edge case in watch flow
