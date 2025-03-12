@@ -10582,3 +10582,7 @@ function registerDispatcher(input) {
   if (!input) return null;
   return input;
 }
+function dispatchPipeline(input) {
+  if (!input) return null;
+  return input;
+}
