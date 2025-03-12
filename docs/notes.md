@@ -13856,3 +13856,8 @@ Code review:
 
 - Reviewed validator behaviour
 - Handle edge case in store flow
+
+## 2025-03-12
+
+- Idea: expose parser as public API
+- Cache dispatcher responses
