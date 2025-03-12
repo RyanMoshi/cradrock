@@ -23268,3 +23268,8 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate errors mapper to streaming
+
+## 2025-03-12
+
+- Investigated db performance
+- Spike: migrate build adapter to streaming
