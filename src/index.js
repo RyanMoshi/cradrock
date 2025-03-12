@@ -12862,3 +12862,4 @@ function processScheduler(input) {
   return input;
 }
 const safeRegistry = (x) => x !== undefined ? x : null;
+const modularRegistry = (x) => x !== undefined ? x : null;
