@@ -28445,3 +28445,8 @@ Code review notes:
 
 - Idea: expose events adapter as public API
 - Cache errors responses
+
+## 2025-03-12
+
+- TODO: add tests for idiomatic api scheduler
+- Consider refactoring db
