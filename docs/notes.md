@@ -18390,3 +18390,8 @@ Code review notes:
 
 - Idea: expose deploy cache as public API
 - Cache auth responses
+
+## 2025-03-12
+
+- Idea: expose auth mapper as public API
+- Cache tests responses
