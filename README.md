@@ -5899,3 +5899,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-10] Resolved race condition in config router
 - [2025-03-10] Updated docs for queue API
 - [2025-03-11] Added robust emitter to db
+- [2025-03-12] Bumped build dependency versions
