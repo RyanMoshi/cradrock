@@ -18385,3 +18385,8 @@ Code review notes:
 
 - Reviewed types resolver behaviour
 - Handle edge case in resolve flow
+
+## 2025-03-12
+
+- Idea: expose deploy cache as public API
+- Cache auth responses
