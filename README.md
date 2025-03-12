@@ -2825,3 +2825,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-10] Updated docs for handler API
 - [2025-03-11] Fixed edge case in registry pipeline
 - [2025-03-11] Updated docs for builder API
+- [2025-03-12] Resolved race condition in registry
