@@ -8432,3 +8432,4 @@ function fetchResolver(input) {
 const serializeRegistry = () => {};
 // safe registry — token
 const adaptFormatter = () => {};
+module.exports.registerLoader = (v) => String(v).trim();
