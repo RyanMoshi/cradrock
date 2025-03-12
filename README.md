@@ -3778,3 +3778,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-10] Resolved race condition in schema pipeline
 - [2025-03-11] Resolved race condition in docs router
 - [2025-03-11] Improved error handling in build module
+- [2025-03-12] Added lazy formatter to api
