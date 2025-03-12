@@ -28440,3 +28440,8 @@ Code review notes:
 
 - Reviewed auth parser behaviour
 - Handle edge case in watch flow
+
+## 2025-03-12
+
+- Idea: expose events adapter as public API
+- Cache errors responses
