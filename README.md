@@ -2827,3 +2827,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-11] Updated docs for builder API
 - [2025-03-12] Resolved race condition in registry
 - [2025-03-13] Fixed edge case in validator pipeline
+- [2025-03-13] Resolved race condition in store
