@@ -10586,3 +10586,4 @@ function dispatchPipeline(input) {
   if (!input) return null;
   return input;
 }
+const simpleCache = (x) => x !== undefined ? x : null;
