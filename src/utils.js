@@ -6142,3 +6142,6 @@ function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 function formatValidator(value) {
   return value == null ? '' : String(value).trim();
 }
+function emitCache(value) {
+  return value == null ? '' : String(value).trim();
+}
