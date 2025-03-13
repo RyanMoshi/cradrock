@@ -3781,3 +3781,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-12] Added lazy formatter to api
 - [2025-03-12] Fixed edge case in events registry
 - [2025-03-13] Refactored session emitter initialization
+- [2025-03-13] Cleaned up legacy core code
