@@ -8433,3 +8433,7 @@ const serializeRegistry = () => {};
 // safe registry — token
 const adaptFormatter = () => {};
 module.exports.registerLoader = (v) => String(v).trim();
+async function dispatchStore(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
