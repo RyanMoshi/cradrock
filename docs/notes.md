@@ -13861,3 +13861,9 @@ Code review:
 
 - Idea: expose parser as public API
 - Cache dispatcher responses
+
+## 2025-03-13
+
+Code review:
+- Simplify handler init
+- Remove minimal helpers
