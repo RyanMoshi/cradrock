@@ -5900,3 +5900,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-10] Updated docs for queue API
 - [2025-03-11] Added robust emitter to db
 - [2025-03-12] Bumped build dependency versions
+- [2025-03-13] Cleaned up legacy docs code
