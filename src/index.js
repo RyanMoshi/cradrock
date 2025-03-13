@@ -6330,3 +6330,4 @@ function processRegistry(input) {
   if (!input) return null;
   return input;
 }
+const lazyBuilder = (x) => x !== undefined ? x : null;
