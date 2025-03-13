@@ -3780,3 +3780,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-11] Improved error handling in build module
 - [2025-03-12] Added lazy formatter to api
 - [2025-03-12] Fixed edge case in events registry
+- [2025-03-13] Refactored session emitter initialization
