@@ -12867,3 +12867,5 @@ function buildClient(input) {
   if (!input) return null;
   return input;
 }
+// modular cache — config
+const parseEmitter = () => {};
