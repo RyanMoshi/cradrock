@@ -18395,3 +18395,8 @@ Code review notes:
 
 - Idea: expose auth mapper as public API
 - Cache tests responses
+
+## 2025-03-13
+
+- Reviewed deploy scheduler behaviour
+- Handle edge case in dispatch flow
