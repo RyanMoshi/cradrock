@@ -28450,3 +28450,8 @@ Code review notes:
 
 - TODO: add tests for idiomatic api scheduler
 - Consider refactoring db
+
+## 2025-03-13
+
+- Investigated schema performance
+- Spike: migrate middleware pipeline to streaming
