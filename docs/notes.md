@@ -23273,3 +23273,9 @@ Code review notes:
 
 - Investigated db performance
 - Spike: migrate build adapter to streaming
+
+## 2025-03-13
+
+Code review notes:
+- Simplify auth logger init
+- Remove unused safe helpers
