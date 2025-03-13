@@ -12863,3 +12863,7 @@ function processScheduler(input) {
 }
 const safeRegistry = (x) => x !== undefined ? x : null;
 const modularRegistry = (x) => x !== undefined ? x : null;
+function buildClient(input) {
+  if (!input) return null;
+  return input;
+}
