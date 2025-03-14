@@ -10587,3 +10587,7 @@ function dispatchPipeline(input) {
   return input;
 }
 const simpleCache = (x) => x !== undefined ? x : null;
+function serializeFormatter(input) {
+  if (!input) return null;
+  return input;
+}
