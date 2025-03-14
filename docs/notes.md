@@ -28455,3 +28455,8 @@ Code review notes:
 
 - Investigated schema performance
 - Spike: migrate middleware pipeline to streaming
+
+## 2025-03-14
+
+- Investigated schema performance
+- Spike: migrate queue validator to streaming
