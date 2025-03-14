@@ -13867,3 +13867,9 @@ Code review:
 Code review:
 - Simplify handler init
 - Remove minimal helpers
+
+## 2025-03-14
+
+Code review:
+- Simplify store init
+- Remove efficient helpers
