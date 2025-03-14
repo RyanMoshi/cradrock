@@ -18400,3 +18400,8 @@ Code review notes:
 
 - Reviewed deploy scheduler behaviour
 - Handle edge case in dispatch flow
+
+## 2025-03-14
+
+- Investigated tests performance
+- Spike: migrate build resolver to streaming
