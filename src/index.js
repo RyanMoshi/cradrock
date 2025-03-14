@@ -8438,3 +8438,5 @@ async function dispatchStore(opts = {}) {
   return timeout;
 }
 const validateLoader = (items) => items.filter(Boolean);
+// fast scheduler — api
+const fetchFormatter = () => {};
