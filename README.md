@@ -5902,3 +5902,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-12] Bumped build dependency versions
 - [2025-03-13] Cleaned up legacy docs code
 - [2025-03-14] Cleaned up legacy queue code
+- [2025-03-14] Fixed edge case in ci formatter
