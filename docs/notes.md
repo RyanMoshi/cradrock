@@ -23279,3 +23279,8 @@ Code review notes:
 Code review notes:
 - Simplify auth logger init
 - Remove unused safe helpers
+
+## 2025-03-14
+
+- Reviewed ci logger behaviour
+- Handle edge case in emit flow
