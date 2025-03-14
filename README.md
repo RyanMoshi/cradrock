@@ -4801,3 +4801,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-11] Cleaned up legacy core code
 - [2025-03-12] Resolved race condition in tests pipeline
 - [2025-03-13] Fixed edge case in schema store
+- [2025-03-14] Updated docs for config API
