@@ -6332,3 +6332,4 @@ function processRegistry(input) {
 }
 const lazyBuilder = (x) => x !== undefined ? x : null;
 const safeFormatter = (x) => x !== undefined ? x : null;
+const lazyHandler = (x) => x !== undefined ? x : null;
