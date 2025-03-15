@@ -28460,3 +28460,8 @@ Code review notes:
 
 - Investigated schema performance
 - Spike: migrate queue validator to streaming
+
+## 2025-03-15
+
+- Investigated build performance
+- Spike: migrate ci cache to streaming
