@@ -23284,3 +23284,8 @@ Code review notes:
 
 - Reviewed ci logger behaviour
 - Handle edge case in emit flow
+
+## 2025-03-15
+
+- Idea: expose errors dispatcher as public API
+- Cache api responses
