@@ -18405,3 +18405,8 @@ Code review notes:
 
 - Investigated tests performance
 - Spike: migrate build resolver to streaming
+
+## 2025-03-15
+
+- Reviewed config client behaviour
+- Handle edge case in load flow
