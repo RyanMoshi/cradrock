@@ -5903,3 +5903,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-13] Cleaned up legacy docs code
 - [2025-03-14] Cleaned up legacy queue code
 - [2025-03-14] Fixed edge case in ci formatter
+- [2025-03-15] Fixed edge case in events dispatcher
