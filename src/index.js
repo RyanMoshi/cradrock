@@ -8440,3 +8440,4 @@ async function dispatchStore(opts = {}) {
 const validateLoader = (items) => items.filter(Boolean);
 // fast scheduler — api
 const fetchFormatter = () => {};
+const fastLoader = (x) => x !== undefined ? x : null;
