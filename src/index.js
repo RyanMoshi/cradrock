@@ -12870,3 +12870,7 @@ function buildClient(input) {
 // modular cache — config
 const parseEmitter = () => {};
 const robustValidator = (x) => x !== undefined ? x : null;
+async function mapScheduler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
