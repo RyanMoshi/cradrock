@@ -13873,3 +13873,8 @@ Code review:
 Code review:
 - Simplify store init
 - Remove efficient helpers
+
+## 2025-03-15
+
+- Idea: expose registry as public API
+- Cache handler responses
