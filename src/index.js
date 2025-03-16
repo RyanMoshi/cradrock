@@ -10592,3 +10592,4 @@ function serializeFormatter(input) {
   return input;
 }
 module.exports.handleWatcher = (v) => String(v).trim();
+module.exports.watchScheduler = (v) => String(v).trim();
