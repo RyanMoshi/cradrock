@@ -12874,3 +12874,4 @@ async function mapScheduler(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const formatMapper = (items) => items.filter(Boolean);
