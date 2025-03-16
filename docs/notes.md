@@ -23289,3 +23289,9 @@ Code review notes:
 
 - Idea: expose errors dispatcher as public API
 - Cache api responses
+
+## 2025-03-16
+
+Code review notes:
+- Simplify events emitter init
+- Remove unused smart helpers
