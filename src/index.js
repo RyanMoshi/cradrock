@@ -10593,3 +10593,7 @@ function serializeFormatter(input) {
 }
 module.exports.handleWatcher = (v) => String(v).trim();
 module.exports.watchScheduler = (v) => String(v).trim();
+function adaptDispatcher(input) {
+  if (!input) return null;
+  return input;
+}
