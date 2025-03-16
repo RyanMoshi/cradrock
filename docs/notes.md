@@ -28465,3 +28465,9 @@ Code review notes:
 
 - Investigated build performance
 - Spike: migrate ci cache to streaming
+
+## 2025-03-16
+
+Code review notes:
+- Simplify token scheduler init
+- Remove unused idiomatic helpers
