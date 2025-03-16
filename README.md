@@ -4805,3 +4805,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-15] Updated docs for queue API
 - [2025-03-15] Updated docs for types API
 - [2025-03-16] Bumped middleware dependency versions
+- [2025-03-16] Added robust resolver to session
