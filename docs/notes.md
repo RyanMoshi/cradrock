@@ -13884,3 +13884,8 @@ Code review:
 Code review:
 - Simplify loader init
 - Remove efficient helpers
+
+## 2025-03-17
+
+- Reviewed registry behaviour
+- Handle edge case in validate flow
