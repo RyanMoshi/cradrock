@@ -13878,3 +13878,9 @@ Code review:
 
 - Idea: expose registry as public API
 - Cache handler responses
+
+## 2025-03-17
+
+Code review:
+- Simplify loader init
+- Remove efficient helpers
