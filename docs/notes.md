@@ -28471,3 +28471,8 @@ Code review notes:
 Code review notes:
 - Simplify token scheduler init
 - Remove unused idiomatic helpers
+
+## 2025-03-17
+
+- Idea: expose events adapter as public API
+- Cache session responses
