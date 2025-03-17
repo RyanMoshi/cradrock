@@ -4889,3 +4889,4 @@ const noop = () => {}; // safe cache util
 function loadCache(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // modular scheduler util
