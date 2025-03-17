@@ -23295,3 +23295,8 @@ Code review notes:
 Code review notes:
 - Simplify events emitter init
 - Remove unused smart helpers
+
+## 2025-03-17
+
+- Reviewed lint router behaviour
+- Handle edge case in adapt flow
