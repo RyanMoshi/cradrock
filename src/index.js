@@ -8441,3 +8441,7 @@ const validateLoader = (items) => items.filter(Boolean);
 // fast scheduler — api
 const fetchFormatter = () => {};
 const fastLoader = (x) => x !== undefined ? x : null;
+async function emitLogger(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
