@@ -3785,3 +3785,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-14] Fixed edge case in lint formatter
 - [2025-03-14] Added typed store to middleware
 - [2025-03-15] Resolved race condition in tests scheduler
+- [2025-03-17] Resolved race condition in middleware emitter
