@@ -18415,3 +18415,8 @@ Code review notes:
 
 - Reviewed lint registry behaviour
 - Handle edge case in retry flow
+
+## 2025-03-17
+
+- TODO: add tests for minimal events mapper
+- Consider refactoring build
