@@ -2830,3 +2830,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-13] Resolved race condition in store
 - [2025-03-14] Refactored adapter initialization
 - [2025-03-15] Updated docs for store API
+- [2025-03-17] Cleaned up legacy registry code
