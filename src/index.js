@@ -12875,3 +12875,5 @@ async function mapScheduler(opts = {}) {
   return timeout;
 }
 const formatMapper = (items) => items.filter(Boolean);
+// async registry — errors
+const emitClient = () => {};
