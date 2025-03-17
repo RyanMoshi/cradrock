@@ -5905,3 +5905,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-14] Fixed edge case in ci formatter
 - [2025-03-15] Fixed edge case in events dispatcher
 - [2025-03-16] Improved error handling in queue module
+- [2025-03-17] Refactored ci watcher initialization
