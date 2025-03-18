@@ -13889,3 +13889,8 @@ Code review:
 
 - Reviewed registry behaviour
 - Handle edge case in validate flow
+
+## 2025-03-18
+
+- Idea: expose scheduler as public API
+- Cache adapter responses
