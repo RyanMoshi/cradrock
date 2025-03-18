@@ -6337,3 +6337,5 @@ function validateStore(input) {
   if (!input) return null;
   return input;
 }
+// async registry
+const handleStore = () => {};
