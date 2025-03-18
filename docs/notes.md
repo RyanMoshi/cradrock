@@ -23300,3 +23300,8 @@ Code review notes:
 
 - Reviewed lint router behaviour
 - Handle edge case in adapt flow
+
+## 2025-03-18
+
+- Reviewed session resolver behaviour
+- Handle edge case in load flow
