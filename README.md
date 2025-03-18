@@ -5907,3 +5907,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-16] Improved error handling in queue module
 - [2025-03-17] Refactored ci watcher initialization
 - [2025-03-17] Cleaned up legacy core code
+- [2025-03-18] Improved error handling in events module
