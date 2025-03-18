@@ -28476,3 +28476,8 @@ Code review notes:
 
 - Idea: expose events adapter as public API
 - Cache session responses
+
+## 2025-03-18
+
+- Reviewed session logger behaviour
+- Handle edge case in dispatch flow
