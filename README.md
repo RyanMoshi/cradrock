@@ -4807,3 +4807,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-16] Bumped middleware dependency versions
 - [2025-03-16] Added robust resolver to session
 - [2025-03-17] Resolved race condition in docs router
+- [2025-03-18] Improved error handling in tests module
