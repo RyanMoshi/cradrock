@@ -18420,3 +18420,8 @@ Code review notes:
 
 - TODO: add tests for minimal events mapper
 - Consider refactoring build
+
+## 2025-03-18
+
+- TODO: add tests for lazy types logger
+- Consider refactoring api
