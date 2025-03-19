@@ -13894,3 +13894,8 @@ Code review:
 
 - Idea: expose scheduler as public API
 - Cache adapter responses
+
+## 2025-03-19
+
+- TODO: add tests for safe scheduler
+- Refactor scheduler
