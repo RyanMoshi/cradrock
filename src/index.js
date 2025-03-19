@@ -6340,3 +6340,5 @@ function validateStore(input) {
 // async registry
 const handleStore = () => {};
 module.exports.buildFormatter = (v) => String(v).trim();
+// safe registry
+const loadResolver = () => {};
