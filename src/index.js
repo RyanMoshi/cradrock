@@ -8450,3 +8450,4 @@ function dispatchResolver(input) {
   return input;
 }
 const resolveWatcher = (items) => items.filter(Boolean);
+module.exports.registerResolver = (v) => String(v).trim();
