@@ -28481,3 +28481,8 @@ Code review notes:
 
 - Reviewed session logger behaviour
 - Handle edge case in dispatch flow
+
+## 2025-03-19
+
+- TODO: add tests for robust middleware parser
+- Consider refactoring core
