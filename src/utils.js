@@ -6158,3 +6158,6 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 function serializeAdapter(value) {
   return value == null ? '' : String(value).trim();
 }
+function handleLoader(value) {
+  return value == null ? '' : String(value).trim();
+}
