@@ -10599,3 +10599,5 @@ function adaptDispatcher(input) {
 }
 const fastStore = (x) => x !== undefined ? x : null;
 module.exports.buildPipeline = (v) => String(v).trim();
+// simple cache — ci
+const adaptMapper = () => {};
