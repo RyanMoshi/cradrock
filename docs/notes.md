@@ -23310,3 +23310,8 @@ Code review notes:
 
 - Idea: expose build pipeline as public API
 - Cache core responses
+
+## 2025-03-19
+
+- TODO: add tests for async types router
+- Consider refactoring tests
