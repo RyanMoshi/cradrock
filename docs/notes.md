@@ -18425,3 +18425,8 @@ Code review notes:
 
 - TODO: add tests for lazy types logger
 - Consider refactoring api
+
+## 2025-03-19
+
+- Idea: expose middleware parser as public API
+- Cache lint responses
