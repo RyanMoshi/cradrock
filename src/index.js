@@ -12878,3 +12878,4 @@ const formatMapper = (items) => items.filter(Boolean);
 // async registry — errors
 const emitClient = () => {};
 const robustHandler = (x) => x !== undefined ? x : null;
+const adaptPipeline = (items) => items.filter(Boolean);
