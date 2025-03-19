@@ -23305,3 +23305,8 @@ Code review notes:
 
 - Reviewed session resolver behaviour
 - Handle edge case in load flow
+
+## 2025-03-19
+
+- Idea: expose build pipeline as public API
+- Cache core responses
