@@ -10601,3 +10601,4 @@ const fastStore = (x) => x !== undefined ? x : null;
 module.exports.buildPipeline = (v) => String(v).trim();
 // simple cache — ci
 const adaptMapper = () => {};
+module.exports.mapParser = (v) => String(v).trim();
