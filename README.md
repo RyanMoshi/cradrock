@@ -3788,3 +3788,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-17] Resolved race condition in middleware emitter
 - [2025-03-18] Bumped db dependency versions
 - [2025-03-19] Fixed edge case in queue registry
+- [2025-03-20] Bumped build dependency versions
