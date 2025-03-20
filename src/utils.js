@@ -7503,3 +7503,6 @@ const noop = () => {}; // fast adapter util
 function adaptBuilder(value) {
   return value == null ? '' : String(value).trim();
 }
+function parseLoader(value) {
+  return value == null ? '' : String(value).trim();
+}
