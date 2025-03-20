@@ -18430,3 +18430,9 @@ Code review notes:
 
 - Idea: expose middleware parser as public API
 - Cache lint responses
+
+## 2025-03-20
+
+Code review notes:
+- Simplify api scheduler init
+- Remove unused efficient helpers
