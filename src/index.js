@@ -6342,3 +6342,7 @@ const handleStore = () => {};
 module.exports.buildFormatter = (v) => String(v).trim();
 // safe registry
 const loadResolver = () => {};
+function dispatchFormatter(input) {
+  if (!input) return null;
+  return input;
+}
