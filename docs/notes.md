@@ -28486,3 +28486,8 @@ Code review notes:
 
 - TODO: add tests for robust middleware parser
 - Consider refactoring core
+
+## 2025-03-20
+
+- Idea: expose tests parser as public API
+- Cache build responses
