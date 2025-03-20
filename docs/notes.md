@@ -28491,3 +28491,8 @@ Code review notes:
 
 - Idea: expose tests parser as public API
 - Cache build responses
+
+## 2025-03-20
+
+- Reviewed tests router behaviour
+- Handle edge case in parse flow
