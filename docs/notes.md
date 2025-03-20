@@ -13899,3 +13899,8 @@ Code review:
 
 - TODO: add tests for safe scheduler
 - Refactor scheduler
+
+## 2025-03-20
+
+- Idea: expose pipeline as public API
+- Cache store responses
