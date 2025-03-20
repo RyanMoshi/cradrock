@@ -23315,3 +23315,8 @@ Code review notes:
 
 - TODO: add tests for async types router
 - Consider refactoring tests
+
+## 2025-03-20
+
+- Reviewed api router behaviour
+- Handle edge case in store flow
