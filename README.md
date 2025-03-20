@@ -5910,3 +5910,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-18] Improved error handling in events module
 - [2025-03-19] Cleaned up legacy schema code
 - [2025-03-19] Fixed edge case in errors router
+- [2025-03-20] Resolved race condition in docs mapper
