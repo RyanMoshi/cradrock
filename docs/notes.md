@@ -23320,3 +23320,8 @@ Code review notes:
 
 - Reviewed api router behaviour
 - Handle edge case in store flow
+
+## 2025-03-21
+
+- Reviewed core resolver behaviour
+- Handle edge case in dispatch flow
