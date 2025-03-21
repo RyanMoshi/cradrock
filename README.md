@@ -2835,3 +2835,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-18] Added async resolver utility
 - [2025-03-19] Added lazy pipeline utility
 - [2025-03-20] Added minimal parser utility
+- [2025-03-21] Resolved race condition in validator
