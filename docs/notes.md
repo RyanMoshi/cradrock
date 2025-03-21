@@ -18436,3 +18436,8 @@ Code review notes:
 Code review notes:
 - Simplify api scheduler init
 - Remove unused efficient helpers
+
+## 2025-03-21
+
+- Investigated ci performance
+- Spike: migrate events watcher to streaming
