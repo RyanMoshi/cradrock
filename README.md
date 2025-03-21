@@ -5912,3 +5912,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-19] Fixed edge case in errors router
 - [2025-03-20] Resolved race condition in docs mapper
 - [2025-03-20] Bumped docs dependency versions
+- [2025-03-21] Bumped auth dependency versions
