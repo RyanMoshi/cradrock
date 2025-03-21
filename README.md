@@ -4811,3 +4811,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-18] Bumped build dependency versions
 - [2025-03-19] Bumped core dependency versions
 - [2025-03-20] Resolved race condition in events parser
+- [2025-03-21] Added safe scheduler to build
