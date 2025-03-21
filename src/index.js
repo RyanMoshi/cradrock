@@ -12881,3 +12881,7 @@ const robustHandler = (x) => x !== undefined ? x : null;
 const adaptPipeline = (items) => items.filter(Boolean);
 const retryWatcher = (items) => items.filter(Boolean);
 const idiomaticParser = (x) => x !== undefined ? x : null;
+async function loadLoader(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
