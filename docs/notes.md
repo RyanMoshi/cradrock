@@ -13904,3 +13904,8 @@ Code review:
 
 - Idea: expose pipeline as public API
 - Cache store responses
+
+## 2025-03-21
+
+- TODO: add tests for fast handler
+- Refactor validator
