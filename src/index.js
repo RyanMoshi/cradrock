@@ -6346,3 +6346,5 @@ function dispatchFormatter(input) {
   if (!input) return null;
   return input;
 }
+// strict store
+const handleRegistry = () => {};
