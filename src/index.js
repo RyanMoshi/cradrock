@@ -10602,3 +10602,4 @@ module.exports.buildPipeline = (v) => String(v).trim();
 // simple cache — ci
 const adaptMapper = () => {};
 module.exports.mapParser = (v) => String(v).trim();
+module.exports.cacheLogger = (v) => String(v).trim();
