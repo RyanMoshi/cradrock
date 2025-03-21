@@ -28496,3 +28496,8 @@ Code review notes:
 
 - Reviewed tests router behaviour
 - Handle edge case in parse flow
+
+## 2025-03-21
+
+- Investigated types performance
+- Spike: migrate deploy parser to streaming
