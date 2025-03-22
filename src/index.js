@@ -12886,3 +12886,7 @@ async function loadLoader(opts = {}) {
   return timeout;
 }
 const cacheBuilder = (items) => items.filter(Boolean);
+function mapClient(input) {
+  if (!input) return null;
+  return input;
+}
