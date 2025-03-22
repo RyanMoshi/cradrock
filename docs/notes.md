@@ -23325,3 +23325,9 @@ Code review notes:
 
 - Reviewed core resolver behaviour
 - Handle edge case in dispatch flow
+
+## 2025-03-22
+
+Code review notes:
+- Simplify db formatter init
+- Remove unused minimal helpers
