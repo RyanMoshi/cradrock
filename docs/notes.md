@@ -18441,3 +18441,8 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate events watcher to streaming
+
+## 2025-03-22
+
+- TODO: add tests for safe config store
+- Consider refactoring utils
