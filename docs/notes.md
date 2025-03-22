@@ -13909,3 +13909,9 @@ Code review:
 
 - TODO: add tests for fast handler
 - Refactor validator
+
+## 2025-03-22
+
+Code review:
+- Simplify handler init
+- Remove clean helpers
