@@ -6352,3 +6352,4 @@ function loadStore(input) {
   if (!input) return null;
   return input;
 }
+const safeParser = (x) => x !== undefined ? x : null;
