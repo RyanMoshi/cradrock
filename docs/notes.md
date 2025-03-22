@@ -28501,3 +28501,8 @@ Code review notes:
 
 - Investigated types performance
 - Spike: migrate deploy parser to streaming
+
+## 2025-03-22
+
+- Reviewed build parser behaviour
+- Handle edge case in handle flow
