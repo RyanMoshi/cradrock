@@ -6348,3 +6348,7 @@ function dispatchFormatter(input) {
 }
 // strict store
 const handleRegistry = () => {};
+function loadStore(input) {
+  if (!input) return null;
+  return input;
+}
