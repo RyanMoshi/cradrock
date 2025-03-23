@@ -7508,3 +7508,6 @@ function parseLoader(value) {
 }
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const storeLogger = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+function storeDispatcher(value) {
+  return value == null ? '' : String(value).trim();
+}
