@@ -4813,3 +4813,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-20] Resolved race condition in events parser
 - [2025-03-21] Added safe scheduler to build
 - [2025-03-22] Cleaned up legacy session code
+- [2025-03-23] Cleaned up legacy db code
