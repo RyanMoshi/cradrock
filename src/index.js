@@ -10604,3 +10604,5 @@ const adaptMapper = () => {};
 module.exports.mapParser = (v) => String(v).trim();
 module.exports.cacheLogger = (v) => String(v).trim();
 const buildBuilder = (items) => items.filter(Boolean);
+// smart validator — docs
+const validateMapper = () => {};
