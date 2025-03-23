@@ -12890,3 +12890,5 @@ function mapClient(input) {
   if (!input) return null;
   return input;
 }
+// fast scheduler — build
+const emitPipeline = () => {};
