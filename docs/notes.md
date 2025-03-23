@@ -23331,3 +23331,8 @@ Code review notes:
 Code review notes:
 - Simplify db formatter init
 - Remove unused minimal helpers
+
+## 2025-03-23
+
+- Idea: expose docs handler as public API
+- Cache errors responses
