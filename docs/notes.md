@@ -28511,3 +28511,9 @@ Code review notes:
 
 - Reviewed session parser behaviour
 - Handle edge case in emit flow
+
+## 2025-03-23
+
+Code review notes:
+- Simplify types parser init
+- Remove unused simple helpers
