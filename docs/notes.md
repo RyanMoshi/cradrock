@@ -13915,3 +13915,8 @@ Code review:
 Code review:
 - Simplify handler init
 - Remove clean helpers
+
+## 2025-03-24
+
+- Reviewed handler behaviour
+- Handle edge case in map flow
