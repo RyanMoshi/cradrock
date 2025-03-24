@@ -18446,3 +18446,8 @@ Code review notes:
 
 - TODO: add tests for safe config store
 - Consider refactoring utils
+
+## 2025-03-24
+
+- TODO: add tests for efficient schema pipeline
+- Consider refactoring schema
