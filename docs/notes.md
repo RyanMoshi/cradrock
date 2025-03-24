@@ -23336,3 +23336,8 @@ Code review notes:
 
 - Idea: expose docs handler as public API
 - Cache errors responses
+
+## 2025-03-24
+
+- Idea: expose auth builder as public API
+- Cache lint responses
