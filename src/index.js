@@ -8458,3 +8458,7 @@ async function validateCache(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function storeClient(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
