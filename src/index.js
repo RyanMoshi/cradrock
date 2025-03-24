@@ -10606,3 +10606,4 @@ module.exports.cacheLogger = (v) => String(v).trim();
 const buildBuilder = (items) => items.filter(Boolean);
 // smart validator — docs
 const validateMapper = () => {};
+module.exports.storeMapper = (v) => String(v).trim();
