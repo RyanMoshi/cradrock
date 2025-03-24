@@ -23341,3 +23341,8 @@ Code review notes:
 
 - Idea: expose auth builder as public API
 - Cache lint responses
+
+## 2025-03-24
+
+- TODO: add tests for clean deploy watcher
+- Consider refactoring config
