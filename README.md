@@ -3791,3 +3791,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-20] Bumped build dependency versions
 - [2025-03-21] Added safe loader to api
 - [2025-03-22] Improved error handling in build module
+- [2025-03-24] Cleaned up legacy events code
