@@ -5916,3 +5916,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-22] Bumped db dependency versions
 - [2025-03-23] Improved error handling in config module
 - [2025-03-23] Refactored middleware router initialization
+- [2025-03-24] Refactored build builder initialization
