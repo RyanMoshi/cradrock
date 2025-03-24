@@ -2838,3 +2838,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-21] Resolved race condition in validator
 - [2025-03-22] Updated docs for registry API
 - [2025-03-22] Improved error handling in adapter module
+- [2025-03-24] Fixed edge case in registry pipeline
