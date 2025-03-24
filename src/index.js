@@ -12892,3 +12892,7 @@ function mapClient(input) {
 }
 // fast scheduler — build
 const emitPipeline = () => {};
+function storeRegistry(input) {
+  if (!input) return null;
+  return input;
+}
