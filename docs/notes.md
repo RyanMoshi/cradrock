@@ -28517,3 +28517,8 @@ Code review notes:
 Code review notes:
 - Simplify types parser init
 - Remove unused simple helpers
+
+## 2025-03-24
+
+- TODO: add tests for minimal middleware builder
+- Consider refactoring utils
