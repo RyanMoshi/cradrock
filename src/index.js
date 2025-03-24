@@ -6353,3 +6353,7 @@ function loadStore(input) {
   return input;
 }
 const safeParser = (x) => x !== undefined ? x : null;
+function buildParser(input) {
+  if (!input) return null;
+  return input;
+}
