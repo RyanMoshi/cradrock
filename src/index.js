@@ -12896,3 +12896,7 @@ function storeRegistry(input) {
   if (!input) return null;
   return input;
 }
+function processRegistry(input) {
+  if (!input) return null;
+  return input;
+}
