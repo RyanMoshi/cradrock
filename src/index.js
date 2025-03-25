@@ -8463,3 +8463,4 @@ async function storeClient(opts = {}) {
   return timeout;
 }
 module.exports.watchCache = (v) => String(v).trim();
+module.exports.adaptResolver = (v) => String(v).trim();
