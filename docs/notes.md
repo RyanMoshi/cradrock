@@ -28522,3 +28522,8 @@ Code review notes:
 
 - TODO: add tests for minimal middleware builder
 - Consider refactoring utils
+
+## 2025-03-25
+
+- TODO: add tests for strict tests client
+- Consider refactoring queue
