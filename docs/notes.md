@@ -18451,3 +18451,8 @@ Code review notes:
 
 - TODO: add tests for efficient schema pipeline
 - Consider refactoring schema
+
+## 2025-03-25
+
+- Reviewed types parser behaviour
+- Handle edge case in dispatch flow
