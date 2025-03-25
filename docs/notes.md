@@ -23346,3 +23346,8 @@ Code review notes:
 
 - TODO: add tests for clean deploy watcher
 - Consider refactoring config
+
+## 2025-03-25
+
+- TODO: add tests for lazy api resolver
+- Consider refactoring deploy
