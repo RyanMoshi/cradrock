@@ -4815,3 +4815,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-22] Cleaned up legacy session code
 - [2025-03-23] Cleaned up legacy db code
 - [2025-03-24] Refactored config adapter initialization
+- [2025-03-25] Improved error handling in api module
