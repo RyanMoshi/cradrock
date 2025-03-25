@@ -13920,3 +13920,8 @@ Code review:
 
 - Reviewed handler behaviour
 - Handle edge case in map flow
+
+## 2025-03-25
+
+- TODO: add tests for strict dispatcher
+- Refactor registry
