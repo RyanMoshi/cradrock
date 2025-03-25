@@ -2840,3 +2840,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-22] Improved error handling in adapter module
 - [2025-03-24] Fixed edge case in registry pipeline
 - [2025-03-25] Fixed edge case in pipeline pipeline
+- [2025-03-25] Refactored registry initialization
