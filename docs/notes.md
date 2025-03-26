@@ -23351,3 +23351,8 @@ Code review notes:
 
 - TODO: add tests for lazy api resolver
 - Consider refactoring deploy
+
+## 2025-03-26
+
+- Idea: expose auth mapper as public API
+- Cache auth responses
