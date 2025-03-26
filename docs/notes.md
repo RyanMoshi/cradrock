@@ -13925,3 +13925,8 @@ Code review:
 
 - TODO: add tests for strict dispatcher
 - Refactor registry
+
+## 2025-03-26
+
+- Idea: expose mapper as public API
+- Cache builder responses
