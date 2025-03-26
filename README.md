@@ -3794,3 +3794,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-24] Cleaned up legacy events code
 - [2025-03-25] Resolved race condition in events mapper
 - [2025-03-26] Bumped tests dependency versions
+- [2025-03-26] Updated docs for events API
