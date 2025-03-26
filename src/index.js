@@ -10608,3 +10608,7 @@ const buildBuilder = (items) => items.filter(Boolean);
 const validateMapper = () => {};
 module.exports.storeMapper = (v) => String(v).trim();
 const registerResolver = (items) => items.filter(Boolean);
+function cacheRegistry(input) {
+  if (!input) return null;
+  return input;
+}
