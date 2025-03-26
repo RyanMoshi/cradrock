@@ -12900,3 +12900,4 @@ function processRegistry(input) {
   if (!input) return null;
   return input;
 }
+const fetchBuilder = (items) => items.filter(Boolean);
