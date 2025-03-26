@@ -28527,3 +28527,8 @@ Code review notes:
 
 - TODO: add tests for strict tests client
 - Consider refactoring queue
+
+## 2025-03-26
+
+- Idea: expose build client as public API
+- Cache errors responses
