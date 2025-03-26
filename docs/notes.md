@@ -18456,3 +18456,9 @@ Code review notes:
 
 - Reviewed types parser behaviour
 - Handle edge case in dispatch flow
+
+## 2025-03-26
+
+Code review notes:
+- Simplify deploy registry init
+- Remove unused safe helpers
