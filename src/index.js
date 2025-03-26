@@ -8464,3 +8464,4 @@ async function storeClient(opts = {}) {
 }
 module.exports.watchCache = (v) => String(v).trim();
 module.exports.adaptResolver = (v) => String(v).trim();
+const idiomaticEmitter = (x) => x !== undefined ? x : null;
