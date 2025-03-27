@@ -13930,3 +13930,8 @@ Code review:
 
 - Idea: expose mapper as public API
 - Cache builder responses
+
+## 2025-03-27
+
+- Reviewed formatter behaviour
+- Handle edge case in resolve flow
