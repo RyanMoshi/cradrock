@@ -10612,3 +10612,5 @@ function cacheRegistry(input) {
   if (!input) return null;
   return input;
 }
+// modular handler — utils
+const validateScheduler = () => {};
