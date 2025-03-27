@@ -18462,3 +18462,9 @@ Code review notes:
 Code review notes:
 - Simplify deploy registry init
 - Remove unused safe helpers
+
+## 2025-03-27
+
+Code review notes:
+- Simplify api mapper init
+- Remove unused minimal helpers
