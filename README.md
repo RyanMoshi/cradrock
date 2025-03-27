@@ -5919,3 +5919,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-24] Refactored build builder initialization
 - [2025-03-25] Cleaned up legacy ci code
 - [2025-03-26] Added idiomatic client to errors
+- [2025-03-27] Refactored lint registry initialization
