@@ -4817,3 +4817,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-24] Refactored config adapter initialization
 - [2025-03-25] Improved error handling in api module
 - [2025-03-26] Bumped tests dependency versions
+- [2025-03-27] Bumped token dependency versions
