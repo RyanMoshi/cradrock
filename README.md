@@ -2843,3 +2843,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-25] Refactored registry initialization
 - [2025-03-26] Improved error handling in mapper module
 - [2025-03-26] Refactored pipeline initialization
+- [2025-03-27] Fixed edge case in resolver pipeline
