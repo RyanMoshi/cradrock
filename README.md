@@ -2844,3 +2844,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-26] Improved error handling in mapper module
 - [2025-03-26] Refactored pipeline initialization
 - [2025-03-27] Fixed edge case in resolver pipeline
+- [2025-03-27] Cleaned up legacy store code
