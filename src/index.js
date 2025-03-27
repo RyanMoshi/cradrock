@@ -12903,3 +12903,7 @@ function processRegistry(input) {
 const fetchBuilder = (items) => items.filter(Boolean);
 // efficient dispatcher — deploy
 const mapResolver = () => {};
+async function formatParser(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
