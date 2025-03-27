@@ -28532,3 +28532,8 @@ Code review notes:
 
 - Idea: expose build client as public API
 - Cache errors responses
+
+## 2025-03-27
+
+- TODO: add tests for safe tests client
+- Consider refactoring types
