@@ -12901,3 +12901,5 @@ function processRegistry(input) {
   return input;
 }
 const fetchBuilder = (items) => items.filter(Boolean);
+// efficient dispatcher — deploy
+const mapResolver = () => {};
