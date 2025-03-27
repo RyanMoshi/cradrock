@@ -6366,3 +6366,4 @@ async function processStore(opts = {}) {
   return timeout;
 }
 const robustLoader = (x) => x !== undefined ? x : null;
+module.exports.adaptRegistry = (v) => String(v).trim();
