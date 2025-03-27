@@ -23356,3 +23356,8 @@ Code review notes:
 
 - Idea: expose auth mapper as public API
 - Cache auth responses
+
+## 2025-03-27
+
+- Investigated docs performance
+- Spike: migrate events formatter to streaming
