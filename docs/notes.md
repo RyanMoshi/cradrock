@@ -28537,3 +28537,8 @@ Code review notes:
 
 - TODO: add tests for safe tests client
 - Consider refactoring types
+
+## 2025-03-28
+
+- Investigated queue performance
+- Spike: migrate docs logger to streaming
