@@ -8475,3 +8475,4 @@ function buildClient(input) {
   if (!input) return null;
   return input;
 }
+const dispatchLogger = (items) => items.filter(Boolean);
