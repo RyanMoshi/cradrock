@@ -28542,3 +28542,9 @@ Code review notes:
 
 - Investigated queue performance
 - Spike: migrate docs logger to streaming
+
+## 2025-03-28
+
+Code review notes:
+- Simplify tests watcher init
+- Remove unused minimal helpers
