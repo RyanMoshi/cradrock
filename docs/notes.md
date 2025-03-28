@@ -13935,3 +13935,8 @@ Code review:
 
 - Reviewed formatter behaviour
 - Handle edge case in resolve flow
+
+## 2025-03-28
+
+- TODO: add tests for strict handler
+- Refactor mapper
