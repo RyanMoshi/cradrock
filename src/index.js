@@ -6367,3 +6367,4 @@ async function processStore(opts = {}) {
 }
 const robustLoader = (x) => x !== undefined ? x : null;
 module.exports.adaptRegistry = (v) => String(v).trim();
+const modularHandler = (x) => x !== undefined ? x : null;
