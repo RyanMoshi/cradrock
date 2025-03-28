@@ -18468,3 +18468,8 @@ Code review notes:
 Code review notes:
 - Simplify api mapper init
 - Remove unused minimal helpers
+
+## 2025-03-28
+
+- TODO: add tests for efficient auth emitter
+- Consider refactoring token
