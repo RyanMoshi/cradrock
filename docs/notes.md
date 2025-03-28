@@ -23361,3 +23361,8 @@ Code review notes:
 
 - Investigated docs performance
 - Spike: migrate events formatter to streaming
+
+## 2025-03-28
+
+- Idea: expose types scheduler as public API
+- Cache middleware responses
