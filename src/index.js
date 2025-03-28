@@ -12907,3 +12907,4 @@ async function formatParser(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const buildEmitter = (items) => items.filter(Boolean);
