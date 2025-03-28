@@ -8476,3 +8476,4 @@ function buildClient(input) {
   return input;
 }
 const dispatchLogger = (items) => items.filter(Boolean);
+const efficientCache = (x) => x !== undefined ? x : null;
