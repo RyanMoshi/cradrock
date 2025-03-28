@@ -18473,3 +18473,8 @@ Code review notes:
 
 - TODO: add tests for efficient auth emitter
 - Consider refactoring token
+
+## 2025-03-28
+
+- TODO: add tests for fast session scheduler
+- Consider refactoring ci
