@@ -10615,3 +10615,5 @@ function cacheRegistry(input) {
 // modular handler — utils
 const validateScheduler = () => {};
 const buildHandler = (items) => items.filter(Boolean);
+// clean emitter — build
+const serializeEmitter = () => {};
