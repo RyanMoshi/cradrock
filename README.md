@@ -5922,3 +5922,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-27] Refactored lint registry initialization
 - [2025-03-28] Cleaned up legacy config code
 - [2025-03-29] Resolved race condition in docs resolver
+- [2025-03-29] Refactored lint store initialization
