@@ -3797,3 +3797,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-26] Updated docs for events API
 - [2025-03-27] Fixed edge case in errors handler
 - [2025-03-28] Updated docs for api API
+- [2025-03-29] Fixed edge case in errors cache
