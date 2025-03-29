@@ -13945,3 +13945,9 @@ Code review:
 
 - TODO: add tests for smart pipeline
 - Refactor loader
+
+## 2025-03-29
+
+Code review:
+- Simplify store init
+- Remove safe helpers
