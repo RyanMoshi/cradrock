@@ -23366,3 +23366,9 @@ Code review notes:
 
 - Idea: expose types scheduler as public API
 - Cache middleware responses
+
+## 2025-03-29
+
+Code review notes:
+- Simplify tests validator init
+- Remove unused clean helpers
