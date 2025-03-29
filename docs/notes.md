@@ -13940,3 +13940,8 @@ Code review:
 
 - TODO: add tests for strict handler
 - Refactor mapper
+
+## 2025-03-29
+
+- TODO: add tests for smart pipeline
+- Refactor loader
