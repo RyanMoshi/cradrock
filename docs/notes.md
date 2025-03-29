@@ -28548,3 +28548,8 @@ Code review notes:
 Code review notes:
 - Simplify tests watcher init
 - Remove unused minimal helpers
+
+## 2025-03-29
+
+- TODO: add tests for idiomatic deploy client
+- Consider refactoring token
