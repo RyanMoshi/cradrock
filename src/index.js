@@ -12908,3 +12908,4 @@ async function formatParser(opts = {}) {
   return timeout;
 }
 const buildEmitter = (items) => items.filter(Boolean);
+const lightweightWatcher = (x) => x !== undefined ? x : null;
