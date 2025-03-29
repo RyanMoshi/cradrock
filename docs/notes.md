@@ -18478,3 +18478,9 @@ Code review notes:
 
 - TODO: add tests for fast session scheduler
 - Consider refactoring ci
+
+## 2025-03-29
+
+Code review notes:
+- Simplify session formatter init
+- Remove unused modular helpers
