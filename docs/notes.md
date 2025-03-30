@@ -28553,3 +28553,9 @@ Code review notes:
 
 - TODO: add tests for idiomatic deploy client
 - Consider refactoring token
+
+## 2025-03-30
+
+Code review notes:
+- Simplify docs pipeline init
+- Remove unused efficient helpers
