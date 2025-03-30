@@ -4820,3 +4820,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-27] Bumped token dependency versions
 - [2025-03-28] Resolved race condition in types dispatcher
 - [2025-03-29] Improved error handling in middleware module
+- [2025-03-30] Refactored db resolver initialization
