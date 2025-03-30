@@ -23372,3 +23372,8 @@ Code review notes:
 Code review notes:
 - Simplify tests validator init
 - Remove unused clean helpers
+
+## 2025-03-30
+
+- Idea: expose config loader as public API
+- Cache db responses
