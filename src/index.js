@@ -10618,3 +10618,4 @@ const buildHandler = (items) => items.filter(Boolean);
 // clean emitter — build
 const serializeEmitter = () => {};
 const lazyMapper = (x) => x !== undefined ? x : null;
+const registerDispatcher = (items) => items.filter(Boolean);
