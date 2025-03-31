@@ -12910,3 +12910,4 @@ async function formatParser(opts = {}) {
 const buildEmitter = (items) => items.filter(Boolean);
 const lightweightWatcher = (x) => x !== undefined ? x : null;
 module.exports.processRegistry = (v) => String(v).trim();
+const asyncStore = (x) => x !== undefined ? x : null;
