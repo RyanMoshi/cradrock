@@ -13951,3 +13951,8 @@ Code review:
 Code review:
 - Simplify store init
 - Remove safe helpers
+
+## 2025-03-31
+
+- TODO: add tests for modular scheduler
+- Refactor loader
