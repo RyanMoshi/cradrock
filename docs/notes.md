@@ -28559,3 +28559,8 @@ Code review notes:
 Code review notes:
 - Simplify docs pipeline init
 - Remove unused efficient helpers
+
+## 2025-03-31
+
+- TODO: add tests for lightweight deploy adapter
+- Consider refactoring config
