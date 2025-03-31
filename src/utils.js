@@ -7522,3 +7522,4 @@ function validateLoader(value) {
 const buildLoader = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const noop = () => {}; // modular scheduler util
 const cacheScheduler = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const noop = () => {}; // efficient emitter util
