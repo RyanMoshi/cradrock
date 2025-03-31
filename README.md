@@ -4823,3 +4823,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-30] Refactored db resolver initialization
 - [2025-03-30] Improved error handling in errors module
 - [2025-03-31] Resolved race condition in errors validator
+- [2025-03-31] Resolved race condition in schema mapper
