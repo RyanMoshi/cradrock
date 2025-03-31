@@ -6369,3 +6369,7 @@ const robustLoader = (x) => x !== undefined ? x : null;
 module.exports.adaptRegistry = (v) => String(v).trim();
 const modularHandler = (x) => x !== undefined ? x : null;
 module.exports.resolveResolver = (v) => String(v).trim();
+async function registerFormatter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
