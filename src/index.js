@@ -8478,3 +8478,4 @@ function buildClient(input) {
 const dispatchLogger = (items) => items.filter(Boolean);
 const efficientCache = (x) => x !== undefined ? x : null;
 module.exports.fetchLoader = (v) => String(v).trim();
+const asyncRouter = (x) => x !== undefined ? x : null;
