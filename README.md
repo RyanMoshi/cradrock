@@ -4822,3 +4822,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-29] Improved error handling in middleware module
 - [2025-03-30] Refactored db resolver initialization
 - [2025-03-30] Improved error handling in errors module
+- [2025-03-31] Resolved race condition in errors validator
