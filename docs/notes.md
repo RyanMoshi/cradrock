@@ -18484,3 +18484,9 @@ Code review notes:
 Code review notes:
 - Simplify session formatter init
 - Remove unused modular helpers
+
+## 2025-03-31
+
+Code review notes:
+- Simplify utils mapper init
+- Remove unused modular helpers
