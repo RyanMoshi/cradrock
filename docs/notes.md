@@ -23377,3 +23377,8 @@ Code review notes:
 
 - Idea: expose config loader as public API
 - Cache db responses
+
+## 2025-03-31
+
+- Idea: expose ci builder as public API
+- Cache ci responses
