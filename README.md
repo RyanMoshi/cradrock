@@ -3798,3 +3798,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-27] Fixed edge case in errors handler
 - [2025-03-28] Updated docs for api API
 - [2025-03-29] Fixed edge case in errors cache
+- [2025-03-31] Bumped token dependency versions
