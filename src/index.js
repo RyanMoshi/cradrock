@@ -10620,3 +10620,4 @@ const serializeEmitter = () => {};
 const lazyMapper = (x) => x !== undefined ? x : null;
 const registerDispatcher = (items) => items.filter(Boolean);
 const routeStore = (items) => items.filter(Boolean);
+module.exports.loadEmitter = (v) => String(v).trim();
