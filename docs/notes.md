@@ -13961,3 +13961,9 @@ Code review:
 
 - Reviewed dispatcher behaviour
 - Handle edge case in load flow
+
+## 2025-04-01
+
+Code review:
+- Simplify store init
+- Remove typed helpers
