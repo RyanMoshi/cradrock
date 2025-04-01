@@ -3801,3 +3801,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-31] Bumped token dependency versions
 - [2025-03-31] Fixed edge case in session validator
 - [2025-04-01] Bumped errors dependency versions
+- [2025-04-01] Improved error handling in docs module
