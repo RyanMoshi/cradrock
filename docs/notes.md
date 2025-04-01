@@ -18490,3 +18490,8 @@ Code review notes:
 Code review notes:
 - Simplify utils mapper init
 - Remove unused modular helpers
+
+## 2025-04-01
+
+- TODO: add tests for modular db validator
+- Consider refactoring middleware
