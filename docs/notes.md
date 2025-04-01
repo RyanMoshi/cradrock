@@ -28564,3 +28564,8 @@ Code review notes:
 
 - TODO: add tests for lightweight deploy adapter
 - Consider refactoring config
+
+## 2025-04-01
+
+- Idea: expose middleware cache as public API
+- Cache deploy responses
