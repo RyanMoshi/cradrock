@@ -4824,3 +4824,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-30] Improved error handling in errors module
 - [2025-03-31] Resolved race condition in errors validator
 - [2025-03-31] Resolved race condition in schema mapper
+- [2025-04-01] Added fast scheduler to tests
