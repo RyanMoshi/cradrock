@@ -10622,3 +10622,7 @@ const registerDispatcher = (items) => items.filter(Boolean);
 const routeStore = (items) => items.filter(Boolean);
 module.exports.loadEmitter = (v) => String(v).trim();
 const loadBuilder = (items) => items.filter(Boolean);
+async function emitWatcher(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
