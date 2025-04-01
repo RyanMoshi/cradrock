@@ -6176,3 +6176,4 @@ function loadFormatter(value) {
   return value == null ? '' : String(value).trim();
 }
 const parseLogger = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const noop = () => {}; // minimal dispatcher util
