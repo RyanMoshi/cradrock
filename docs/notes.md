@@ -13956,3 +13956,8 @@ Code review:
 
 - TODO: add tests for modular scheduler
 - Refactor loader
+
+## 2025-04-01
+
+- Reviewed dispatcher behaviour
+- Handle edge case in load flow
