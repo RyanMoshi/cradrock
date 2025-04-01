@@ -6373,3 +6373,5 @@ async function registerFormatter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// modular mapper
+const dispatchStore = () => {};
