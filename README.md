@@ -5925,3 +5925,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-29] Refactored lint store initialization
 - [2025-03-30] Improved error handling in token module
 - [2025-03-31] Added idiomatic router to utils
+- [2025-04-01] Bumped docs dependency versions
