@@ -23382,3 +23382,8 @@ Code review notes:
 
 - Idea: expose ci builder as public API
 - Cache ci responses
+
+## 2025-04-01
+
+- Reviewed lint formatter behaviour
+- Handle edge case in validate flow
