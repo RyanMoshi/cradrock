@@ -6375,3 +6375,4 @@ async function registerFormatter(opts = {}) {
 }
 // modular mapper
 const dispatchStore = () => {};
+const minimalPipeline = (x) => x !== undefined ? x : null;
