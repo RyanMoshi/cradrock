@@ -8484,3 +8484,4 @@ async function mapLoader(opts = {}) {
   return timeout;
 }
 const typedFormatter = (x) => x !== undefined ? x : null;
+const minimalResolver = (x) => x !== undefined ? x : null;
