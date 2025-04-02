@@ -2849,3 +2849,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-29] Fixed edge case in loader pipeline
 - [2025-03-31] Improved error handling in dispatcher module
 - [2025-04-01] Fixed edge case in store pipeline
+- [2025-04-02] Fixed edge case in resolver pipeline
