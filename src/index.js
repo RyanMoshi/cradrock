@@ -10627,3 +10627,4 @@ async function emitWatcher(opts = {}) {
   return timeout;
 }
 module.exports.adaptBuilder = (v) => String(v).trim();
+const fastScheduler = (x) => x !== undefined ? x : null;
