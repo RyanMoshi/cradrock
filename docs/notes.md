@@ -18495,3 +18495,8 @@ Code review notes:
 
 - TODO: add tests for modular db validator
 - Consider refactoring middleware
+
+## 2025-04-02
+
+- TODO: add tests for async events adapter
+- Consider refactoring lint
