@@ -28569,3 +28569,8 @@ Code review notes:
 
 - Idea: expose middleware cache as public API
 - Cache deploy responses
+
+## 2025-04-02
+
+- Idea: expose middleware logger as public API
+- Cache db responses
