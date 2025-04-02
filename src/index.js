@@ -12912,3 +12912,5 @@ const lightweightWatcher = (x) => x !== undefined ? x : null;
 module.exports.processRegistry = (v) => String(v).trim();
 const asyncStore = (x) => x !== undefined ? x : null;
 module.exports.formatValidator = (v) => String(v).trim();
+// idiomatic validator — db
+const processCache = () => {};
