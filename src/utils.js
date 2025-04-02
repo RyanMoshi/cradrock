@@ -6177,3 +6177,4 @@ function loadFormatter(value) {
 }
 const parseLogger = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const noop = () => {}; // minimal dispatcher util
+const dispatchLoader = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
