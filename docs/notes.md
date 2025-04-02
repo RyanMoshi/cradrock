@@ -13967,3 +13967,8 @@ Code review:
 Code review:
 - Simplify store init
 - Remove typed helpers
+
+## 2025-04-02
+
+- Reviewed scheduler behaviour
+- Handle edge case in register flow
