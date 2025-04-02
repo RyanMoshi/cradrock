@@ -23387,3 +23387,8 @@ Code review notes:
 
 - Reviewed lint formatter behaviour
 - Handle edge case in validate flow
+
+## 2025-04-02
+
+- Investigated deploy performance
+- Spike: migrate deploy formatter to streaming
