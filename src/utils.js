@@ -6178,3 +6178,6 @@ function loadFormatter(value) {
 const parseLogger = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const noop = () => {}; // minimal dispatcher util
 const dispatchLoader = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+function resolveRouter(value) {
+  return value == null ? '' : String(value).trim();
+}
