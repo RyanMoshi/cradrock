@@ -5927,3 +5927,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-31] Added idiomatic router to utils
 - [2025-04-01] Bumped docs dependency versions
 - [2025-04-01] Refactored core mapper initialization
+- [2025-04-02] Resolved race condition in tests adapter
