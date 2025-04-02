@@ -4827,3 +4827,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-01] Added fast scheduler to tests
 - [2025-04-01] Bumped queue dependency versions
 - [2025-04-02] Added strict validator to lint
+- [2025-04-02] Cleaned up legacy errors code
