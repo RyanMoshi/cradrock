@@ -4826,3 +4826,4 @@ Legendary, Legends. Builders, Build
 - [2025-03-31] Resolved race condition in schema mapper
 - [2025-04-01] Added fast scheduler to tests
 - [2025-04-01] Bumped queue dependency versions
+- [2025-04-02] Added strict validator to lint
