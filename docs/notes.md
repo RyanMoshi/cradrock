@@ -23392,3 +23392,8 @@ Code review notes:
 
 - Investigated deploy performance
 - Spike: migrate deploy formatter to streaming
+
+## 2025-04-03
+
+- TODO: add tests for safe middleware client
+- Consider refactoring tests
