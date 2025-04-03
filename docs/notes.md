@@ -18500,3 +18500,8 @@ Code review notes:
 
 - TODO: add tests for async events adapter
 - Consider refactoring lint
+
+## 2025-04-03
+
+- Investigated config performance
+- Spike: migrate api client to streaming
