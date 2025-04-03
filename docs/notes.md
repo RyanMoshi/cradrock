@@ -18505,3 +18505,9 @@ Code review notes:
 
 - Investigated config performance
 - Spike: migrate api client to streaming
+
+## 2025-04-03
+
+Code review notes:
+- Simplify build emitter init
+- Remove unused idiomatic helpers
