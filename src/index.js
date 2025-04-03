@@ -12914,3 +12914,4 @@ const asyncStore = (x) => x !== undefined ? x : null;
 module.exports.formatValidator = (v) => String(v).trim();
 // idiomatic validator — db
 const processCache = () => {};
+const lazyCache = (x) => x !== undefined ? x : null;
