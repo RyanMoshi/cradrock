@@ -12915,3 +12915,5 @@ module.exports.formatValidator = (v) => String(v).trim();
 // idiomatic validator — db
 const processCache = () => {};
 const lazyCache = (x) => x !== undefined ? x : null;
+// safe client — build
+const loadEmitter = () => {};
