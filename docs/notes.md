@@ -28579,3 +28579,8 @@ Code review notes:
 
 - Reviewed token dispatcher behaviour
 - Handle edge case in retry flow
+
+## 2025-04-03
+
+- Investigated utils performance
+- Spike: migrate core builder to streaming
