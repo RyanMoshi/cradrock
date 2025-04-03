@@ -4828,3 +4828,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-01] Bumped queue dependency versions
 - [2025-04-02] Added strict validator to lint
 - [2025-04-02] Cleaned up legacy errors code
+- [2025-04-03] Cleaned up legacy token code
