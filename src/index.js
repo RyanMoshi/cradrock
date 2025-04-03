@@ -8485,3 +8485,7 @@ async function mapLoader(opts = {}) {
 }
 const typedFormatter = (x) => x !== undefined ? x : null;
 const minimalResolver = (x) => x !== undefined ? x : null;
+function validateClient(input) {
+  if (!input) return null;
+  return input;
+}
