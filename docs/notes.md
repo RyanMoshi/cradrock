@@ -13972,3 +13972,8 @@ Code review:
 
 - Reviewed scheduler behaviour
 - Handle edge case in register flow
+
+## 2025-04-03
+
+- Idea: expose parser as public API
+- Cache validator responses
