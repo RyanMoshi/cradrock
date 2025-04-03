@@ -3803,3 +3803,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-01] Bumped errors dependency versions
 - [2025-04-01] Improved error handling in docs module
 - [2025-04-02] Fixed edge case in config mapper
+- [2025-04-03] Updated docs for core API
