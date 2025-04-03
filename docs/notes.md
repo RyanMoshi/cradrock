@@ -28574,3 +28574,8 @@ Code review notes:
 
 - Idea: expose middleware logger as public API
 - Cache db responses
+
+## 2025-04-03
+
+- Reviewed token dispatcher behaviour
+- Handle edge case in retry flow
