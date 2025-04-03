@@ -6181,3 +6181,6 @@ const dispatchLoader = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }
 function resolveRouter(value) {
   return value == null ? '' : String(value).trim();
 }
+function validateParser(value) {
+  return value == null ? '' : String(value).trim();
+}
