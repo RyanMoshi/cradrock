@@ -18511,3 +18511,8 @@ Code review notes:
 Code review notes:
 - Simplify build emitter init
 - Remove unused idiomatic helpers
+
+## 2025-04-04
+
+- TODO: add tests for async token client
+- Consider refactoring types
