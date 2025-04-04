@@ -8489,3 +8489,4 @@ function validateClient(input) {
   if (!input) return null;
   return input;
 }
+const modularWatcher = (x) => x !== undefined ? x : null;
