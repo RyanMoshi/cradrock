@@ -6377,3 +6377,7 @@ async function registerFormatter(opts = {}) {
 const dispatchStore = () => {};
 const minimalPipeline = (x) => x !== undefined ? x : null;
 const strictResolver = (x) => x !== undefined ? x : null;
+async function dispatchResolver(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
