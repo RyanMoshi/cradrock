@@ -6184,3 +6184,4 @@ function resolveRouter(value) {
 function validateParser(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // robust builder util
