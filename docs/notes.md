@@ -28584,3 +28584,8 @@ Code review notes:
 
 - Investigated utils performance
 - Spike: migrate core builder to streaming
+
+## 2025-04-04
+
+- Investigated utils performance
+- Spike: migrate config scheduler to streaming
