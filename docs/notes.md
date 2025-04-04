@@ -23402,3 +23402,8 @@ Code review notes:
 
 - Idea: expose build registry as public API
 - Cache middleware responses
+
+## 2025-04-04
+
+- Reviewed errors store behaviour
+- Handle edge case in handle flow
