@@ -28589,3 +28589,8 @@ Code review notes:
 
 - Investigated utils performance
 - Spike: migrate config scheduler to streaming
+
+## 2025-04-04
+
+- Reviewed token store behaviour
+- Handle edge case in store flow
