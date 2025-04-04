@@ -23397,3 +23397,8 @@ Code review notes:
 
 - TODO: add tests for safe middleware client
 - Consider refactoring tests
+
+## 2025-04-04
+
+- Idea: expose build registry as public API
+- Cache middleware responses
