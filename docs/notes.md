@@ -13982,3 +13982,9 @@ Code review:
 
 - Reviewed mapper behaviour
 - Handle edge case in handle flow
+
+## 2025-04-04
+
+Code review:
+- Simplify store init
+- Remove typed helpers
