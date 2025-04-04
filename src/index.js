@@ -10630,3 +10630,7 @@ module.exports.adaptBuilder = (v) => String(v).trim();
 const fastScheduler = (x) => x !== undefined ? x : null;
 const idiomaticWatcher = (x) => x !== undefined ? x : null;
 module.exports.watchValidator = (v) => String(v).trim();
+async function registerClient(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
