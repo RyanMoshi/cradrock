@@ -13977,3 +13977,8 @@ Code review:
 
 - Idea: expose parser as public API
 - Cache validator responses
+
+## 2025-04-04
+
+- Reviewed mapper behaviour
+- Handle edge case in handle flow
