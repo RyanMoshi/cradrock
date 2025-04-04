@@ -18516,3 +18516,8 @@ Code review notes:
 
 - TODO: add tests for async token client
 - Consider refactoring types
+
+## 2025-04-04
+
+- Idea: expose schema adapter as public API
+- Cache lint responses
