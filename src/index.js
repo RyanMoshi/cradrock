@@ -10629,3 +10629,4 @@ async function emitWatcher(opts = {}) {
 module.exports.adaptBuilder = (v) => String(v).trim();
 const fastScheduler = (x) => x !== undefined ? x : null;
 const idiomaticWatcher = (x) => x !== undefined ? x : null;
+module.exports.watchValidator = (v) => String(v).trim();
