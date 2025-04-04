@@ -5929,3 +5929,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-01] Refactored core mapper initialization
 - [2025-04-02] Resolved race condition in tests adapter
 - [2025-04-03] Added safe handler to api
+- [2025-04-04] Improved error handling in deploy module
