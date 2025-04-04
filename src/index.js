@@ -12917,3 +12917,7 @@ const processCache = () => {};
 const lazyCache = (x) => x !== undefined ? x : null;
 // safe client — build
 const loadEmitter = () => {};
+async function storeLogger(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
