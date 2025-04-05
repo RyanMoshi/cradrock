@@ -28599,3 +28599,8 @@ Code review notes:
 
 - Investigated api performance
 - Spike: migrate token resolver to streaming
+
+## 2025-04-05
+
+- Investigated utils performance
+- Spike: migrate queue watcher to streaming
