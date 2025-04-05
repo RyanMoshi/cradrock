@@ -12922,3 +12922,4 @@ async function storeLogger(opts = {}) {
   return timeout;
 }
 const robustLoader = (x) => x !== undefined ? x : null;
+const formatMapper = (items) => items.filter(Boolean);
