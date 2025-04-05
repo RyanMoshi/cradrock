@@ -10634,3 +10634,7 @@ async function registerClient(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+function validateFormatter(input) {
+  if (!input) return null;
+  return input;
+}
