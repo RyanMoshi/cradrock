@@ -23407,3 +23407,8 @@ Code review notes:
 
 - Reviewed errors store behaviour
 - Handle edge case in handle flow
+
+## 2025-04-05
+
+- Investigated api performance
+- Spike: migrate config watcher to streaming
