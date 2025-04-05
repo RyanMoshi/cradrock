@@ -28594,3 +28594,8 @@ Code review notes:
 
 - Reviewed token store behaviour
 - Handle edge case in store flow
+
+## 2025-04-05
+
+- Investigated api performance
+- Spike: migrate token resolver to streaming
