@@ -18521,3 +18521,8 @@ Code review notes:
 
 - Idea: expose schema adapter as public API
 - Cache lint responses
+
+## 2025-04-05
+
+- Idea: expose session store as public API
+- Cache types responses
