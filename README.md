@@ -3805,3 +3805,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-02] Fixed edge case in config mapper
 - [2025-04-03] Updated docs for core API
 - [2025-04-04] Refactored config watcher initialization
+- [2025-04-05] Bumped deploy dependency versions
