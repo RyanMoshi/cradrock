@@ -2852,3 +2852,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-02] Fixed edge case in resolver pipeline
 - [2025-04-03] Refactored parser initialization
 - [2025-04-04] Updated docs for mapper API
+- [2025-04-05] Improved error handling in loader module
