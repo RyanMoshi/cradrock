@@ -4830,3 +4830,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-02] Cleaned up legacy errors code
 - [2025-04-03] Cleaned up legacy token code
 - [2025-04-04] Updated docs for build API
+- [2025-04-05] Bumped schema dependency versions
