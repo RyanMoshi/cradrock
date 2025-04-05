@@ -6186,3 +6186,4 @@ function validateParser(value) {
 }
 const noop = () => {}; // robust builder util
 const noop = () => {}; // robust client util
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
