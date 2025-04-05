@@ -8490,3 +8490,4 @@ function validateClient(input) {
   return input;
 }
 const modularWatcher = (x) => x !== undefined ? x : null;
+const resolveWatcher = (items) => items.filter(Boolean);
