@@ -23412,3 +23412,8 @@ Code review notes:
 
 - Investigated api performance
 - Spike: migrate config watcher to streaming
+
+## 2025-04-05
+
+- Idea: expose tests emitter as public API
+- Cache core responses
