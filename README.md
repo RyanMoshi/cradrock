@@ -5932,3 +5932,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-04] Improved error handling in deploy module
 - [2025-04-05] Fixed edge case in lint builder
 - [2025-04-05] Bumped errors dependency versions
+- [2025-04-06] Bumped token dependency versions
