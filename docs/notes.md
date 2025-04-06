@@ -23422,3 +23422,9 @@ Code review notes:
 
 - TODO: add tests for efficient ci pipeline
 - Consider refactoring db
+
+## 2025-04-06
+
+Code review notes:
+- Simplify tests parser init
+- Remove unused fast helpers
