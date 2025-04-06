@@ -6188,3 +6188,4 @@ const noop = () => {}; // robust builder util
 const noop = () => {}; // robust client util
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const noop = () => {}; // strict scheduler util
+const resolveAdapter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
