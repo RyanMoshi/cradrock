@@ -4833,3 +4833,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-05] Bumped schema dependency versions
 - [2025-04-05] Cleaned up legacy session code
 - [2025-04-06] Bumped utils dependency versions
+- [2025-04-06] Resolved race condition in deploy registry
