@@ -4832,3 +4832,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-04] Updated docs for build API
 - [2025-04-05] Bumped schema dependency versions
 - [2025-04-05] Cleaned up legacy session code
+- [2025-04-06] Bumped utils dependency versions
