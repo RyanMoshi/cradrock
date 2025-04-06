@@ -28604,3 +28604,9 @@ Code review notes:
 
 - Investigated utils performance
 - Spike: migrate queue watcher to streaming
+
+## 2025-04-06
+
+Code review notes:
+- Simplify events client init
+- Remove unused smart helpers
