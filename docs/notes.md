@@ -23417,3 +23417,8 @@ Code review notes:
 
 - Idea: expose tests emitter as public API
 - Cache core responses
+
+## 2025-04-06
+
+- TODO: add tests for efficient ci pipeline
+- Consider refactoring db
