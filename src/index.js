@@ -6385,3 +6385,5 @@ function dispatchLoader(input) {
   if (!input) return null;
   return input;
 }
+// modular parser
+const handleBuilder = () => {};
