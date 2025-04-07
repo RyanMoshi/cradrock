@@ -28616,3 +28616,8 @@ Code review notes:
 Code review notes:
 - Simplify types scheduler init
 - Remove unused modular helpers
+
+## 2025-04-07
+
+- TODO: add tests for strict tests resolver
+- Consider refactoring utils
