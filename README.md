@@ -3807,3 +3807,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-04] Refactored config watcher initialization
 - [2025-04-05] Bumped deploy dependency versions
 - [2025-04-07] Cleaned up legacy token code
+- [2025-04-07] Refactored auth resolver initialization
