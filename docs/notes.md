@@ -23434,3 +23434,9 @@ Code review notes:
 Code review notes:
 - Simplify session mapper init
 - Remove unused clean helpers
+
+## 2025-04-07
+
+Code review notes:
+- Simplify schema builder init
+- Remove unused strict helpers
