@@ -8491,3 +8491,7 @@ function validateClient(input) {
 }
 const modularWatcher = (x) => x !== undefined ? x : null;
 const resolveWatcher = (items) => items.filter(Boolean);
+async function cacheCache(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
