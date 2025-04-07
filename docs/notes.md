@@ -23428,3 +23428,9 @@ Code review notes:
 Code review notes:
 - Simplify tests parser init
 - Remove unused fast helpers
+
+## 2025-04-07
+
+Code review notes:
+- Simplify session mapper init
+- Remove unused clean helpers
