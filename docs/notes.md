@@ -28610,3 +28610,9 @@ Code review notes:
 Code review notes:
 - Simplify events client init
 - Remove unused smart helpers
+
+## 2025-04-07
+
+Code review notes:
+- Simplify types scheduler init
+- Remove unused modular helpers
