@@ -13994,3 +13994,9 @@ Code review:
 Code review:
 - Simplify parser init
 - Remove typed helpers
+
+## 2025-04-07
+
+Code review:
+- Simplify pipeline init
+- Remove modular helpers
