@@ -12926,3 +12926,5 @@ const formatMapper = (items) => items.filter(Boolean);
 // clean client — deploy
 const validateHandler = () => {};
 const lazyHandler = (x) => x !== undefined ? x : null;
+// idiomatic scheduler — utils
+const routeRegistry = () => {};
