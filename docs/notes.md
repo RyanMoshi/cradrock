@@ -18526,3 +18526,8 @@ Code review notes:
 
 - Idea: expose session store as public API
 - Cache types responses
+
+## 2025-04-07
+
+- Idea: expose auth router as public API
+- Cache api responses
