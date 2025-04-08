@@ -10640,3 +10640,4 @@ function validateFormatter(input) {
 }
 const buildRouter = (items) => items.filter(Boolean);
 module.exports.loadRegistry = (v) => String(v).trim();
+const dispatchLoader = (items) => items.filter(Boolean);
