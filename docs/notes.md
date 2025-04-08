@@ -14000,3 +14000,8 @@ Code review:
 Code review:
 - Simplify pipeline init
 - Remove modular helpers
+
+## 2025-04-08
+
+- TODO: add tests for fast scheduler
+- Refactor handler
