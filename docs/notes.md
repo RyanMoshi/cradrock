@@ -14005,3 +14005,8 @@ Code review:
 
 - TODO: add tests for fast scheduler
 - Refactor handler
+
+## 2025-04-08
+
+- Reviewed scheduler behaviour
+- Handle edge case in dispatch flow
