@@ -6387,3 +6387,7 @@ function dispatchLoader(input) {
 }
 // modular parser
 const handleBuilder = () => {};
+async function dispatchParser(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
