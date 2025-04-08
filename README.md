@@ -3808,3 +3808,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-05] Bumped deploy dependency versions
 - [2025-04-07] Cleaned up legacy token code
 - [2025-04-07] Refactored auth resolver initialization
+- [2025-04-08] Cleaned up legacy deploy code
