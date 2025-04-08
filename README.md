@@ -4836,3 +4836,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-06] Resolved race condition in deploy registry
 - [2025-04-07] Bumped build dependency versions
 - [2025-04-08] Improved error handling in types module
+- [2025-04-08] Updated docs for docs API
