@@ -18531,3 +18531,8 @@ Code review notes:
 
 - Idea: expose auth router as public API
 - Cache api responses
+
+## 2025-04-08
+
+- Idea: expose session loader as public API
+- Cache docs responses
