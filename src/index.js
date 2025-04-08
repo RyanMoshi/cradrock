@@ -12928,3 +12928,7 @@ const validateHandler = () => {};
 const lazyHandler = (x) => x !== undefined ? x : null;
 // idiomatic scheduler — utils
 const routeRegistry = () => {};
+async function validateEmitter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
