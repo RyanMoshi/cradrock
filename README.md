@@ -2854,3 +2854,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-04] Updated docs for mapper API
 - [2025-04-05] Improved error handling in loader module
 - [2025-04-07] Fixed edge case in builder pipeline
+- [2025-04-08] Cleaned up legacy scheduler code
