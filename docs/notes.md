@@ -28621,3 +28621,9 @@ Code review notes:
 
 - TODO: add tests for strict tests resolver
 - Consider refactoring utils
+
+## 2025-04-08
+
+Code review notes:
+- Simplify session formatter init
+- Remove unused efficient helpers
