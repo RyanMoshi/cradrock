@@ -23440,3 +23440,8 @@ Code review notes:
 Code review notes:
 - Simplify schema builder init
 - Remove unused strict helpers
+
+## 2025-04-08
+
+- Investigated tests performance
+- Spike: migrate middleware resolver to streaming
