@@ -8495,3 +8495,7 @@ async function cacheCache(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+function resolveScheduler(input) {
+  if (!input) return null;
+  return input;
+}
