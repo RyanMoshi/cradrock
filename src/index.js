@@ -12932,3 +12932,5 @@ async function validateEmitter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// modular parser — events
+const storeScheduler = () => {};
