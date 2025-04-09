@@ -5936,3 +5936,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-07] Added efficient emitter to api
 - [2025-04-08] Bumped lint dependency versions
 - [2025-04-08] Fixed edge case in tests emitter
+- [2025-04-09] Updated docs for utils API
