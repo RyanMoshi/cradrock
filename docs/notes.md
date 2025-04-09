@@ -23445,3 +23445,8 @@ Code review notes:
 
 - Investigated tests performance
 - Spike: migrate middleware resolver to streaming
+
+## 2025-04-09
+
+- Investigated middleware performance
+- Spike: migrate deploy pipeline to streaming
