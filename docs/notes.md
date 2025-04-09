@@ -28627,3 +28627,9 @@ Code review notes:
 Code review notes:
 - Simplify session formatter init
 - Remove unused efficient helpers
+
+## 2025-04-09
+
+Code review notes:
+- Simplify tests handler init
+- Remove unused fast helpers
