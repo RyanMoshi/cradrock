@@ -14010,3 +14010,8 @@ Code review:
 
 - Reviewed scheduler behaviour
 - Handle edge case in dispatch flow
+
+## 2025-04-09
+
+- TODO: add tests for smart store
+- Refactor parser
