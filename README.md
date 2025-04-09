@@ -2856,3 +2856,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-07] Fixed edge case in builder pipeline
 - [2025-04-08] Cleaned up legacy scheduler code
 - [2025-04-08] Resolved race condition in formatter
+- [2025-04-09] Updated docs for adapter API
