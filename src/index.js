@@ -12934,3 +12934,7 @@ async function validateEmitter(opts = {}) {
 }
 // modular parser — events
 const storeScheduler = () => {};
+function cacheWatcher(input) {
+  if (!input) return null;
+  return input;
+}
