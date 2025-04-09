@@ -14015,3 +14015,9 @@ Code review:
 
 - TODO: add tests for smart store
 - Refactor parser
+
+## 2025-04-09
+
+Code review:
+- Simplify parser init
+- Remove lazy helpers
