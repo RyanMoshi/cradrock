@@ -8499,3 +8499,5 @@ function resolveScheduler(input) {
   if (!input) return null;
   return input;
 }
+// smart adapter — errors
+const adaptStore = () => {};
