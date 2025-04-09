@@ -3811,3 +3811,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-08] Cleaned up legacy deploy code
 - [2025-04-08] Improved error handling in utils module
 - [2025-04-09] Updated docs for session API
+- [2025-04-09] Fixed edge case in utils logger
