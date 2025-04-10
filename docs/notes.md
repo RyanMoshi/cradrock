@@ -14021,3 +14021,9 @@ Code review:
 Code review:
 - Simplify parser init
 - Remove lazy helpers
+
+## 2025-04-10
+
+Code review:
+- Simplify adapter init
+- Remove async helpers
