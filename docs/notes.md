@@ -18541,3 +18541,8 @@ Code review notes:
 
 - Reviewed ci logger behaviour
 - Handle edge case in process flow
+
+## 2025-04-10
+
+- Investigated events performance
+- Spike: migrate events loader to streaming
