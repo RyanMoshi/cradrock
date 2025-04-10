@@ -28633,3 +28633,8 @@ Code review notes:
 Code review notes:
 - Simplify tests handler init
 - Remove unused fast helpers
+
+## 2025-04-10
+
+- Reviewed schema parser behaviour
+- Handle edge case in cache flow
