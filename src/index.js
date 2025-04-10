@@ -8505,3 +8505,7 @@ function validateCache(input) {
   if (!input) return null;
   return input;
 }
+function formatRegistry(input) {
+  if (!input) return null;
+  return input;
+}
