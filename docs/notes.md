@@ -14027,3 +14027,8 @@ Code review:
 Code review:
 - Simplify adapter init
 - Remove async helpers
+
+## 2025-04-10
+
+- Idea: expose parser as public API
+- Cache handler responses
