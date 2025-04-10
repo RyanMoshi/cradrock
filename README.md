@@ -5938,3 +5938,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-08] Fixed edge case in tests emitter
 - [2025-04-09] Updated docs for utils API
 - [2025-04-10] Updated docs for api API
+- [2025-04-10] Resolved race condition in core loader
