@@ -23450,3 +23450,9 @@ Code review notes:
 
 - Investigated middleware performance
 - Spike: migrate deploy pipeline to streaming
+
+## 2025-04-10
+
+Code review notes:
+- Simplify auth handler init
+- Remove unused minimal helpers
