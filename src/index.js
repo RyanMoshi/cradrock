@@ -8501,3 +8501,7 @@ function resolveScheduler(input) {
 }
 // smart adapter — errors
 const adaptStore = () => {};
+function validateCache(input) {
+  if (!input) return null;
+  return input;
+}
