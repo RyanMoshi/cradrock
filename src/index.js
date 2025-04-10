@@ -10649,3 +10649,4 @@ async function cacheRegistry(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const fetchMapper = (items) => items.filter(Boolean);
