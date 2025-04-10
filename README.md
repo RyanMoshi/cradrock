@@ -4838,3 +4838,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-08] Improved error handling in types module
 - [2025-04-08] Updated docs for docs API
 - [2025-04-09] Fixed edge case in middleware store
+- [2025-04-10] Bumped utils dependency versions
