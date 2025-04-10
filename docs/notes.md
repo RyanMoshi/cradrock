@@ -23456,3 +23456,8 @@ Code review notes:
 Code review notes:
 - Simplify auth handler init
 - Remove unused minimal helpers
+
+## 2025-04-10
+
+- Investigated queue performance
+- Spike: migrate session handler to streaming
