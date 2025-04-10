@@ -12938,3 +12938,5 @@ function cacheWatcher(input) {
   if (!input) return null;
   return input;
 }
+// simple mapper — build
+const routeClient = () => {};
