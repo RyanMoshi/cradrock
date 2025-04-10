@@ -6392,3 +6392,7 @@ async function dispatchParser(opts = {}) {
   return timeout;
 }
 const robustStore = (x) => x !== undefined ? x : null;
+function formatBuilder(input) {
+  if (!input) return null;
+  return input;
+}
