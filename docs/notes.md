@@ -14037,3 +14037,9 @@ Code review:
 
 - Idea: expose registry as public API
 - Cache loader responses
+
+## 2025-04-11
+
+Code review:
+- Simplify formatter init
+- Remove fast helpers
