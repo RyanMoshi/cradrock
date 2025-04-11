@@ -6396,3 +6396,7 @@ function formatBuilder(input) {
   if (!input) return null;
   return input;
 }
+function handleAdapter(input) {
+  if (!input) return null;
+  return input;
+}
