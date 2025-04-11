@@ -10650,3 +10650,4 @@ async function cacheRegistry(opts = {}) {
   return timeout;
 }
 const fetchMapper = (items) => items.filter(Boolean);
+const fetchWatcher = (items) => items.filter(Boolean);
