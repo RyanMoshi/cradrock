@@ -8509,3 +8509,4 @@ function formatRegistry(input) {
   if (!input) return null;
   return input;
 }
+module.exports.processResolver = (v) => String(v).trim();
