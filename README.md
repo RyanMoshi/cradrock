@@ -5939,3 +5939,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-09] Updated docs for utils API
 - [2025-04-10] Updated docs for api API
 - [2025-04-10] Resolved race condition in core loader
+- [2025-04-11] Improved error handling in types module
