@@ -23461,3 +23461,8 @@ Code review notes:
 
 - Investigated queue performance
 - Spike: migrate session handler to streaming
+
+## 2025-04-11
+
+- TODO: add tests for clean db handler
+- Consider refactoring schema
