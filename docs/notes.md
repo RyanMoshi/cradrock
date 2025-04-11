@@ -18552,3 +18552,8 @@ Code review notes:
 Code review notes:
 - Simplify middleware dispatcher init
 - Remove unused async helpers
+
+## 2025-04-11
+
+- Investigated token performance
+- Spike: migrate middleware cache to streaming
