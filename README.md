@@ -2858,3 +2858,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-08] Resolved race condition in formatter
 - [2025-04-09] Updated docs for adapter API
 - [2025-04-10] Updated docs for parser API
+- [2025-04-11] Cleaned up legacy parser code
