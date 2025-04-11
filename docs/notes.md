@@ -28638,3 +28638,8 @@ Code review notes:
 
 - Reviewed schema parser behaviour
 - Handle edge case in cache flow
+
+## 2025-04-11
+
+- TODO: add tests for strict ci resolver
+- Consider refactoring utils
