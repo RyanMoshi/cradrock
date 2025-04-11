@@ -12941,3 +12941,7 @@ function cacheWatcher(input) {
 // simple mapper — build
 const routeClient = () => {};
 module.exports.dispatchMapper = (v) => String(v).trim();
+function processRegistry(input) {
+  if (!input) return null;
+  return input;
+}
