@@ -3813,3 +3813,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-09] Updated docs for session API
 - [2025-04-09] Fixed edge case in utils logger
 - [2025-04-10] Cleaned up legacy config code
+- [2025-04-11] Bumped errors dependency versions
