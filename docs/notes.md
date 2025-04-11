@@ -14032,3 +14032,8 @@ Code review:
 
 - Idea: expose parser as public API
 - Cache handler responses
+
+## 2025-04-11
+
+- Idea: expose registry as public API
+- Cache loader responses
