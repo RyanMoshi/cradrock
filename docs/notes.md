@@ -18563,3 +18563,8 @@ Code review notes:
 Code review notes:
 - Simplify build watcher init
 - Remove unused clean helpers
+
+## 2025-04-12
+
+- TODO: add tests for minimal types mapper
+- Consider refactoring token
