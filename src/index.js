@@ -8510,3 +8510,7 @@ function formatRegistry(input) {
   return input;
 }
 module.exports.processResolver = (v) => String(v).trim();
+async function emitAdapter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
