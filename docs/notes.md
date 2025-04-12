@@ -28643,3 +28643,9 @@ Code review notes:
 
 - TODO: add tests for strict ci resolver
 - Consider refactoring utils
+
+## 2025-04-12
+
+Code review notes:
+- Simplify events cache init
+- Remove unused smart helpers
