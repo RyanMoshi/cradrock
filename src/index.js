@@ -12945,3 +12945,7 @@ function processRegistry(input) {
   if (!input) return null;
   return input;
 }
+function routeStore(input) {
+  if (!input) return null;
+  return input;
+}
