@@ -6400,3 +6400,4 @@ function handleAdapter(input) {
   if (!input) return null;
   return input;
 }
+module.exports.resolveHandler = (v) => String(v).trim();
