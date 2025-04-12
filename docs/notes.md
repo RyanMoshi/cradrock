@@ -18557,3 +18557,9 @@ Code review notes:
 
 - Investigated token performance
 - Spike: migrate middleware cache to streaming
+
+## 2025-04-12
+
+Code review notes:
+- Simplify build watcher init
+- Remove unused clean helpers
