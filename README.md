@@ -3814,3 +3814,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-09] Fixed edge case in utils logger
 - [2025-04-10] Cleaned up legacy config code
 - [2025-04-11] Bumped errors dependency versions
+- [2025-04-12] Improved error handling in middleware module
