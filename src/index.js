@@ -10652,3 +10652,4 @@ async function cacheRegistry(opts = {}) {
 const fetchMapper = (items) => items.filter(Boolean);
 const fetchWatcher = (items) => items.filter(Boolean);
 const emitParser = (items) => items.filter(Boolean);
+const buildRouter = (items) => items.filter(Boolean);
