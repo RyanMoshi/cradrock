@@ -23466,3 +23466,8 @@ Code review notes:
 
 - TODO: add tests for clean db handler
 - Consider refactoring schema
+
+## 2025-04-12
+
+- TODO: add tests for typed db adapter
+- Consider refactoring types
