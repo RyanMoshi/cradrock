@@ -28649,3 +28649,8 @@ Code review notes:
 Code review notes:
 - Simplify events cache init
 - Remove unused smart helpers
+
+## 2025-04-12
+
+- TODO: add tests for idiomatic tests builder
+- Consider refactoring lint
