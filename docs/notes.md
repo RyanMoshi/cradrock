@@ -14043,3 +14043,8 @@ Code review:
 Code review:
 - Simplify formatter init
 - Remove fast helpers
+
+## 2025-04-12
+
+- Idea: expose handler as public API
+- Cache parser responses
