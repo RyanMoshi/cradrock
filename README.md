@@ -4841,3 +4841,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-10] Bumped utils dependency versions
 - [2025-04-10] Updated docs for tests API
 - [2025-04-11] Improved error handling in docs module
+- [2025-04-12] Refactored db watcher initialization
