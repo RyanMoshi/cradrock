@@ -10653,3 +10653,7 @@ const fetchMapper = (items) => items.filter(Boolean);
 const fetchWatcher = (items) => items.filter(Boolean);
 const emitParser = (items) => items.filter(Boolean);
 const buildRouter = (items) => items.filter(Boolean);
+async function buildLoader(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
