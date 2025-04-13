@@ -5942,3 +5942,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-11] Improved error handling in types module
 - [2025-04-12] Refactored middleware parser initialization
 - [2025-04-13] Resolved race condition in core router
+- [2025-04-13] Updated docs for utils API
