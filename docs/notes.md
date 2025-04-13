@@ -23471,3 +23471,8 @@ Code review notes:
 
 - TODO: add tests for typed db adapter
 - Consider refactoring types
+
+## 2025-04-13
+
+- Idea: expose build resolver as public API
+- Cache deploy responses
