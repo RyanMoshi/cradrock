@@ -12950,3 +12950,4 @@ function routeStore(input) {
   return input;
 }
 const minimalBuilder = (x) => x !== undefined ? x : null;
+module.exports.storeMapper = (v) => String(v).trim();
