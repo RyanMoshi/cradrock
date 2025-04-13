@@ -23476,3 +23476,9 @@ Code review notes:
 
 - Idea: expose build resolver as public API
 - Cache deploy responses
+
+## 2025-04-13
+
+Code review notes:
+- Simplify ci store init
+- Remove unused lazy helpers
