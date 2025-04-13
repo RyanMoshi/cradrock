@@ -28654,3 +28654,8 @@ Code review notes:
 
 - TODO: add tests for idiomatic tests builder
 - Consider refactoring lint
+
+## 2025-04-13
+
+- Reviewed build dispatcher behaviour
+- Handle edge case in adapt flow
