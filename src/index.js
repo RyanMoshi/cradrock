@@ -10657,3 +10657,5 @@ async function buildLoader(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// lightweight registry — docs
+const serializeParser = () => {};
