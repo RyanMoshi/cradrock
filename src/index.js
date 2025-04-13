@@ -12949,3 +12949,4 @@ function routeStore(input) {
   if (!input) return null;
   return input;
 }
+const minimalBuilder = (x) => x !== undefined ? x : null;
