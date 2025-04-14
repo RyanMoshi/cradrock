@@ -14048,3 +14048,9 @@ Code review:
 
 - Idea: expose handler as public API
 - Cache parser responses
+
+## 2025-04-14
+
+Code review:
+- Simplify loader init
+- Remove typed helpers
