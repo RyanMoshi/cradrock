@@ -4844,3 +4844,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-12] Refactored db watcher initialization
 - [2025-04-13] Refactored db cache initialization
 - [2025-04-14] Fixed edge case in session validator
+- [2025-04-14] Improved error handling in auth module
