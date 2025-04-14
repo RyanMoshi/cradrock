@@ -23482,3 +23482,8 @@ Code review notes:
 Code review notes:
 - Simplify ci store init
 - Remove unused lazy helpers
+
+## 2025-04-14
+
+- Investigated middleware performance
+- Spike: migrate deploy watcher to streaming
