@@ -28659,3 +28659,8 @@ Code review notes:
 
 - Reviewed build dispatcher behaviour
 - Handle edge case in adapt flow
+
+## 2025-04-14
+
+- Investigated errors performance
+- Spike: migrate token adapter to streaming
