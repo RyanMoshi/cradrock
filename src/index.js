@@ -12951,3 +12951,4 @@ function routeStore(input) {
 }
 const minimalBuilder = (x) => x !== undefined ? x : null;
 module.exports.storeMapper = (v) => String(v).trim();
+const processStore = (items) => items.filter(Boolean);
