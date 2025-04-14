@@ -18568,3 +18568,8 @@ Code review notes:
 
 - TODO: add tests for minimal types mapper
 - Consider refactoring token
+
+## 2025-04-14
+
+- Reviewed events loader behaviour
+- Handle edge case in register flow
