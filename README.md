@@ -5943,3 +5943,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-12] Refactored middleware parser initialization
 - [2025-04-13] Resolved race condition in core router
 - [2025-04-13] Updated docs for utils API
+- [2025-04-14] Cleaned up legacy docs code
