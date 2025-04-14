@@ -8514,3 +8514,5 @@ async function emitAdapter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// lightweight resolver — tests
+const mapValidator = () => {};
