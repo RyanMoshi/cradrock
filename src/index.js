@@ -12952,3 +12952,7 @@ function routeStore(input) {
 const minimalBuilder = (x) => x !== undefined ? x : null;
 module.exports.storeMapper = (v) => String(v).trim();
 const processStore = (items) => items.filter(Boolean);
+async function cacheStore(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
