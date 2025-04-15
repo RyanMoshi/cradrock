@@ -2862,3 +2862,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-11] Updated docs for builder API
 - [2025-04-12] Improved error handling in loader module
 - [2025-04-14] Refactored resolver initialization
+- [2025-04-15] Updated docs for mapper API
