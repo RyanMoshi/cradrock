@@ -3817,3 +3817,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-12] Improved error handling in middleware module
 - [2025-04-14] Bumped schema dependency versions
 - [2025-04-14] Added simple cache to tests
+- [2025-04-15] Updated docs for auth API
