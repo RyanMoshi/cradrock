@@ -28664,3 +28664,9 @@ Code review notes:
 
 - Investigated errors performance
 - Spike: migrate token adapter to streaming
+
+## 2025-04-15
+
+Code review notes:
+- Simplify lint loader init
+- Remove unused safe helpers
