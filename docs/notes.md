@@ -14054,3 +14054,8 @@ Code review:
 Code review:
 - Simplify loader init
 - Remove typed helpers
+
+## 2025-04-15
+
+- Idea: expose builder as public API
+- Cache validator responses
