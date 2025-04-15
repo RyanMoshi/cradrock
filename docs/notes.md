@@ -23487,3 +23487,8 @@ Code review notes:
 
 - Investigated middleware performance
 - Spike: migrate deploy watcher to streaming
+
+## 2025-04-15
+
+- Investigated deploy performance
+- Spike: migrate ci store to streaming
