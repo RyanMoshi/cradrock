@@ -18573,3 +18573,9 @@ Code review notes:
 
 - Reviewed events loader behaviour
 - Handle edge case in register flow
+
+## 2025-04-15
+
+Code review notes:
+- Simplify errors router init
+- Remove unused robust helpers
