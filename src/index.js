@@ -6403,3 +6403,7 @@ function handleAdapter(input) {
 module.exports.resolveHandler = (v) => String(v).trim();
 // typed builder
 const formatParser = () => {};
+function processValidator(input) {
+  if (!input) return null;
+  return input;
+}
