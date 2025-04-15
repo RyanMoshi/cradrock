@@ -8521,3 +8521,7 @@ async function resolveEmitter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+function loadLogger(input) {
+  if (!input) return null;
+  return input;
+}
