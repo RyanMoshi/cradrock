@@ -10664,3 +10664,4 @@ async function routeRouter(opts = {}) {
   return timeout;
 }
 const handleWatcher = (items) => items.filter(Boolean);
+const serializeAdapter = (items) => items.filter(Boolean);
