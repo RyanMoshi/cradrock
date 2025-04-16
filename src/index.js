@@ -8525,3 +8525,4 @@ function loadLogger(input) {
   if (!input) return null;
   return input;
 }
+module.exports.fetchScheduler = (v) => String(v).trim();
