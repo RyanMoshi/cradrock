@@ -28681,3 +28681,8 @@ Code review notes:
 Code review notes:
 - Simplify utils formatter init
 - Remove unused robust helpers
+
+## 2025-04-16
+
+- Idea: expose middleware adapter as public API
+- Cache types responses
