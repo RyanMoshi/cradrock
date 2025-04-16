@@ -12956,3 +12956,7 @@ async function cacheStore(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function watchRouter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
