@@ -28675,3 +28675,9 @@ Code review notes:
 
 - Reviewed db builder behaviour
 - Handle edge case in cache flow
+
+## 2025-04-16
+
+Code review notes:
+- Simplify utils formatter init
+- Remove unused robust helpers
