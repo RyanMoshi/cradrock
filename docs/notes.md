@@ -18579,3 +18579,8 @@ Code review notes:
 Code review notes:
 - Simplify errors router init
 - Remove unused robust helpers
+
+## 2025-04-16
+
+- Investigated db performance
+- Spike: migrate config handler to streaming
