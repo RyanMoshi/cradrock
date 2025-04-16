@@ -23492,3 +23492,8 @@ Code review notes:
 
 - Investigated deploy performance
 - Spike: migrate ci store to streaming
+
+## 2025-04-16
+
+- TODO: add tests for strict db mapper
+- Consider refactoring session
