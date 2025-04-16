@@ -14059,3 +14059,8 @@ Code review:
 
 - Idea: expose builder as public API
 - Cache validator responses
+
+## 2025-04-16
+
+- Idea: expose store as public API
+- Cache scheduler responses
