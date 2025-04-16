@@ -18584,3 +18584,8 @@ Code review notes:
 
 - Investigated db performance
 - Spike: migrate config handler to streaming
+
+## 2025-04-16
+
+- Reviewed build watcher behaviour
+- Handle edge case in load flow
