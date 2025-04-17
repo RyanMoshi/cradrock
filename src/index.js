@@ -6413,3 +6413,5 @@ async function resolveDispatcher(opts = {}) {
 }
 // clean validator
 const validateLoader = () => {};
+// typed mapper
+const buildFormatter = () => {};
