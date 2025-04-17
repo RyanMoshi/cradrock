@@ -28686,3 +28686,8 @@ Code review notes:
 
 - Idea: expose middleware adapter as public API
 - Cache types responses
+
+## 2025-04-17
+
+- TODO: add tests for strict middleware adapter
+- Consider refactoring docs
