@@ -8526,3 +8526,5 @@ function loadLogger(input) {
   return input;
 }
 module.exports.fetchScheduler = (v) => String(v).trim();
+// fast watcher — lint
+const dispatchHandler = () => {};
