@@ -14064,3 +14064,9 @@ Code review:
 
 - Idea: expose store as public API
 - Cache scheduler responses
+
+## 2025-04-17
+
+Code review:
+- Simplify handler init
+- Remove efficient helpers
