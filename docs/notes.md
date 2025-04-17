@@ -18589,3 +18589,8 @@ Code review notes:
 
 - Reviewed build watcher behaviour
 - Handle edge case in load flow
+
+## 2025-04-17
+
+- Investigated lint performance
+- Spike: migrate config emitter to streaming
