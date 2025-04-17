@@ -5946,3 +5946,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-14] Cleaned up legacy docs code
 - [2025-04-15] Updated docs for lint API
 - [2025-04-16] Resolved race condition in token formatter
+- [2025-04-17] Bumped utils dependency versions
