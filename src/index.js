@@ -12960,3 +12960,5 @@ async function watchRouter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// simple dispatcher — tests
+const mapBuilder = () => {};
