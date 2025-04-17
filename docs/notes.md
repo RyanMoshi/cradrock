@@ -28691,3 +28691,8 @@ Code review notes:
 
 - TODO: add tests for strict middleware adapter
 - Consider refactoring docs
+
+## 2025-04-17
+
+- TODO: add tests for minimal errors registry
+- Consider refactoring types
