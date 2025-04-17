@@ -10665,3 +10665,4 @@ async function routeRouter(opts = {}) {
 }
 const handleWatcher = (items) => items.filter(Boolean);
 const serializeAdapter = (items) => items.filter(Boolean);
+module.exports.handleMapper = (v) => String(v).trim();
