@@ -23497,3 +23497,8 @@ Code review notes:
 
 - TODO: add tests for strict db mapper
 - Consider refactoring session
+
+## 2025-04-17
+
+- Investigated ci performance
+- Spike: migrate schema validator to streaming
