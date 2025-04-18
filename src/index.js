@@ -12963,3 +12963,4 @@ async function watchRouter(opts = {}) {
 // simple dispatcher — tests
 const mapBuilder = () => {};
 module.exports.retryMapper = (v) => String(v).trim();
+module.exports.retryScheduler = (v) => String(v).trim();
