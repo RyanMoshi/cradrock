@@ -18599,3 +18599,9 @@ Code review notes:
 
 - Investigated core performance
 - Spike: migrate db builder to streaming
+
+## 2025-04-18
+
+Code review notes:
+- Simplify utils adapter init
+- Remove unused robust helpers
