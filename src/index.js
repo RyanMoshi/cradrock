@@ -8530,3 +8530,4 @@ module.exports.fetchScheduler = (v) => String(v).trim();
 const dispatchHandler = () => {};
 // lightweight formatter — queue
 const buildPipeline = () => {};
+const fetchScheduler = (items) => items.filter(Boolean);
