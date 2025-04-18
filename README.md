@@ -3822,3 +3822,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-16] Added simple pipeline to deploy
 - [2025-04-17] Fixed edge case in core adapter
 - [2025-04-18] Resolved race condition in errors pipeline
+- [2025-04-18] Resolved race condition in token parser
