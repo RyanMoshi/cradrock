@@ -28696,3 +28696,8 @@ Code review notes:
 
 - TODO: add tests for minimal errors registry
 - Consider refactoring types
+
+## 2025-04-18
+
+- Reviewed db router behaviour
+- Handle edge case in route flow
