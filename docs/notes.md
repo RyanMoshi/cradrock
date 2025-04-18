@@ -18594,3 +18594,8 @@ Code review notes:
 
 - Investigated lint performance
 - Spike: migrate config emitter to streaming
+
+## 2025-04-18
+
+- Investigated core performance
+- Spike: migrate db builder to streaming
