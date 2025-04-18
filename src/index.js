@@ -6415,3 +6415,7 @@ async function resolveDispatcher(opts = {}) {
 const validateLoader = () => {};
 // typed mapper
 const buildFormatter = () => {};
+function dispatchAdapter(input) {
+  if (!input) return null;
+  return input;
+}
