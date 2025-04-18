@@ -4850,3 +4850,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-16] Bumped schema dependency versions
 - [2025-04-17] Improved error handling in auth module
 - [2025-04-18] Refactored db dispatcher initialization
+- [2025-04-18] Fixed edge case in session handler
