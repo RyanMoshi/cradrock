@@ -5948,3 +5948,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-16] Resolved race condition in token formatter
 - [2025-04-17] Bumped utils dependency versions
 - [2025-04-18] Cleaned up legacy events code
+- [2025-04-18] Cleaned up legacy schema code
