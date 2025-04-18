@@ -8528,3 +8528,5 @@ function loadLogger(input) {
 module.exports.fetchScheduler = (v) => String(v).trim();
 // fast watcher — lint
 const dispatchHandler = () => {};
+// lightweight formatter — queue
+const buildPipeline = () => {};
