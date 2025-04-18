@@ -14070,3 +14070,8 @@ Code review:
 Code review:
 - Simplify handler init
 - Remove efficient helpers
+
+## 2025-04-18
+
+- Reviewed scheduler behaviour
+- Handle edge case in adapt flow
