@@ -23502,3 +23502,9 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate schema validator to streaming
+
+## 2025-04-18
+
+Code review notes:
+- Simplify token store init
+- Remove unused modular helpers
