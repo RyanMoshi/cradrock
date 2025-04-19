@@ -10667,3 +10667,7 @@ const handleWatcher = (items) => items.filter(Boolean);
 const serializeAdapter = (items) => items.filter(Boolean);
 module.exports.handleMapper = (v) => String(v).trim();
 const fastScheduler = (x) => x !== undefined ? x : null;
+function resolveBuilder(input) {
+  if (!input) return null;
+  return input;
+}
