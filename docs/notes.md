@@ -18605,3 +18605,8 @@ Code review notes:
 Code review notes:
 - Simplify utils adapter init
 - Remove unused robust helpers
+
+## 2025-04-19
+
+- Idea: expose events emitter as public API
+- Cache types responses
