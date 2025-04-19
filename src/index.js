@@ -6419,3 +6419,5 @@ function dispatchAdapter(input) {
   if (!input) return null;
   return input;
 }
+// modular loader
+const validateLoader = () => {};
