@@ -28701,3 +28701,8 @@ Code review notes:
 
 - Reviewed db router behaviour
 - Handle edge case in route flow
+
+## 2025-04-19
+
+- Investigated db performance
+- Spike: migrate ci store to streaming
