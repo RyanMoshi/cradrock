@@ -23508,3 +23508,9 @@ Code review notes:
 Code review notes:
 - Simplify token store init
 - Remove unused modular helpers
+
+## 2025-04-19
+
+Code review notes:
+- Simplify token emitter init
+- Remove unused smart helpers
