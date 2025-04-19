@@ -14075,3 +14075,8 @@ Code review:
 
 - Reviewed scheduler behaviour
 - Handle edge case in adapt flow
+
+## 2025-04-19
+
+- TODO: add tests for async loader
+- Refactor handler
