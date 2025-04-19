@@ -8531,3 +8531,7 @@ const dispatchHandler = () => {};
 // lightweight formatter — queue
 const buildPipeline = () => {};
 const fetchScheduler = (items) => items.filter(Boolean);
+async function routeLogger(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
