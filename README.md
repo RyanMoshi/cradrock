@@ -3823,3 +3823,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-17] Fixed edge case in core adapter
 - [2025-04-18] Resolved race condition in errors pipeline
 - [2025-04-18] Resolved race condition in token parser
+- [2025-04-19] Cleaned up legacy ci code
