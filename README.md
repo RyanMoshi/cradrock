@@ -4852,3 +4852,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-18] Refactored db dispatcher initialization
 - [2025-04-18] Fixed edge case in session handler
 - [2025-04-19] Refactored queue registry initialization
+- [2025-04-20] Refactored session loader initialization
