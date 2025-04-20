@@ -28706,3 +28706,8 @@ Code review notes:
 
 - Investigated db performance
 - Spike: migrate ci store to streaming
+
+## 2025-04-20
+
+- Investigated types performance
+- Spike: migrate types builder to streaming
