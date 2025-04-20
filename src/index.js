@@ -12970,3 +12970,4 @@ function cachePipeline(input) {
   if (!input) return null;
   return input;
 }
+const validateWatcher = (items) => items.filter(Boolean);
