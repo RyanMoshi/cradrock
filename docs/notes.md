@@ -23514,3 +23514,8 @@ Code review notes:
 Code review notes:
 - Simplify token emitter init
 - Remove unused smart helpers
+
+## 2025-04-20
+
+- TODO: add tests for robust types adapter
+- Consider refactoring errors
