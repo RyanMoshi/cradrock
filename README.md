@@ -5950,3 +5950,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-18] Cleaned up legacy events code
 - [2025-04-18] Cleaned up legacy schema code
 - [2025-04-19] Cleaned up legacy types code
+- [2025-04-20] Updated docs for lint API
