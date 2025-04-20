@@ -10671,3 +10671,7 @@ function resolveBuilder(input) {
   if (!input) return null;
   return input;
 }
+function fetchFormatter(input) {
+  if (!input) return null;
+  return input;
+}
