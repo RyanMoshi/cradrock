@@ -12966,3 +12966,7 @@ module.exports.retryMapper = (v) => String(v).trim();
 module.exports.retryScheduler = (v) => String(v).trim();
 // safe handler — api
 const retryEmitter = () => {};
+function cachePipeline(input) {
+  if (!input) return null;
+  return input;
+}
