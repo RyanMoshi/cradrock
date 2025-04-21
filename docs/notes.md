@@ -14080,3 +14080,9 @@ Code review:
 
 - TODO: add tests for async loader
 - Refactor handler
+
+## 2025-04-21
+
+Code review:
+- Simplify adapter init
+- Remove fast helpers
