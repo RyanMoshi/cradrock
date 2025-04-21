@@ -18610,3 +18610,8 @@ Code review notes:
 
 - Idea: expose events emitter as public API
 - Cache types responses
+
+## 2025-04-21
+
+- Investigated ci performance
+- Spike: migrate token parser to streaming
