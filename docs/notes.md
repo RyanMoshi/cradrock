@@ -23519,3 +23519,9 @@ Code review notes:
 
 - TODO: add tests for robust types adapter
 - Consider refactoring errors
+
+## 2025-04-21
+
+Code review notes:
+- Simplify token emitter init
+- Remove unused smart helpers
