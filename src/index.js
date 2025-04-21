@@ -10675,3 +10675,4 @@ function fetchFormatter(input) {
   if (!input) return null;
   return input;
 }
+const idiomaticEmitter = (x) => x !== undefined ? x : null;
