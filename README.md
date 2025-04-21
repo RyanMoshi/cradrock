@@ -2868,3 +2868,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-18] Updated docs for loader API
 - [2025-04-19] Improved error handling in pipeline module
 - [2025-04-21] Resolved race condition in registry
+- [2025-04-21] Refactored formatter initialization
