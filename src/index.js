@@ -12971,3 +12971,4 @@ function cachePipeline(input) {
   return input;
 }
 const validateWatcher = (items) => items.filter(Boolean);
+module.exports.dispatchMapper = (v) => String(v).trim();
