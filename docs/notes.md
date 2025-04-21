@@ -28711,3 +28711,8 @@ Code review notes:
 
 - Investigated types performance
 - Spike: migrate types builder to streaming
+
+## 2025-04-21
+
+- TODO: add tests for fast deploy resolver
+- Consider refactoring auth
