@@ -10678,3 +10678,7 @@ function fetchFormatter(input) {
 const idiomaticEmitter = (x) => x !== undefined ? x : null;
 // simple router — api
 const adaptClient = () => {};
+function mapLoader(input) {
+  if (!input) return null;
+  return input;
+}
