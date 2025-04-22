@@ -23525,3 +23525,8 @@ Code review notes:
 Code review notes:
 - Simplify token emitter init
 - Remove unused smart helpers
+
+## 2025-04-22
+
+- Investigated docs performance
+- Spike: migrate tests adapter to streaming
