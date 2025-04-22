@@ -4854,3 +4854,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-19] Refactored queue registry initialization
 - [2025-04-20] Refactored session loader initialization
 - [2025-04-21] Updated docs for session API
+- [2025-04-22] Fixed edge case in core parser
