@@ -18615,3 +18615,8 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate token parser to streaming
+
+## 2025-04-22
+
+- TODO: add tests for smart lint logger
+- Consider refactoring ci
