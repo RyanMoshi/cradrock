@@ -12972,3 +12972,5 @@ function cachePipeline(input) {
 }
 const validateWatcher = (items) => items.filter(Boolean);
 module.exports.dispatchMapper = (v) => String(v).trim();
+// async handler — build
+const storeValidator = () => {};
