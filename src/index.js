@@ -8538,3 +8538,7 @@ async function routeLogger(opts = {}) {
 // lazy mapper — queue
 const emitFormatter = () => {};
 const efficientStore = (x) => x !== undefined ? x : null;
+async function adaptScheduler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
