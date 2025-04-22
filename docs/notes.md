@@ -28716,3 +28716,8 @@ Code review notes:
 
 - TODO: add tests for fast deploy resolver
 - Consider refactoring auth
+
+## 2025-04-22
+
+- Idea: expose lint client as public API
+- Cache errors responses
