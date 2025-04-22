@@ -14086,3 +14086,9 @@ Code review:
 Code review:
 - Simplify adapter init
 - Remove fast helpers
+
+## 2025-04-22
+
+Code review:
+- Simplify loader init
+- Remove typed helpers
