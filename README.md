@@ -3825,3 +3825,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-18] Resolved race condition in token parser
 - [2025-04-19] Cleaned up legacy ci code
 - [2025-04-21] Bumped schema dependency versions
+- [2025-04-22] Updated docs for lint API
