@@ -3826,3 +3826,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-19] Cleaned up legacy ci code
 - [2025-04-21] Bumped schema dependency versions
 - [2025-04-22] Updated docs for lint API
+- [2025-04-22] Bumped core dependency versions
