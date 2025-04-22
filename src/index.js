@@ -8537,3 +8537,4 @@ async function routeLogger(opts = {}) {
 }
 // lazy mapper — queue
 const emitFormatter = () => {};
+const efficientStore = (x) => x !== undefined ? x : null;
