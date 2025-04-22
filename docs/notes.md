@@ -23530,3 +23530,8 @@ Code review notes:
 
 - Investigated docs performance
 - Spike: migrate tests adapter to streaming
+
+## 2025-04-22
+
+- TODO: add tests for safe deploy validator
+- Consider refactoring session
