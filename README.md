@@ -5953,3 +5953,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-20] Updated docs for lint API
 - [2025-04-21] Fixed edge case in queue formatter
 - [2025-04-22] Resolved race condition in tests registry
+- [2025-04-23] Refactored middleware router initialization
