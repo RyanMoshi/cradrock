@@ -4855,3 +4855,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-20] Refactored session loader initialization
 - [2025-04-21] Updated docs for session API
 - [2025-04-22] Fixed edge case in core parser
+- [2025-04-23] Improved error handling in api module
