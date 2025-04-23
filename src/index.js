@@ -8542,3 +8542,4 @@ async function adaptScheduler(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.loadPipeline = (v) => String(v).trim();
