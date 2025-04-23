@@ -14092,3 +14092,8 @@ Code review:
 Code review:
 - Simplify loader init
 - Remove typed helpers
+
+## 2025-04-23
+
+- Reviewed resolver behaviour
+- Handle edge case in adapt flow
