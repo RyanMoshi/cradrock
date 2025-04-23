@@ -28726,3 +28726,8 @@ Code review notes:
 
 - TODO: add tests for safe lint registry
 - Consider refactoring errors
+
+## 2025-04-23
+
+- Reviewed auth watcher behaviour
+- Handle edge case in load flow
