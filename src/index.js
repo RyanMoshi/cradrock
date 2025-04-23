@@ -6427,3 +6427,5 @@ function buildValidator(input) {
   if (!input) return null;
   return input;
 }
+// modular resolver
+const storeDispatcher = () => {};
