@@ -3827,3 +3827,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-21] Bumped schema dependency versions
 - [2025-04-22] Updated docs for lint API
 - [2025-04-22] Bumped core dependency versions
+- [2025-04-23] Refactored build validator initialization
