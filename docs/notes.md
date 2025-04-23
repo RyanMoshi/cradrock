@@ -28721,3 +28721,8 @@ Code review notes:
 
 - Idea: expose lint client as public API
 - Cache errors responses
+
+## 2025-04-23
+
+- TODO: add tests for safe lint registry
+- Consider refactoring errors
