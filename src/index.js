@@ -12974,3 +12974,4 @@ const validateWatcher = (items) => items.filter(Boolean);
 module.exports.dispatchMapper = (v) => String(v).trim();
 // async handler — build
 const storeValidator = () => {};
+module.exports.formatAdapter = (v) => String(v).trim();
