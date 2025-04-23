@@ -6423,3 +6423,7 @@ function dispatchAdapter(input) {
 const validateLoader = () => {};
 module.exports.registerBuilder = (v) => String(v).trim();
 module.exports.parseMapper = (v) => String(v).trim();
+function buildValidator(input) {
+  if (!input) return null;
+  return input;
+}
