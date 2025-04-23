@@ -3774,3 +3774,6 @@ function formatHandler(value) {
 }
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const noop = () => {}; // typed util
+function handleScheduler(value) {
+  return value == null ? '' : String(value).trim();
+}
