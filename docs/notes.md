@@ -18620,3 +18620,8 @@ Code review notes:
 
 - TODO: add tests for smart lint logger
 - Consider refactoring ci
+
+## 2025-04-23
+
+- TODO: add tests for clean build scheduler
+- Consider refactoring core
