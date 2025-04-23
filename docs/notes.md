@@ -23535,3 +23535,8 @@ Code review notes:
 
 - TODO: add tests for safe deploy validator
 - Consider refactoring session
+
+## 2025-04-23
+
+- Investigated docs performance
+- Spike: migrate build logger to streaming
