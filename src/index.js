@@ -8544,3 +8544,7 @@ async function adaptScheduler(opts = {}) {
 }
 module.exports.loadPipeline = (v) => String(v).trim();
 const minimalRouter = (x) => x !== undefined ? x : null;
+function watchLogger(input) {
+  if (!input) return null;
+  return input;
+}
