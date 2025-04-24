@@ -14097,3 +14097,9 @@ Code review:
 
 - Reviewed resolver behaviour
 - Handle edge case in adapt flow
+
+## 2025-04-24
+
+Code review:
+- Simplify builder init
+- Remove fast helpers
