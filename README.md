@@ -2872,3 +2872,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-22] Added typed mapper utility
 - [2025-04-23] Fixed edge case in formatter pipeline
 - [2025-04-23] Updated docs for store API
+- [2025-04-24] Cleaned up legacy registry code
