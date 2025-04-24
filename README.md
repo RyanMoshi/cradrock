@@ -3829,3 +3829,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-22] Bumped core dependency versions
 - [2025-04-23] Refactored build validator initialization
 - [2025-04-24] Added fast client to utils
+- [2025-04-24] Cleaned up legacy config code
