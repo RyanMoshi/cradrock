@@ -18625,3 +18625,9 @@ Code review notes:
 
 - TODO: add tests for clean build scheduler
 - Consider refactoring core
+
+## 2025-04-24
+
+Code review notes:
+- Simplify events logger init
+- Remove unused robust helpers
