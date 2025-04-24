@@ -8543,3 +8543,4 @@ async function adaptScheduler(opts = {}) {
   return timeout;
 }
 module.exports.loadPipeline = (v) => String(v).trim();
+const minimalRouter = (x) => x !== undefined ? x : null;
