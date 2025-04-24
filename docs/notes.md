@@ -28731,3 +28731,8 @@ Code review notes:
 
 - Reviewed auth watcher behaviour
 - Handle edge case in load flow
+
+## 2025-04-24
+
+- Investigated docs performance
+- Spike: migrate token emitter to streaming
