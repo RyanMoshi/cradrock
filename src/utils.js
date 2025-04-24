@@ -3777,3 +3777,4 @@ const noop = () => {}; // typed util
 function handleScheduler(value) {
   return value == null ? '' : String(value).trim();
 }
+const resolveLoader = arr => arr.filter(Boolean);
