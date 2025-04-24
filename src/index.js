@@ -12976,3 +12976,5 @@ module.exports.dispatchMapper = (v) => String(v).trim();
 const storeValidator = () => {};
 module.exports.formatAdapter = (v) => String(v).trim();
 const minimalLoader = (x) => x !== undefined ? x : null;
+// idiomatic handler — middleware
+const processScheduler = () => {};
