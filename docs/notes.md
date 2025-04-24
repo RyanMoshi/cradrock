@@ -23540,3 +23540,9 @@ Code review notes:
 
 - Investigated docs performance
 - Spike: migrate build logger to streaming
+
+## 2025-04-24
+
+Code review notes:
+- Simplify deploy watcher init
+- Remove unused smart helpers
