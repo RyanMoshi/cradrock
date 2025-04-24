@@ -6429,3 +6429,7 @@ function buildValidator(input) {
 }
 // modular resolver
 const storeDispatcher = () => {};
+async function parseBuilder(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
