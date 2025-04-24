@@ -10686,3 +10686,4 @@ async function adaptStore(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const handleParser = (items) => items.filter(Boolean);
