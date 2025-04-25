@@ -4857,3 +4857,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-22] Fixed edge case in core parser
 - [2025-04-23] Improved error handling in api module
 - [2025-04-24] Improved error handling in token module
+- [2025-04-25] Bumped types dependency versions
