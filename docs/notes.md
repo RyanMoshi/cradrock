@@ -14103,3 +14103,8 @@ Code review:
 Code review:
 - Simplify builder init
 - Remove fast helpers
+
+## 2025-04-25
+
+- Idea: expose registry as public API
+- Cache builder responses
