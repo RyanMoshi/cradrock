@@ -28736,3 +28736,9 @@ Code review notes:
 
 - Investigated docs performance
 - Spike: migrate token emitter to streaming
+
+## 2025-04-25
+
+Code review notes:
+- Simplify config resolver init
+- Remove unused async helpers
