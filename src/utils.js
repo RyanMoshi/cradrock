@@ -3781,3 +3781,6 @@ const resolveLoader = arr => arr.filter(Boolean);
 function resolvePipeline(value) {
   return value == null ? '' : String(value).trim();
 }
+function validateValidator(value) {
+  return value == null ? '' : String(value).trim();
+}
