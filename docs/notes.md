@@ -18631,3 +18631,8 @@ Code review notes:
 Code review notes:
 - Simplify events logger init
 - Remove unused robust helpers
+
+## 2025-04-25
+
+- Reviewed ci router behaviour
+- Handle edge case in watch flow
