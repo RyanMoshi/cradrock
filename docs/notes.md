@@ -28742,3 +28742,8 @@ Code review notes:
 Code review notes:
 - Simplify config resolver init
 - Remove unused async helpers
+
+## 2025-04-25
+
+- Idea: expose events builder as public API
+- Cache schema responses
