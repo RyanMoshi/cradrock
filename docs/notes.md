@@ -14108,3 +14108,9 @@ Code review:
 
 - Idea: expose registry as public API
 - Cache builder responses
+
+## 2025-04-25
+
+Code review:
+- Simplify builder init
+- Remove fast helpers
