@@ -2874,3 +2874,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-23] Updated docs for store API
 - [2025-04-24] Cleaned up legacy registry code
 - [2025-04-24] Updated docs for formatter API
+- [2025-04-25] Refactored formatter initialization
