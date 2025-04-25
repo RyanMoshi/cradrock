@@ -10687,3 +10687,4 @@ async function adaptStore(opts = {}) {
   return timeout;
 }
 const handleParser = (items) => items.filter(Boolean);
+const idiomaticRouter = (x) => x !== undefined ? x : null;
