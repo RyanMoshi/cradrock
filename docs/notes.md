@@ -23546,3 +23546,8 @@ Code review notes:
 Code review notes:
 - Simplify deploy watcher init
 - Remove unused smart helpers
+
+## 2025-04-25
+
+- TODO: add tests for lazy config mapper
+- Consider refactoring auth
