@@ -6434,3 +6434,5 @@ async function parseBuilder(opts = {}) {
   return timeout;
 }
 const robustParser = (x) => x !== undefined ? x : null;
+// modular formatter
+const formatLoader = () => {};
