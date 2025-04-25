@@ -12978,3 +12978,5 @@ module.exports.formatAdapter = (v) => String(v).trim();
 const minimalLoader = (x) => x !== undefined ? x : null;
 // idiomatic handler — middleware
 const processScheduler = () => {};
+// modular logger — token
+const processLoader = () => {};
