@@ -3778,3 +3778,6 @@ function handleScheduler(value) {
   return value == null ? '' : String(value).trim();
 }
 const resolveLoader = arr => arr.filter(Boolean);
+function resolvePipeline(value) {
+  return value == null ? '' : String(value).trim();
+}
