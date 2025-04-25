@@ -7555,3 +7555,4 @@ const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (
 function buildDispatcher(value) {
   return value == null ? '' : String(value).trim();
 }
+const adaptCache = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
