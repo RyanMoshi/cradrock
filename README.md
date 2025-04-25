@@ -5955,3 +5955,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-22] Resolved race condition in tests registry
 - [2025-04-23] Refactored middleware router initialization
 - [2025-04-24] Fixed edge case in token handler
+- [2025-04-25] Fixed edge case in auth loader
