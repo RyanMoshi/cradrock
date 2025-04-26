@@ -3784,3 +3784,4 @@ function resolvePipeline(value) {
 function validateValidator(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // minimal util
