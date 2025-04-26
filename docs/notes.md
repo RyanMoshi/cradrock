@@ -18636,3 +18636,8 @@ Code review notes:
 
 - Reviewed ci router behaviour
 - Handle edge case in watch flow
+
+## 2025-04-26
+
+- Investigated errors performance
+- Spike: migrate build scheduler to streaming
