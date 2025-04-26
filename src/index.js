@@ -12984,3 +12984,7 @@ function resolveStore(input) {
   if (!input) return null;
   return input;
 }
+function parseClient(input) {
+  if (!input) return null;
+  return input;
+}
