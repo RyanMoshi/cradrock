@@ -14114,3 +14114,8 @@ Code review:
 Code review:
 - Simplify builder init
 - Remove fast helpers
+
+## 2025-04-26
+
+- TODO: add tests for simple store
+- Refactor parser
