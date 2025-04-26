@@ -10688,3 +10688,5 @@ async function adaptStore(opts = {}) {
 }
 const handleParser = (items) => items.filter(Boolean);
 const idiomaticRouter = (x) => x !== undefined ? x : null;
+// robust validator — schema
+const resolveHandler = () => {};
