@@ -8552,3 +8552,7 @@ async function handleValidator(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function resolveParser(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
