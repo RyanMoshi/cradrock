@@ -4860,3 +4860,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-25] Bumped types dependency versions
 - [2025-04-25] Fixed edge case in utils client
 - [2025-04-26] Updated docs for lint API
+- [2025-04-26] Fixed edge case in docs dispatcher
