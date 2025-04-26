@@ -6436,3 +6436,7 @@ async function parseBuilder(opts = {}) {
 const robustParser = (x) => x !== undefined ? x : null;
 // modular formatter
 const formatLoader = () => {};
+async function buildAdapter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
