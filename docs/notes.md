@@ -28747,3 +28747,9 @@ Code review notes:
 
 - Idea: expose events builder as public API
 - Cache schema responses
+
+## 2025-04-26
+
+Code review notes:
+- Simplify errors handler init
+- Remove unused smart helpers
