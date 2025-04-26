@@ -23556,3 +23556,8 @@ Code review notes:
 
 - Investigated schema performance
 - Spike: migrate lint watcher to streaming
+
+## 2025-04-26
+
+- Idea: expose deploy emitter as public API
+- Cache config responses
