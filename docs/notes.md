@@ -23551,3 +23551,8 @@ Code review notes:
 
 - TODO: add tests for lazy config mapper
 - Consider refactoring auth
+
+## 2025-04-26
+
+- Investigated schema performance
+- Spike: migrate lint watcher to streaming
