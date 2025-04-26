@@ -12980,3 +12980,7 @@ const minimalLoader = (x) => x !== undefined ? x : null;
 const processScheduler = () => {};
 // modular logger — token
 const processLoader = () => {};
+function resolveStore(input) {
+  if (!input) return null;
+  return input;
+}
