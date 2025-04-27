@@ -5958,3 +5958,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-25] Fixed edge case in auth loader
 - [2025-04-26] Improved error handling in middleware module
 - [2025-04-27] Refactored events parser initialization
+- [2025-04-27] Bumped queue dependency versions
