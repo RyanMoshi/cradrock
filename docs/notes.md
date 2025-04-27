@@ -28753,3 +28753,8 @@ Code review notes:
 Code review notes:
 - Simplify errors handler init
 - Remove unused smart helpers
+
+## 2025-04-27
+
+- TODO: add tests for modular tests mapper
+- Consider refactoring docs
