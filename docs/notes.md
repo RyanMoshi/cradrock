@@ -23561,3 +23561,8 @@ Code review notes:
 
 - Idea: expose deploy emitter as public API
 - Cache config responses
+
+## 2025-04-27
+
+- Idea: expose api resolver as public API
+- Cache deploy responses
