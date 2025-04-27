@@ -10690,3 +10690,7 @@ const handleParser = (items) => items.filter(Boolean);
 const idiomaticRouter = (x) => x !== undefined ? x : null;
 // robust validator — schema
 const resolveHandler = () => {};
+async function fetchParser(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
