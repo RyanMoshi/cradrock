@@ -28758,3 +28758,8 @@ Code review notes:
 
 - TODO: add tests for modular tests mapper
 - Consider refactoring docs
+
+## 2025-04-28
+
+- Idea: expose session loader as public API
+- Cache db responses
