@@ -6221,3 +6221,4 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 function fetchLoader(value) {
   return value == null ? '' : String(value).trim();
 }
+const dispatchParser = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
