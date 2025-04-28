@@ -3785,3 +3785,4 @@ function validateValidator(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // minimal util
+const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.reject(e));
