@@ -18641,3 +18641,8 @@ Code review notes:
 
 - Investigated errors performance
 - Spike: migrate build scheduler to streaming
+
+## 2025-04-28
+
+- Reviewed schema builder behaviour
+- Handle edge case in dispatch flow
