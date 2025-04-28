@@ -14119,3 +14119,8 @@ Code review:
 
 - TODO: add tests for simple store
 - Refactor parser
+
+## 2025-04-28
+
+- Idea: expose resolver as public API
+- Cache resolver responses
