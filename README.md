@@ -3832,3 +3832,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-24] Cleaned up legacy config code
 - [2025-04-25] Resolved race condition in db registry
 - [2025-04-26] Added clean store to lint
+- [2025-04-28] Cleaned up legacy build code
