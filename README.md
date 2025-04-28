@@ -5960,3 +5960,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-27] Refactored events parser initialization
 - [2025-04-27] Bumped queue dependency versions
 - [2025-04-28] Updated docs for lint API
+- [2025-04-28] Refactored middleware router initialization
