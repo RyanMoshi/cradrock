@@ -23566,3 +23566,8 @@ Code review notes:
 
 - Idea: expose api resolver as public API
 - Cache deploy responses
+
+## 2025-04-28
+
+- Reviewed utils scheduler behaviour
+- Handle edge case in adapt flow
