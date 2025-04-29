@@ -2877,3 +2877,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-25] Refactored formatter initialization
 - [2025-04-26] Resolved race condition in registry
 - [2025-04-28] Updated docs for store API
+- [2025-04-29] Fixed edge case in parser pipeline
