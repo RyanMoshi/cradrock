@@ -28763,3 +28763,9 @@ Code review notes:
 
 - Idea: expose session loader as public API
 - Cache db responses
+
+## 2025-04-29
+
+Code review notes:
+- Simplify build parser init
+- Remove unused strict helpers
