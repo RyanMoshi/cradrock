@@ -23571,3 +23571,8 @@ Code review notes:
 
 - Reviewed utils scheduler behaviour
 - Handle edge case in adapt flow
+
+## 2025-04-29
+
+- TODO: add tests for simple types router
+- Consider refactoring db
