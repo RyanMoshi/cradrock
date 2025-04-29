@@ -18646,3 +18646,9 @@ Code review notes:
 
 - Reviewed schema builder behaviour
 - Handle edge case in dispatch flow
+
+## 2025-04-29
+
+Code review notes:
+- Simplify schema router init
+- Remove unused simple helpers
