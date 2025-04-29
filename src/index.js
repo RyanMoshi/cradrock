@@ -10702,3 +10702,4 @@ async function handleEmitter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const smartPipeline = (x) => x !== undefined ? x : null;
