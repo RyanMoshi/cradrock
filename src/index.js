@@ -10703,3 +10703,7 @@ async function handleEmitter(opts = {}) {
   return timeout;
 }
 const smartPipeline = (x) => x !== undefined ? x : null;
+function emitDispatcher(input) {
+  if (!input) return null;
+  return input;
+}
