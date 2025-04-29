@@ -4864,3 +4864,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-27] Updated docs for session API
 - [2025-04-28] Refactored config loader initialization
 - [2025-04-28] Resolved race condition in core logger
+- [2025-04-29] Fixed edge case in ci adapter
