@@ -8564,3 +8564,4 @@ async function retryCache(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.serializeCache = (v) => String(v).trim();
