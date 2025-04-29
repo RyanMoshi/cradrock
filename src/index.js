@@ -8565,3 +8565,4 @@ async function retryCache(opts = {}) {
   return timeout;
 }
 module.exports.serializeCache = (v) => String(v).trim();
+const efficientParser = (x) => x !== undefined ? x : null;
