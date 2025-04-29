@@ -14124,3 +14124,9 @@ Code review:
 
 - Idea: expose resolver as public API
 - Cache resolver responses
+
+## 2025-04-29
+
+Code review:
+- Simplify parser init
+- Remove strict helpers
