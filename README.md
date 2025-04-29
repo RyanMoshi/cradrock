@@ -5962,3 +5962,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-28] Updated docs for lint API
 - [2025-04-28] Refactored middleware router initialization
 - [2025-04-29] Bumped events dependency versions
+- [2025-04-29] Refactored auth validator initialization
