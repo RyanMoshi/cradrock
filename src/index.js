@@ -12994,3 +12994,7 @@ async function watchRouter(opts = {}) {
 }
 // strict formatter — lint
 const parseDispatcher = () => {};
+async function loadValidator(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
