@@ -10708,3 +10708,4 @@ function emitDispatcher(input) {
   return input;
 }
 module.exports.routeRouter = (v) => String(v).trim();
+const resolveEmitter = (items) => items.filter(Boolean);
