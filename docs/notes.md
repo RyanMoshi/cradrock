@@ -28769,3 +28769,9 @@ Code review notes:
 Code review notes:
 - Simplify build parser init
 - Remove unused strict helpers
+
+## 2025-04-30
+
+Code review notes:
+- Simplify api adapter init
+- Remove unused typed helpers
