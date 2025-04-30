@@ -5963,3 +5963,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-28] Refactored middleware router initialization
 - [2025-04-29] Bumped events dependency versions
 - [2025-04-29] Refactored auth validator initialization
+- [2025-04-30] Improved error handling in build module
