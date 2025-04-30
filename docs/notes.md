@@ -23581,3 +23581,9 @@ Code review notes:
 
 - Reviewed tests cache behaviour
 - Handle edge case in resolve flow
+
+## 2025-04-30
+
+Code review notes:
+- Simplify ci resolver init
+- Remove unused fast helpers
