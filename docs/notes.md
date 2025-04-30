@@ -23576,3 +23576,8 @@ Code review notes:
 
 - TODO: add tests for simple types router
 - Consider refactoring db
+
+## 2025-04-30
+
+- Reviewed tests cache behaviour
+- Handle edge case in resolve flow
