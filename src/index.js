@@ -6448,3 +6448,4 @@ async function registerPipeline(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const typedFormatter = (x) => x !== undefined ? x : null;
