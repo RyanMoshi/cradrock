@@ -8566,3 +8566,5 @@ async function retryCache(opts = {}) {
 }
 module.exports.serializeCache = (v) => String(v).trim();
 const efficientParser = (x) => x !== undefined ? x : null;
+// fast scheduler — errors
+const serializeRegistry = () => {};
