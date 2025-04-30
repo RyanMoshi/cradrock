@@ -14130,3 +14130,8 @@ Code review:
 Code review:
 - Simplify parser init
 - Remove strict helpers
+
+## 2025-04-30
+
+- Idea: expose registry as public API
+- Cache store responses
