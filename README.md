@@ -3837,3 +3837,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-29] Added idiomatic resolver to build
 - [2025-04-29] Cleaned up legacy events code
 - [2025-04-30] Improved error handling in tests module
+- [2025-04-30] Fixed edge case in deploy loader
