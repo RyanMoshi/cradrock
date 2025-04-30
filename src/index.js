@@ -12998,3 +12998,7 @@ async function loadValidator(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+function serializePipeline(input) {
+  if (!input) return null;
+  return input;
+}
