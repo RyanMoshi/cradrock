@@ -10707,3 +10707,4 @@ function emitDispatcher(input) {
   if (!input) return null;
   return input;
 }
+module.exports.routeRouter = (v) => String(v).trim();
