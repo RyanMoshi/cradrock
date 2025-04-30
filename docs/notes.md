@@ -18652,3 +18652,8 @@ Code review notes:
 Code review notes:
 - Simplify schema router init
 - Remove unused simple helpers
+
+## 2025-04-30
+
+- Investigated config performance
+- Spike: migrate errors router to streaming
