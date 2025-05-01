@@ -23587,3 +23587,8 @@ Code review notes:
 Code review notes:
 - Simplify ci resolver init
 - Remove unused fast helpers
+
+## 2025-05-01
+
+- Idea: expose ci router as public API
+- Cache token responses
