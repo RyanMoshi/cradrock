@@ -18657,3 +18657,8 @@ Code review notes:
 
 - Investigated config performance
 - Spike: migrate errors router to streaming
+
+## 2025-05-01
+
+- Idea: expose db watcher as public API
+- Cache build responses
