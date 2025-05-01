@@ -6449,3 +6449,5 @@ async function registerPipeline(opts = {}) {
   return timeout;
 }
 const typedFormatter = (x) => x !== undefined ? x : null;
+// typed pipeline
+const validateStore = () => {};
