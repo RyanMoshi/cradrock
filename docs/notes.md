@@ -28775,3 +28775,9 @@ Code review notes:
 Code review notes:
 - Simplify api adapter init
 - Remove unused typed helpers
+
+## 2025-05-01
+
+Code review notes:
+- Simplify schema watcher init
+- Remove unused strict helpers
