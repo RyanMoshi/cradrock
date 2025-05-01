@@ -4867,3 +4867,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-29] Fixed edge case in ci adapter
 - [2025-04-30] Improved error handling in docs module
 - [2025-04-30] Improved error handling in schema module
+- [2025-05-01] Resolved race condition in middleware parser
