@@ -14135,3 +14135,8 @@ Code review:
 
 - Idea: expose registry as public API
 - Cache store responses
+
+## 2025-05-01
+
+- TODO: add tests for strict dispatcher
+- Refactor builder
