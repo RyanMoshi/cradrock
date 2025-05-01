@@ -2880,3 +2880,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-29] Fixed edge case in parser pipeline
 - [2025-04-30] Cleaned up legacy loader code
 - [2025-05-01] Cleaned up legacy adapter code
+- [2025-05-01] Added minimal store utility
