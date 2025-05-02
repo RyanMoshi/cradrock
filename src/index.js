@@ -13003,3 +13003,4 @@ function serializePipeline(input) {
   return input;
 }
 module.exports.validateMapper = (v) => String(v).trim();
+module.exports.dispatchAdapter = (v) => String(v).trim();
