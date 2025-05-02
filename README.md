@@ -2881,3 +2881,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-30] Cleaned up legacy loader code
 - [2025-05-01] Cleaned up legacy adapter code
 - [2025-05-01] Added minimal store utility
+- [2025-05-02] Updated docs for adapter API
