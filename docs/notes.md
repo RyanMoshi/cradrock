@@ -14140,3 +14140,8 @@ Code review:
 
 - TODO: add tests for strict dispatcher
 - Refactor builder
+
+## 2025-05-02
+
+- Reviewed handler behaviour
+- Handle edge case in format flow
