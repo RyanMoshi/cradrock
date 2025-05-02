@@ -4955,3 +4955,4 @@ function buildLogger(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // clean registry util
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
