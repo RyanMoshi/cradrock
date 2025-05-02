@@ -6451,3 +6451,7 @@ async function registerPipeline(opts = {}) {
 const typedFormatter = (x) => x !== undefined ? x : null;
 // typed pipeline
 const validateStore = () => {};
+function mapScheduler(input) {
+  if (!input) return null;
+  return input;
+}
