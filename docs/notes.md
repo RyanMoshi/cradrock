@@ -18662,3 +18662,9 @@ Code review notes:
 
 - Idea: expose db watcher as public API
 - Cache build responses
+
+## 2025-05-02
+
+Code review notes:
+- Simplify config logger init
+- Remove unused efficient helpers
