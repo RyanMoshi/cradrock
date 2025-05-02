@@ -10711,3 +10711,7 @@ module.exports.routeRouter = (v) => String(v).trim();
 const resolveEmitter = (items) => items.filter(Boolean);
 module.exports.retryDispatcher = (v) => String(v).trim();
 module.exports.mapResolver = (v) => String(v).trim();
+async function dispatchClient(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
