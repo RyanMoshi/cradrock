@@ -8573,3 +8573,4 @@ function formatEmitter(input) {
   if (!input) return null;
   return input;
 }
+module.exports.dispatchHandler = (v) => String(v).trim();
