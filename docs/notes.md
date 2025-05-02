@@ -28781,3 +28781,8 @@ Code review notes:
 Code review notes:
 - Simplify schema watcher init
 - Remove unused strict helpers
+
+## 2025-05-02
+
+- Reviewed ci loader behaviour
+- Handle edge case in parse flow
