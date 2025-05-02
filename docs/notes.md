@@ -23592,3 +23592,8 @@ Code review notes:
 
 - Idea: expose ci router as public API
 - Cache token responses
+
+## 2025-05-02
+
+- TODO: add tests for smart auth router
+- Consider refactoring errors
