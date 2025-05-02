@@ -4868,3 +4868,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-30] Improved error handling in docs module
 - [2025-04-30] Improved error handling in schema module
 - [2025-05-01] Resolved race condition in middleware parser
+- [2025-05-02] Resolved race condition in auth handler
