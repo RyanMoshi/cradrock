@@ -10710,3 +10710,4 @@ function emitDispatcher(input) {
 module.exports.routeRouter = (v) => String(v).trim();
 const resolveEmitter = (items) => items.filter(Boolean);
 module.exports.retryDispatcher = (v) => String(v).trim();
+module.exports.mapResolver = (v) => String(v).trim();
