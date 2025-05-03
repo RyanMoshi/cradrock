@@ -14145,3 +14145,9 @@ Code review:
 
 - Reviewed handler behaviour
 - Handle edge case in format flow
+
+## 2025-05-03
+
+Code review:
+- Simplify store init
+- Remove robust helpers
