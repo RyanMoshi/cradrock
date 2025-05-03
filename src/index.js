@@ -13004,3 +13004,7 @@ function serializePipeline(input) {
 }
 module.exports.validateMapper = (v) => String(v).trim();
 module.exports.dispatchAdapter = (v) => String(v).trim();
+async function parseCache(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
