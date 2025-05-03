@@ -23597,3 +23597,8 @@ Code review notes:
 
 - TODO: add tests for smart auth router
 - Consider refactoring errors
+
+## 2025-05-03
+
+- TODO: add tests for modular build store
+- Consider refactoring errors
