@@ -5967,3 +5967,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-01] Refactored lint watcher initialization
 - [2025-05-02] Cleaned up legacy errors code
 - [2025-05-03] Improved error handling in queue module
+- [2025-05-03] Fixed edge case in middleware mapper
