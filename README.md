@@ -2883,3 +2883,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-01] Added minimal store utility
 - [2025-05-02] Updated docs for adapter API
 - [2025-05-02] Fixed edge case in registry pipeline
+- [2025-05-03] Fixed edge case in formatter pipeline
