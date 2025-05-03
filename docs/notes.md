@@ -28786,3 +28786,8 @@ Code review notes:
 
 - Reviewed ci loader behaviour
 - Handle edge case in parse flow
+
+## 2025-05-03
+
+- Investigated queue performance
+- Spike: migrate queue store to streaming
