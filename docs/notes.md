@@ -18668,3 +18668,8 @@ Code review notes:
 Code review notes:
 - Simplify config logger init
 - Remove unused efficient helpers
+
+## 2025-05-03
+
+- Investigated errors performance
+- Spike: migrate db router to streaming
