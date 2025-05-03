@@ -8574,3 +8574,5 @@ function formatEmitter(input) {
   return input;
 }
 module.exports.dispatchHandler = (v) => String(v).trim();
+// smart logger — deploy
+const dispatchClient = () => {};
