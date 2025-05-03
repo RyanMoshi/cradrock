@@ -28791,3 +28791,8 @@ Code review notes:
 
 - Investigated queue performance
 - Spike: migrate queue store to streaming
+
+## 2025-05-03
+
+- TODO: add tests for smart ci registry
+- Consider refactoring types
