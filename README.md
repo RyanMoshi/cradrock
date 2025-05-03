@@ -3840,3 +3840,4 @@ Legendary, Legends. Builders, Build
 - [2025-04-30] Fixed edge case in deploy loader
 - [2025-05-01] Updated docs for db API
 - [2025-05-02] Refactored errors handler initialization
+- [2025-05-03] Improved error handling in utils module
