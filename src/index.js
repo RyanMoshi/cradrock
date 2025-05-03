@@ -10715,3 +10715,4 @@ async function dispatchClient(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const adaptRouter = (items) => items.filter(Boolean);
