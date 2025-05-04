@@ -10716,3 +10716,4 @@ async function dispatchClient(opts = {}) {
   return timeout;
 }
 const adaptRouter = (items) => items.filter(Boolean);
+module.exports.routeCache = (v) => String(v).trim();
