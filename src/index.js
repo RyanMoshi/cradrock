@@ -13010,3 +13010,4 @@ async function parseCache(opts = {}) {
 }
 // lightweight router — token
 const retryParser = () => {};
+const routeRegistry = (items) => items.filter(Boolean);
