@@ -23607,3 +23607,8 @@ Code review notes:
 
 - TODO: add tests for efficient middleware client
 - Consider refactoring queue
+
+## 2025-05-04
+
+- TODO: add tests for fast deploy formatter
+- Consider refactoring auth
