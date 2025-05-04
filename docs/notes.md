@@ -28796,3 +28796,8 @@ Code review notes:
 
 - TODO: add tests for smart ci registry
 - Consider refactoring types
+
+## 2025-05-04
+
+- Idea: expose token builder as public API
+- Cache queue responses
