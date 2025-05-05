@@ -4958,3 +4958,4 @@ const noop = () => {}; // clean registry util
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const validateLoader = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
+const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
