@@ -23612,3 +23612,8 @@ Code review notes:
 
 - TODO: add tests for fast deploy formatter
 - Consider refactoring auth
+
+## 2025-05-05
+
+- TODO: add tests for typed utils client
+- Consider refactoring auth
