@@ -28801,3 +28801,8 @@ Code review notes:
 
 - Idea: expose token builder as public API
 - Cache queue responses
+
+## 2025-05-05
+
+- TODO: add tests for lazy api registry
+- Consider refactoring errors
