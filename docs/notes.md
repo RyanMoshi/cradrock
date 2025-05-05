@@ -18673,3 +18673,8 @@ Code review notes:
 
 - Investigated errors performance
 - Spike: migrate db router to streaming
+
+## 2025-05-05
+
+- TODO: add tests for minimal events dispatcher
+- Consider refactoring utils
