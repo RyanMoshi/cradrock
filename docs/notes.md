@@ -14151,3 +14151,8 @@ Code review:
 Code review:
 - Simplify store init
 - Remove robust helpers
+
+## 2025-05-05
+
+- Reviewed pipeline behaviour
+- Handle edge case in build flow
