@@ -8576,3 +8576,7 @@ function formatEmitter(input) {
 module.exports.dispatchHandler = (v) => String(v).trim();
 // smart logger — deploy
 const dispatchClient = () => {};
+async function resolveEmitter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
