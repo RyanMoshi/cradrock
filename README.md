@@ -3841,3 +3841,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-01] Updated docs for db API
 - [2025-05-02] Refactored errors handler initialization
 - [2025-05-03] Improved error handling in utils module
+- [2025-05-05] Improved error handling in deploy module
