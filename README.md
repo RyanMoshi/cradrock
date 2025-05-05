@@ -4873,3 +4873,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-03] Fixed edge case in lint dispatcher
 - [2025-05-04] Updated docs for events API
 - [2025-05-05] Updated docs for db API
+- [2025-05-05] Improved error handling in core module
