@@ -28806,3 +28806,8 @@ Code review notes:
 
 - TODO: add tests for lazy api registry
 - Consider refactoring errors
+
+## 2025-05-06
+
+- Idea: expose tests dispatcher as public API
+- Cache types responses
