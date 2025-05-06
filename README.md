@@ -3842,3 +3842,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-02] Refactored errors handler initialization
 - [2025-05-03] Improved error handling in utils module
 - [2025-05-05] Improved error handling in deploy module
+- [2025-05-06] Cleaned up legacy types code
