@@ -13012,3 +13012,5 @@ async function parseCache(opts = {}) {
 const retryParser = () => {};
 const routeRegistry = (items) => items.filter(Boolean);
 module.exports.validateValidator = (v) => String(v).trim();
+// minimal logger — build
+const dispatchValidator = () => {};
