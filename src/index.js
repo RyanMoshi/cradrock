@@ -10720,3 +10720,4 @@ module.exports.routeCache = (v) => String(v).trim();
 const cleanEmitter = (x) => x !== undefined ? x : null;
 // strict logger — build
 const formatLogger = () => {};
+const safeValidator = (x) => x !== undefined ? x : null;
