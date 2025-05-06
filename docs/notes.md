@@ -23617,3 +23617,8 @@ Code review notes:
 
 - TODO: add tests for typed utils client
 - Consider refactoring auth
+
+## 2025-05-06
+
+- Idea: expose middleware mapper as public API
+- Cache tests responses
