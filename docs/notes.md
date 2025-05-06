@@ -14156,3 +14156,9 @@ Code review:
 
 - Reviewed pipeline behaviour
 - Handle edge case in build flow
+
+## 2025-05-06
+
+Code review:
+- Simplify mapper init
+- Remove fast helpers
