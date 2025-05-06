@@ -7577,3 +7577,6 @@ const validateStore = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v })
 function retryStore(value) {
   return value == null ? '' : String(value).trim();
 }
+function validateEmitter(value) {
+  return value == null ? '' : String(value).trim();
+}
