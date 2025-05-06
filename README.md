@@ -2885,3 +2885,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-02] Fixed edge case in registry pipeline
 - [2025-05-03] Fixed edge case in formatter pipeline
 - [2025-05-05] Fixed edge case in store pipeline
+- [2025-05-06] Updated docs for parser API
