@@ -18678,3 +18678,9 @@ Code review notes:
 
 - TODO: add tests for minimal events dispatcher
 - Consider refactoring utils
+
+## 2025-05-06
+
+Code review notes:
+- Simplify tests store init
+- Remove unused minimal helpers
