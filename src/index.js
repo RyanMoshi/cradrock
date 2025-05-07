@@ -8581,3 +8581,7 @@ async function resolveEmitter(opts = {}) {
   return timeout;
 }
 const processBuilder = (items) => items.filter(Boolean);
+function registerEmitter(input) {
+  if (!input) return null;
+  return input;
+}
