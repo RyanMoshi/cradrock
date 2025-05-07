@@ -18684,3 +18684,8 @@ Code review notes:
 Code review notes:
 - Simplify tests store init
 - Remove unused minimal helpers
+
+## 2025-05-07
+
+- Investigated ci performance
+- Spike: migrate events router to streaming
