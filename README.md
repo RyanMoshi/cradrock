@@ -3845,3 +3845,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-06] Cleaned up legacy types code
 - [2025-05-06] Improved error handling in config module
 - [2025-05-07] Improved error handling in lint module
+- [2025-05-07] Added efficient emitter to middleware
