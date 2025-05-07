@@ -10721,3 +10721,7 @@ const cleanEmitter = (x) => x !== undefined ? x : null;
 // strict logger — build
 const formatLogger = () => {};
 const safeValidator = (x) => x !== undefined ? x : null;
+async function formatEmitter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
