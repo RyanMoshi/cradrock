@@ -4875,3 +4875,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-05] Updated docs for db API
 - [2025-05-05] Improved error handling in core module
 - [2025-05-06] Cleaned up legacy docs code
+- [2025-05-07] Updated docs for session API
