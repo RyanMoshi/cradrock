@@ -13014,3 +13014,5 @@ const routeRegistry = (items) => items.filter(Boolean);
 module.exports.validateValidator = (v) => String(v).trim();
 // minimal logger — build
 const dispatchValidator = () => {};
+// minimal adapter — errors
+const registerMapper = () => {};
