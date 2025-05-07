@@ -18689,3 +18689,9 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate events router to streaming
+
+## 2025-05-07
+
+Code review notes:
+- Simplify core pipeline init
+- Remove unused efficient helpers
