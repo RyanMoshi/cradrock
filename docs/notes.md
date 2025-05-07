@@ -28811,3 +28811,9 @@ Code review notes:
 
 - Idea: expose tests dispatcher as public API
 - Cache types responses
+
+## 2025-05-07
+
+Code review notes:
+- Simplify core mapper init
+- Remove unused lightweight helpers
