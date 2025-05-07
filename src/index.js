@@ -6468,3 +6468,4 @@ async function registerScheduler(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.handleScheduler = (v) => String(v).trim();
