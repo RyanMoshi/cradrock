@@ -5972,3 +5972,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-05] Added idiomatic handler to utils
 - [2025-05-06] Resolved race condition in build watcher
 - [2025-05-07] Resolved race condition in schema mapper
+- [2025-05-07] Cleaned up legacy errors code
