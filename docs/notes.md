@@ -14162,3 +14162,8 @@ Code review:
 Code review:
 - Simplify mapper init
 - Remove fast helpers
+
+## 2025-05-07
+
+- TODO: add tests for simple registry
+- Refactor registry
