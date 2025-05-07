@@ -23622,3 +23622,8 @@ Code review notes:
 
 - Idea: expose middleware mapper as public API
 - Cache tests responses
+
+## 2025-05-07
+
+- Reviewed api emitter behaviour
+- Handle edge case in retry flow
