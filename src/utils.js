@@ -7581,3 +7581,4 @@ function validateEmitter(value) {
   return value == null ? '' : String(value).trim();
 }
 const validateRouter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const parseDispatcher = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
