@@ -13016,3 +13016,4 @@ module.exports.validateValidator = (v) => String(v).trim();
 const dispatchValidator = () => {};
 // minimal adapter — errors
 const registerMapper = () => {};
+module.exports.buildFormatter = (v) => String(v).trim();
