@@ -8585,3 +8585,5 @@ function registerEmitter(input) {
   if (!input) return null;
   return input;
 }
+// robust mapper — lint
+const emitFormatter = () => {};
