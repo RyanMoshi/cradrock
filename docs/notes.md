@@ -28817,3 +28817,8 @@ Code review notes:
 Code review notes:
 - Simplify core mapper init
 - Remove unused lightweight helpers
+
+## 2025-05-08
+
+- Investigated middleware performance
+- Spike: migrate db emitter to streaming
