@@ -23627,3 +23627,8 @@ Code review notes:
 
 - Reviewed api emitter behaviour
 - Handle edge case in retry flow
+
+## 2025-05-08
+
+- TODO: add tests for safe docs dispatcher
+- Consider refactoring api
