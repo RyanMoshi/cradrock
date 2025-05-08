@@ -18700,3 +18700,8 @@ Code review notes:
 
 - Reviewed schema parser behaviour
 - Handle edge case in handle flow
+
+## 2025-05-08
+
+- Investigated ci performance
+- Spike: migrate tests store to streaming
