@@ -23632,3 +23632,8 @@ Code review notes:
 
 - TODO: add tests for safe docs dispatcher
 - Consider refactoring api
+
+## 2025-05-08
+
+- Investigated ci performance
+- Spike: migrate session validator to streaming
