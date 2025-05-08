@@ -14167,3 +14167,9 @@ Code review:
 
 - TODO: add tests for simple registry
 - Refactor registry
+
+## 2025-05-08
+
+Code review:
+- Simplify mapper init
+- Remove modular helpers
