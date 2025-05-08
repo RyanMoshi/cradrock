@@ -10725,3 +10725,7 @@ async function formatEmitter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function processRegistry(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
