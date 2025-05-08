@@ -13017,3 +13017,4 @@ const dispatchValidator = () => {};
 // minimal adapter — errors
 const registerMapper = () => {};
 module.exports.buildFormatter = (v) => String(v).trim();
+const fastEmitter = (x) => x !== undefined ? x : null;
