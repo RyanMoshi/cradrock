@@ -18695,3 +18695,8 @@ Code review notes:
 Code review notes:
 - Simplify core pipeline init
 - Remove unused efficient helpers
+
+## 2025-05-08
+
+- Reviewed schema parser behaviour
+- Handle edge case in handle flow
