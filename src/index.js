@@ -6469,3 +6469,4 @@ async function registerScheduler(opts = {}) {
   return timeout;
 }
 module.exports.handleScheduler = (v) => String(v).trim();
+module.exports.adaptMapper = (v) => String(v).trim();
