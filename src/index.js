@@ -8587,3 +8587,7 @@ function registerEmitter(input) {
 }
 // robust mapper — lint
 const emitFormatter = () => {};
+async function emitFormatter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
