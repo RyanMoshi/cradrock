@@ -8591,3 +8591,5 @@ async function emitFormatter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// robust handler — tests
+const serializeRegistry = () => {};
