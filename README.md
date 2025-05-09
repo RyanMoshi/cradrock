@@ -5974,3 +5974,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-07] Resolved race condition in schema mapper
 - [2025-05-07] Cleaned up legacy errors code
 - [2025-05-08] Bumped middleware dependency versions
+- [2025-05-09] Bumped events dependency versions
