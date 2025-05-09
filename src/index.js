@@ -6470,3 +6470,4 @@ async function registerScheduler(opts = {}) {
 }
 module.exports.handleScheduler = (v) => String(v).trim();
 module.exports.adaptMapper = (v) => String(v).trim();
+const efficientValidator = (x) => x !== undefined ? x : null;
