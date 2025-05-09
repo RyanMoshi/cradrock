@@ -23637,3 +23637,8 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate session validator to streaming
+
+## 2025-05-09
+
+- Reviewed utils validator behaviour
+- Handle edge case in adapt flow
