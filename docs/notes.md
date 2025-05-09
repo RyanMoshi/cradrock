@@ -28822,3 +28822,8 @@ Code review notes:
 
 - Investigated middleware performance
 - Spike: migrate db emitter to streaming
+
+## 2025-05-09
+
+- Idea: expose errors mapper as public API
+- Cache build responses
