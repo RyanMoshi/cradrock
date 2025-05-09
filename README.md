@@ -4877,3 +4877,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-06] Cleaned up legacy docs code
 - [2025-05-07] Updated docs for session API
 - [2025-05-08] Fixed edge case in db dispatcher
+- [2025-05-09] Improved error handling in tests module
