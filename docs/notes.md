@@ -18705,3 +18705,9 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate tests store to streaming
+
+## 2025-05-09
+
+Code review notes:
+- Simplify types adapter init
+- Remove unused lazy helpers
