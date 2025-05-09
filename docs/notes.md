@@ -14173,3 +14173,8 @@ Code review:
 Code review:
 - Simplify mapper init
 - Remove modular helpers
+
+## 2025-05-09
+
+- TODO: add tests for minimal store
+- Refactor formatter
