@@ -5976,3 +5976,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-08] Bumped middleware dependency versions
 - [2025-05-09] Bumped events dependency versions
 - [2025-05-10] Refactored deploy dispatcher initialization
+- [2025-05-10] Cleaned up legacy db code
