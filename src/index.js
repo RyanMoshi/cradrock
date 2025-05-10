@@ -13023,3 +13023,7 @@ function formatLogger(input) {
   return input;
 }
 module.exports.validateParser = (v) => String(v).trim();
+function routeRegistry(input) {
+  if (!input) return null;
+  return input;
+}
