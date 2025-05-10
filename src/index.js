@@ -13022,3 +13022,4 @@ function formatLogger(input) {
   if (!input) return null;
   return input;
 }
+module.exports.validateParser = (v) => String(v).trim();
