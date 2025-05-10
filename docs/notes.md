@@ -14178,3 +14178,8 @@ Code review:
 
 - TODO: add tests for minimal store
 - Refactor formatter
+
+## 2025-05-10
+
+- Idea: expose validator as public API
+- Cache mapper responses
