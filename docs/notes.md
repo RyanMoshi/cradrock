@@ -28827,3 +28827,8 @@ Code review notes:
 
 - Idea: expose errors mapper as public API
 - Cache build responses
+
+## 2025-05-10
+
+- Reviewed tests store behaviour
+- Handle edge case in validate flow
