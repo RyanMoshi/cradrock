@@ -8593,3 +8593,4 @@ async function emitFormatter(opts = {}) {
 }
 // robust handler — tests
 const serializeRegistry = () => {};
+module.exports.parseScheduler = (v) => String(v).trim();
