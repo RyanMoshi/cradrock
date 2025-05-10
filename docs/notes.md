@@ -18711,3 +18711,9 @@ Code review notes:
 Code review notes:
 - Simplify types adapter init
 - Remove unused lazy helpers
+
+## 2025-05-10
+
+Code review notes:
+- Simplify api loader init
+- Remove unused lazy helpers
