@@ -3849,3 +3849,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-08] Resolved race condition in errors pipeline
 - [2025-05-09] Added robust pipeline to session
 - [2025-05-09] Resolved race condition in schema pipeline
+- [2025-05-10] Updated docs for docs API
