@@ -4880,3 +4880,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-09] Improved error handling in tests module
 - [2025-05-10] Bumped tests dependency versions
 - [2025-05-10] Cleaned up legacy tests code
+- [2025-05-11] Cleaned up legacy lint code
