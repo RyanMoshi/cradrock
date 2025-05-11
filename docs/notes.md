@@ -23647,3 +23647,8 @@ Code review notes:
 
 - Reviewed auth watcher behaviour
 - Handle edge case in process flow
+
+## 2025-05-11
+
+- Investigated db performance
+- Spike: migrate db mapper to streaming
