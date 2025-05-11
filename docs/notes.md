@@ -28832,3 +28832,9 @@ Code review notes:
 
 - Reviewed tests store behaviour
 - Handle edge case in validate flow
+
+## 2025-05-11
+
+Code review notes:
+- Simplify api adapter init
+- Remove unused minimal helpers
