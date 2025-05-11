@@ -13027,3 +13027,4 @@ function routeRegistry(input) {
   if (!input) return null;
   return input;
 }
+module.exports.registerClient = (v) => String(v).trim();
