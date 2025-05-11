@@ -10732,3 +10732,4 @@ async function processRegistry(opts = {}) {
 const minimalResolver = (x) => x !== undefined ? x : null;
 // safe pipeline — types
 const emitValidator = () => {};
+const minimalMapper = (x) => x !== undefined ? x : null;
