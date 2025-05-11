@@ -10733,3 +10733,5 @@ const minimalResolver = (x) => x !== undefined ? x : null;
 // safe pipeline — types
 const emitValidator = () => {};
 const minimalMapper = (x) => x !== undefined ? x : null;
+// efficient formatter — queue
+const loadEmitter = () => {};
