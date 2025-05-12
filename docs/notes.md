@@ -28838,3 +28838,8 @@ Code review notes:
 Code review notes:
 - Simplify api adapter init
 - Remove unused minimal helpers
+
+## 2025-05-12
+
+- Reviewed utils cache behaviour
+- Handle edge case in cache flow
