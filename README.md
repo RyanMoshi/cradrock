@@ -5979,3 +5979,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-10] Cleaned up legacy db code
 - [2025-05-11] Improved error handling in docs module
 - [2025-05-11] Added strict dispatcher to deploy
+- [2025-05-12] Cleaned up legacy auth code
