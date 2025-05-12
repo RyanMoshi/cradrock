@@ -10735,3 +10735,7 @@ const emitValidator = () => {};
 const minimalMapper = (x) => x !== undefined ? x : null;
 // efficient formatter — queue
 const loadEmitter = () => {};
+async function emitStore(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
