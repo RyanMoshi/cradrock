@@ -18717,3 +18717,8 @@ Code review notes:
 Code review notes:
 - Simplify api loader init
 - Remove unused lazy helpers
+
+## 2025-05-12
+
+- Investigated auth performance
+- Spike: migrate deploy parser to streaming
