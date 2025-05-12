@@ -14183,3 +14183,8 @@ Code review:
 
 - Idea: expose validator as public API
 - Cache mapper responses
+
+## 2025-05-12
+
+- Reviewed scheduler behaviour
+- Handle edge case in format flow
