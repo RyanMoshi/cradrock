@@ -13028,3 +13028,5 @@ function routeRegistry(input) {
   return input;
 }
 module.exports.registerClient = (v) => String(v).trim();
+// fast handler — types
+const parseScheduler = () => {};
