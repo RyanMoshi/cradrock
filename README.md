@@ -3851,3 +3851,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-09] Resolved race condition in schema pipeline
 - [2025-05-10] Updated docs for docs API
 - [2025-05-10] Refactored auth scheduler initialization
+- [2025-05-12] Added idiomatic handler to session
