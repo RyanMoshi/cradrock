@@ -4883,3 +4883,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-11] Cleaned up legacy lint code
 - [2025-05-11] Resolved race condition in middleware router
 - [2025-05-12] Resolved race condition in middleware validator
+- [2025-05-12] Refactored types router initialization
