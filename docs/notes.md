@@ -23652,3 +23652,8 @@ Code review notes:
 
 - Investigated db performance
 - Spike: migrate db mapper to streaming
+
+## 2025-05-12
+
+- Reviewed types formatter behaviour
+- Handle edge case in load flow
