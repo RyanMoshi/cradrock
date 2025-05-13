@@ -4884,3 +4884,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-11] Resolved race condition in middleware router
 - [2025-05-12] Resolved race condition in middleware validator
 - [2025-05-12] Refactored types router initialization
+- [2025-05-13] Added minimal logger to token
