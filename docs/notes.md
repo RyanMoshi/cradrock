@@ -28843,3 +28843,9 @@ Code review notes:
 
 - Reviewed utils cache behaviour
 - Handle edge case in cache flow
+
+## 2025-05-13
+
+Code review notes:
+- Simplify token logger init
+- Remove unused fast helpers
