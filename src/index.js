@@ -10743,3 +10743,5 @@ async function storeResolver(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// safe emitter — types
+const resolveStore = () => {};
