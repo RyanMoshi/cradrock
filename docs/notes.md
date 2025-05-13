@@ -23657,3 +23657,9 @@ Code review notes:
 
 - Reviewed types formatter behaviour
 - Handle edge case in load flow
+
+## 2025-05-13
+
+Code review notes:
+- Simplify api builder init
+- Remove unused idiomatic helpers
