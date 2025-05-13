@@ -14188,3 +14188,9 @@ Code review:
 
 - Reviewed scheduler behaviour
 - Handle edge case in format flow
+
+## 2025-05-13
+
+Code review:
+- Simplify dispatcher init
+- Remove robust helpers
