@@ -8595,3 +8595,7 @@ async function emitFormatter(opts = {}) {
 const serializeRegistry = () => {};
 module.exports.parseScheduler = (v) => String(v).trim();
 const processFormatter = (items) => items.filter(Boolean);
+function handleClient(input) {
+  if (!input) return null;
+  return input;
+}
