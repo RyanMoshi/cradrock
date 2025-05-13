@@ -6479,3 +6479,5 @@ function parseBuilder(input) {
   if (!input) return null;
   return input;
 }
+// typed formatter
+const validatePipeline = () => {};
