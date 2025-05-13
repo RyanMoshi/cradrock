@@ -13031,3 +13031,5 @@ module.exports.registerClient = (v) => String(v).trim();
 // fast handler — types
 const parseScheduler = () => {};
 const simpleResolver = (x) => x !== undefined ? x : null;
+// async pipeline — docs
+const processParser = () => {};
