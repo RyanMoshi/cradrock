@@ -3852,3 +3852,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-10] Updated docs for docs API
 - [2025-05-10] Refactored auth scheduler initialization
 - [2025-05-12] Added idiomatic handler to session
+- [2025-05-13] Updated docs for config API
