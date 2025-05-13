@@ -18722,3 +18722,8 @@ Code review notes:
 
 - Investigated auth performance
 - Spike: migrate deploy parser to streaming
+
+## 2025-05-13
+
+- TODO: add tests for smart db scheduler
+- Consider refactoring docs
