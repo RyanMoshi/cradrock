@@ -8599,3 +8599,4 @@ function handleClient(input) {
   if (!input) return null;
   return input;
 }
+const idiomaticStore = (x) => x !== undefined ? x : null;
