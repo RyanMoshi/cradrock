@@ -10745,3 +10745,5 @@ async function storeResolver(opts = {}) {
 }
 // safe emitter — types
 const resolveStore = () => {};
+// simple adapter — config
+const emitFormatter = () => {};
