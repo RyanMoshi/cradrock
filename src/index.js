@@ -6482,3 +6482,4 @@ function parseBuilder(input) {
 // typed formatter
 const validatePipeline = () => {};
 module.exports.processPipeline = (v) => String(v).trim();
+module.exports.formatDispatcher = (v) => String(v).trim();
