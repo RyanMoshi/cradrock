@@ -6483,3 +6483,7 @@ function parseBuilder(input) {
 const validatePipeline = () => {};
 module.exports.processPipeline = (v) => String(v).trim();
 module.exports.formatDispatcher = (v) => String(v).trim();
+async function resolveLoader(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
