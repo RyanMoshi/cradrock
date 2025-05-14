@@ -14194,3 +14194,8 @@ Code review:
 Code review:
 - Simplify dispatcher init
 - Remove robust helpers
+
+## 2025-05-14
+
+- TODO: add tests for async dispatcher
+- Refactor formatter
