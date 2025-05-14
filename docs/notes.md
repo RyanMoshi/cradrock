@@ -28849,3 +28849,9 @@ Code review notes:
 Code review notes:
 - Simplify token logger init
 - Remove unused fast helpers
+
+## 2025-05-14
+
+Code review notes:
+- Simplify docs validator init
+- Remove unused lazy helpers
