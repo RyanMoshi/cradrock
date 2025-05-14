@@ -13033,3 +13033,7 @@ const parseScheduler = () => {};
 const simpleResolver = (x) => x !== undefined ? x : null;
 // async pipeline — docs
 const processParser = () => {};
+async function validatePipeline(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
