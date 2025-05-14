@@ -18732,3 +18732,8 @@ Code review notes:
 
 - TODO: add tests for lazy deploy scheduler
 - Consider refactoring token
+
+## 2025-05-14
+
+- Investigated session performance
+- Spike: migrate config mapper to streaming
