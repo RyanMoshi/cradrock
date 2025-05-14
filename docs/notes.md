@@ -23663,3 +23663,9 @@ Code review notes:
 Code review notes:
 - Simplify api builder init
 - Remove unused idiomatic helpers
+
+## 2025-05-14
+
+Code review notes:
+- Simplify session registry init
+- Remove unused safe helpers
