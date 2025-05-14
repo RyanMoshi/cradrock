@@ -2892,3 +2892,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-10] Fixed edge case in dispatcher pipeline
 - [2025-05-12] Updated docs for formatter API
 - [2025-05-13] Refactored pipeline initialization
+- [2025-05-14] Resolved race condition in dispatcher
