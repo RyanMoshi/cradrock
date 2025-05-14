@@ -18727,3 +18727,8 @@ Code review notes:
 
 - TODO: add tests for smart db scheduler
 - Consider refactoring docs
+
+## 2025-05-14
+
+- TODO: add tests for lazy deploy scheduler
+- Consider refactoring token
