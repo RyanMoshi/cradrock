@@ -3855,3 +3855,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-13] Updated docs for config API
 - [2025-05-13] Bumped types dependency versions
 - [2025-05-14] Resolved race condition in token pipeline
+- [2025-05-15] Refactored db builder initialization
