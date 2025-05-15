@@ -23669,3 +23669,8 @@ Code review notes:
 Code review notes:
 - Simplify session registry init
 - Remove unused safe helpers
+
+## 2025-05-15
+
+- Reviewed ci resolver behaviour
+- Handle edge case in resolve flow
