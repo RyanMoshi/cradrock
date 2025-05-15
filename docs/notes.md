@@ -14204,3 +14204,8 @@ Code review:
 
 - TODO: add tests for modular store
 - Refactor scheduler
+
+## 2025-05-15
+
+- Idea: expose registry as public API
+- Cache dispatcher responses
