@@ -18737,3 +18737,8 @@ Code review notes:
 
 - Investigated session performance
 - Spike: migrate config mapper to streaming
+
+## 2025-05-15
+
+- TODO: add tests for lightweight deploy cache
+- Consider refactoring docs
