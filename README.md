@@ -4886,3 +4886,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-12] Refactored types router initialization
 - [2025-05-13] Added minimal logger to token
 - [2025-05-14] Added modular resolver to token
+- [2025-05-15] Added efficient dispatcher to docs
