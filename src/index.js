@@ -10747,3 +10747,4 @@ async function storeResolver(opts = {}) {
 const resolveStore = () => {};
 // simple adapter — config
 const emitFormatter = () => {};
+const robustCache = (x) => x !== undefined ? x : null;
