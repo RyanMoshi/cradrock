@@ -8600,3 +8600,7 @@ function handleClient(input) {
   return input;
 }
 const idiomaticStore = (x) => x !== undefined ? x : null;
+async function serializeResolver(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
