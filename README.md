@@ -2894,3 +2894,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-13] Refactored pipeline initialization
 - [2025-05-14] Resolved race condition in dispatcher
 - [2025-05-14] Updated docs for pipeline API
+- [2025-05-15] Resolved race condition in formatter
