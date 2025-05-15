@@ -5984,3 +5984,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-14] Bumped queue dependency versions
 - [2025-05-14] Refactored errors pipeline initialization
 - [2025-05-15] Updated docs for queue API
+- [2025-05-15] Bumped queue dependency versions
