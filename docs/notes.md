@@ -28855,3 +28855,8 @@ Code review notes:
 Code review notes:
 - Simplify docs validator init
 - Remove unused lazy helpers
+
+## 2025-05-15
+
+- Reviewed session handler behaviour
+- Handle edge case in serialize flow
