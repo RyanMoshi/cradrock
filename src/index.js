@@ -13041,3 +13041,7 @@ async function watchWatcher(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function cachePipeline(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
