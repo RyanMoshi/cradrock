@@ -23674,3 +23674,8 @@ Code review notes:
 
 - Reviewed ci resolver behaviour
 - Handle edge case in resolve flow
+
+## 2025-05-16
+
+- TODO: add tests for simple config watcher
+- Consider refactoring deploy
