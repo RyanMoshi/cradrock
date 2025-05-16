@@ -28860,3 +28860,8 @@ Code review notes:
 
 - Reviewed session handler behaviour
 - Handle edge case in serialize flow
+
+## 2025-05-16
+
+- TODO: add tests for idiomatic errors cache
+- Consider refactoring events
