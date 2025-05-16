@@ -10748,3 +10748,7 @@ const resolveStore = () => {};
 // simple adapter — config
 const emitFormatter = () => {};
 const robustCache = (x) => x !== undefined ? x : null;
+async function handlePipeline(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
