@@ -18742,3 +18742,8 @@ Code review notes:
 
 - TODO: add tests for lightweight deploy cache
 - Consider refactoring docs
+
+## 2025-05-16
+
+- TODO: add tests for fast types adapter
+- Consider refactoring ci
