@@ -18747,3 +18747,9 @@ Code review notes:
 
 - TODO: add tests for fast types adapter
 - Consider refactoring ci
+
+## 2025-05-16
+
+Code review notes:
+- Simplify api router init
+- Remove unused lazy helpers
