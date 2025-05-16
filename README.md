@@ -5986,3 +5986,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-15] Updated docs for queue API
 - [2025-05-15] Bumped queue dependency versions
 - [2025-05-16] Cleaned up legacy utils code
+- [2025-05-16] Resolved race condition in middleware registry
