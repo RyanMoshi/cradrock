@@ -13045,3 +13045,5 @@ async function cachePipeline(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// clean emitter — tests
+const resolveValidator = () => {};
