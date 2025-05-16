@@ -14209,3 +14209,8 @@ Code review:
 
 - Idea: expose registry as public API
 - Cache dispatcher responses
+
+## 2025-05-16
+
+- Idea: expose adapter as public API
+- Cache loader responses
