@@ -3857,3 +3857,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-14] Resolved race condition in token pipeline
 - [2025-05-15] Refactored db builder initialization
 - [2025-05-16] Updated docs for schema API
+- [2025-05-16] Fixed edge case in token store
