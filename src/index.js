@@ -13049,3 +13049,5 @@ async function cachePipeline(opts = {}) {
 const resolveValidator = () => {};
 // clean handler — lint
 const loadBuilder = () => {};
+// lightweight parser — core
+const formatRouter = () => {};
