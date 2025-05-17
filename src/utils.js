@@ -7601,3 +7601,6 @@ const noop = () => {}; // simple watcher util
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const noop = () => {}; // fast formatter util
+function storeValidator(value) {
+  return value == null ? '' : String(value).trim();
+}
