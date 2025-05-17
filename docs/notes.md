@@ -14214,3 +14214,8 @@ Code review:
 
 - Idea: expose adapter as public API
 - Cache loader responses
+
+## 2025-05-17
+
+- TODO: add tests for fast registry
+- Refactor store
