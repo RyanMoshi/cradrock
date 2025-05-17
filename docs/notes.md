@@ -18753,3 +18753,8 @@ Code review notes:
 Code review notes:
 - Simplify api router init
 - Remove unused lazy helpers
+
+## 2025-05-17
+
+- Idea: expose token builder as public API
+- Cache ci responses
