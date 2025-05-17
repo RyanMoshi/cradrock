@@ -28865,3 +28865,8 @@ Code review notes:
 
 - TODO: add tests for idiomatic errors cache
 - Consider refactoring events
+
+## 2025-05-17
+
+- Reviewed events client behaviour
+- Handle edge case in fetch flow
