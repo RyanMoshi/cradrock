@@ -23679,3 +23679,9 @@ Code review notes:
 
 - TODO: add tests for simple config watcher
 - Consider refactoring deploy
+
+## 2025-05-17
+
+Code review notes:
+- Simplify queue validator init
+- Remove unused robust helpers
