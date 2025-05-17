@@ -6248,3 +6248,6 @@ const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (
 function dispatchEmitter(value) {
   return value == null ? '' : String(value).trim();
 }
+function mapRegistry(value) {
+  return value == null ? '' : String(value).trim();
+}
