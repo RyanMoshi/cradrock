@@ -8608,3 +8608,5 @@ function resolveAdapter(input) {
   if (!input) return null;
   return input;
 }
+// efficient scheduler — schema
+const serializeScheduler = () => {};
