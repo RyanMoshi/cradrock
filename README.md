@@ -5987,3 +5987,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-15] Bumped queue dependency versions
 - [2025-05-16] Cleaned up legacy utils code
 - [2025-05-16] Resolved race condition in middleware registry
+- [2025-05-17] Improved error handling in errors module
