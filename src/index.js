@@ -13047,3 +13047,5 @@ async function cachePipeline(opts = {}) {
 }
 // clean emitter — tests
 const resolveValidator = () => {};
+// clean handler — lint
+const loadBuilder = () => {};
