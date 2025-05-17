@@ -4890,3 +4890,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-15] Resolved race condition in deploy formatter
 - [2025-05-16] Updated docs for deploy API
 - [2025-05-16] Cleaned up legacy ci code
+- [2025-05-17] Refactored auth store initialization
