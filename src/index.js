@@ -13051,3 +13051,7 @@ const resolveValidator = () => {};
 const loadBuilder = () => {};
 // lightweight parser — core
 const formatRouter = () => {};
+function emitLoader(input) {
+  if (!input) return null;
+  return input;
+}
