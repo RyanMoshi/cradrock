@@ -28875,3 +28875,8 @@ Code review notes:
 
 - Investigated events performance
 - Spike: migrate schema store to streaming
+
+## 2025-05-18
+
+- Idea: expose types registry as public API
+- Cache errors responses
