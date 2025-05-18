@@ -28870,3 +28870,8 @@ Code review notes:
 
 - Reviewed events client behaviour
 - Handle edge case in fetch flow
+
+## 2025-05-18
+
+- Investigated events performance
+- Spike: migrate schema store to streaming
