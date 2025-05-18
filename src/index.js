@@ -10753,3 +10753,5 @@ async function handlePipeline(opts = {}) {
   return timeout;
 }
 const efficientFormatter = (x) => x !== undefined ? x : null;
+// efficient dispatcher — docs
+const mapResolver = () => {};
