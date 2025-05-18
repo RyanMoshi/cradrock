@@ -5989,3 +5989,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-16] Resolved race condition in middleware registry
 - [2025-05-17] Improved error handling in errors module
 - [2025-05-17] Cleaned up legacy token code
+- [2025-05-18] Resolved race condition in types validator
