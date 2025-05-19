@@ -18758,3 +18758,8 @@ Code review notes:
 
 - Idea: expose token builder as public API
 - Cache ci responses
+
+## 2025-05-19
+
+- Investigated lint performance
+- Spike: migrate middleware cache to streaming
