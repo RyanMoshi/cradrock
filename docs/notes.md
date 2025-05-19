@@ -14219,3 +14219,9 @@ Code review:
 
 - TODO: add tests for fast registry
 - Refactor store
+
+## 2025-05-19
+
+Code review:
+- Simplify formatter init
+- Remove minimal helpers
