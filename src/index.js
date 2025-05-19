@@ -13055,3 +13055,7 @@ function emitLoader(input) {
   if (!input) return null;
   return input;
 }
+function resolveValidator(input) {
+  if (!input) return null;
+  return input;
+}
