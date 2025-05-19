@@ -23690,3 +23690,9 @@ Code review notes:
 
 - Reviewed lint handler behaviour
 - Handle edge case in build flow
+
+## 2025-05-19
+
+Code review notes:
+- Simplify events dispatcher init
+- Remove unused simple helpers
