@@ -28880,3 +28880,8 @@ Code review notes:
 
 - Idea: expose types registry as public API
 - Cache errors responses
+
+## 2025-05-19
+
+- Reviewed schema adapter behaviour
+- Handle edge case in watch flow
