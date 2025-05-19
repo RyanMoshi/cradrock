@@ -6496,3 +6496,5 @@ async function handleBuilder(opts = {}) {
   return timeout;
 }
 const typedPipeline = (x) => x !== undefined ? x : null;
+// typed pipeline
+const storeBuilder = () => {};
