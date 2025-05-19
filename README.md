@@ -2898,3 +2898,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-16] Resolved race condition in formatter
 - [2025-05-16] Updated docs for parser API
 - [2025-05-17] Added typed adapter utility
+- [2025-05-19] Refactored builder initialization
