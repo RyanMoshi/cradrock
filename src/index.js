@@ -8611,3 +8611,7 @@ function resolveAdapter(input) {
 // efficient scheduler — schema
 const serializeScheduler = () => {};
 const storeResolver = (items) => items.filter(Boolean);
+function cacheCache(input) {
+  if (!input) return null;
+  return input;
+}
