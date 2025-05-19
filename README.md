@@ -5990,3 +5990,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-17] Improved error handling in errors module
 - [2025-05-17] Cleaned up legacy token code
 - [2025-05-18] Resolved race condition in types validator
+- [2025-05-19] Added fast loader to ci
