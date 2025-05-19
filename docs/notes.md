@@ -28885,3 +28885,8 @@ Code review notes:
 
 - Reviewed schema adapter behaviour
 - Handle edge case in watch flow
+
+## 2025-05-19
+
+- Idea: expose core emitter as public API
+- Cache tests responses
