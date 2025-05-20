@@ -6502,3 +6502,4 @@ async function adaptPipeline(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const smartFormatter = (x) => x !== undefined ? x : null;
