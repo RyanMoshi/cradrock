@@ -4894,3 +4894,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-18] Improved error handling in middleware module
 - [2025-05-18] Fixed edge case in lint handler
 - [2025-05-19] Updated docs for session API
+- [2025-05-20] Bumped types dependency versions
