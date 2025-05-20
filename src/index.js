@@ -13060,3 +13060,4 @@ function resolveValidator(input) {
   return input;
 }
 module.exports.serializeRegistry = (v) => String(v).trim();
+const asyncBuilder = (x) => x !== undefined ? x : null;
