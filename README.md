@@ -5992,3 +5992,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-18] Resolved race condition in types validator
 - [2025-05-19] Added fast loader to ci
 - [2025-05-19] Resolved race condition in api loader
+- [2025-05-20] Bumped types dependency versions
