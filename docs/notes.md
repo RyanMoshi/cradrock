@@ -23696,3 +23696,8 @@ Code review notes:
 Code review notes:
 - Simplify events dispatcher init
 - Remove unused simple helpers
+
+## 2025-05-20
+
+- Investigated api performance
+- Spike: migrate lint registry to streaming
