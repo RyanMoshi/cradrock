@@ -13059,3 +13059,4 @@ function resolveValidator(input) {
   if (!input) return null;
   return input;
 }
+module.exports.serializeRegistry = (v) => String(v).trim();
