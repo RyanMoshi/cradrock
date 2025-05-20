@@ -28890,3 +28890,8 @@ Code review notes:
 
 - Idea: expose core emitter as public API
 - Cache tests responses
+
+## 2025-05-20
+
+- Reviewed session handler behaviour
+- Handle edge case in retry flow
