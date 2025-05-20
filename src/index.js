@@ -10763,3 +10763,4 @@ function processParser(input) {
   if (!input) return null;
   return input;
 }
+const strictAdapter = (x) => x !== undefined ? x : null;
