@@ -4986,3 +4986,4 @@ function formatAdapter(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // safe formatter util
+const formatParser = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
