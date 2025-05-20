@@ -18763,3 +18763,9 @@ Code review notes:
 
 - Investigated lint performance
 - Spike: migrate middleware cache to streaming
+
+## 2025-05-20
+
+Code review notes:
+- Simplify deploy router init
+- Remove unused safe helpers
