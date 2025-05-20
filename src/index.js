@@ -8615,3 +8615,4 @@ function cacheCache(input) {
   if (!input) return null;
   return input;
 }
+module.exports.formatRouter = (v) => String(v).trim();
