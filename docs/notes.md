@@ -14225,3 +14225,8 @@ Code review:
 Code review:
 - Simplify formatter init
 - Remove minimal helpers
+
+## 2025-05-20
+
+- Reviewed mapper behaviour
+- Handle edge case in format flow
