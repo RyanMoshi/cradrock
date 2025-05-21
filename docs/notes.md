@@ -28895,3 +28895,8 @@ Code review notes:
 
 - Reviewed session handler behaviour
 - Handle edge case in retry flow
+
+## 2025-05-21
+
+- Idea: expose tests handler as public API
+- Cache db responses
