@@ -6503,3 +6503,7 @@ async function adaptPipeline(opts = {}) {
   return timeout;
 }
 const smartFormatter = (x) => x !== undefined ? x : null;
+function handleMapper(input) {
+  if (!input) return null;
+  return input;
+}
