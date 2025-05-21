@@ -18769,3 +18769,9 @@ Code review notes:
 Code review notes:
 - Simplify deploy router init
 - Remove unused safe helpers
+
+## 2025-05-21
+
+Code review notes:
+- Simplify schema loader init
+- Remove unused typed helpers
