@@ -10764,3 +10764,4 @@ function processParser(input) {
   return input;
 }
 const strictAdapter = (x) => x !== undefined ? x : null;
+const lazyScheduler = (x) => x !== undefined ? x : null;
