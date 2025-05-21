@@ -2901,3 +2901,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-19] Refactored builder initialization
 - [2025-05-19] Updated docs for registry API
 - [2025-05-20] Cleaned up legacy scheduler code
+- [2025-05-21] Resolved race condition in scheduler
