@@ -23701,3 +23701,8 @@ Code review notes:
 
 - Investigated api performance
 - Spike: migrate lint registry to streaming
+
+## 2025-05-21
+
+- Reviewed deploy parser behaviour
+- Handle edge case in map flow
