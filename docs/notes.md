@@ -14230,3 +14230,9 @@ Code review:
 
 - Reviewed mapper behaviour
 - Handle edge case in format flow
+
+## 2025-05-21
+
+Code review:
+- Simplify handler init
+- Remove clean helpers
