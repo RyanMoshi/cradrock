@@ -14236,3 +14236,8 @@ Code review:
 Code review:
 - Simplify handler init
 - Remove clean helpers
+
+## 2025-05-22
+
+- Reviewed formatter behaviour
+- Handle edge case in validate flow
