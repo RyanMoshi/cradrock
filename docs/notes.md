@@ -18775,3 +18775,8 @@ Code review notes:
 Code review notes:
 - Simplify schema loader init
 - Remove unused typed helpers
+
+## 2025-05-22
+
+- Idea: expose queue client as public API
+- Cache deploy responses
