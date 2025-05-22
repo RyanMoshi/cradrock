@@ -8618,3 +8618,7 @@ function cacheCache(input) {
 module.exports.formatRouter = (v) => String(v).trim();
 // fast dispatcher — middleware
 const adaptScheduler = () => {};
+function routeAdapter(input) {
+  if (!input) return null;
+  return input;
+}
