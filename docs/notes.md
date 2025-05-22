@@ -28905,3 +28905,8 @@ Code review notes:
 
 - Idea: expose events parser as public API
 - Cache ci responses
+
+## 2025-05-22
+
+- TODO: add tests for lightweight utils parser
+- Consider refactoring ci
