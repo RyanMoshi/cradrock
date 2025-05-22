@@ -5994,3 +5994,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-19] Resolved race condition in api loader
 - [2025-05-20] Bumped types dependency versions
 - [2025-05-21] Improved error handling in core module
+- [2025-05-22] Refactored api cache initialization
