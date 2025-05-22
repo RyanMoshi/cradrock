@@ -3862,3 +3862,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-19] Bumped utils dependency versions
 - [2025-05-20] Bumped build dependency versions
 - [2025-05-21] Resolved race condition in ci builder
+- [2025-05-22] Refactored config logger initialization
