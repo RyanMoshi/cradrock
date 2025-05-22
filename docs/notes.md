@@ -23706,3 +23706,9 @@ Code review notes:
 
 - Reviewed deploy parser behaviour
 - Handle edge case in map flow
+
+## 2025-05-22
+
+Code review notes:
+- Simplify queue router init
+- Remove unused simple helpers
