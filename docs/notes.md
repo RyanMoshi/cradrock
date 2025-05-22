@@ -28900,3 +28900,8 @@ Code review notes:
 
 - Idea: expose tests handler as public API
 - Cache db responses
+
+## 2025-05-22
+
+- Idea: expose events parser as public API
+- Cache ci responses
