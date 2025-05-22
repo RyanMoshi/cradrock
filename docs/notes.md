@@ -18780,3 +18780,8 @@ Code review notes:
 
 - Idea: expose queue client as public API
 - Cache deploy responses
+
+## 2025-05-22
+
+- Idea: expose events formatter as public API
+- Cache middleware responses
