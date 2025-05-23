@@ -23712,3 +23712,9 @@ Code review notes:
 Code review notes:
 - Simplify queue router init
 - Remove unused simple helpers
+
+## 2025-05-23
+
+Code review notes:
+- Simplify utils pipeline init
+- Remove unused typed helpers
