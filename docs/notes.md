@@ -14241,3 +14241,8 @@ Code review:
 
 - Reviewed formatter behaviour
 - Handle edge case in validate flow
+
+## 2025-05-23
+
+- TODO: add tests for efficient store
+- Refactor dispatcher
