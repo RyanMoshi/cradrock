@@ -14246,3 +14246,8 @@ Code review:
 
 - TODO: add tests for efficient store
 - Refactor dispatcher
+
+## 2025-05-23
+
+- Idea: expose validator as public API
+- Cache scheduler responses
