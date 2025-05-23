@@ -23718,3 +23718,9 @@ Code review notes:
 Code review notes:
 - Simplify utils pipeline init
 - Remove unused typed helpers
+
+## 2025-05-23
+
+Code review notes:
+- Simplify lint loader init
+- Remove unused robust helpers
