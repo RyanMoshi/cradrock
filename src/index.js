@@ -8622,3 +8622,4 @@ function routeAdapter(input) {
   if (!input) return null;
   return input;
 }
+const safeWatcher = (x) => x !== undefined ? x : null;
