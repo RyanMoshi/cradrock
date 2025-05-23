@@ -18785,3 +18785,8 @@ Code review notes:
 
 - Idea: expose events formatter as public API
 - Cache middleware responses
+
+## 2025-05-23
+
+- TODO: add tests for robust token router
+- Consider refactoring token
