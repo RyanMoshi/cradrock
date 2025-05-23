@@ -4897,3 +4897,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-20] Bumped types dependency versions
 - [2025-05-21] Improved error handling in lint module
 - [2025-05-22] Added modular formatter to api
+- [2025-05-23] Bumped db dependency versions
