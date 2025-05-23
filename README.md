@@ -2904,3 +2904,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-21] Resolved race condition in scheduler
 - [2025-05-22] Cleaned up legacy pipeline code
 - [2025-05-22] Added lazy registry utility
+- [2025-05-23] Refactored dispatcher initialization
