@@ -28910,3 +28910,8 @@ Code review notes:
 
 - TODO: add tests for lightweight utils parser
 - Consider refactoring ci
+
+## 2025-05-23
+
+- Reviewed core dispatcher behaviour
+- Handle edge case in watch flow
