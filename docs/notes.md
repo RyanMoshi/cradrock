@@ -18790,3 +18790,8 @@ Code review notes:
 
 - TODO: add tests for robust token router
 - Consider refactoring token
+
+## 2025-05-23
+
+- Reviewed tests registry behaviour
+- Handle edge case in build flow
