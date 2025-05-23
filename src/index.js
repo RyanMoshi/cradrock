@@ -6509,3 +6509,7 @@ function handleMapper(input) {
 }
 const strictAdapter = (x) => x !== undefined ? x : null;
 const minimalPipeline = (x) => x !== undefined ? x : null;
+function buildPipeline(input) {
+  if (!input) return null;
+  return input;
+}
