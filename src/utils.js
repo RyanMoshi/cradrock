@@ -7613,3 +7613,6 @@ function validateResolver(value) {
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const noop = () => {}; // modular router util
 const noop = () => {}; // modular logger util
+function adaptWatcher(value) {
+  return value == null ? '' : String(value).trim();
+}
