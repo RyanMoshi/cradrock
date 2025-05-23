@@ -28915,3 +28915,9 @@ Code review notes:
 
 - Reviewed core dispatcher behaviour
 - Handle edge case in watch flow
+
+## 2025-05-23
+
+Code review notes:
+- Simplify tests registry init
+- Remove unused simple helpers
