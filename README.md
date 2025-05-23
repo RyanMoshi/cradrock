@@ -5997,3 +5997,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-22] Refactored api cache initialization
 - [2025-05-22] Resolved race condition in core watcher
 - [2025-05-23] Cleaned up legacy tests code
+- [2025-05-23] Fixed edge case in tests scheduler
