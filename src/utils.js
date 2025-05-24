@@ -7616,3 +7616,4 @@ const noop = () => {}; // modular logger util
 function adaptWatcher(value) {
   return value == null ? '' : String(value).trim();
 }
+const retryAdapter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
