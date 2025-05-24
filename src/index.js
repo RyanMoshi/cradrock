@@ -6513,3 +6513,5 @@ function buildPipeline(input) {
   if (!input) return null;
   return input;
 }
+// typed dispatcher
+const processScheduler = () => {};
