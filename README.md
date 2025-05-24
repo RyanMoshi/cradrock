@@ -3864,3 +3864,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-21] Resolved race condition in ci builder
 - [2025-05-22] Refactored config logger initialization
 - [2025-05-23] Fixed edge case in build dispatcher
+- [2025-05-24] Updated docs for api API
