@@ -18795,3 +18795,8 @@ Code review notes:
 
 - Reviewed tests registry behaviour
 - Handle edge case in build flow
+
+## 2025-05-24
+
+- Idea: expose build client as public API
+- Cache errors responses
