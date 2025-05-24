@@ -8623,3 +8623,4 @@ function routeAdapter(input) {
   return input;
 }
 const safeWatcher = (x) => x !== undefined ? x : null;
+const loadParser = (items) => items.filter(Boolean);
