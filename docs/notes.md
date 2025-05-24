@@ -23724,3 +23724,8 @@ Code review notes:
 Code review notes:
 - Simplify lint loader init
 - Remove unused robust helpers
+
+## 2025-05-24
+
+- Investigated events performance
+- Spike: migrate middleware logger to streaming
