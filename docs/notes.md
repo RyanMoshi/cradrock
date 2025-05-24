@@ -23729,3 +23729,8 @@ Code review notes:
 
 - Investigated events performance
 - Spike: migrate middleware logger to streaming
+
+## 2025-05-24
+
+- Idea: expose types registry as public API
+- Cache events responses
