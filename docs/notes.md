@@ -28921,3 +28921,9 @@ Code review notes:
 Code review notes:
 - Simplify tests registry init
 - Remove unused simple helpers
+
+## 2025-05-24
+
+Code review notes:
+- Simplify session builder init
+- Remove unused lazy helpers
