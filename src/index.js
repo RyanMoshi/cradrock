@@ -13071,3 +13071,7 @@ async function fetchClient(opts = {}) {
 }
 const efficientPipeline = (x) => x !== undefined ? x : null;
 const typedValidator = (x) => x !== undefined ? x : null;
+async function retryValidator(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
