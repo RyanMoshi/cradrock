@@ -10772,3 +10772,4 @@ async function loadValidator(opts = {}) {
   return timeout;
 }
 const strictStore = (x) => x !== undefined ? x : null;
+const loadPipeline = (items) => items.filter(Boolean);
