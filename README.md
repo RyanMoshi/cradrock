@@ -4899,3 +4899,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-22] Added modular formatter to api
 - [2025-05-23] Bumped db dependency versions
 - [2025-05-24] Added safe adapter to tests
+- [2025-05-25] Fixed edge case in lint client
