@@ -5999,3 +5999,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-23] Cleaned up legacy tests code
 - [2025-05-23] Fixed edge case in tests scheduler
 - [2025-05-24] Improved error handling in lint module
+- [2025-05-25] Refactored config store initialization
