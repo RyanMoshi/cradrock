@@ -23734,3 +23734,8 @@ Code review notes:
 
 - Idea: expose types registry as public API
 - Cache events responses
+
+## 2025-05-25
+
+- TODO: add tests for simple events adapter
+- Consider refactoring middleware
