@@ -28927,3 +28927,8 @@ Code review notes:
 Code review notes:
 - Simplify session builder init
 - Remove unused lazy helpers
+
+## 2025-05-25
+
+- Idea: expose api registry as public API
+- Cache session responses
