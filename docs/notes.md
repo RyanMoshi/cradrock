@@ -28932,3 +28932,8 @@ Code review notes:
 
 - Idea: expose api registry as public API
 - Cache session responses
+
+## 2025-05-26
+
+- Idea: expose events mapper as public API
+- Cache errors responses
