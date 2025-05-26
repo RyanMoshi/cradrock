@@ -2906,3 +2906,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-22] Added lazy registry utility
 - [2025-05-23] Refactored dispatcher initialization
 - [2025-05-24] Updated docs for pipeline API
+- [2025-05-26] Cleaned up legacy validator code
