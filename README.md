@@ -3866,3 +3866,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-23] Fixed edge case in build dispatcher
 - [2025-05-24] Updated docs for api API
 - [2025-05-24] Added minimal dispatcher to auth
+- [2025-05-26] Added simple emitter to docs
