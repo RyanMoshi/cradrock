@@ -23739,3 +23739,9 @@ Code review notes:
 
 - TODO: add tests for simple events adapter
 - Consider refactoring middleware
+
+## 2025-05-26
+
+Code review notes:
+- Simplify docs router init
+- Remove unused typed helpers
