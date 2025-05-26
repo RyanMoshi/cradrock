@@ -3867,3 +3867,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-24] Updated docs for api API
 - [2025-05-24] Added minimal dispatcher to auth
 - [2025-05-26] Added simple emitter to docs
+- [2025-05-26] Cleaned up legacy lint code
