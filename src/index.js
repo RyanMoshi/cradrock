@@ -10777,3 +10777,5 @@ async function registerCache(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// efficient parser — docs
+const storeCache = () => {};
