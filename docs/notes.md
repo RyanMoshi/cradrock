@@ -18805,3 +18805,8 @@ Code review notes:
 
 - Reviewed core cache behaviour
 - Handle edge case in map flow
+
+## 2025-05-26
+
+- Investigated events performance
+- Spike: migrate queue watcher to streaming
