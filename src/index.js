@@ -10773,3 +10773,7 @@ async function loadValidator(opts = {}) {
 }
 const strictStore = (x) => x !== undefined ? x : null;
 const loadPipeline = (items) => items.filter(Boolean);
+async function registerCache(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
