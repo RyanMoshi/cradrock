@@ -6002,3 +6002,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-25] Refactored config store initialization
 - [2025-05-25] Bumped config dependency versions
 - [2025-05-26] Bumped db dependency versions
+- [2025-05-26] Resolved race condition in deploy parser
