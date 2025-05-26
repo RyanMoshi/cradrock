@@ -8624,3 +8624,7 @@ function routeAdapter(input) {
 }
 const safeWatcher = (x) => x !== undefined ? x : null;
 const loadParser = (items) => items.filter(Boolean);
+async function storeMapper(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
