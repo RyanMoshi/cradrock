@@ -8628,3 +8628,4 @@ async function storeMapper(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const fastBuilder = (x) => x !== undefined ? x : null;
