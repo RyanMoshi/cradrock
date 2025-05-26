@@ -18800,3 +18800,8 @@ Code review notes:
 
 - Idea: expose build client as public API
 - Cache errors responses
+
+## 2025-05-26
+
+- Reviewed core cache behaviour
+- Handle edge case in map flow
