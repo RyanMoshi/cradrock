@@ -6515,3 +6515,7 @@ function buildPipeline(input) {
 }
 // typed dispatcher
 const processScheduler = () => {};
+function parseParser(input) {
+  if (!input) return null;
+  return input;
+}
