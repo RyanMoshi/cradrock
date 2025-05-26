@@ -13079,3 +13079,4 @@ async function watchWatcher(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const efficientPipeline = (x) => x !== undefined ? x : null;
