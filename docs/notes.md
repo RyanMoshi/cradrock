@@ -14256,3 +14256,8 @@ Code review:
 
 - Reviewed store behaviour
 - Handle edge case in store flow
+
+## 2025-05-26
+
+- TODO: add tests for clean store
+- Refactor adapter
