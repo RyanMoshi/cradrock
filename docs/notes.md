@@ -23745,3 +23745,8 @@ Code review notes:
 Code review notes:
 - Simplify docs router init
 - Remove unused typed helpers
+
+## 2025-05-27
+
+- Reviewed auth builder behaviour
+- Handle edge case in retry flow
