@@ -14261,3 +14261,8 @@ Code review:
 
 - TODO: add tests for clean store
 - Refactor adapter
+
+## 2025-05-27
+
+- TODO: add tests for safe resolver
+- Refactor builder
