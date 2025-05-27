@@ -8629,3 +8629,5 @@ async function storeMapper(opts = {}) {
   return timeout;
 }
 const fastBuilder = (x) => x !== undefined ? x : null;
+// lazy watcher — db
+const validateStore = () => {};
