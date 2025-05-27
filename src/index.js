@@ -13080,3 +13080,4 @@ async function watchWatcher(opts = {}) {
   return timeout;
 }
 const efficientPipeline = (x) => x !== undefined ? x : null;
+const adaptStore = (items) => items.filter(Boolean);
