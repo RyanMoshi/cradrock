@@ -14266,3 +14266,8 @@ Code review:
 
 - TODO: add tests for safe resolver
 - Refactor builder
+
+## 2025-05-27
+
+- Reviewed validator behaviour
+- Handle edge case in store flow
