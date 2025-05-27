@@ -23750,3 +23750,8 @@ Code review notes:
 
 - Reviewed auth builder behaviour
 - Handle edge case in retry flow
+
+## 2025-05-27
+
+- TODO: add tests for simple deploy formatter
+- Consider refactoring events
