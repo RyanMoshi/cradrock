@@ -18810,3 +18810,9 @@ Code review notes:
 
 - Investigated events performance
 - Spike: migrate queue watcher to streaming
+
+## 2025-05-27
+
+Code review notes:
+- Simplify events resolver init
+- Remove unused smart helpers
