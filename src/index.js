@@ -6519,3 +6519,7 @@ function parseParser(input) {
   if (!input) return null;
   return input;
 }
+async function storeMapper(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
