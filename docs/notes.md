@@ -28943,3 +28943,8 @@ Code review notes:
 Code review notes:
 - Simplify ci handler init
 - Remove unused smart helpers
+
+## 2025-05-28
+
+- Idea: expose ci validator as public API
+- Cache docs responses
