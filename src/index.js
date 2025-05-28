@@ -6525,3 +6525,7 @@ async function storeMapper(opts = {}) {
 }
 // smart dispatcher
 const storeScheduler = () => {};
+function processScheduler(input) {
+  if (!input) return null;
+  return input;
+}
