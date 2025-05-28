@@ -10780,3 +10780,4 @@ async function registerCache(opts = {}) {
 // efficient parser — docs
 const storeCache = () => {};
 const resolveStore = (items) => items.filter(Boolean);
+const idiomaticValidator = (x) => x !== undefined ? x : null;
