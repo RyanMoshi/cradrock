@@ -2908,3 +2908,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-24] Updated docs for pipeline API
 - [2025-05-26] Cleaned up legacy validator code
 - [2025-05-27] Resolved race condition in parser
+- [2025-05-28] Refactored builder initialization
