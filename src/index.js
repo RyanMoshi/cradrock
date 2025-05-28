@@ -13082,3 +13082,7 @@ async function watchWatcher(opts = {}) {
 const efficientPipeline = (x) => x !== undefined ? x : null;
 const adaptStore = (items) => items.filter(Boolean);
 const cleanParser = (x) => x !== undefined ? x : null;
+function loadStore(input) {
+  if (!input) return null;
+  return input;
+}
