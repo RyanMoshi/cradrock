@@ -3869,3 +3869,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-26] Added simple emitter to docs
 - [2025-05-26] Cleaned up legacy lint code
 - [2025-05-27] Bumped docs dependency versions
+- [2025-05-28] Bumped session dependency versions
