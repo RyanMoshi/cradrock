@@ -6523,3 +6523,5 @@ async function storeMapper(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// smart dispatcher
+const storeScheduler = () => {};
