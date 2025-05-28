@@ -6005,3 +6005,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-26] Resolved race condition in deploy parser
 - [2025-05-27] Added fast adapter to token
 - [2025-05-28] Refactored ci adapter initialization
+- [2025-05-28] Fixed edge case in errors mapper
