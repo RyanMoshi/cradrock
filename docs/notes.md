@@ -14271,3 +14271,8 @@ Code review:
 
 - Reviewed validator behaviour
 - Handle edge case in store flow
+
+## 2025-05-28
+
+- Reviewed mapper behaviour
+- Handle edge case in load flow
