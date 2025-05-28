@@ -8631,3 +8631,4 @@ async function storeMapper(opts = {}) {
 const fastBuilder = (x) => x !== undefined ? x : null;
 // lazy watcher — db
 const validateStore = () => {};
+const validateRegistry = (items) => items.filter(Boolean);
