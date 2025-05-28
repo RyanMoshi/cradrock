@@ -23755,3 +23755,9 @@ Code review notes:
 
 - TODO: add tests for simple deploy formatter
 - Consider refactoring events
+
+## 2025-05-28
+
+Code review notes:
+- Simplify core loader init
+- Remove unused strict helpers
