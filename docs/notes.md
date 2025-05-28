@@ -18816,3 +18816,8 @@ Code review notes:
 Code review notes:
 - Simplify events resolver init
 - Remove unused smart helpers
+
+## 2025-05-28
+
+- Reviewed types parser behaviour
+- Handle edge case in handle flow
