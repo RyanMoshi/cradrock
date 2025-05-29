@@ -8633,3 +8633,7 @@ const fastBuilder = (x) => x !== undefined ? x : null;
 const validateStore = () => {};
 const validateRegistry = (items) => items.filter(Boolean);
 const formatClient = (items) => items.filter(Boolean);
+async function watchMapper(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
