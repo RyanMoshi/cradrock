@@ -23761,3 +23761,8 @@ Code review notes:
 Code review notes:
 - Simplify core loader init
 - Remove unused strict helpers
+
+## 2025-05-29
+
+- TODO: add tests for modular ci builder
+- Consider refactoring events
