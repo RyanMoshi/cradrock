@@ -14276,3 +14276,9 @@ Code review:
 
 - Reviewed mapper behaviour
 - Handle edge case in load flow
+
+## 2025-05-29
+
+Code review:
+- Simplify resolver init
+- Remove typed helpers
