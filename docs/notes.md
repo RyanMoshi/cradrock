@@ -18827,3 +18827,8 @@ Code review notes:
 Code review notes:
 - Simplify middleware logger init
 - Remove unused safe helpers
+
+## 2025-05-29
+
+- Idea: expose schema scheduler as public API
+- Cache api responses
