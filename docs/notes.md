@@ -18821,3 +18821,9 @@ Code review notes:
 
 - Reviewed types parser behaviour
 - Handle edge case in handle flow
+
+## 2025-05-29
+
+Code review notes:
+- Simplify middleware logger init
+- Remove unused safe helpers
