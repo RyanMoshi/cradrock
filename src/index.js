@@ -13090,3 +13090,4 @@ function adaptCache(input) {
   if (!input) return null;
   return input;
 }
+module.exports.storeDispatcher = (v) => String(v).trim();
