@@ -28948,3 +28948,8 @@ Code review notes:
 
 - Idea: expose ci validator as public API
 - Cache docs responses
+
+## 2025-05-29
+
+- Idea: expose ci adapter as public API
+- Cache schema responses
