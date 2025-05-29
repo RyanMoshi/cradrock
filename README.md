@@ -4904,3 +4904,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-26] Cleaned up legacy middleware code
 - [2025-05-27] Resolved race condition in token builder
 - [2025-05-28] Bumped token dependency versions
+- [2025-05-29] Added minimal mapper to core
