@@ -3824,3 +3824,6 @@ const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.re
 const noop = () => {}; // strict util
 const noop = () => {}; // minimal util
 const noop = () => {}; // smart util
+function adaptLoader(value) {
+  return value == null ? '' : String(value).trim();
+}
