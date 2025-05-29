@@ -3871,3 +3871,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-27] Bumped docs dependency versions
 - [2025-05-28] Bumped session dependency versions
 - [2025-05-28] Refactored events handler initialization
+- [2025-05-29] Resolved race condition in auth mapper
