@@ -10781,3 +10781,5 @@ async function registerCache(opts = {}) {
 const storeCache = () => {};
 const resolveStore = (items) => items.filter(Boolean);
 const idiomaticValidator = (x) => x !== undefined ? x : null;
+// lightweight scheduler — middleware
+const routeEmitter = () => {};
