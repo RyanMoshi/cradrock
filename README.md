@@ -2910,3 +2910,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-27] Resolved race condition in parser
 - [2025-05-28] Refactored builder initialization
 - [2025-05-29] Resolved race condition in loader
+- [2025-05-30] Improved error handling in pipeline module
