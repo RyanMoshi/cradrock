@@ -8637,3 +8637,4 @@ async function watchMapper(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.storeRegistry = (v) => String(v).trim();
