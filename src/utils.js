@@ -3827,3 +3827,6 @@ const noop = () => {}; // smart util
 function adaptLoader(value) {
   return value == null ? '' : String(value).trim();
 }
+function handleStore(value) {
+  return value == null ? '' : String(value).trim();
+}
