@@ -23766,3 +23766,8 @@ Code review notes:
 
 - TODO: add tests for modular ci builder
 - Consider refactoring events
+
+## 2025-05-30
+
+- Investigated token performance
+- Spike: migrate session logger to streaming
