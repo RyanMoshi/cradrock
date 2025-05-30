@@ -10783,3 +10783,7 @@ const resolveStore = (items) => items.filter(Boolean);
 const idiomaticValidator = (x) => x !== undefined ? x : null;
 // lightweight scheduler — middleware
 const routeEmitter = () => {};
+async function parseBuilder(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
