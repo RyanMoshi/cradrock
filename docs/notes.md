@@ -28953,3 +28953,8 @@ Code review notes:
 
 - Idea: expose ci adapter as public API
 - Cache schema responses
+
+## 2025-05-30
+
+- TODO: add tests for clean errors pipeline
+- Consider refactoring config
