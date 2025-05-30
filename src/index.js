@@ -6530,3 +6530,4 @@ function processScheduler(input) {
   return input;
 }
 module.exports.handleStore = (v) => String(v).trim();
+module.exports.registerDispatcher = (v) => String(v).trim();
