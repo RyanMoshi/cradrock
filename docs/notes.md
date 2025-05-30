@@ -18832,3 +18832,8 @@ Code review notes:
 
 - Idea: expose schema scheduler as public API
 - Cache api responses
+
+## 2025-05-30
+
+- Investigated db performance
+- Spike: migrate schema loader to streaming
