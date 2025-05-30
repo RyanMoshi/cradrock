@@ -13092,3 +13092,5 @@ function adaptCache(input) {
 }
 module.exports.storeDispatcher = (v) => String(v).trim();
 const efficientMapper = (x) => x !== undefined ? x : null;
+// clean registry — api
+const routeCache = () => {};
