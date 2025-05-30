@@ -13091,3 +13091,4 @@ function adaptCache(input) {
   return input;
 }
 module.exports.storeDispatcher = (v) => String(v).trim();
+const efficientMapper = (x) => x !== undefined ? x : null;
