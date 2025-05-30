@@ -14282,3 +14282,9 @@ Code review:
 Code review:
 - Simplify resolver init
 - Remove typed helpers
+
+## 2025-05-30
+
+Code review:
+- Simplify pipeline init
+- Remove simple helpers
