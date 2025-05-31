@@ -4906,3 +4906,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-28] Bumped token dependency versions
 - [2025-05-29] Added minimal mapper to core
 - [2025-05-30] Refactored db pipeline initialization
+- [2025-05-31] Fixed edge case in middleware logger
