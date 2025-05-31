@@ -18837,3 +18837,8 @@ Code review notes:
 
 - Investigated db performance
 - Spike: migrate schema loader to streaming
+
+## 2025-05-31
+
+- TODO: add tests for async deploy watcher
+- Consider refactoring config
