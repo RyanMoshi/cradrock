@@ -13094,3 +13094,4 @@ module.exports.storeDispatcher = (v) => String(v).trim();
 const efficientMapper = (x) => x !== undefined ? x : null;
 // clean registry — api
 const routeCache = () => {};
+const adaptPipeline = (items) => items.filter(Boolean);
