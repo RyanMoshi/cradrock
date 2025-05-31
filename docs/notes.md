@@ -28958,3 +28958,8 @@ Code review notes:
 
 - TODO: add tests for clean errors pipeline
 - Consider refactoring config
+
+## 2025-05-31
+
+- Investigated utils performance
+- Spike: migrate build builder to streaming
