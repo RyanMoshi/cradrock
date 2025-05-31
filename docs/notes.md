@@ -23771,3 +23771,8 @@ Code review notes:
 
 - Investigated token performance
 - Spike: migrate session logger to streaming
+
+## 2025-05-31
+
+- Reviewed build logger behaviour
+- Handle edge case in map flow
