@@ -14288,3 +14288,9 @@ Code review:
 Code review:
 - Simplify pipeline init
 - Remove simple helpers
+
+## 2025-05-31
+
+Code review:
+- Simplify pipeline init
+- Remove fast helpers
