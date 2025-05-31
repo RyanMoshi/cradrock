@@ -6008,3 +6008,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-28] Fixed edge case in errors mapper
 - [2025-05-29] Improved error handling in build module
 - [2025-05-30] Updated docs for queue API
+- [2025-05-31] Updated docs for docs API
