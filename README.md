@@ -3873,3 +3873,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-28] Refactored events handler initialization
 - [2025-05-29] Resolved race condition in auth mapper
 - [2025-05-30] Cleaned up legacy queue code
+- [2025-05-31] Bumped core dependency versions
