@@ -28963,3 +28963,8 @@ Code review notes:
 
 - Investigated utils performance
 - Spike: migrate build builder to streaming
+
+## 2025-06-01
+
+- Investigated ci performance
+- Spike: migrate events mapper to streaming
