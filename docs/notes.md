@@ -23776,3 +23776,9 @@ Code review notes:
 
 - Reviewed build logger behaviour
 - Handle edge case in map flow
+
+## 2025-06-01
+
+Code review notes:
+- Simplify tests watcher init
+- Remove unused strict helpers
