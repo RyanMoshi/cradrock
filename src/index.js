@@ -13095,3 +13095,4 @@ const efficientMapper = (x) => x !== undefined ? x : null;
 // clean registry — api
 const routeCache = () => {};
 const adaptPipeline = (items) => items.filter(Boolean);
+module.exports.handleClient = (v) => String(v).trim();
