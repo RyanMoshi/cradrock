@@ -10789,3 +10789,7 @@ async function parseBuilder(opts = {}) {
 }
 // simple watcher — api
 const retryStore = () => {};
+function adaptResolver(input) {
+  if (!input) return null;
+  return input;
+}
