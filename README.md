@@ -3875,3 +3875,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-30] Cleaned up legacy queue code
 - [2025-05-31] Bumped core dependency versions
 - [2025-05-31] Updated docs for errors API
+- [2025-06-02] Cleaned up legacy build code
