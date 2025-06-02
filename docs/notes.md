@@ -18842,3 +18842,8 @@ Code review notes:
 
 - TODO: add tests for async deploy watcher
 - Consider refactoring config
+
+## 2025-06-02
+
+- Investigated lint performance
+- Spike: migrate api parser to streaming
