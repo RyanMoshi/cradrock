@@ -23782,3 +23782,8 @@ Code review notes:
 Code review notes:
 - Simplify tests watcher init
 - Remove unused strict helpers
+
+## 2025-06-02
+
+- Reviewed lint emitter behaviour
+- Handle edge case in resolve flow
