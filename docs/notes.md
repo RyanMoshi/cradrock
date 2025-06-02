@@ -14294,3 +14294,8 @@ Code review:
 Code review:
 - Simplify pipeline init
 - Remove fast helpers
+
+## 2025-06-02
+
+- TODO: add tests for robust loader
+- Refactor validator
