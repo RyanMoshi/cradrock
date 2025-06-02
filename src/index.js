@@ -10794,3 +10794,5 @@ function adaptResolver(input) {
   return input;
 }
 const retryBuilder = (items) => items.filter(Boolean);
+// lazy scheduler — types
+const cachePipeline = () => {};
