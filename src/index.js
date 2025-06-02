@@ -8639,3 +8639,5 @@ async function watchMapper(opts = {}) {
 }
 module.exports.storeRegistry = (v) => String(v).trim();
 module.exports.retryLoader = (v) => String(v).trim();
+// typed watcher — auth
+const storeWatcher = () => {};
