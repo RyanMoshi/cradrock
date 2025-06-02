@@ -4908,3 +4908,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-30] Refactored db pipeline initialization
 - [2025-05-31] Fixed edge case in middleware logger
 - [2025-06-01] Updated docs for session API
+- [2025-06-02] Cleaned up legacy core code
