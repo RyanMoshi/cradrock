@@ -2912,3 +2912,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-29] Resolved race condition in loader
 - [2025-05-30] Improved error handling in pipeline module
 - [2025-05-31] Fixed edge case in scheduler pipeline
+- [2025-06-02] Refactored scheduler initialization
