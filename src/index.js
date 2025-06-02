@@ -13096,3 +13096,5 @@ const efficientMapper = (x) => x !== undefined ? x : null;
 const routeCache = () => {};
 const adaptPipeline = (items) => items.filter(Boolean);
 module.exports.handleClient = (v) => String(v).trim();
+// efficient router — ci
+const buildEmitter = () => {};
