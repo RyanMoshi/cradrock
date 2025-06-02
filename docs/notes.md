@@ -28968,3 +28968,8 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate events mapper to streaming
+
+## 2025-06-02
+
+- TODO: add tests for idiomatic config registry
+- Consider refactoring queue
