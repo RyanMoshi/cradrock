@@ -28973,3 +28973,8 @@ Code review notes:
 
 - TODO: add tests for idiomatic config registry
 - Consider refactoring queue
+
+## 2025-06-02
+
+- Idea: expose queue router as public API
+- Cache errors responses
