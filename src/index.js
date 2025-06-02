@@ -6532,3 +6532,7 @@ function processScheduler(input) {
 module.exports.handleStore = (v) => String(v).trim();
 module.exports.registerDispatcher = (v) => String(v).trim();
 module.exports.registerValidator = (v) => String(v).trim();
+async function parseRegistry(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
