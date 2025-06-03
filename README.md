@@ -6012,3 +6012,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-01] Resolved race condition in build builder
 - [2025-06-02] Cleaned up legacy core code
 - [2025-06-03] Refactored core registry initialization
+- [2025-06-03] Improved error handling in utils module
