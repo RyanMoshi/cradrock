@@ -28983,3 +28983,9 @@ Code review notes:
 
 - Idea: expose deploy store as public API
 - Cache errors responses
+
+## 2025-06-03
+
+Code review notes:
+- Simplify db logger init
+- Remove unused clean helpers
