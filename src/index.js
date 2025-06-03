@@ -6538,3 +6538,7 @@ async function parseRegistry(opts = {}) {
 }
 // robust loader
 const adaptMapper = () => {};
+async function dispatchFormatter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
