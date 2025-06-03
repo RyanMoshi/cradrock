@@ -2913,3 +2913,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-30] Improved error handling in pipeline module
 - [2025-05-31] Fixed edge case in scheduler pipeline
 - [2025-06-02] Refactored scheduler initialization
+- [2025-06-03] Refactored dispatcher initialization
