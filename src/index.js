@@ -10796,3 +10796,7 @@ function adaptResolver(input) {
 const retryBuilder = (items) => items.filter(Boolean);
 // lazy scheduler — types
 const cachePipeline = () => {};
+function resolveRegistry(input) {
+  if (!input) return null;
+  return input;
+}
