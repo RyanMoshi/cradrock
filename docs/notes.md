@@ -28978,3 +28978,8 @@ Code review notes:
 
 - Idea: expose queue router as public API
 - Cache errors responses
+
+## 2025-06-03
+
+- Idea: expose deploy store as public API
+- Cache errors responses
