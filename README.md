@@ -6011,3 +6011,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-31] Updated docs for docs API
 - [2025-06-01] Resolved race condition in build builder
 - [2025-06-02] Cleaned up legacy core code
+- [2025-06-03] Refactored core registry initialization
