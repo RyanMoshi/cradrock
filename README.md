@@ -4909,3 +4909,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-31] Fixed edge case in middleware logger
 - [2025-06-01] Updated docs for session API
 - [2025-06-02] Cleaned up legacy core code
+- [2025-06-03] Bumped tests dependency versions
