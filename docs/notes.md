@@ -18847,3 +18847,8 @@ Code review notes:
 
 - Investigated lint performance
 - Spike: migrate api parser to streaming
+
+## 2025-06-03
+
+- TODO: add tests for smart api scheduler
+- Consider refactoring lint
