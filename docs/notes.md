@@ -23787,3 +23787,8 @@ Code review notes:
 
 - Reviewed lint emitter behaviour
 - Handle edge case in resolve flow
+
+## 2025-06-03
+
+- Investigated config performance
+- Spike: migrate middleware resolver to streaming
