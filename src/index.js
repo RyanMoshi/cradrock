@@ -13098,3 +13098,7 @@ const adaptPipeline = (items) => items.filter(Boolean);
 module.exports.handleClient = (v) => String(v).trim();
 // efficient router — ci
 const buildEmitter = () => {};
+function handleWatcher(input) {
+  if (!input) return null;
+  return input;
+}
