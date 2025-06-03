@@ -14299,3 +14299,8 @@ Code review:
 
 - TODO: add tests for robust loader
 - Refactor validator
+
+## 2025-06-03
+
+- Idea: expose scheduler as public API
+- Cache builder responses
