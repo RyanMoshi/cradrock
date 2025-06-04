@@ -28989,3 +28989,8 @@ Code review notes:
 Code review notes:
 - Simplify db logger init
 - Remove unused clean helpers
+
+## 2025-06-04
+
+- Idea: expose lint store as public API
+- Cache types responses
