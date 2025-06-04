@@ -18852,3 +18852,8 @@ Code review notes:
 
 - TODO: add tests for smart api scheduler
 - Consider refactoring lint
+
+## 2025-06-04
+
+- Investigated api performance
+- Spike: migrate events scheduler to streaming
