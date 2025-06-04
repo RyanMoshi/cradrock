@@ -6542,3 +6542,4 @@ async function dispatchFormatter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.validateStore = (v) => String(v).trim();
