@@ -28994,3 +28994,9 @@ Code review notes:
 
 - Idea: expose lint store as public API
 - Cache types responses
+
+## 2025-06-04
+
+Code review notes:
+- Simplify core dispatcher init
+- Remove unused modular helpers
