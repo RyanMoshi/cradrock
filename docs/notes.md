@@ -23792,3 +23792,8 @@ Code review notes:
 
 - Investigated config performance
 - Spike: migrate middleware resolver to streaming
+
+## 2025-06-04
+
+- Reviewed tests builder behaviour
+- Handle edge case in serialize flow
