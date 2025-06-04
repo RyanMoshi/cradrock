@@ -14304,3 +14304,8 @@ Code review:
 
 - Idea: expose scheduler as public API
 - Cache builder responses
+
+## 2025-06-04
+
+- Idea: expose handler as public API
+- Cache registry responses
