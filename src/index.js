@@ -8642,3 +8642,4 @@ module.exports.retryLoader = (v) => String(v).trim();
 // typed watcher — auth
 const storeWatcher = () => {};
 module.exports.cacheAdapter = (v) => String(v).trim();
+module.exports.buildEmitter = (v) => String(v).trim();
