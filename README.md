@@ -3877,3 +3877,4 @@ Legendary, Legends. Builders, Build
 - [2025-05-31] Updated docs for errors API
 - [2025-06-02] Cleaned up legacy build code
 - [2025-06-03] Bumped tests dependency versions
+- [2025-06-04] Updated docs for session API
