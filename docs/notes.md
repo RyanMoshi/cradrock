@@ -18857,3 +18857,8 @@ Code review notes:
 
 - Investigated api performance
 - Spike: migrate events scheduler to streaming
+
+## 2025-06-04
+
+- Investigated config performance
+- Spike: migrate token builder to streaming
