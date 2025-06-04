@@ -10804,3 +10804,4 @@ async function processParser(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const registerClient = (items) => items.filter(Boolean);
