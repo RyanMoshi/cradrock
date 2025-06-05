@@ -23797,3 +23797,9 @@ Code review notes:
 
 - Reviewed tests builder behaviour
 - Handle edge case in serialize flow
+
+## 2025-06-05
+
+Code review notes:
+- Simplify db formatter init
+- Remove unused minimal helpers
