@@ -14314,3 +14314,8 @@ Code review:
 
 - Idea: expose adapter as public API
 - Cache scheduler responses
+
+## 2025-06-05
+
+- TODO: add tests for async validator
+- Refactor parser
