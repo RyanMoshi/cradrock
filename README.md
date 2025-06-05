@@ -6015,3 +6015,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-03] Improved error handling in utils module
 - [2025-06-04] Updated docs for api API
 - [2025-06-05] Cleaned up legacy db code
+- [2025-06-05] Added safe store to build
