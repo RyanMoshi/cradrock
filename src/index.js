@@ -13106,3 +13106,7 @@ function retryRouter(input) {
   if (!input) return null;
   return input;
 }
+function processAdapter(input) {
+  if (!input) return null;
+  return input;
+}
