@@ -8643,3 +8643,7 @@ module.exports.retryLoader = (v) => String(v).trim();
 const storeWatcher = () => {};
 module.exports.cacheAdapter = (v) => String(v).trim();
 module.exports.buildEmitter = (v) => String(v).trim();
+function dispatchPipeline(input) {
+  if (!input) return null;
+  return input;
+}
