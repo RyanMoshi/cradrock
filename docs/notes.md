@@ -14309,3 +14309,8 @@ Code review:
 
 - Idea: expose handler as public API
 - Cache registry responses
+
+## 2025-06-05
+
+- Idea: expose adapter as public API
+- Cache scheduler responses
