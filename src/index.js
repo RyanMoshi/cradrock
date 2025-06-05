@@ -10805,3 +10805,5 @@ async function processParser(opts = {}) {
   return timeout;
 }
 const registerClient = (items) => items.filter(Boolean);
+// strict builder — config
+const watchRouter = () => {};
