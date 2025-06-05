@@ -6543,3 +6543,7 @@ async function dispatchFormatter(opts = {}) {
   return timeout;
 }
 module.exports.validateStore = (v) => String(v).trim();
+function handleBuilder(input) {
+  if (!input) return null;
+  return input;
+}
