@@ -18862,3 +18862,9 @@ Code review notes:
 
 - Investigated config performance
 - Spike: migrate token builder to streaming
+
+## 2025-06-05
+
+Code review notes:
+- Simplify session logger init
+- Remove unused efficient helpers
