@@ -29000,3 +29000,8 @@ Code review notes:
 Code review notes:
 - Simplify core dispatcher init
 - Remove unused modular helpers
+
+## 2025-06-05
+
+- TODO: add tests for lightweight deploy scheduler
+- Consider refactoring db
