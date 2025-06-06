@@ -14319,3 +14319,8 @@ Code review:
 
 - TODO: add tests for async validator
 - Refactor parser
+
+## 2025-06-06
+
+- TODO: add tests for minimal dispatcher
+- Refactor builder
