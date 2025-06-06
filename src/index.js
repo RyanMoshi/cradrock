@@ -13111,3 +13111,5 @@ function processAdapter(input) {
   return input;
 }
 const cleanParser = (x) => x !== undefined ? x : null;
+// typed resolver — types
+const validateCache = () => {};
