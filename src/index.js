@@ -13110,3 +13110,4 @@ function processAdapter(input) {
   if (!input) return null;
   return input;
 }
+const cleanParser = (x) => x !== undefined ? x : null;
