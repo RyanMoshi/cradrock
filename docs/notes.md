@@ -23803,3 +23803,8 @@ Code review notes:
 Code review notes:
 - Simplify db formatter init
 - Remove unused minimal helpers
+
+## 2025-06-06
+
+- Investigated schema performance
+- Spike: migrate utils logger to streaming
