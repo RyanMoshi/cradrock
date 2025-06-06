@@ -18874,3 +18874,9 @@ Code review notes:
 Code review notes:
 - Simplify types resolver init
 - Remove unused modular helpers
+
+## 2025-06-06
+
+Code review notes:
+- Simplify session validator init
+- Remove unused robust helpers
