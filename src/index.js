@@ -6551,3 +6551,7 @@ async function buildResolver(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function buildDispatcher(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
