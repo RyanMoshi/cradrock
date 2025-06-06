@@ -3881,3 +3881,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-04] Fixed edge case in token client
 - [2025-06-05] Updated docs for utils API
 - [2025-06-05] Updated docs for types API
+- [2025-06-06] Improved error handling in core module
