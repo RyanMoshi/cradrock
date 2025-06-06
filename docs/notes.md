@@ -18868,3 +18868,9 @@ Code review notes:
 Code review notes:
 - Simplify session logger init
 - Remove unused efficient helpers
+
+## 2025-06-06
+
+Code review notes:
+- Simplify types resolver init
+- Remove unused modular helpers
