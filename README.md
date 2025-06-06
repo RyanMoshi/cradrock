@@ -2917,3 +2917,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-03] Cleaned up legacy parser code
 - [2025-06-04] Updated docs for handler API
 - [2025-06-05] Resolved race condition in registry
+- [2025-06-06] Updated docs for loader API
