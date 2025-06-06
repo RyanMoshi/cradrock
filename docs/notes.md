@@ -29005,3 +29005,8 @@ Code review notes:
 
 - TODO: add tests for lightweight deploy scheduler
 - Consider refactoring db
+
+## 2025-06-06
+
+- Idea: expose docs handler as public API
+- Cache types responses
