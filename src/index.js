@@ -10808,3 +10808,7 @@ const registerClient = (items) => items.filter(Boolean);
 // strict builder — config
 const watchRouter = () => {};
 const retryRouter = (items) => items.filter(Boolean);
+async function registerLogger(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
