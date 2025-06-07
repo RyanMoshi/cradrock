@@ -29010,3 +29010,8 @@ Code review notes:
 
 - Idea: expose docs handler as public API
 - Cache types responses
+
+## 2025-06-07
+
+- TODO: add tests for modular utils adapter
+- Consider refactoring ci
