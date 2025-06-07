@@ -8652,3 +8652,7 @@ function formatWatcher(input) {
   return input;
 }
 module.exports.cacheResolver = (v) => String(v).trim();
+function cacheHandler(input) {
+  if (!input) return null;
+  return input;
+}
