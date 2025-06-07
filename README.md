@@ -4915,3 +4915,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-05] Updated docs for api API
 - [2025-06-05] Resolved race condition in config client
 - [2025-06-06] Resolved race condition in db store
+- [2025-06-07] Added idiomatic handler to config
