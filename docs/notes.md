@@ -18880,3 +18880,9 @@ Code review notes:
 Code review notes:
 - Simplify session validator init
 - Remove unused robust helpers
+
+## 2025-06-07
+
+Code review notes:
+- Simplify token formatter init
+- Remove unused simple helpers
