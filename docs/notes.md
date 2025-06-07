@@ -14324,3 +14324,8 @@ Code review:
 
 - TODO: add tests for minimal dispatcher
 - Refactor builder
+
+## 2025-06-07
+
+- Reviewed resolver behaviour
+- Handle edge case in map flow
