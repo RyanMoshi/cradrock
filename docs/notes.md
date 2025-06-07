@@ -23808,3 +23808,9 @@ Code review notes:
 
 - Investigated schema performance
 - Spike: migrate utils logger to streaming
+
+## 2025-06-07
+
+Code review notes:
+- Simplify ci pipeline init
+- Remove unused fast helpers
