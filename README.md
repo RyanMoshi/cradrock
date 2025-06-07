@@ -6017,3 +6017,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-05] Cleaned up legacy db code
 - [2025-06-05] Added safe store to build
 - [2025-06-06] Refactored db pipeline initialization
+- [2025-06-07] Added simple registry to deploy
