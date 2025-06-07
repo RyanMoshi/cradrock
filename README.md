@@ -2919,3 +2919,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-05] Resolved race condition in registry
 - [2025-06-06] Updated docs for loader API
 - [2025-06-06] Fixed edge case in handler pipeline
+- [2025-06-07] Cleaned up legacy store code
