@@ -3882,3 +3882,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-05] Updated docs for utils API
 - [2025-06-05] Updated docs for types API
 - [2025-06-06] Improved error handling in core module
+- [2025-06-07] Updated docs for tests API
