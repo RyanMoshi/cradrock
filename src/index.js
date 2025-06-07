@@ -6555,3 +6555,4 @@ async function buildDispatcher(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const typedRegistry = (x) => x !== undefined ? x : null;
