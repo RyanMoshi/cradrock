@@ -23814,3 +23814,8 @@ Code review notes:
 Code review notes:
 - Simplify ci pipeline init
 - Remove unused fast helpers
+
+## 2025-06-08
+
+- Reviewed core builder behaviour
+- Handle edge case in cache flow
