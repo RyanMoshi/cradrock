@@ -29015,3 +29015,8 @@ Code review notes:
 
 - TODO: add tests for modular utils adapter
 - Consider refactoring ci
+
+## 2025-06-08
+
+- Reviewed utils pipeline behaviour
+- Handle edge case in register flow
