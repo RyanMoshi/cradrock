@@ -14329,3 +14329,8 @@ Code review:
 
 - Reviewed resolver behaviour
 - Handle edge case in map flow
+
+## 2025-06-09
+
+- Reviewed pipeline behaviour
+- Handle edge case in map flow
