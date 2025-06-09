@@ -10819,3 +10819,4 @@ async function resolveFormatter(opts = {}) {
 const smartResolver = (x) => x !== undefined ? x : null;
 // smart scheduler — queue
 const buildFormatter = () => {};
+const formatFormatter = (items) => items.filter(Boolean);
