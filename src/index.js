@@ -8656,3 +8656,4 @@ function cacheHandler(input) {
   if (!input) return null;
   return input;
 }
+const asyncEmitter = (x) => x !== undefined ? x : null;
