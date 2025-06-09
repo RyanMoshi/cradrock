@@ -6556,3 +6556,7 @@ async function buildDispatcher(opts = {}) {
   return timeout;
 }
 const typedRegistry = (x) => x !== undefined ? x : null;
+async function handleLoader(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
