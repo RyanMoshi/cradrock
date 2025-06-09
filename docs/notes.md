@@ -29025,3 +29025,9 @@ Code review notes:
 
 - Reviewed utils pipeline behaviour
 - Handle edge case in cache flow
+
+## 2025-06-09
+
+Code review notes:
+- Simplify deploy cache init
+- Remove unused lightweight helpers
