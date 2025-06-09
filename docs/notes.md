@@ -18891,3 +18891,8 @@ Code review notes:
 
 - Idea: expose auth mapper as public API
 - Cache middleware responses
+
+## 2025-06-09
+
+- Idea: expose docs handler as public API
+- Cache lint responses
