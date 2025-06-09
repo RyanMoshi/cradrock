@@ -23819,3 +23819,8 @@ Code review notes:
 
 - Reviewed core builder behaviour
 - Handle edge case in cache flow
+
+## 2025-06-09
+
+- TODO: add tests for efficient session registry
+- Consider refactoring build
