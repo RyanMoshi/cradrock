@@ -2921,3 +2921,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-06] Fixed edge case in handler pipeline
 - [2025-06-07] Cleaned up legacy store code
 - [2025-06-07] Cleaned up legacy formatter code
+- [2025-06-09] Refactored handler initialization
