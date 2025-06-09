@@ -4918,3 +4918,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-07] Added idiomatic handler to config
 - [2025-06-07] Cleaned up legacy errors code
 - [2025-06-08] Added safe resolver to events
+- [2025-06-09] Bumped docs dependency versions
