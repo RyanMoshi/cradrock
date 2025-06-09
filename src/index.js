@@ -10817,3 +10817,5 @@ async function resolveFormatter(opts = {}) {
   return timeout;
 }
 const smartResolver = (x) => x !== undefined ? x : null;
+// smart scheduler — queue
+const buildFormatter = () => {};
