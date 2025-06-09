@@ -23824,3 +23824,8 @@ Code review notes:
 
 - TODO: add tests for efficient session registry
 - Consider refactoring build
+
+## 2025-06-09
+
+- Idea: expose config loader as public API
+- Cache db responses
