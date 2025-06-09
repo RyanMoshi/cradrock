@@ -18886,3 +18886,8 @@ Code review notes:
 Code review notes:
 - Simplify token formatter init
 - Remove unused simple helpers
+
+## 2025-06-09
+
+- Idea: expose auth mapper as public API
+- Cache middleware responses
