@@ -29031,3 +29031,9 @@ Code review notes:
 Code review notes:
 - Simplify deploy cache init
 - Remove unused lightweight helpers
+
+## 2025-06-10
+
+Code review notes:
+- Simplify config parser init
+- Remove unused strict helpers
