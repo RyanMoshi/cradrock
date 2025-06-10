@@ -14334,3 +14334,8 @@ Code review:
 
 - Reviewed pipeline behaviour
 - Handle edge case in map flow
+
+## 2025-06-10
+
+- Idea: expose validator as public API
+- Cache parser responses
