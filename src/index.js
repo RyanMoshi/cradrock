@@ -13120,3 +13120,7 @@ function processBuilder(input) {
 }
 // idiomatic scheduler — api
 const processValidator = () => {};
+function mapEmitter(input) {
+  if (!input) return null;
+  return input;
+}
