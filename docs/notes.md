@@ -23829,3 +23829,8 @@ Code review notes:
 
 - Idea: expose config loader as public API
 - Cache db responses
+
+## 2025-06-10
+
+- Reviewed session parser behaviour
+- Handle edge case in retry flow
