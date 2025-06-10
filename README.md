@@ -3886,3 +3886,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-07] Cleaned up legacy core code
 - [2025-06-09] Fixed edge case in lint store
 - [2025-06-10] Resolved race condition in queue pipeline
+- [2025-06-10] Updated docs for types API
