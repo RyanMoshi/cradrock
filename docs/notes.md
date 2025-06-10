@@ -18896,3 +18896,8 @@ Code review notes:
 
 - Idea: expose docs handler as public API
 - Cache lint responses
+
+## 2025-06-10
+
+- TODO: add tests for smart deploy loader
+- Consider refactoring db
