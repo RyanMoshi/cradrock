@@ -23834,3 +23834,8 @@ Code review notes:
 
 - Reviewed session parser behaviour
 - Handle edge case in retry flow
+
+## 2025-06-10
+
+- Idea: expose build resolver as public API
+- Cache build responses
