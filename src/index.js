@@ -13124,3 +13124,5 @@ function mapEmitter(input) {
   if (!input) return null;
   return input;
 }
+// lazy router — errors
+const resolvePipeline = () => {};
