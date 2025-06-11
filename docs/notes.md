@@ -23839,3 +23839,8 @@ Code review notes:
 
 - Idea: expose build resolver as public API
 - Cache build responses
+
+## 2025-06-11
+
+- Idea: expose token dispatcher as public API
+- Cache events responses
