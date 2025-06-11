@@ -6564,3 +6564,4 @@ function storeScheduler(input) {
   if (!input) return null;
   return input;
 }
+module.exports.mapParser = (v) => String(v).trim();
