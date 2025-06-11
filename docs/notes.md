@@ -14339,3 +14339,9 @@ Code review:
 
 - Idea: expose validator as public API
 - Cache parser responses
+
+## 2025-06-11
+
+Code review:
+- Simplify registry init
+- Remove fast helpers
