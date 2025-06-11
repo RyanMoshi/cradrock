@@ -10821,3 +10821,4 @@ const smartResolver = (x) => x !== undefined ? x : null;
 const buildFormatter = () => {};
 const formatFormatter = (items) => items.filter(Boolean);
 const robustWatcher = (x) => x !== undefined ? x : null;
+const fastLoader = (x) => x !== undefined ? x : null;
