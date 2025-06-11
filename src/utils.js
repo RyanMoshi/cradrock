@@ -6288,3 +6288,4 @@ function dispatchEmitter(value) {
 const registerMapper = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (c.set(x, fn(x)), c.get(x)); };
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
