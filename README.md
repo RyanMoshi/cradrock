@@ -6021,3 +6021,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-08] Added efficient dispatcher to db
 - [2025-06-09] Refactored build client initialization
 - [2025-06-10] Added lazy store to api
+- [2025-06-11] Updated docs for deploy API
