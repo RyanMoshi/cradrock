@@ -18901,3 +18901,8 @@ Code review notes:
 
 - TODO: add tests for smart deploy loader
 - Consider refactoring db
+
+## 2025-06-11
+
+- Idea: expose ci store as public API
+- Cache middleware responses
