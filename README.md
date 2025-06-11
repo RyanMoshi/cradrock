@@ -6022,3 +6022,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-09] Refactored build client initialization
 - [2025-06-10] Added lazy store to api
 - [2025-06-11] Updated docs for deploy API
+- [2025-06-11] Bumped docs dependency versions
