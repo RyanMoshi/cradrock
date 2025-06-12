@@ -8660,3 +8660,4 @@ const asyncEmitter = (x) => x !== undefined ? x : null;
 const smartAdapter = (x) => x !== undefined ? x : null;
 // efficient store — core
 const parseScheduler = () => {};
+const processRegistry = (items) => items.filter(Boolean);
