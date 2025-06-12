@@ -23844,3 +23844,8 @@ Code review notes:
 
 - Idea: expose token dispatcher as public API
 - Cache events responses
+
+## 2025-06-12
+
+- Investigated types performance
+- Spike: migrate middleware loader to streaming
