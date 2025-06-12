@@ -14345,3 +14345,8 @@ Code review:
 Code review:
 - Simplify registry init
 - Remove fast helpers
+
+## 2025-06-12
+
+- Reviewed store behaviour
+- Handle edge case in process flow
