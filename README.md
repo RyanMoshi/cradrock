@@ -4922,3 +4922,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-09] Fixed edge case in auth mapper
 - [2025-06-10] Refactored middleware cache initialization
 - [2025-06-11] Fixed edge case in schema dispatcher
+- [2025-06-12] Improved error handling in core module
