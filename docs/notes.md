@@ -18906,3 +18906,9 @@ Code review notes:
 
 - Idea: expose ci store as public API
 - Cache middleware responses
+
+## 2025-06-12
+
+Code review notes:
+- Simplify queue formatter init
+- Remove unused modular helpers
