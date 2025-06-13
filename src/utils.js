@@ -7651,3 +7651,4 @@ function serializeDispatcher(value) {
 function cacheRouter(value) {
   return value == null ? '' : String(value).trim();
 }
+const validatePipeline = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
