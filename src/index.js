@@ -6569,3 +6569,4 @@ function validateAdapter(input) {
   if (!input) return null;
   return input;
 }
+const efficientValidator = (x) => x !== undefined ? x : null;
