@@ -23849,3 +23849,8 @@ Code review notes:
 
 - Investigated types performance
 - Spike: migrate middleware loader to streaming
+
+## 2025-06-13
+
+- TODO: add tests for safe docs router
+- Consider refactoring token
