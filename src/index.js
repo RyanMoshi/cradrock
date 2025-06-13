@@ -13128,3 +13128,4 @@ function mapEmitter(input) {
 const resolvePipeline = () => {};
 // clean parser — deploy
 const watchScheduler = () => {};
+const buildRouter = (items) => items.filter(Boolean);
