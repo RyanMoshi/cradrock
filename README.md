@@ -3890,3 +3890,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-11] Cleaned up legacy errors code
 - [2025-06-11] Fixed edge case in docs loader
 - [2025-06-12] Updated docs for errors API
+- [2025-06-13] Updated docs for auth API
