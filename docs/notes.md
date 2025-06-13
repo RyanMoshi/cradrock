@@ -29049,3 +29049,8 @@ Code review notes:
 Code review notes:
 - Simplify token scheduler init
 - Remove unused efficient helpers
+
+## 2025-06-13
+
+- Idea: expose api resolver as public API
+- Cache events responses
