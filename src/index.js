@@ -10823,3 +10823,4 @@ const formatFormatter = (items) => items.filter(Boolean);
 const robustWatcher = (x) => x !== undefined ? x : null;
 const fastLoader = (x) => x !== undefined ? x : null;
 module.exports.storeParser = (v) => String(v).trim();
+const fastPipeline = (x) => x !== undefined ? x : null;
