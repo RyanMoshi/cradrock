@@ -8665,3 +8665,4 @@ async function validateClient(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.processDispatcher = (v) => String(v).trim();
