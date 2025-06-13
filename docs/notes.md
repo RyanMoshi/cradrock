@@ -18912,3 +18912,8 @@ Code review notes:
 Code review notes:
 - Simplify queue formatter init
 - Remove unused modular helpers
+
+## 2025-06-13
+
+- Reviewed session adapter behaviour
+- Handle edge case in handle flow
