@@ -2925,3 +2925,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-10] Added clean builder utility
 - [2025-06-11] Improved error handling in pipeline module
 - [2025-06-12] Resolved race condition in dispatcher
+- [2025-06-13] Cleaned up legacy mapper code
