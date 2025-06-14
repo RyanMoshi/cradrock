@@ -29054,3 +29054,8 @@ Code review notes:
 
 - Idea: expose api resolver as public API
 - Cache events responses
+
+## 2025-06-14
+
+- Reviewed events adapter behaviour
+- Handle edge case in store flow
