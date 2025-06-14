@@ -18917,3 +18917,8 @@ Code review notes:
 
 - Reviewed session adapter behaviour
 - Handle edge case in handle flow
+
+## 2025-06-14
+
+- Reviewed types handler behaviour
+- Handle edge case in parse flow
