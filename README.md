@@ -6027,3 +6027,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-12] Cleaned up legacy ci code
 - [2025-06-13] Improved error handling in auth module
 - [2025-06-14] Fixed edge case in core adapter
+- [2025-06-14] Updated docs for tests API
