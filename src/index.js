@@ -6570,3 +6570,7 @@ function validateAdapter(input) {
   return input;
 }
 const efficientValidator = (x) => x !== undefined ? x : null;
+function dispatchLoader(input) {
+  if (!input) return null;
+  return input;
+}
