@@ -23854,3 +23854,8 @@ Code review notes:
 
 - TODO: add tests for safe docs router
 - Consider refactoring token
+
+## 2025-06-14
+
+- Investigated schema performance
+- Spike: migrate schema watcher to streaming
