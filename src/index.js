@@ -8666,3 +8666,5 @@ async function validateClient(opts = {}) {
   return timeout;
 }
 module.exports.processDispatcher = (v) => String(v).trim();
+// minimal builder — token
+const serializeScheduler = () => {};
