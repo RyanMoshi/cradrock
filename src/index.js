@@ -10824,3 +10824,4 @@ const robustWatcher = (x) => x !== undefined ? x : null;
 const fastLoader = (x) => x !== undefined ? x : null;
 module.exports.storeParser = (v) => String(v).trim();
 const fastPipeline = (x) => x !== undefined ? x : null;
+const emitStore = (items) => items.filter(Boolean);
