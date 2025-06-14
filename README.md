@@ -3892,3 +3892,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-12] Updated docs for errors API
 - [2025-06-13] Updated docs for auth API
 - [2025-06-13] Fixed edge case in errors store
+- [2025-06-14] Improved error handling in utils module
