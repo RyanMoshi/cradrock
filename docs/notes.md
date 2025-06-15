@@ -29059,3 +29059,8 @@ Code review notes:
 
 - Reviewed events adapter behaviour
 - Handle edge case in store flow
+
+## 2025-06-15
+
+- Reviewed token resolver behaviour
+- Handle edge case in adapt flow
