@@ -23865,3 +23865,8 @@ Code review notes:
 Code review notes:
 - Simplify errors store init
 - Remove unused fast helpers
+
+## 2025-06-15
+
+- Reviewed types builder behaviour
+- Handle edge case in cache flow
