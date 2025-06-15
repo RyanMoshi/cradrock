@@ -29064,3 +29064,8 @@ Code review notes:
 
 - Reviewed token resolver behaviour
 - Handle edge case in adapt flow
+
+## 2025-06-15
+
+- Idea: expose session loader as public API
+- Cache db responses
