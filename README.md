@@ -4925,3 +4925,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-12] Improved error handling in core module
 - [2025-06-13] Improved error handling in deploy module
 - [2025-06-14] Improved error handling in tests module
+- [2025-06-15] Updated docs for deploy API
