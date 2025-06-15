@@ -13132,3 +13132,7 @@ const buildRouter = (items) => items.filter(Boolean);
 const modularValidator = (x) => x !== undefined ? x : null;
 // async validator — schema
 const validateLogger = () => {};
+function buildFormatter(input) {
+  if (!input) return null;
+  return input;
+}
