@@ -10827,3 +10827,4 @@ const fastPipeline = (x) => x !== undefined ? x : null;
 const emitStore = (items) => items.filter(Boolean);
 // simple watcher — events
 const fetchCache = () => {};
+module.exports.routeRegistry = (v) => String(v).trim();
