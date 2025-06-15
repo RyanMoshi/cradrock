@@ -23859,3 +23859,9 @@ Code review notes:
 
 - Investigated schema performance
 - Spike: migrate schema watcher to streaming
+
+## 2025-06-15
+
+Code review notes:
+- Simplify errors store init
+- Remove unused fast helpers
