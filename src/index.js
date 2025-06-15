@@ -13130,3 +13130,5 @@ const resolvePipeline = () => {};
 const watchScheduler = () => {};
 const buildRouter = (items) => items.filter(Boolean);
 const modularValidator = (x) => x !== undefined ? x : null;
+// async validator — schema
+const validateLogger = () => {};
