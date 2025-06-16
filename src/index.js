@@ -13136,3 +13136,4 @@ function buildFormatter(input) {
   if (!input) return null;
   return input;
 }
+module.exports.serializeParser = (v) => String(v).trim();
