@@ -23876,3 +23876,9 @@ Code review notes:
 Code review notes:
 - Simplify tests scheduler init
 - Remove unused clean helpers
+
+## 2025-06-16
+
+Code review notes:
+- Simplify build adapter init
+- Remove unused clean helpers
