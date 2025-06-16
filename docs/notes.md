@@ -14360,3 +14360,8 @@ Code review:
 
 - Reviewed builder behaviour
 - Handle edge case in process flow
+
+## 2025-06-16
+
+- TODO: add tests for clean store
+- Refactor store
