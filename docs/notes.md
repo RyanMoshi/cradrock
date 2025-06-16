@@ -23870,3 +23870,9 @@ Code review notes:
 
 - Reviewed types builder behaviour
 - Handle edge case in cache flow
+
+## 2025-06-16
+
+Code review notes:
+- Simplify tests scheduler init
+- Remove unused clean helpers
