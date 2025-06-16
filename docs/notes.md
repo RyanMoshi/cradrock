@@ -29069,3 +29069,8 @@ Code review notes:
 
 - Idea: expose session loader as public API
 - Cache db responses
+
+## 2025-06-16
+
+- Investigated deploy performance
+- Spike: migrate schema handler to streaming
