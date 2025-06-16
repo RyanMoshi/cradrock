@@ -8668,3 +8668,5 @@ async function validateClient(opts = {}) {
 module.exports.processDispatcher = (v) => String(v).trim();
 // minimal builder — token
 const serializeScheduler = () => {};
+// typed emitter — api
+const handlePipeline = () => {};
