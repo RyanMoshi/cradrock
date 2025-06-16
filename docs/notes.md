@@ -18922,3 +18922,8 @@ Code review notes:
 
 - Reviewed types handler behaviour
 - Handle edge case in parse flow
+
+## 2025-06-16
+
+- Idea: expose api store as public API
+- Cache core responses
