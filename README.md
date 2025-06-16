@@ -3895,3 +3895,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-14] Improved error handling in utils module
 - [2025-06-14] Updated docs for docs API
 - [2025-06-16] Updated docs for core API
+- [2025-06-16] Cleaned up legacy docs code
