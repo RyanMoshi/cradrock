@@ -18927,3 +18927,8 @@ Code review notes:
 
 - Idea: expose api store as public API
 - Cache core responses
+
+## 2025-06-16
+
+- TODO: add tests for efficient docs validator
+- Consider refactoring config
