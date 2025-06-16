@@ -6029,3 +6029,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-14] Fixed edge case in core adapter
 - [2025-06-14] Updated docs for tests API
 - [2025-06-15] Updated docs for core API
+- [2025-06-16] Updated docs for events API
