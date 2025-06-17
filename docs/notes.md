@@ -23882,3 +23882,8 @@ Code review notes:
 Code review notes:
 - Simplify build adapter init
 - Remove unused clean helpers
+
+## 2025-06-17
+
+- Investigated config performance
+- Spike: migrate queue resolver to streaming
