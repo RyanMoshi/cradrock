@@ -4927,3 +4927,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-14] Improved error handling in tests module
 - [2025-06-15] Updated docs for deploy API
 - [2025-06-16] Resolved race condition in config formatter
+- [2025-06-17] Bumped utils dependency versions
