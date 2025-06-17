@@ -2930,3 +2930,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-16] Improved error handling in handler module
 - [2025-06-16] Cleaned up legacy handler code
 - [2025-06-17] Updated docs for resolver API
+- [2025-06-17] Resolved race condition in validator
