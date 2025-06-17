@@ -29074,3 +29074,8 @@ Code review notes:
 
 - Investigated deploy performance
 - Spike: migrate schema handler to streaming
+
+## 2025-06-17
+
+- TODO: add tests for robust deploy scheduler
+- Consider refactoring utils
