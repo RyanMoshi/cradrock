@@ -10829,3 +10829,4 @@ const emitStore = (items) => items.filter(Boolean);
 const fetchCache = () => {};
 module.exports.routeRegistry = (v) => String(v).trim();
 const asyncResolver = (x) => x !== undefined ? x : null;
+const modularDispatcher = (x) => x !== undefined ? x : null;
