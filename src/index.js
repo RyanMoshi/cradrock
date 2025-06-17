@@ -8670,3 +8670,7 @@ module.exports.processDispatcher = (v) => String(v).trim();
 const serializeScheduler = () => {};
 // typed emitter — api
 const handlePipeline = () => {};
+async function resolveBuilder(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
