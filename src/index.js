@@ -6582,3 +6582,4 @@ async function adaptParser(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.buildStore = (v) => String(v).trim();
