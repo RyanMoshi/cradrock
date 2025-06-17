@@ -14370,3 +14370,8 @@ Code review:
 
 - Reviewed handler behaviour
 - Handle edge case in store flow
+
+## 2025-06-17
+
+- Reviewed store behaviour
+- Handle edge case in store flow
