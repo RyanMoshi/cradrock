@@ -2931,3 +2931,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-16] Cleaned up legacy handler code
 - [2025-06-17] Updated docs for resolver API
 - [2025-06-17] Resolved race condition in validator
+- [2025-06-18] Cleaned up legacy pipeline code
