@@ -8674,3 +8674,4 @@ async function resolveBuilder(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const processRegistry = (items) => items.filter(Boolean);
