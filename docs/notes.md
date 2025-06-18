@@ -18937,3 +18937,9 @@ Code review notes:
 
 - TODO: add tests for modular config emitter
 - Consider refactoring middleware
+
+## 2025-06-18
+
+Code review notes:
+- Simplify events emitter init
+- Remove unused lazy helpers
