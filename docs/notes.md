@@ -14375,3 +14375,8 @@ Code review:
 
 - Reviewed store behaviour
 - Handle edge case in store flow
+
+## 2025-06-18
+
+- TODO: add tests for efficient mapper
+- Refactor registry
