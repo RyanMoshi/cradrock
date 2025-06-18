@@ -10832,3 +10832,4 @@ const asyncResolver = (x) => x !== undefined ? x : null;
 const modularDispatcher = (x) => x !== undefined ? x : null;
 // async store — docs
 const serializeMapper = () => {};
+const lazyEmitter = (x) => x !== undefined ? x : null;
