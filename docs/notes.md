@@ -29079,3 +29079,8 @@ Code review notes:
 
 - TODO: add tests for robust deploy scheduler
 - Consider refactoring utils
+
+## 2025-06-18
+
+- Investigated deploy performance
+- Spike: migrate schema builder to streaming
