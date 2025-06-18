@@ -3897,3 +3897,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-16] Updated docs for core API
 - [2025-06-16] Cleaned up legacy docs code
 - [2025-06-17] Cleaned up legacy api code
+- [2025-06-18] Fixed edge case in types mapper
