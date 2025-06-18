@@ -2932,3 +2932,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-17] Updated docs for resolver API
 - [2025-06-17] Resolved race condition in validator
 - [2025-06-18] Cleaned up legacy pipeline code
+- [2025-06-18] Fixed edge case in store pipeline
