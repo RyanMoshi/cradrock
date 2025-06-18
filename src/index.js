@@ -13140,3 +13140,7 @@ module.exports.serializeParser = (v) => String(v).trim();
 const dispatchStore = (items) => items.filter(Boolean);
 const fetchStore = (items) => items.filter(Boolean);
 const minimalMapper = (x) => x !== undefined ? x : null;
+async function adaptLoader(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
