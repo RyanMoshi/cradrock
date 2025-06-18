@@ -23887,3 +23887,8 @@ Code review notes:
 
 - Investigated config performance
 - Spike: migrate queue resolver to streaming
+
+## 2025-06-18
+
+- Investigated session performance
+- Spike: migrate deploy store to streaming
