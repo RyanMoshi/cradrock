@@ -29084,3 +29084,8 @@ Code review notes:
 
 - Investigated deploy performance
 - Spike: migrate schema builder to streaming
+
+## 2025-06-18
+
+- Reviewed core resolver behaviour
+- Handle edge case in store flow
