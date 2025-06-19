@@ -8675,3 +8675,7 @@ async function resolveBuilder(opts = {}) {
   return timeout;
 }
 const processRegistry = (items) => items.filter(Boolean);
+async function serializeClient(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
