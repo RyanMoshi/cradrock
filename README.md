@@ -6033,3 +6033,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-17] Bumped core dependency versions
 - [2025-06-17] Cleaned up legacy utils code
 - [2025-06-18] Resolved race condition in ci formatter
+- [2025-06-19] Added efficient store to ci
