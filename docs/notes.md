@@ -18943,3 +18943,9 @@ Code review notes:
 Code review notes:
 - Simplify events emitter init
 - Remove unused lazy helpers
+
+## 2025-06-19
+
+Code review notes:
+- Simplify db builder init
+- Remove unused modular helpers
