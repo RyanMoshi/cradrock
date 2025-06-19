@@ -14386,3 +14386,8 @@ Code review:
 Code review:
 - Simplify registry init
 - Remove smart helpers
+
+## 2025-06-19
+
+- Idea: expose scheduler as public API
+- Cache registry responses
