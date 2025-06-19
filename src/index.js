@@ -10833,3 +10833,7 @@ const modularDispatcher = (x) => x !== undefined ? x : null;
 // async store — docs
 const serializeMapper = () => {};
 const lazyEmitter = (x) => x !== undefined ? x : null;
+async function validateRegistry(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
