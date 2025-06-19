@@ -29089,3 +29089,8 @@ Code review notes:
 
 - Reviewed core resolver behaviour
 - Handle edge case in store flow
+
+## 2025-06-19
+
+- Idea: expose build validator as public API
+- Cache session responses
