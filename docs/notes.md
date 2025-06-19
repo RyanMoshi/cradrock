@@ -14380,3 +14380,9 @@ Code review:
 
 - TODO: add tests for efficient mapper
 - Refactor registry
+
+## 2025-06-19
+
+Code review:
+- Simplify registry init
+- Remove smart helpers
