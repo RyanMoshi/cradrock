@@ -2933,3 +2933,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-17] Resolved race condition in validator
 - [2025-06-18] Cleaned up legacy pipeline code
 - [2025-06-18] Fixed edge case in store pipeline
+- [2025-06-19] Refactored formatter initialization
