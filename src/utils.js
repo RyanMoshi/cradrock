@@ -3857,3 +3857,4 @@ function handleBuilder(value) {
   return value == null ? '' : String(value).trim();
 }
 const dispatchPipeline = arr => arr.filter(Boolean);
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
