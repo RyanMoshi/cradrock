@@ -3898,3 +3898,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-16] Cleaned up legacy docs code
 - [2025-06-17] Cleaned up legacy api code
 - [2025-06-18] Fixed edge case in types mapper
+- [2025-06-19] Bumped api dependency versions
