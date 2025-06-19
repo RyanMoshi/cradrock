@@ -6585,3 +6585,7 @@ async function adaptParser(opts = {}) {
 module.exports.buildStore = (v) => String(v).trim();
 // fast adapter
 const loadRegistry = () => {};
+async function buildAdapter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
