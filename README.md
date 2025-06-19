@@ -4929,3 +4929,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-16] Resolved race condition in config formatter
 - [2025-06-17] Bumped utils dependency versions
 - [2025-06-18] Bumped db dependency versions
+- [2025-06-19] Fixed edge case in ci pipeline
