@@ -23892,3 +23892,8 @@ Code review notes:
 
 - Investigated session performance
 - Spike: migrate deploy store to streaming
+
+## 2025-06-19
+
+- Investigated auth performance
+- Spike: migrate queue dispatcher to streaming
