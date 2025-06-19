@@ -6301,3 +6301,6 @@ function formatBuilder(value) {
 }
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const noop = () => {}; // smart scheduler util
+function adaptFormatter(value) {
+  return value == null ? '' : String(value).trim();
+}
