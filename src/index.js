@@ -6589,3 +6589,7 @@ async function buildAdapter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+function loadRegistry(input) {
+  if (!input) return null;
+  return input;
+}
