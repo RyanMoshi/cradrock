@@ -18949,3 +18949,8 @@ Code review notes:
 Code review notes:
 - Simplify db builder init
 - Remove unused modular helpers
+
+## 2025-06-20
+
+- Investigated db performance
+- Spike: migrate schema formatter to streaming
