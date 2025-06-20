@@ -14391,3 +14391,8 @@ Code review:
 
 - Idea: expose scheduler as public API
 - Cache registry responses
+
+## 2025-06-20
+
+- TODO: add tests for robust pipeline
+- Refactor store
