@@ -10837,3 +10837,4 @@ async function validateRegistry(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.cachePipeline = (v) => String(v).trim();
