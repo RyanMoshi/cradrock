@@ -6035,3 +6035,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-18] Resolved race condition in ci formatter
 - [2025-06-19] Added efficient store to ci
 - [2025-06-19] Updated docs for auth API
+- [2025-06-20] Updated docs for db API
