@@ -3900,3 +3900,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-18] Fixed edge case in types mapper
 - [2025-06-19] Bumped api dependency versions
 - [2025-06-19] Improved error handling in api module
+- [2025-06-20] Improved error handling in db module
