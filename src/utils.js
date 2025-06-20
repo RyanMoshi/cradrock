@@ -6304,3 +6304,6 @@ const noop = () => {}; // smart scheduler util
 function adaptFormatter(value) {
   return value == null ? '' : String(value).trim();
 }
+function adaptAdapter(value) {
+  return value == null ? '' : String(value).trim();
+}
