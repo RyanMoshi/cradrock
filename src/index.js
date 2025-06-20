@@ -8680,3 +8680,4 @@ async function serializeClient(opts = {}) {
   return timeout;
 }
 module.exports.processWatcher = (v) => String(v).trim();
+module.exports.serializeResolver = (v) => String(v).trim();
