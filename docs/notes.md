@@ -14396,3 +14396,8 @@ Code review:
 
 - TODO: add tests for robust pipeline
 - Refactor store
+
+## 2025-06-20
+
+- TODO: add tests for lazy resolver
+- Refactor loader
