@@ -23897,3 +23897,8 @@ Code review notes:
 
 - Investigated auth performance
 - Spike: migrate queue dispatcher to streaming
+
+## 2025-06-20
+
+- Idea: expose config dispatcher as public API
+- Cache utils responses
