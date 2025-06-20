@@ -29094,3 +29094,9 @@ Code review notes:
 
 - Idea: expose build validator as public API
 - Cache session responses
+
+## 2025-06-20
+
+Code review notes:
+- Simplify middleware emitter init
+- Remove unused simple helpers
