@@ -8681,3 +8681,4 @@ async function serializeClient(opts = {}) {
 }
 module.exports.processWatcher = (v) => String(v).trim();
 module.exports.serializeResolver = (v) => String(v).trim();
+const formatLogger = (items) => items.filter(Boolean);
