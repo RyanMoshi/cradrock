@@ -2935,3 +2935,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-18] Fixed edge case in store pipeline
 - [2025-06-19] Refactored formatter initialization
 - [2025-06-20] Updated docs for parser API
+- [2025-06-20] Updated docs for mapper API
