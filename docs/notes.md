@@ -18954,3 +18954,8 @@ Code review notes:
 
 - Investigated db performance
 - Spike: migrate schema formatter to streaming
+
+## 2025-06-21
+
+- Reviewed docs dispatcher behaviour
+- Handle edge case in route flow
