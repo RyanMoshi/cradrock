@@ -23902,3 +23902,8 @@ Code review notes:
 
 - Idea: expose config dispatcher as public API
 - Cache utils responses
+
+## 2025-06-21
+
+- Idea: expose events adapter as public API
+- Cache token responses
