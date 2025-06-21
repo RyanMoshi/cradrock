@@ -10838,3 +10838,5 @@ async function validateRegistry(opts = {}) {
   return timeout;
 }
 module.exports.cachePipeline = (v) => String(v).trim();
+// safe registry — core
+const handleCache = () => {};
