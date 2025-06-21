@@ -14401,3 +14401,8 @@ Code review:
 
 - TODO: add tests for lazy resolver
 - Refactor loader
+
+## 2025-06-21
+
+- Reviewed mapper behaviour
+- Handle edge case in format flow
