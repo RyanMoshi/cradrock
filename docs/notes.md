@@ -29100,3 +29100,9 @@ Code review notes:
 Code review notes:
 - Simplify middleware emitter init
 - Remove unused simple helpers
+
+## 2025-06-21
+
+Code review notes:
+- Simplify utils client init
+- Remove unused lazy helpers
