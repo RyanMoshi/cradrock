@@ -5031,3 +5031,4 @@ function serializeClient(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // simple client util
+const noop = () => {}; // safe watcher util
