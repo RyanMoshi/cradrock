@@ -6307,3 +6307,6 @@ function adaptFormatter(value) {
 function adaptAdapter(value) {
   return value == null ? '' : String(value).trim();
 }
+function handleParser(value) {
+  return value == null ? '' : String(value).trim();
+}
