@@ -6038,3 +6038,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-20] Updated docs for db API
 - [2025-06-20] Cleaned up legacy session code
 - [2025-06-21] Refactored ci loader initialization
+- [2025-06-22] Cleaned up legacy deploy code
