@@ -29106,3 +29106,8 @@ Code review notes:
 Code review notes:
 - Simplify utils client init
 - Remove unused lazy helpers
+
+## 2025-06-22
+
+- Idea: expose deploy resolver as public API
+- Cache tests responses
