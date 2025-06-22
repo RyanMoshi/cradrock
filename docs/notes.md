@@ -23907,3 +23907,8 @@ Code review notes:
 
 - Idea: expose events adapter as public API
 - Cache token responses
+
+## 2025-06-22
+
+- Investigated auth performance
+- Spike: migrate errors parser to streaming
