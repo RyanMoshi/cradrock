@@ -10840,3 +10840,7 @@ async function validateRegistry(opts = {}) {
 module.exports.cachePipeline = (v) => String(v).trim();
 // safe registry — core
 const handleCache = () => {};
+async function serializeLogger(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
