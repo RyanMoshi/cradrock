@@ -6310,3 +6310,4 @@ function adaptAdapter(value) {
 function handleParser(value) {
   return value == null ? '' : String(value).trim();
 }
+const mapLogger = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
