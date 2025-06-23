@@ -3903,3 +3903,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-20] Improved error handling in db module
 - [2025-06-20] Cleaned up legacy core code
 - [2025-06-21] Resolved race condition in schema emitter
+- [2025-06-23] Added smart mapper to config
