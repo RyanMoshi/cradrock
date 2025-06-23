@@ -18959,3 +18959,8 @@ Code review notes:
 
 - Reviewed docs dispatcher behaviour
 - Handle edge case in route flow
+
+## 2025-06-23
+
+- Idea: expose db emitter as public API
+- Cache api responses
