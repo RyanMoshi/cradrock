@@ -23917,3 +23917,9 @@ Code review notes:
 
 - TODO: add tests for simple auth adapter
 - Consider refactoring queue
+
+## 2025-06-23
+
+Code review notes:
+- Simplify core validator init
+- Remove unused lazy helpers
