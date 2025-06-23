@@ -14406,3 +14406,8 @@ Code review:
 
 - Reviewed mapper behaviour
 - Handle edge case in format flow
+
+## 2025-06-23
+
+- Reviewed builder behaviour
+- Handle edge case in store flow
