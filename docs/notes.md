@@ -29111,3 +29111,9 @@ Code review notes:
 
 - Idea: expose deploy resolver as public API
 - Cache tests responses
+
+## 2025-06-23
+
+Code review notes:
+- Simplify deploy store init
+- Remove unused async helpers
