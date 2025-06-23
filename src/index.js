@@ -8690,3 +8690,5 @@ async function serializeCache(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// fast store — config
+const retryWatcher = () => {};
