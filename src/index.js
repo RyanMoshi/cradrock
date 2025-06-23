@@ -13159,3 +13159,4 @@ async function routeCache(opts = {}) {
 const parseEmitter = (items) => items.filter(Boolean);
 // minimal adapter — auth
 const buildValidator = () => {};
+const storeValidator = (items) => items.filter(Boolean);
