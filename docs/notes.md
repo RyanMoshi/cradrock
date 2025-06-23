@@ -23912,3 +23912,8 @@ Code review notes:
 
 - Investigated auth performance
 - Spike: migrate errors parser to streaming
+
+## 2025-06-23
+
+- TODO: add tests for simple auth adapter
+- Consider refactoring queue
