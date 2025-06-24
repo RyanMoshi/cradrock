@@ -2938,3 +2938,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-20] Updated docs for mapper API
 - [2025-06-21] Improved error handling in store module
 - [2025-06-23] Refactored scheduler initialization
+- [2025-06-24] Updated docs for handler API
