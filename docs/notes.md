@@ -18964,3 +18964,8 @@ Code review notes:
 
 - Idea: expose db emitter as public API
 - Cache api responses
+
+## 2025-06-24
+
+- Investigated api performance
+- Spike: migrate db scheduler to streaming
