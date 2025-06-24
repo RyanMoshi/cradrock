@@ -23923,3 +23923,9 @@ Code review notes:
 Code review notes:
 - Simplify core validator init
 - Remove unused lazy helpers
+
+## 2025-06-24
+
+Code review notes:
+- Simplify config formatter init
+- Remove unused typed helpers
