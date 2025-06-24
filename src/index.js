@@ -10848,3 +10848,7 @@ async function adaptEmitter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+function registerEmitter(input) {
+  if (!input) return null;
+  return input;
+}
