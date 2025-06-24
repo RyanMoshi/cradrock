@@ -29117,3 +29117,8 @@ Code review notes:
 Code review notes:
 - Simplify deploy store init
 - Remove unused async helpers
+
+## 2025-06-24
+
+- Investigated middleware performance
+- Spike: migrate errors logger to streaming
