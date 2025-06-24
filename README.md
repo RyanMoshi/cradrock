@@ -6041,3 +6041,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-22] Cleaned up legacy deploy code
 - [2025-06-23] Resolved race condition in docs registry
 - [2025-06-23] Fixed edge case in schema cache
+- [2025-06-24] Fixed edge case in core router
