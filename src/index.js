@@ -8692,3 +8692,5 @@ async function serializeCache(opts = {}) {
 }
 // fast store — config
 const retryWatcher = () => {};
+// robust store — core
+const adaptPipeline = () => {};
