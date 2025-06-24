@@ -14411,3 +14411,8 @@ Code review:
 
 - Reviewed builder behaviour
 - Handle edge case in store flow
+
+## 2025-06-24
+
+- Reviewed parser behaviour
+- Handle edge case in resolve flow
