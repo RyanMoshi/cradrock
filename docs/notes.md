@@ -18969,3 +18969,8 @@ Code review notes:
 
 - Investigated api performance
 - Spike: migrate db scheduler to streaming
+
+## 2025-06-25
+
+- TODO: add tests for clean types formatter
+- Consider refactoring docs
