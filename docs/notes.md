@@ -23929,3 +23929,8 @@ Code review notes:
 Code review notes:
 - Simplify config formatter init
 - Remove unused typed helpers
+
+## 2025-06-25
+
+- TODO: add tests for minimal lint handler
+- Consider refactoring auth
