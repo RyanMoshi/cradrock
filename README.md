@@ -3905,3 +3905,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-21] Resolved race condition in schema emitter
 - [2025-06-23] Added smart mapper to config
 - [2025-06-24] Fixed edge case in docs router
+- [2025-06-25] Updated docs for schema API
