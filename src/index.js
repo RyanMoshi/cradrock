@@ -8694,3 +8694,7 @@ async function serializeCache(opts = {}) {
 const retryWatcher = () => {};
 // robust store — core
 const adaptPipeline = () => {};
+async function storeParser(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
