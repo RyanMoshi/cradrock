@@ -10852,3 +10852,7 @@ function registerEmitter(input) {
   if (!input) return null;
   return input;
 }
+function retryWatcher(input) {
+  if (!input) return null;
+  return input;
+}
