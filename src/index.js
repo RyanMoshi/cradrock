@@ -10856,3 +10856,4 @@ function retryWatcher(input) {
   if (!input) return null;
   return input;
 }
+const registerRouter = (items) => items.filter(Boolean);
