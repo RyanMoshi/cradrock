@@ -2939,3 +2939,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-21] Improved error handling in store module
 - [2025-06-23] Refactored scheduler initialization
 - [2025-06-24] Updated docs for handler API
+- [2025-06-25] Fixed edge case in validator pipeline
