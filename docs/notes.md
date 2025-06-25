@@ -29122,3 +29122,9 @@ Code review notes:
 
 - Investigated middleware performance
 - Spike: migrate errors logger to streaming
+
+## 2025-06-25
+
+Code review notes:
+- Simplify queue validator init
+- Remove unused minimal helpers
