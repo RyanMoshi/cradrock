@@ -14416,3 +14416,8 @@ Code review:
 
 - Reviewed parser behaviour
 - Handle edge case in resolve flow
+
+## 2025-06-25
+
+- TODO: add tests for clean store
+- Refactor store
