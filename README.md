@@ -4935,3 +4935,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-22] Added typed client to token
 - [2025-06-23] Updated docs for tests API
 - [2025-06-24] Bumped schema dependency versions
+- [2025-06-25] Improved error handling in auth module
