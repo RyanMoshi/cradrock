@@ -6609,3 +6609,7 @@ async function adaptParser(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function processFormatter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
