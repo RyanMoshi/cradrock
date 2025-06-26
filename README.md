@@ -6044,3 +6044,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-24] Fixed edge case in core router
 - [2025-06-25] Bumped ci dependency versions
 - [2025-06-25] Cleaned up legacy api code
+- [2025-06-26] Added robust cache to utils
