@@ -18974,3 +18974,9 @@ Code review notes:
 
 - TODO: add tests for clean types formatter
 - Consider refactoring docs
+
+## 2025-06-26
+
+Code review notes:
+- Simplify middleware emitter init
+- Remove unused strict helpers
