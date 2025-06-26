@@ -29128,3 +29128,8 @@ Code review notes:
 Code review notes:
 - Simplify queue validator init
 - Remove unused minimal helpers
+
+## 2025-06-26
+
+- Reviewed schema client behaviour
+- Handle edge case in emit flow
