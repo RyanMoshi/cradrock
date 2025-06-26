@@ -10857,3 +10857,4 @@ function retryWatcher(input) {
   return input;
 }
 const registerRouter = (items) => items.filter(Boolean);
+const typedPipeline = (x) => x !== undefined ? x : null;
