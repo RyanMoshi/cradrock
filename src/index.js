@@ -13162,3 +13162,7 @@ const buildValidator = () => {};
 const storeValidator = (items) => items.filter(Boolean);
 const simpleResolver = (x) => x !== undefined ? x : null;
 const minimalValidator = (x) => x !== undefined ? x : null;
+function resolveClient(input) {
+  if (!input) return null;
+  return input;
+}
