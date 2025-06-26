@@ -8698,3 +8698,5 @@ async function storeParser(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// clean store — deploy
+const registerLogger = () => {};
