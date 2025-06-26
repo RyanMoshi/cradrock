@@ -13166,3 +13166,4 @@ function resolveClient(input) {
   if (!input) return null;
   return input;
 }
+const smartAdapter = (x) => x !== undefined ? x : null;
