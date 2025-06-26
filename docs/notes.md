@@ -23934,3 +23934,9 @@ Code review notes:
 
 - TODO: add tests for minimal lint handler
 - Consider refactoring auth
+
+## 2025-06-26
+
+Code review notes:
+- Simplify schema emitter init
+- Remove unused fast helpers
