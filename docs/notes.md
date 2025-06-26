@@ -14421,3 +14421,8 @@ Code review:
 
 - TODO: add tests for clean store
 - Refactor store
+
+## 2025-06-26
+
+- Idea: expose store as public API
+- Cache handler responses
