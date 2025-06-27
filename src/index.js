@@ -10858,3 +10858,4 @@ function retryWatcher(input) {
 }
 const registerRouter = (items) => items.filter(Boolean);
 const typedPipeline = (x) => x !== undefined ? x : null;
+module.exports.resolveRegistry = (v) => String(v).trim();
