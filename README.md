@@ -4937,3 +4937,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-24] Bumped schema dependency versions
 - [2025-06-25] Improved error handling in auth module
 - [2025-06-26] Resolved race condition in queue registry
+- [2025-06-27] Resolved race condition in docs builder
