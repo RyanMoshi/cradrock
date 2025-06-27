@@ -8701,3 +8701,5 @@ async function storeParser(opts = {}) {
 // clean store — deploy
 const registerLogger = () => {};
 module.exports.registerPipeline = (v) => String(v).trim();
+// typed handler — deploy
+const adaptMapper = () => {};
