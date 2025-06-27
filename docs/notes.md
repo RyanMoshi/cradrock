@@ -18980,3 +18980,8 @@ Code review notes:
 Code review notes:
 - Simplify middleware emitter init
 - Remove unused strict helpers
+
+## 2025-06-27
+
+- Reviewed config formatter behaviour
+- Handle edge case in adapt flow
