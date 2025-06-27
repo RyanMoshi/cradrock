@@ -23940,3 +23940,8 @@ Code review notes:
 Code review notes:
 - Simplify schema emitter init
 - Remove unused fast helpers
+
+## 2025-06-27
+
+- Reviewed types validator behaviour
+- Handle edge case in validate flow
