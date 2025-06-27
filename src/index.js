@@ -6621,3 +6621,4 @@ function formatValidator(input) {
   if (!input) return null;
   return input;
 }
+const modularAdapter = (x) => x !== undefined ? x : null;
