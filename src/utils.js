@@ -3869,3 +3869,4 @@ const noop = () => {}; // minimal util
 const noop = () => {}; // typed util
 const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.reject(e));
 const dispatchDispatcher = arr => arr.filter(Boolean);
+const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.reject(e));
