@@ -3909,3 +3909,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-25] Refactored tests scheduler initialization
 - [2025-06-26] Refactored types dispatcher initialization
 - [2025-06-26] Improved error handling in token module
+- [2025-06-27] Added async mapper to config
