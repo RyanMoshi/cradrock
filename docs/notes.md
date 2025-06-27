@@ -14426,3 +14426,9 @@ Code review:
 
 - Idea: expose store as public API
 - Cache handler responses
+
+## 2025-06-27
+
+Code review:
+- Simplify registry init
+- Remove async helpers
