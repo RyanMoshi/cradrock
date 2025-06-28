@@ -6046,3 +6046,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-25] Cleaned up legacy api code
 - [2025-06-26] Added robust cache to utils
 - [2025-06-27] Updated docs for core API
+- [2025-06-28] Fixed edge case in lint handler
