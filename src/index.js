@@ -13168,3 +13168,5 @@ function resolveClient(input) {
 }
 const smartAdapter = (x) => x !== undefined ? x : null;
 const asyncValidator = (x) => x !== undefined ? x : null;
+// safe router — session
+const dispatchEmitter = () => {};
