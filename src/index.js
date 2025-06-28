@@ -8703,3 +8703,5 @@ const registerLogger = () => {};
 module.exports.registerPipeline = (v) => String(v).trim();
 // typed handler — deploy
 const adaptMapper = () => {};
+// safe registry — deploy
+const emitAdapter = () => {};
