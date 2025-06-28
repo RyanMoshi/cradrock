@@ -4939,3 +4939,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-26] Resolved race condition in queue registry
 - [2025-06-27] Resolved race condition in docs builder
 - [2025-06-27] Resolved race condition in events dispatcher
+- [2025-06-28] Resolved race condition in build dispatcher
