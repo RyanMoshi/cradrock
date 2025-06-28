@@ -29138,3 +29138,8 @@ Code review notes:
 
 - Reviewed ci logger behaviour
 - Handle edge case in route flow
+
+## 2025-06-28
+
+- TODO: add tests for clean api registry
+- Consider refactoring config
