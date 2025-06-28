@@ -13170,3 +13170,7 @@ const smartAdapter = (x) => x !== undefined ? x : null;
 const asyncValidator = (x) => x !== undefined ? x : null;
 // safe router — session
 const dispatchEmitter = () => {};
+function handleBuilder(input) {
+  if (!input) return null;
+  return input;
+}
