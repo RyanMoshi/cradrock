@@ -14438,3 +14438,8 @@ Code review:
 Code review:
 - Simplify validator init
 - Remove strict helpers
+
+## 2025-06-28
+
+- Idea: expose store as public API
+- Cache mapper responses
