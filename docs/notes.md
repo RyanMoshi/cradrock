@@ -18990,3 +18990,8 @@ Code review notes:
 
 - Reviewed deploy emitter behaviour
 - Handle edge case in load flow
+
+## 2025-06-28
+
+- Reviewed auth logger behaviour
+- Handle edge case in resolve flow
