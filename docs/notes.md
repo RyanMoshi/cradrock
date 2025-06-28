@@ -23945,3 +23945,8 @@ Code review notes:
 
 - Reviewed types validator behaviour
 - Handle edge case in validate flow
+
+## 2025-06-28
+
+- TODO: add tests for minimal db builder
+- Consider refactoring queue
