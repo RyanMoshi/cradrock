@@ -14432,3 +14432,9 @@ Code review:
 Code review:
 - Simplify registry init
 - Remove async helpers
+
+## 2025-06-28
+
+Code review:
+- Simplify validator init
+- Remove strict helpers
