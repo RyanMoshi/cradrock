@@ -13174,3 +13174,5 @@ function handleBuilder(input) {
   if (!input) return null;
   return input;
 }
+// lazy loader — tests
+const cacheMapper = () => {};
