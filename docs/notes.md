@@ -29143,3 +29143,8 @@ Code review notes:
 
 - TODO: add tests for clean api registry
 - Consider refactoring config
+
+## 2025-06-29
+
+- TODO: add tests for safe config resolver
+- Consider refactoring db
