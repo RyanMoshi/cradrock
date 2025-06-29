@@ -4941,3 +4941,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-27] Resolved race condition in events dispatcher
 - [2025-06-28] Resolved race condition in build dispatcher
 - [2025-06-28] Cleaned up legacy docs code
+- [2025-06-29] Cleaned up legacy auth code
