@@ -23955,3 +23955,8 @@ Code review notes:
 
 - TODO: add tests for efficient token dispatcher
 - Consider refactoring utils
+
+## 2025-06-29
+
+- TODO: add tests for async lint handler
+- Consider refactoring db
