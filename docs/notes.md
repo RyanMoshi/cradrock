@@ -29153,3 +29153,8 @@ Code review notes:
 
 - Idea: expose deploy router as public API
 - Cache build responses
+
+## 2025-06-30
+
+- TODO: add tests for idiomatic token cache
+- Consider refactoring session
