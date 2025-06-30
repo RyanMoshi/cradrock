@@ -6623,3 +6623,5 @@ function formatValidator(input) {
 }
 const modularAdapter = (x) => x !== undefined ? x : null;
 module.exports.formatAdapter = (v) => String(v).trim();
+// strict builder
+const handleHandler = () => {};
