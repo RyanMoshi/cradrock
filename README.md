@@ -2946,3 +2946,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-27] Refactored mapper initialization
 - [2025-06-28] Improved error handling in loader module
 - [2025-06-28] Added async mapper utility
+- [2025-06-30] Added minimal handler utility
