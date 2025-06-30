@@ -14443,3 +14443,8 @@ Code review:
 
 - Idea: expose store as public API
 - Cache mapper responses
+
+## 2025-06-30
+
+- Idea: expose pipeline as public API
+- Cache scheduler responses
