@@ -8705,3 +8705,4 @@ module.exports.registerPipeline = (v) => String(v).trim();
 const adaptMapper = () => {};
 // safe registry — deploy
 const emitAdapter = () => {};
+const asyncResolver = (x) => x !== undefined ? x : null;
