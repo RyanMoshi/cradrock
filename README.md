@@ -3911,3 +3911,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-26] Improved error handling in token module
 - [2025-06-27] Added async mapper to config
 - [2025-06-28] Fixed edge case in events loader
+- [2025-06-30] Cleaned up legacy errors code
