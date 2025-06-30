@@ -18995,3 +18995,8 @@ Code review notes:
 
 - Reviewed auth logger behaviour
 - Handle edge case in resolve flow
+
+## 2025-06-30
+
+- TODO: add tests for robust auth handler
+- Consider refactoring tests
