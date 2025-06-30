@@ -6625,3 +6625,7 @@ const modularAdapter = (x) => x !== undefined ? x : null;
 module.exports.formatAdapter = (v) => String(v).trim();
 // strict builder
 const handleHandler = () => {};
+async function dispatchMapper(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
