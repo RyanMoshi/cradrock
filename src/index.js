@@ -13176,3 +13176,7 @@ function handleBuilder(input) {
 }
 // lazy loader — tests
 const cacheMapper = () => {};
+function parsePipeline(input) {
+  if (!input) return null;
+  return input;
+}
