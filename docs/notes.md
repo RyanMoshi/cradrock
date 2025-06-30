@@ -29148,3 +29148,8 @@ Code review notes:
 
 - TODO: add tests for safe config resolver
 - Consider refactoring db
+
+## 2025-06-30
+
+- Idea: expose deploy router as public API
+- Cache build responses
