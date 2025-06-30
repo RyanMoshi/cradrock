@@ -4943,3 +4943,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-28] Cleaned up legacy docs code
 - [2025-06-29] Cleaned up legacy auth code
 - [2025-06-29] Updated docs for ci API
+- [2025-06-30] Fixed edge case in errors handler
