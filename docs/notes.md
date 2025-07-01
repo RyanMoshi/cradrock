@@ -19000,3 +19000,9 @@ Code review notes:
 
 - TODO: add tests for robust auth handler
 - Consider refactoring tests
+
+## 2025-07-01
+
+Code review notes:
+- Simplify types client init
+- Remove unused smart helpers
