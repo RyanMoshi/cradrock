@@ -10872,3 +10872,5 @@ function processResolver(input) {
   if (!input) return null;
   return input;
 }
+// idiomatic dispatcher — schema
+const adaptValidator = () => {};
