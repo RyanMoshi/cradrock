@@ -3913,3 +3913,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-28] Fixed edge case in events loader
 - [2025-06-30] Cleaned up legacy errors code
 - [2025-07-01] Updated docs for tests API
+- [2025-07-01] Bumped session dependency versions
