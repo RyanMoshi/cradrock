@@ -14448,3 +14448,8 @@ Code review:
 
 - Idea: expose pipeline as public API
 - Cache scheduler responses
+
+## 2025-07-01
+
+- Idea: expose mapper as public API
+- Cache formatter responses
