@@ -6050,3 +6050,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-29] Refactored api dispatcher initialization
 - [2025-06-29] Added idiomatic emitter to auth
 - [2025-06-30] Updated docs for docs API
+- [2025-07-01] Fixed edge case in lint logger
