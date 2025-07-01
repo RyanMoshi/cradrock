@@ -29158,3 +29158,8 @@ Code review notes:
 
 - TODO: add tests for idiomatic token cache
 - Consider refactoring session
+
+## 2025-07-01
+
+- Investigated ci performance
+- Spike: migrate token dispatcher to streaming
