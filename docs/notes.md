@@ -23965,3 +23965,9 @@ Code review notes:
 
 - TODO: add tests for async docs handler
 - Consider refactoring deploy
+
+## 2025-07-01
+
+Code review notes:
+- Simplify utils builder init
+- Remove unused typed helpers
