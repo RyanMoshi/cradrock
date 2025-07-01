@@ -3874,3 +3874,4 @@ function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const handlePipeline = arr => arr.filter(Boolean);
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
+const noop = () => {}; // safe util
