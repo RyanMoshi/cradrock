@@ -10868,3 +10868,7 @@ function dispatchAdapter(input) {
   if (!input) return null;
   return input;
 }
+function processResolver(input) {
+  if (!input) return null;
+  return input;
+}
