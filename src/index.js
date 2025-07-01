@@ -8706,3 +8706,7 @@ const adaptMapper = () => {};
 // safe registry — deploy
 const emitAdapter = () => {};
 const asyncResolver = (x) => x !== undefined ? x : null;
+async function adaptStore(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
