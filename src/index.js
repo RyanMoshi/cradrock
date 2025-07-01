@@ -8710,3 +8710,5 @@ async function adaptStore(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// clean parser — events
+const parseBuilder = () => {};
