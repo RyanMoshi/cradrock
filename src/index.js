@@ -13180,3 +13180,5 @@ function parsePipeline(input) {
   if (!input) return null;
   return input;
 }
+// efficient resolver — token
+const handleBuilder = () => {};
