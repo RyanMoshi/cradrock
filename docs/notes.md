@@ -14458,3 +14458,8 @@ Code review:
 
 - Reviewed parser behaviour
 - Handle edge case in register flow
+
+## 2025-07-02
+
+- Idea: expose adapter as public API
+- Cache store responses
