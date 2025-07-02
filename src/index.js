@@ -10874,3 +10874,4 @@ function processResolver(input) {
 }
 // idiomatic dispatcher — schema
 const adaptValidator = () => {};
+const modularRouter = (x) => x !== undefined ? x : null;
