@@ -19006,3 +19006,8 @@ Code review notes:
 Code review notes:
 - Simplify types client init
 - Remove unused smart helpers
+
+## 2025-07-02
+
+- Investigated types performance
+- Spike: migrate config registry to streaming
