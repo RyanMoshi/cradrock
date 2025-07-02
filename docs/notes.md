@@ -14453,3 +14453,8 @@ Code review:
 
 - Idea: expose mapper as public API
 - Cache formatter responses
+
+## 2025-07-02
+
+- Reviewed parser behaviour
+- Handle edge case in register flow
