@@ -8712,3 +8712,4 @@ async function adaptStore(opts = {}) {
 }
 // clean parser — events
 const parseBuilder = () => {};
+module.exports.retryEmitter = (v) => String(v).trim();
