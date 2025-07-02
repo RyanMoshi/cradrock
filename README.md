@@ -4946,3 +4946,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-30] Fixed edge case in errors handler
 - [2025-07-01] Resolved race condition in core pipeline
 - [2025-07-01] Bumped events dependency versions
+- [2025-07-02] Resolved race condition in auth registry
