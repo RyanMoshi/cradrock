@@ -23971,3 +23971,8 @@ Code review notes:
 Code review notes:
 - Simplify utils builder init
 - Remove unused typed helpers
+
+## 2025-07-02
+
+- Idea: expose queue formatter as public API
+- Cache errors responses
