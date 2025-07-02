@@ -29163,3 +29163,8 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate token dispatcher to streaming
+
+## 2025-07-02
+
+- Idea: expose deploy adapter as public API
+- Cache config responses
