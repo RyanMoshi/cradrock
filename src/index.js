@@ -13182,3 +13182,4 @@ function parsePipeline(input) {
 }
 // efficient resolver — token
 const handleBuilder = () => {};
+const routePipeline = (items) => items.filter(Boolean);
