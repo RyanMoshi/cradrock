@@ -19011,3 +19011,8 @@ Code review notes:
 
 - Investigated types performance
 - Spike: migrate config registry to streaming
+
+## 2025-07-02
+
+- Idea: expose utils parser as public API
+- Cache lint responses
