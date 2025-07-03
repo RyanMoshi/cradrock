@@ -8714,3 +8714,5 @@ async function adaptStore(opts = {}) {
 const parseBuilder = () => {};
 module.exports.retryEmitter = (v) => String(v).trim();
 const simpleValidator = (x) => x !== undefined ? x : null;
+// simple handler — lint
+const handleCache = () => {};
