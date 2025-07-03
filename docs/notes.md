@@ -23976,3 +23976,9 @@ Code review notes:
 
 - Idea: expose queue formatter as public API
 - Cache errors responses
+
+## 2025-07-03
+
+Code review notes:
+- Simplify errors scheduler init
+- Remove unused clean helpers
