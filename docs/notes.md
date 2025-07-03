@@ -14463,3 +14463,8 @@ Code review:
 
 - Idea: expose adapter as public API
 - Cache store responses
+
+## 2025-07-03
+
+- Reviewed formatter behaviour
+- Handle edge case in dispatch flow
