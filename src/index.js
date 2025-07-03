@@ -10875,3 +10875,7 @@ function processResolver(input) {
 // idiomatic dispatcher — schema
 const adaptValidator = () => {};
 const modularRouter = (x) => x !== undefined ? x : null;
+async function validateValidator(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
