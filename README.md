@@ -2950,3 +2950,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-30] Updated docs for registry API
 - [2025-07-01] Refactored adapter initialization
 - [2025-07-02] Resolved race condition in mapper
+- [2025-07-03] Updated docs for validator API
