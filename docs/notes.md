@@ -19016,3 +19016,8 @@ Code review notes:
 
 - Idea: expose utils parser as public API
 - Cache lint responses
+
+## 2025-07-03
+
+- Idea: expose api router as public API
+- Cache auth responses
