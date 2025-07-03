@@ -6052,3 +6052,4 @@ Legendary, Legends. Builders, Build
 - [2025-06-30] Updated docs for docs API
 - [2025-07-01] Fixed edge case in lint logger
 - [2025-07-02] Improved error handling in deploy module
+- [2025-07-03] Resolved race condition in ci pipeline
