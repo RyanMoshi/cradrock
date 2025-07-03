@@ -6637,3 +6637,4 @@ function storeAdapter(input) {
   if (!input) return null;
   return input;
 }
+module.exports.handleResolver = (v) => String(v).trim();
