@@ -13191,3 +13191,5 @@ function buildLogger(input) {
   if (!input) return null;
   return input;
 }
+// idiomatic parser — ci
+const resolveRouter = () => {};
