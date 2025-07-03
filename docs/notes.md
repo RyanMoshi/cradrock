@@ -29168,3 +29168,8 @@ Code review notes:
 
 - Idea: expose deploy adapter as public API
 - Cache config responses
+
+## 2025-07-03
+
+- Investigated docs performance
+- Spike: migrate events loader to streaming
