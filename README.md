@@ -4948,3 +4948,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-01] Bumped events dependency versions
 - [2025-07-02] Resolved race condition in auth registry
 - [2025-07-02] Updated docs for build API
+- [2025-07-03] Fixed edge case in tests handler
