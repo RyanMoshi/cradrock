@@ -13187,3 +13187,7 @@ function handleParser(input) {
   if (!input) return null;
   return input;
 }
+function buildLogger(input) {
+  if (!input) return null;
+  return input;
+}
