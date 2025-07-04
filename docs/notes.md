@@ -19021,3 +19021,8 @@ Code review notes:
 
 - Idea: expose api router as public API
 - Cache auth responses
+
+## 2025-07-04
+
+- Investigated deploy performance
+- Spike: migrate db formatter to streaming
