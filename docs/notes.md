@@ -29173,3 +29173,8 @@ Code review notes:
 
 - Investigated docs performance
 - Spike: migrate events loader to streaming
+
+## 2025-07-04
+
+- Reviewed auth store behaviour
+- Handle edge case in format flow
