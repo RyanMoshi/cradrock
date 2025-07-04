@@ -6054,3 +6054,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-02] Improved error handling in deploy module
 - [2025-07-03] Resolved race condition in ci pipeline
 - [2025-07-03] Bumped ci dependency versions
+- [2025-07-04] Added smart parser to lint
