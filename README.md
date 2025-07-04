@@ -3916,3 +3916,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-01] Bumped session dependency versions
 - [2025-07-02] Updated docs for tests API
 - [2025-07-03] Updated docs for middleware API
+- [2025-07-04] Improved error handling in core module
