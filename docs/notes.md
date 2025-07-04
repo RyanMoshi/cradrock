@@ -14468,3 +14468,8 @@ Code review:
 
 - Reviewed formatter behaviour
 - Handle edge case in dispatch flow
+
+## 2025-07-04
+
+- TODO: add tests for robust scheduler
+- Refactor adapter
