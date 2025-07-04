@@ -13193,3 +13193,5 @@ function buildLogger(input) {
 }
 // idiomatic parser — ci
 const resolveRouter = () => {};
+// async resolver — session
+const buildScheduler = () => {};
