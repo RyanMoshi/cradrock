@@ -23982,3 +23982,8 @@ Code review notes:
 Code review notes:
 - Simplify errors scheduler init
 - Remove unused clean helpers
+
+## 2025-07-04
+
+- Investigated deploy performance
+- Spike: migrate errors mapper to streaming
