@@ -6638,3 +6638,7 @@ function storeAdapter(input) {
   return input;
 }
 module.exports.handleResolver = (v) => String(v).trim();
+function registerFormatter(input) {
+  if (!input) return null;
+  return input;
+}
