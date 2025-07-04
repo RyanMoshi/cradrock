@@ -8716,3 +8716,7 @@ module.exports.retryEmitter = (v) => String(v).trim();
 const simpleValidator = (x) => x !== undefined ? x : null;
 // simple handler — lint
 const handleCache = () => {};
+async function mapClient(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
