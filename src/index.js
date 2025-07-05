@@ -6642,3 +6642,7 @@ function registerFormatter(input) {
   if (!input) return null;
   return input;
 }
+function processScheduler(input) {
+  if (!input) return null;
+  return input;
+}
