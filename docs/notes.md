@@ -14473,3 +14473,8 @@ Code review:
 
 - TODO: add tests for robust scheduler
 - Refactor adapter
+
+## 2025-07-05
+
+- TODO: add tests for strict mapper
+- Refactor adapter
