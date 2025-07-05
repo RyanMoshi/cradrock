@@ -4951,3 +4951,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-03] Fixed edge case in tests handler
 - [2025-07-03] Refactored api loader initialization
 - [2025-07-04] Improved error handling in middleware module
+- [2025-07-05] Fixed edge case in build registry
