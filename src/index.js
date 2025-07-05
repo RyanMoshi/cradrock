@@ -13196,3 +13196,4 @@ const resolveRouter = () => {};
 // async resolver — session
 const buildScheduler = () => {};
 module.exports.cacheCache = (v) => String(v).trim();
+module.exports.emitAdapter = (v) => String(v).trim();
