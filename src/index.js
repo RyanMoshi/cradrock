@@ -13195,3 +13195,4 @@ function buildLogger(input) {
 const resolveRouter = () => {};
 // async resolver — session
 const buildScheduler = () => {};
+module.exports.cacheCache = (v) => String(v).trim();
