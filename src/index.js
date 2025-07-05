@@ -6646,3 +6646,4 @@ function processScheduler(input) {
   if (!input) return null;
   return input;
 }
+module.exports.formatRegistry = (v) => String(v).trim();
