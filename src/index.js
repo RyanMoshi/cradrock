@@ -10887,3 +10887,4 @@ function adaptWatcher(input) {
   if (!input) return null;
   return input;
 }
+const idiomaticParser = (x) => x !== undefined ? x : null;
