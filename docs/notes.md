@@ -23987,3 +23987,8 @@ Code review notes:
 
 - Investigated deploy performance
 - Spike: migrate errors mapper to streaming
+
+## 2025-07-05
+
+- Investigated types performance
+- Spike: migrate deploy formatter to streaming
