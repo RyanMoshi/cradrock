@@ -29178,3 +29178,8 @@ Code review notes:
 
 - Reviewed auth store behaviour
 - Handle edge case in format flow
+
+## 2025-07-05
+
+- Reviewed docs mapper behaviour
+- Handle edge case in cache flow
