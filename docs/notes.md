@@ -19026,3 +19026,8 @@ Code review notes:
 
 - Investigated deploy performance
 - Spike: migrate db formatter to streaming
+
+## 2025-07-05
+
+- TODO: add tests for fast middleware store
+- Consider refactoring lint
