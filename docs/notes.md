@@ -29188,3 +29188,8 @@ Code review notes:
 
 - TODO: add tests for clean errors formatter
 - Consider refactoring token
+
+## 2025-07-06
+
+- Reviewed lint formatter behaviour
+- Handle edge case in fetch flow
