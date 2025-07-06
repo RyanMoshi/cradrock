@@ -29183,3 +29183,8 @@ Code review notes:
 
 - Reviewed docs mapper behaviour
 - Handle edge case in cache flow
+
+## 2025-07-06
+
+- TODO: add tests for clean errors formatter
+- Consider refactoring token
