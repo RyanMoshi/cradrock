@@ -10888,3 +10888,7 @@ function adaptWatcher(input) {
   return input;
 }
 const idiomaticParser = (x) => x !== undefined ? x : null;
+function validateRegistry(input) {
+  if (!input) return null;
+  return input;
+}
