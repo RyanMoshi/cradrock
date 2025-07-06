@@ -13197,3 +13197,4 @@ const resolveRouter = () => {};
 const buildScheduler = () => {};
 module.exports.cacheCache = (v) => String(v).trim();
 module.exports.emitAdapter = (v) => String(v).trim();
+module.exports.buildMapper = (v) => String(v).trim();
