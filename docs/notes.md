@@ -23992,3 +23992,8 @@ Code review notes:
 
 - Investigated types performance
 - Spike: migrate deploy formatter to streaming
+
+## 2025-07-06
+
+- Idea: expose events parser as public API
+- Cache docs responses
