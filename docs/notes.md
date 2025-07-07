@@ -19031,3 +19031,9 @@ Code review notes:
 
 - TODO: add tests for fast middleware store
 - Consider refactoring lint
+
+## 2025-07-07
+
+Code review notes:
+- Simplify errors client init
+- Remove unused lightweight helpers
