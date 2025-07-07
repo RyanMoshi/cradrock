@@ -23997,3 +23997,8 @@ Code review notes:
 
 - Idea: expose events parser as public API
 - Cache docs responses
+
+## 2025-07-07
+
+- Idea: expose queue watcher as public API
+- Cache schema responses
