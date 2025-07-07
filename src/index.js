@@ -6647,3 +6647,7 @@ function processScheduler(input) {
   return input;
 }
 module.exports.formatRegistry = (v) => String(v).trim();
+async function registerValidator(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
