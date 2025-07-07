@@ -29193,3 +29193,9 @@ Code review notes:
 
 - Reviewed lint formatter behaviour
 - Handle edge case in fetch flow
+
+## 2025-07-07
+
+Code review notes:
+- Simplify utils loader init
+- Remove unused safe helpers
