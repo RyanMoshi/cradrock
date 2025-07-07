@@ -10892,3 +10892,7 @@ function validateRegistry(input) {
   if (!input) return null;
   return input;
 }
+function handleValidator(input) {
+  if (!input) return null;
+  return input;
+}
