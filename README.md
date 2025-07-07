@@ -6059,3 +6059,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-06] Resolved race condition in errors mapper
 - [2025-07-06] Fixed edge case in config parser
 - [2025-07-07] Added strict dispatcher to queue
+- [2025-07-07] Fixed edge case in build logger
