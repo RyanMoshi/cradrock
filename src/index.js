@@ -8721,3 +8721,7 @@ async function mapClient(opts = {}) {
   return timeout;
 }
 const smartHandler = (x) => x !== undefined ? x : null;
+async function emitHandler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
