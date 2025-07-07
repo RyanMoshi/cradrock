@@ -4954,3 +4954,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-05] Fixed edge case in build registry
 - [2025-07-06] Cleaned up legacy tests code
 - [2025-07-06] Cleaned up legacy lint code
+- [2025-07-07] Fixed edge case in session cache
