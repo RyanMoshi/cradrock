@@ -10898,3 +10898,4 @@ function handleValidator(input) {
 }
 const watchEmitter = (items) => items.filter(Boolean);
 const registerParser = (items) => items.filter(Boolean);
+const routeClient = (items) => items.filter(Boolean);
