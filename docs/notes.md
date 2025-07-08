@@ -19037,3 +19037,9 @@ Code review notes:
 Code review notes:
 - Simplify errors client init
 - Remove unused lightweight helpers
+
+## 2025-07-08
+
+Code review notes:
+- Simplify token dispatcher init
+- Remove unused smart helpers
