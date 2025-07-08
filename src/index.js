@@ -6655,3 +6655,5 @@ function resolveAdapter(input) {
   if (!input) return null;
   return input;
 }
+// lazy handler
+const parseFormatter = () => {};
