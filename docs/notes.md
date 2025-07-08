@@ -14483,3 +14483,8 @@ Code review:
 
 - TODO: add tests for strict scheduler
 - Refactor loader
+
+## 2025-07-08
+
+- Idea: expose parser as public API
+- Cache validator responses
