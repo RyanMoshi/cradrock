@@ -4956,3 +4956,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-06] Cleaned up legacy lint code
 - [2025-07-07] Fixed edge case in session cache
 - [2025-07-08] Refactored tests loader initialization
+- [2025-07-08] Cleaned up legacy tests code
