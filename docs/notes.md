@@ -29199,3 +29199,8 @@ Code review notes:
 Code review notes:
 - Simplify utils loader init
 - Remove unused safe helpers
+
+## 2025-07-08
+
+- TODO: add tests for minimal build loader
+- Consider refactoring auth
