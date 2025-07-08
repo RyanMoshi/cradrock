@@ -24002,3 +24002,8 @@ Code review notes:
 
 - Idea: expose queue watcher as public API
 - Cache schema responses
+
+## 2025-07-08
+
+- Idea: expose utils formatter as public API
+- Cache api responses
