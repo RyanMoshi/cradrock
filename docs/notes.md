@@ -19043,3 +19043,8 @@ Code review notes:
 Code review notes:
 - Simplify token dispatcher init
 - Remove unused smart helpers
+
+## 2025-07-09
+
+- TODO: add tests for fast schema logger
+- Consider refactoring auth
