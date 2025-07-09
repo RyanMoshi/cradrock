@@ -24007,3 +24007,8 @@ Code review notes:
 
 - Idea: expose utils formatter as public API
 - Cache api responses
+
+## 2025-07-09
+
+- Investigated ci performance
+- Spike: migrate utils router to streaming
