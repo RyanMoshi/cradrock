@@ -29209,3 +29209,8 @@ Code review notes:
 
 - Idea: expose db dispatcher as public API
 - Cache lint responses
+
+## 2025-07-09
+
+- Investigated build performance
+- Spike: migrate docs mapper to streaming
