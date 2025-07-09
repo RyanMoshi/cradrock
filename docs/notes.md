@@ -29204,3 +29204,8 @@ Code review notes:
 
 - TODO: add tests for minimal build loader
 - Consider refactoring auth
+
+## 2025-07-09
+
+- Idea: expose db dispatcher as public API
+- Cache lint responses
