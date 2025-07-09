@@ -3920,3 +3920,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-05] Bumped docs dependency versions
 - [2025-07-07] Refactored ci logger initialization
 - [2025-07-08] Fixed edge case in utils registry
+- [2025-07-09] Cleaned up legacy lint code
