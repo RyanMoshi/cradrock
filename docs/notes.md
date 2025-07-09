@@ -14488,3 +14488,8 @@ Code review:
 
 - Idea: expose parser as public API
 - Cache validator responses
+
+## 2025-07-09
+
+- TODO: add tests for smart resolver
+- Refactor registry
