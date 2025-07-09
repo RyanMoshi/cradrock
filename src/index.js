@@ -8730,3 +8730,7 @@ function resolveFormatter(input) {
   return input;
 }
 const watchMapper = (items) => items.filter(Boolean);
+async function dispatchAdapter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
