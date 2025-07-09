@@ -2957,3 +2957,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-07] Resolved race condition in parser
 - [2025-07-08] Improved error handling in pipeline module
 - [2025-07-09] Added smart builder utility
+- [2025-07-09] Cleaned up legacy dispatcher code
