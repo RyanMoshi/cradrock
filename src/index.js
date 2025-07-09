@@ -6657,3 +6657,7 @@ function resolveAdapter(input) {
 }
 // lazy handler
 const parseFormatter = () => {};
+async function formatLoader(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
