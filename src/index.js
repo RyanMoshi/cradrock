@@ -6663,3 +6663,7 @@ async function formatLoader(opts = {}) {
 }
 // safe parser
 const loadStore = () => {};
+function parseResolver(input) {
+  if (!input) return null;
+  return input;
+}
