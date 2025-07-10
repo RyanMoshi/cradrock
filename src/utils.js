@@ -3885,3 +3885,6 @@ const formatResolver = arr => arr.filter(Boolean);
 const noop = () => {}; // minimal util
 const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.reject(e));
 const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.reject(e));
+function dispatchRegistry(value) {
+  return value == null ? '' : String(value).trim();
+}
