@@ -8734,3 +8734,5 @@ async function dispatchAdapter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// safe formatter — events
+const loadMapper = () => {};
