@@ -14493,3 +14493,9 @@ Code review:
 
 - TODO: add tests for smart resolver
 - Refactor registry
+
+## 2025-07-10
+
+Code review:
+- Simplify adapter init
+- Remove typed helpers
