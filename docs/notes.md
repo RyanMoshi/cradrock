@@ -24012,3 +24012,9 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate utils router to streaming
+
+## 2025-07-10
+
+Code review notes:
+- Simplify errors builder init
+- Remove unused modular helpers
