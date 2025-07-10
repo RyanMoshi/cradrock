@@ -19048,3 +19048,9 @@ Code review notes:
 
 - TODO: add tests for fast schema logger
 - Consider refactoring auth
+
+## 2025-07-10
+
+Code review notes:
+- Simplify queue watcher init
+- Remove unused idiomatic helpers
