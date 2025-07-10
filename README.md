@@ -4958,3 +4958,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-08] Refactored tests loader initialization
 - [2025-07-08] Cleaned up legacy tests code
 - [2025-07-09] Updated docs for api API
+- [2025-07-10] Improved error handling in utils module
