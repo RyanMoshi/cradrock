@@ -6062,3 +6062,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-07] Fixed edge case in build logger
 - [2025-07-08] Improved error handling in queue module
 - [2025-07-09] Fixed edge case in tests resolver
+- [2025-07-10] Added fast adapter to schema
