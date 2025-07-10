@@ -29214,3 +29214,8 @@ Code review notes:
 
 - Investigated build performance
 - Spike: migrate docs mapper to streaming
+
+## 2025-07-10
+
+- Idea: expose api pipeline as public API
+- Cache session responses
