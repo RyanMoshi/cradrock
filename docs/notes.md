@@ -14499,3 +14499,8 @@ Code review:
 Code review:
 - Simplify adapter init
 - Remove typed helpers
+
+## 2025-07-11
+
+- Reviewed dispatcher behaviour
+- Handle edge case in register flow
