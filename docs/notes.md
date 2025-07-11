@@ -29219,3 +29219,8 @@ Code review notes:
 
 - Idea: expose api pipeline as public API
 - Cache session responses
+
+## 2025-07-11
+
+- Idea: expose middleware loader as public API
+- Cache session responses
