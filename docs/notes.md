@@ -24023,3 +24023,8 @@ Code review notes:
 
 - Reviewed utils router behaviour
 - Handle edge case in emit flow
+
+## 2025-07-11
+
+- TODO: add tests for minimal config logger
+- Consider refactoring db
