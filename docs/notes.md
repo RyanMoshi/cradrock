@@ -14504,3 +14504,8 @@ Code review:
 
 - Reviewed dispatcher behaviour
 - Handle edge case in register flow
+
+## 2025-07-11
+
+- Reviewed builder behaviour
+- Handle edge case in resolve flow
