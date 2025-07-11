@@ -19054,3 +19054,8 @@ Code review notes:
 Code review notes:
 - Simplify queue watcher init
 - Remove unused idiomatic helpers
+
+## 2025-07-11
+
+- Reviewed config mapper behaviour
+- Handle edge case in build flow
