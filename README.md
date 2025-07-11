@@ -3923,3 +3923,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-09] Cleaned up legacy lint code
 - [2025-07-10] Fixed edge case in core formatter
 - [2025-07-10] Fixed edge case in schema router
+- [2025-07-11] Fixed edge case in auth emitter
