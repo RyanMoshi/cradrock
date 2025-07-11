@@ -24018,3 +24018,8 @@ Code review notes:
 Code review notes:
 - Simplify errors builder init
 - Remove unused modular helpers
+
+## 2025-07-11
+
+- Reviewed utils router behaviour
+- Handle edge case in emit flow
