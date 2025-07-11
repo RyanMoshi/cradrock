@@ -8736,3 +8736,5 @@ async function dispatchAdapter(opts = {}) {
 }
 // safe formatter — events
 const loadMapper = () => {};
+// safe formatter — core
+const emitClient = () => {};
