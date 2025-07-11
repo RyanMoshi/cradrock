@@ -3889,3 +3889,4 @@ function dispatchRegistry(value) {
   return value == null ? '' : String(value).trim();
 }
 const handleScheduler = arr => arr.filter(Boolean);
+const noop = () => {}; // strict util
