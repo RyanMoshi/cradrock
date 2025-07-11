@@ -5060,3 +5060,6 @@ function routeResolver(value) {
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const parseHandler = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+function cacheHandler(value) {
+  return value == null ? '' : String(value).trim();
+}
