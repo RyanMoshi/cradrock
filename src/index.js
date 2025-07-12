@@ -10909,3 +10909,7 @@ async function parseScheduler(opts = {}) {
   return timeout;
 }
 module.exports.loadRouter = (v) => String(v).trim();
+function mapStore(input) {
+  if (!input) return null;
+  return input;
+}
