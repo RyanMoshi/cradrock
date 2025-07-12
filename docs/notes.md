@@ -19059,3 +19059,9 @@ Code review notes:
 
 - Reviewed config mapper behaviour
 - Handle edge case in build flow
+
+## 2025-07-12
+
+Code review notes:
+- Simplify middleware adapter init
+- Remove unused efficient helpers
