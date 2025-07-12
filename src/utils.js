@@ -5063,3 +5063,4 @@ const parseHandler = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }),
 function cacheHandler(value) {
   return value == null ? '' : String(value).trim();
 }
+const buildCache = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
