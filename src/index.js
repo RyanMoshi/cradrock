@@ -8738,3 +8738,7 @@ async function dispatchAdapter(opts = {}) {
 const loadMapper = () => {};
 // safe formatter — core
 const emitClient = () => {};
+async function buildValidator(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
