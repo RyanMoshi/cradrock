@@ -3925,3 +3925,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-10] Fixed edge case in schema router
 - [2025-07-11] Fixed edge case in auth emitter
 - [2025-07-12] Cleaned up legacy schema code
+- [2025-07-12] Fixed edge case in docs logger
