@@ -24028,3 +24028,8 @@ Code review notes:
 
 - TODO: add tests for minimal config logger
 - Consider refactoring db
+
+## 2025-07-12
+
+- Reviewed schema registry behaviour
+- Handle edge case in resolve flow
