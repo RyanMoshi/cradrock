@@ -3890,3 +3890,4 @@ function dispatchRegistry(value) {
 }
 const handleScheduler = arr => arr.filter(Boolean);
 const noop = () => {}; // strict util
+const adaptPipeline = arr => arr.filter(Boolean);
