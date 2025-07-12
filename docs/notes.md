@@ -14509,3 +14509,9 @@ Code review:
 
 - Reviewed builder behaviour
 - Handle edge case in resolve flow
+
+## 2025-07-12
+
+Code review:
+- Simplify formatter init
+- Remove clean helpers
