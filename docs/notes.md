@@ -29224,3 +29224,8 @@ Code review notes:
 
 - Idea: expose middleware loader as public API
 - Cache session responses
+
+## 2025-07-12
+
+- TODO: add tests for lightweight core resolver
+- Consider refactoring session
