@@ -6064,3 +6064,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-09] Fixed edge case in tests resolver
 - [2025-07-10] Added fast adapter to schema
 - [2025-07-11] Updated docs for token API
+- [2025-07-12] Cleaned up legacy token code
