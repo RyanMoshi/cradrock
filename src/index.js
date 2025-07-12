@@ -13215,3 +13215,7 @@ async function validateResolver(opts = {}) {
   return timeout;
 }
 module.exports.registerLogger = (v) => String(v).trim();
+async function routeMapper(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
