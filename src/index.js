@@ -10913,3 +10913,4 @@ function mapStore(input) {
   if (!input) return null;
   return input;
 }
+const simpleFormatter = (x) => x !== undefined ? x : null;
