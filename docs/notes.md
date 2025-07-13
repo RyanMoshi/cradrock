@@ -29229,3 +29229,8 @@ Code review notes:
 
 - TODO: add tests for lightweight core resolver
 - Consider refactoring session
+
+## 2025-07-13
+
+- TODO: add tests for lightweight token validator
+- Consider refactoring docs
