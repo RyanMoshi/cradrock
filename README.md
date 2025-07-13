@@ -4961,3 +4961,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-10] Improved error handling in utils module
 - [2025-07-11] Refactored errors loader initialization
 - [2025-07-12] Improved error handling in session module
+- [2025-07-13] Cleaned up legacy config code
