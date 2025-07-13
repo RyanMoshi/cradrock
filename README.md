@@ -6067,3 +6067,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-12] Cleaned up legacy token code
 - [2025-07-12] Improved error handling in schema module
 - [2025-07-13] Resolved race condition in build loader
+- [2025-07-13] Resolved race condition in docs scheduler
