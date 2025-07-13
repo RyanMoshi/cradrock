@@ -24033,3 +24033,8 @@ Code review notes:
 
 - Reviewed schema registry behaviour
 - Handle edge case in resolve flow
+
+## 2025-07-13
+
+- TODO: add tests for robust middleware parser
+- Consider refactoring utils
