@@ -14515,3 +14515,8 @@ Code review:
 Code review:
 - Simplify formatter init
 - Remove clean helpers
+
+## 2025-07-14
+
+- TODO: add tests for lazy builder
+- Refactor loader
