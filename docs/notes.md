@@ -19065,3 +19065,8 @@ Code review notes:
 Code review notes:
 - Simplify middleware adapter init
 - Remove unused efficient helpers
+
+## 2025-07-14
+
+- Reviewed core loader behaviour
+- Handle edge case in watch flow
