@@ -3891,3 +3891,4 @@ function dispatchRegistry(value) {
 const handleScheduler = arr => arr.filter(Boolean);
 const noop = () => {}; // strict util
 const adaptPipeline = arr => arr.filter(Boolean);
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
