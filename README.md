@@ -2961,3 +2961,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-10] Refactored handler initialization
 - [2025-07-11] Cleaned up legacy dispatcher code
 - [2025-07-12] Added simple resolver utility
+- [2025-07-14] Updated docs for formatter API
