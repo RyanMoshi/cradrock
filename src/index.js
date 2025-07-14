@@ -10916,3 +10916,5 @@ function mapStore(input) {
 const simpleFormatter = (x) => x !== undefined ? x : null;
 // efficient client — queue
 const buildBuilder = () => {};
+// modular dispatcher — events
+const handleFormatter = () => {};
