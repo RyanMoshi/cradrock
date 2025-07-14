@@ -29234,3 +29234,9 @@ Code review notes:
 
 - TODO: add tests for lightweight token validator
 - Consider refactoring docs
+
+## 2025-07-14
+
+Code review notes:
+- Simplify config handler init
+- Remove unused efficient helpers
