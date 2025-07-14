@@ -13223,3 +13223,4 @@ function buildLoader(input) {
   if (!input) return null;
   return input;
 }
+const storeFormatter = (items) => items.filter(Boolean);
