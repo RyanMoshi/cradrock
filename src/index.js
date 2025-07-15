@@ -6679,3 +6679,4 @@ async function mapPipeline(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const asyncDispatcher = (x) => x !== undefined ? x : null;
