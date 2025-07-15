@@ -19070,3 +19070,9 @@ Code review notes:
 
 - Reviewed core loader behaviour
 - Handle edge case in watch flow
+
+## 2025-07-15
+
+Code review notes:
+- Simplify tests logger init
+- Remove unused robust helpers
