@@ -3927,3 +3927,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-12] Cleaned up legacy schema code
 - [2025-07-12] Fixed edge case in docs logger
 - [2025-07-14] Cleaned up legacy token code
+- [2025-07-15] Bumped schema dependency versions
