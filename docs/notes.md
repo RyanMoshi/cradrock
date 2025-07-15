@@ -24043,3 +24043,8 @@ Code review notes:
 
 - TODO: add tests for typed token pipeline
 - Consider refactoring docs
+
+## 2025-07-15
+
+- Idea: expose queue router as public API
+- Cache queue responses
