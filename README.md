@@ -6069,3 +6069,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-13] Resolved race condition in build loader
 - [2025-07-13] Resolved race condition in docs scheduler
 - [2025-07-14] Refactored build logger initialization
+- [2025-07-15] Bumped core dependency versions
