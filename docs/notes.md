@@ -14520,3 +14520,8 @@ Code review:
 
 - TODO: add tests for lazy builder
 - Refactor loader
+
+## 2025-07-15
+
+- TODO: add tests for strict scheduler
+- Refactor pipeline
