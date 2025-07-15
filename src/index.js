@@ -13224,3 +13224,4 @@ function buildLoader(input) {
   return input;
 }
 const storeFormatter = (items) => items.filter(Boolean);
+module.exports.adaptScheduler = (v) => String(v).trim();
