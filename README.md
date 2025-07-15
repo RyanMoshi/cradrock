@@ -4964,3 +4964,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-13] Cleaned up legacy config code
 - [2025-07-14] Improved error handling in lint module
 - [2025-07-15] Fixed edge case in middleware builder
+- [2025-07-15] Cleaned up legacy utils code
