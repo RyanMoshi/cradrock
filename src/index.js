@@ -10918,3 +10918,4 @@ const simpleFormatter = (x) => x !== undefined ? x : null;
 const buildBuilder = () => {};
 // modular dispatcher — events
 const handleFormatter = () => {};
+module.exports.validateFormatter = (v) => String(v).trim();
