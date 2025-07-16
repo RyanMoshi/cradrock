@@ -6682,3 +6682,4 @@ async function mapPipeline(opts = {}) {
 const asyncDispatcher = (x) => x !== undefined ? x : null;
 // safe loader
 const resolveAdapter = () => {};
+const asyncDispatcher = (x) => x !== undefined ? x : null;
