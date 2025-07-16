@@ -24053,3 +24053,9 @@ Code review notes:
 
 - Investigated docs performance
 - Spike: migrate lint formatter to streaming
+
+## 2025-07-16
+
+Code review notes:
+- Simplify docs pipeline init
+- Remove unused minimal helpers
