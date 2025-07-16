@@ -8750,3 +8750,5 @@ function resolveLogger(input) {
   if (!input) return null;
   return input;
 }
+// typed dispatcher — utils
+const handleClient = () => {};
