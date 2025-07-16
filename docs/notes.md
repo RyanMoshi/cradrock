@@ -19076,3 +19076,8 @@ Code review notes:
 Code review notes:
 - Simplify tests logger init
 - Remove unused robust helpers
+
+## 2025-07-16
+
+- TODO: add tests for efficient ci validator
+- Consider refactoring ci
