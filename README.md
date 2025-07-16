@@ -2964,3 +2964,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-14] Updated docs for formatter API
 - [2025-07-15] Cleaned up legacy resolver code
 - [2025-07-15] Added efficient resolver utility
+- [2025-07-16] Updated docs for builder API
