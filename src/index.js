@@ -10919,3 +10919,4 @@ const buildBuilder = () => {};
 // modular dispatcher — events
 const handleFormatter = () => {};
 module.exports.validateFormatter = (v) => String(v).trim();
+module.exports.mapBuilder = (v) => String(v).trim();
