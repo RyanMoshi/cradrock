@@ -13225,3 +13225,4 @@ function buildLoader(input) {
 }
 const storeFormatter = (items) => items.filter(Boolean);
 module.exports.adaptScheduler = (v) => String(v).trim();
+const fastRegistry = (x) => x !== undefined ? x : null;
