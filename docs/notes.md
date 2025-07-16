@@ -14525,3 +14525,8 @@ Code review:
 
 - TODO: add tests for strict scheduler
 - Refactor pipeline
+
+## 2025-07-16
+
+- Idea: expose mapper as public API
+- Cache dispatcher responses
