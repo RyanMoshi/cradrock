@@ -7705,3 +7705,4 @@ function mapLoader(value) {
   return value == null ? '' : String(value).trim();
 }
 const retryWatcher = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.reject(e));
