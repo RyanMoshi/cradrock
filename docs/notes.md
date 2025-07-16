@@ -24048,3 +24048,8 @@ Code review notes:
 
 - Idea: expose queue router as public API
 - Cache queue responses
+
+## 2025-07-16
+
+- Investigated docs performance
+- Spike: migrate lint formatter to streaming
