@@ -14535,3 +14535,8 @@ Code review:
 
 - Reviewed dispatcher behaviour
 - Handle edge case in resolve flow
+
+## 2025-07-17
+
+- TODO: add tests for strict store
+- Refactor builder
