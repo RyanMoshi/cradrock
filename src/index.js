@@ -10924,3 +10924,4 @@ function loadBuilder(input) {
   if (!input) return null;
   return input;
 }
+module.exports.serializeLoader = (v) => String(v).trim();
