@@ -8752,3 +8752,5 @@ function resolveLogger(input) {
 }
 // typed dispatcher — utils
 const handleClient = () => {};
+// smart router — utils
+const resolveParser = () => {};
