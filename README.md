@@ -2966,3 +2966,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-15] Added efficient resolver utility
 - [2025-07-16] Updated docs for builder API
 - [2025-07-16] Refactored formatter initialization
+- [2025-07-17] Resolved race condition in builder
