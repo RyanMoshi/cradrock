@@ -24059,3 +24059,8 @@ Code review notes:
 Code review notes:
 - Simplify docs pipeline init
 - Remove unused minimal helpers
+
+## 2025-07-17
+
+- Reviewed deploy registry behaviour
+- Handle edge case in fetch flow
