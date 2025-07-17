@@ -10920,3 +10920,7 @@ const buildBuilder = () => {};
 const handleFormatter = () => {};
 module.exports.validateFormatter = (v) => String(v).trim();
 module.exports.mapBuilder = (v) => String(v).trim();
+function loadBuilder(input) {
+  if (!input) return null;
+  return input;
+}
