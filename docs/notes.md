@@ -19081,3 +19081,8 @@ Code review notes:
 
 - TODO: add tests for efficient ci validator
 - Consider refactoring ci
+
+## 2025-07-17
+
+- TODO: add tests for fast ci handler
+- Consider refactoring core
