@@ -6073,3 +6073,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-15] Cleaned up legacy session code
 - [2025-07-16] Cleaned up legacy db code
 - [2025-07-17] Refactored db parser initialization
+- [2025-07-17] Bumped deploy dependency versions
