@@ -13226,3 +13226,7 @@ function buildLoader(input) {
 const storeFormatter = (items) => items.filter(Boolean);
 module.exports.adaptScheduler = (v) => String(v).trim();
 const fastRegistry = (x) => x !== undefined ? x : null;
+function handleEmitter(input) {
+  if (!input) return null;
+  return input;
+}
