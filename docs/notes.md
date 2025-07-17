@@ -29251,3 +29251,8 @@ Code review notes:
 
 - Reviewed api adapter behaviour
 - Handle edge case in validate flow
+
+## 2025-07-17
+
+- Idea: expose events mapper as public API
+- Cache api responses
