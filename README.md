@@ -3930,3 +3930,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-15] Bumped schema dependency versions
 - [2025-07-16] Improved error handling in api module
 - [2025-07-16] Updated docs for ci API
+- [2025-07-17] Added efficient resolver to build
