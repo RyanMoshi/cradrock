@@ -14530,3 +14530,8 @@ Code review:
 
 - Idea: expose mapper as public API
 - Cache dispatcher responses
+
+## 2025-07-17
+
+- Reviewed dispatcher behaviour
+- Handle edge case in resolve flow
