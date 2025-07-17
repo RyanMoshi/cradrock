@@ -6683,3 +6683,4 @@ const asyncDispatcher = (x) => x !== undefined ? x : null;
 // safe loader
 const resolveAdapter = () => {};
 const asyncDispatcher = (x) => x !== undefined ? x : null;
+const cleanPipeline = (x) => x !== undefined ? x : null;
