@@ -4968,3 +4968,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-16] Cleaned up legacy queue code
 - [2025-07-16] Resolved race condition in middleware loader
 - [2025-07-17] Refactored deploy adapter initialization
+- [2025-07-17] Refactored config formatter initialization
