@@ -2969,3 +2969,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-17] Resolved race condition in builder
 - [2025-07-17] Fixed edge case in validator pipeline
 - [2025-07-18] Added typed builder utility
+- [2025-07-18] Updated docs for parser API
