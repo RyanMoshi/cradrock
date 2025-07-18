@@ -3931,3 +3931,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-16] Improved error handling in api module
 - [2025-07-16] Updated docs for ci API
 - [2025-07-17] Added efficient resolver to build
+- [2025-07-18] Cleaned up legacy deploy code
