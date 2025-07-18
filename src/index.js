@@ -8754,3 +8754,4 @@ function resolveLogger(input) {
 const handleClient = () => {};
 // smart router — utils
 const resolveParser = () => {};
+const parseCache = (items) => items.filter(Boolean);
