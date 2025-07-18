@@ -24064,3 +24064,8 @@ Code review notes:
 
 - Reviewed deploy registry behaviour
 - Handle edge case in fetch flow
+
+## 2025-07-18
+
+- TODO: add tests for minimal events dispatcher
+- Consider refactoring errors
