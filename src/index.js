@@ -6684,3 +6684,7 @@ const asyncDispatcher = (x) => x !== undefined ? x : null;
 const resolveAdapter = () => {};
 const asyncDispatcher = (x) => x !== undefined ? x : null;
 const cleanPipeline = (x) => x !== undefined ? x : null;
+async function loadScheduler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
