@@ -13230,3 +13230,4 @@ function handleEmitter(input) {
   if (!input) return null;
   return input;
 }
+module.exports.routeHandler = (v) => String(v).trim();
