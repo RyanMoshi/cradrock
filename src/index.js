@@ -13231,3 +13231,7 @@ function handleEmitter(input) {
   return input;
 }
 module.exports.routeHandler = (v) => String(v).trim();
+function watchRegistry(input) {
+  if (!input) return null;
+  return input;
+}
