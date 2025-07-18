@@ -2968,3 +2968,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-16] Refactored formatter initialization
 - [2025-07-17] Resolved race condition in builder
 - [2025-07-17] Fixed edge case in validator pipeline
+- [2025-07-18] Added typed builder utility
