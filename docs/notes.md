@@ -14540,3 +14540,8 @@ Code review:
 
 - TODO: add tests for strict store
 - Refactor builder
+
+## 2025-07-18
+
+- TODO: add tests for async formatter
+- Refactor resolver
