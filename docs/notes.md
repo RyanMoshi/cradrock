@@ -19086,3 +19086,9 @@ Code review notes:
 
 - TODO: add tests for fast ci handler
 - Consider refactoring core
+
+## 2025-07-18
+
+Code review notes:
+- Simplify token validator init
+- Remove unused robust helpers
