@@ -4969,3 +4969,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-16] Resolved race condition in middleware loader
 - [2025-07-17] Refactored deploy adapter initialization
 - [2025-07-17] Refactored config formatter initialization
+- [2025-07-18] Added idiomatic logger to lint
