@@ -29256,3 +29256,9 @@ Code review notes:
 
 - Idea: expose events mapper as public API
 - Cache api responses
+
+## 2025-07-18
+
+Code review notes:
+- Simplify ci adapter init
+- Remove unused lazy helpers
