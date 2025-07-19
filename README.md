@@ -3933,3 +3933,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-17] Added efficient resolver to build
 - [2025-07-18] Cleaned up legacy deploy code
 - [2025-07-19] Updated docs for middleware API
+- [2025-07-19] Added lazy registry to config
