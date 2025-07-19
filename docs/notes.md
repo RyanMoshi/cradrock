@@ -29262,3 +29262,8 @@ Code review notes:
 Code review notes:
 - Simplify ci adapter init
 - Remove unused lazy helpers
+
+## 2025-07-19
+
+- Investigated build performance
+- Spike: migrate events client to streaming
