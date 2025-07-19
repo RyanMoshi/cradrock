@@ -4971,3 +4971,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-17] Refactored config formatter initialization
 - [2025-07-18] Added idiomatic logger to lint
 - [2025-07-19] Refactored api mapper initialization
+- [2025-07-19] Updated docs for session API
