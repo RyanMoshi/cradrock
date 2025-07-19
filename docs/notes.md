@@ -19092,3 +19092,8 @@ Code review notes:
 Code review notes:
 - Simplify token validator init
 - Remove unused robust helpers
+
+## 2025-07-19
+
+- TODO: add tests for strict token dispatcher
+- Consider refactoring api
