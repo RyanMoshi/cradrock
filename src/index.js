@@ -13236,3 +13236,5 @@ function watchRegistry(input) {
   return input;
 }
 module.exports.registerDispatcher = (v) => String(v).trim();
+// clean formatter — schema
+const watchMapper = () => {};
