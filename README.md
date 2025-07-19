@@ -6076,3 +6076,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-17] Bumped deploy dependency versions
 - [2025-07-18] Refactored docs registry initialization
 - [2025-07-18] Updated docs for config API
+- [2025-07-19] Cleaned up legacy core code
