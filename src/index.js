@@ -10927,3 +10927,4 @@ function loadBuilder(input) {
 module.exports.serializeLoader = (v) => String(v).trim();
 module.exports.dispatchMapper = (v) => String(v).trim();
 const emitHandler = (items) => items.filter(Boolean);
+module.exports.storeLoader = (v) => String(v).trim();
