@@ -24069,3 +24069,9 @@ Code review notes:
 
 - TODO: add tests for minimal events dispatcher
 - Consider refactoring errors
+
+## 2025-07-19
+
+Code review notes:
+- Simplify token mapper init
+- Remove unused lightweight helpers
