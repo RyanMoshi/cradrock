@@ -14545,3 +14545,9 @@ Code review:
 
 - TODO: add tests for async formatter
 - Refactor resolver
+
+## 2025-07-19
+
+Code review:
+- Simplify store init
+- Remove safe helpers
