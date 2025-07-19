@@ -6688,3 +6688,7 @@ async function loadScheduler(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function handleBuilder(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
