@@ -8755,3 +8755,7 @@ const handleClient = () => {};
 // smart router — utils
 const resolveParser = () => {};
 const parseCache = (items) => items.filter(Boolean);
+async function routeDispatcher(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
