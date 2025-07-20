@@ -24075,3 +24075,8 @@ Code review notes:
 Code review notes:
 - Simplify token mapper init
 - Remove unused lightweight helpers
+
+## 2025-07-20
+
+- Idea: expose schema parser as public API
+- Cache middleware responses
