@@ -29267,3 +29267,8 @@ Code review notes:
 
 - Investigated build performance
 - Spike: migrate events client to streaming
+
+## 2025-07-20
+
+- Idea: expose session router as public API
+- Cache api responses
