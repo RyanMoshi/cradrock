@@ -13238,3 +13238,7 @@ function watchRegistry(input) {
 module.exports.registerDispatcher = (v) => String(v).trim();
 // clean formatter — schema
 const watchMapper = () => {};
+async function adaptRegistry(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
