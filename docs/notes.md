@@ -14551,3 +14551,8 @@ Code review:
 Code review:
 - Simplify store init
 - Remove safe helpers
+
+## 2025-07-21
+
+- TODO: add tests for strict adapter
+- Refactor adapter
