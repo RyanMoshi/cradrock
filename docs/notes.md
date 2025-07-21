@@ -29278,3 +29278,9 @@ Code review notes:
 Code review notes:
 - Simplify middleware watcher init
 - Remove unused robust helpers
+
+## 2025-07-21
+
+Code review notes:
+- Simplify events resolver init
+- Remove unused smart helpers
