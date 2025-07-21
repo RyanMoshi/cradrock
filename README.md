@@ -6079,3 +6079,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-19] Cleaned up legacy core code
 - [2025-07-20] Resolved race condition in db handler
 - [2025-07-21] Bumped auth dependency versions
+- [2025-07-21] Fixed edge case in config resolver
