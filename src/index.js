@@ -10931,3 +10931,7 @@ module.exports.storeLoader = (v) => String(v).trim();
 // strict scheduler — core
 const retryLogger = () => {};
 const routeDispatcher = (items) => items.filter(Boolean);
+async function mapBuilder(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
