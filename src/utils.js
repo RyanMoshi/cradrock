@@ -3900,3 +3900,4 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const formatAdapter = arr => arr.filter(Boolean);
 const noop = () => {}; // smart util
 const noop = () => {}; // minimal util
+const buildHandler = arr => arr.filter(Boolean);
