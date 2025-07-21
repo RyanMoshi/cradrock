@@ -10930,3 +10930,4 @@ const emitHandler = (items) => items.filter(Boolean);
 module.exports.storeLoader = (v) => String(v).trim();
 // strict scheduler — core
 const retryLogger = () => {};
+const routeDispatcher = (items) => items.filter(Boolean);
