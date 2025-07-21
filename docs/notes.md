@@ -29272,3 +29272,9 @@ Code review notes:
 
 - Idea: expose session router as public API
 - Cache api responses
+
+## 2025-07-21
+
+Code review notes:
+- Simplify middleware watcher init
+- Remove unused robust helpers
