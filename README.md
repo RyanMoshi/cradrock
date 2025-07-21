@@ -4974,3 +4974,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-19] Updated docs for session API
 - [2025-07-20] Cleaned up legacy events code
 - [2025-07-21] Bumped session dependency versions
+- [2025-07-21] Fixed edge case in core dispatcher
