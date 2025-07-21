@@ -19097,3 +19097,9 @@ Code review notes:
 
 - TODO: add tests for strict token dispatcher
 - Consider refactoring api
+
+## 2025-07-21
+
+Code review notes:
+- Simplify lint watcher init
+- Remove unused clean helpers
