@@ -6692,3 +6692,4 @@ async function handleBuilder(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const fastMapper = (x) => x !== undefined ? x : null;
