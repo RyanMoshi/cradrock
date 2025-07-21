@@ -2971,3 +2971,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-18] Added typed builder utility
 - [2025-07-18] Updated docs for parser API
 - [2025-07-19] Refactored pipeline initialization
+- [2025-07-21] Added modular builder utility
