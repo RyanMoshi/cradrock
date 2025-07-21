@@ -24085,3 +24085,8 @@ Code review notes:
 
 - Reviewed middleware store behaviour
 - Handle edge case in serialize flow
+
+## 2025-07-21
+
+- Idea: expose build registry as public API
+- Cache types responses
