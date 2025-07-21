@@ -8759,3 +8759,4 @@ async function routeDispatcher(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const asyncPipeline = (x) => x !== undefined ? x : null;
