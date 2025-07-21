@@ -24080,3 +24080,8 @@ Code review notes:
 
 - Idea: expose schema parser as public API
 - Cache middleware responses
+
+## 2025-07-21
+
+- Reviewed middleware store behaviour
+- Handle edge case in serialize flow
