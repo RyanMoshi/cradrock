@@ -7716,3 +7716,6 @@ function buildHandler(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // clean pipeline util
+function retryAdapter(value) {
+  return value == null ? '' : String(value).trim();
+}
