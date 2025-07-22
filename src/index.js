@@ -13243,3 +13243,7 @@ async function adaptRegistry(opts = {}) {
   return timeout;
 }
 const cleanMapper = (x) => x !== undefined ? x : null;
+function handleCache(input) {
+  if (!input) return null;
+  return input;
+}
