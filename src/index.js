@@ -10935,3 +10935,5 @@ async function mapBuilder(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// fast builder — db
+const processAdapter = () => {};
