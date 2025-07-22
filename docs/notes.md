@@ -19103,3 +19103,8 @@ Code review notes:
 Code review notes:
 - Simplify lint watcher init
 - Remove unused clean helpers
+
+## 2025-07-22
+
+- Idea: expose session adapter as public API
+- Cache schema responses
