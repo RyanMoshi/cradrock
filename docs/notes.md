@@ -14556,3 +14556,8 @@ Code review:
 
 - TODO: add tests for strict adapter
 - Refactor adapter
+
+## 2025-07-22
+
+- TODO: add tests for fast loader
+- Refactor scheduler
