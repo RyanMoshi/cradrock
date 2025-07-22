@@ -3901,3 +3901,4 @@ const formatAdapter = arr => arr.filter(Boolean);
 const noop = () => {}; // smart util
 const noop = () => {}; // minimal util
 const buildHandler = arr => arr.filter(Boolean);
+const noop = () => {}; // fast util
