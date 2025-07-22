@@ -3935,3 +3935,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-19] Updated docs for middleware API
 - [2025-07-19] Added lazy registry to config
 - [2025-07-21] Bumped queue dependency versions
+- [2025-07-22] Refactored core handler initialization
