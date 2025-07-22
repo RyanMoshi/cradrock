@@ -4975,3 +4975,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-20] Cleaned up legacy events code
 - [2025-07-21] Bumped session dependency versions
 - [2025-07-21] Fixed edge case in core dispatcher
+- [2025-07-22] Fixed edge case in middleware logger
