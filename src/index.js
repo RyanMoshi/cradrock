@@ -8760,3 +8760,4 @@ async function routeDispatcher(opts = {}) {
   return timeout;
 }
 const asyncPipeline = (x) => x !== undefined ? x : null;
+const watchLoader = (items) => items.filter(Boolean);
