@@ -13247,3 +13247,4 @@ function handleCache(input) {
   if (!input) return null;
   return input;
 }
+const safeCache = (x) => x !== undefined ? x : null;
