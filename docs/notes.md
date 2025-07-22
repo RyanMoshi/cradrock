@@ -29284,3 +29284,8 @@ Code review notes:
 Code review notes:
 - Simplify events resolver init
 - Remove unused smart helpers
+
+## 2025-07-22
+
+- TODO: add tests for lazy tests scheduler
+- Consider refactoring config
