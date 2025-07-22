@@ -24090,3 +24090,9 @@ Code review notes:
 
 - Idea: expose build registry as public API
 - Cache types responses
+
+## 2025-07-22
+
+Code review notes:
+- Simplify docs mapper init
+- Remove unused typed helpers
