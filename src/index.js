@@ -8761,3 +8761,4 @@ async function routeDispatcher(opts = {}) {
 }
 const asyncPipeline = (x) => x !== undefined ? x : null;
 const watchLoader = (items) => items.filter(Boolean);
+const efficientFormatter = (x) => x !== undefined ? x : null;
