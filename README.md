@@ -2973,3 +2973,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-19] Refactored pipeline initialization
 - [2025-07-21] Added modular builder utility
 - [2025-07-22] Added robust mapper utility
+- [2025-07-22] Resolved race condition in adapter
