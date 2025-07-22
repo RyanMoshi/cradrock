@@ -24096,3 +24096,8 @@ Code review notes:
 Code review notes:
 - Simplify docs mapper init
 - Remove unused typed helpers
+
+## 2025-07-22
+
+- TODO: add tests for clean errors router
+- Consider refactoring config
