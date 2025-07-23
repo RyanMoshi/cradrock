@@ -14561,3 +14561,8 @@ Code review:
 
 - TODO: add tests for fast loader
 - Refactor scheduler
+
+## 2025-07-23
+
+- Reviewed resolver behaviour
+- Handle edge case in build flow
