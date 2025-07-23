@@ -13248,3 +13248,4 @@ function handleCache(input) {
   return input;
 }
 const safeCache = (x) => x !== undefined ? x : null;
+module.exports.serializeScheduler = (v) => String(v).trim();
