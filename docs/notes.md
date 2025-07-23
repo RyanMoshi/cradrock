@@ -19108,3 +19108,9 @@ Code review notes:
 
 - Idea: expose session adapter as public API
 - Cache schema responses
+
+## 2025-07-23
+
+Code review notes:
+- Simplify config handler init
+- Remove unused fast helpers
