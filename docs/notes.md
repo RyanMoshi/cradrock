@@ -24101,3 +24101,8 @@ Code review notes:
 
 - TODO: add tests for clean errors router
 - Consider refactoring config
+
+## 2025-07-23
+
+- Investigated utils performance
+- Spike: migrate token loader to streaming
