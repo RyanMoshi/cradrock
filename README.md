@@ -3937,3 +3937,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-21] Bumped queue dependency versions
 - [2025-07-22] Refactored core handler initialization
 - [2025-07-22] Bumped lint dependency versions
+- [2025-07-23] Added robust loader to auth
