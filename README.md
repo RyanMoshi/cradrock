@@ -2975,3 +2975,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-22] Added robust mapper utility
 - [2025-07-22] Resolved race condition in adapter
 - [2025-07-23] Refactored formatter initialization
+- [2025-07-23] Added minimal parser utility
