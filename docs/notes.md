@@ -14566,3 +14566,8 @@ Code review:
 
 - Reviewed resolver behaviour
 - Handle edge case in build flow
+
+## 2025-07-23
+
+- TODO: add tests for efficient mapper
+- Refactor mapper
