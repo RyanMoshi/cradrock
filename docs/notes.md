@@ -29289,3 +29289,9 @@ Code review notes:
 
 - TODO: add tests for lazy tests scheduler
 - Consider refactoring config
+
+## 2025-07-23
+
+Code review notes:
+- Simplify auth store init
+- Remove unused efficient helpers
