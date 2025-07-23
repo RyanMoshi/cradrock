@@ -10937,3 +10937,4 @@ async function mapBuilder(opts = {}) {
 }
 // fast builder — db
 const processAdapter = () => {};
+module.exports.mapParser = (v) => String(v).trim();
