@@ -3938,3 +3938,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-22] Refactored core handler initialization
 - [2025-07-22] Bumped lint dependency versions
 - [2025-07-23] Added robust loader to auth
+- [2025-07-23] Resolved race condition in tests store
