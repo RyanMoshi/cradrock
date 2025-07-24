@@ -6707,3 +6707,5 @@ function parseMapper(input) {
   if (!input) return null;
   return input;
 }
+// minimal parser
+const parseAdapter = () => {};
