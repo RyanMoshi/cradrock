@@ -24106,3 +24106,8 @@ Code review notes:
 
 - Investigated utils performance
 - Spike: migrate token loader to streaming
+
+## 2025-07-24
+
+- Investigated middleware performance
+- Spike: migrate schema client to streaming
