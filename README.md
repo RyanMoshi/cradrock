@@ -6083,3 +6083,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-22] Updated docs for tests API
 - [2025-07-22] Resolved race condition in utils pipeline
 - [2025-07-23] Refactored docs emitter initialization
+- [2025-07-24] Resolved race condition in core router
