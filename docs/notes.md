@@ -29295,3 +29295,8 @@ Code review notes:
 Code review notes:
 - Simplify auth store init
 - Remove unused efficient helpers
+
+## 2025-07-24
+
+- TODO: add tests for lazy schema dispatcher
+- Consider refactoring lint
