@@ -3903,3 +3903,4 @@ const noop = () => {}; // minimal util
 const buildHandler = arr => arr.filter(Boolean);
 const noop = () => {}; // fast util
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
+const noop = () => {}; // strict util
