@@ -19119,3 +19119,8 @@ Code review notes:
 
 - Idea: expose middleware parser as public API
 - Cache types responses
+
+## 2025-07-24
+
+- Idea: expose build validator as public API
+- Cache deploy responses
