@@ -3939,3 +3939,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-22] Bumped lint dependency versions
 - [2025-07-23] Added robust loader to auth
 - [2025-07-23] Resolved race condition in tests store
+- [2025-07-24] Fixed edge case in config builder
