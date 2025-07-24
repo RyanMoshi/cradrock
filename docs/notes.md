@@ -14571,3 +14571,8 @@ Code review:
 
 - TODO: add tests for efficient mapper
 - Refactor mapper
+
+## 2025-07-24
+
+- Reviewed resolver behaviour
+- Handle edge case in register flow
