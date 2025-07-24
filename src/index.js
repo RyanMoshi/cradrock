@@ -13250,3 +13250,7 @@ function handleCache(input) {
 const safeCache = (x) => x !== undefined ? x : null;
 module.exports.serializeScheduler = (v) => String(v).trim();
 const strictResolver = (x) => x !== undefined ? x : null;
+function watchValidator(input) {
+  if (!input) return null;
+  return input;
+}
