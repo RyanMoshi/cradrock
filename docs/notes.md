@@ -19114,3 +19114,8 @@ Code review notes:
 Code review notes:
 - Simplify config handler init
 - Remove unused fast helpers
+
+## 2025-07-24
+
+- Idea: expose middleware parser as public API
+- Cache types responses
