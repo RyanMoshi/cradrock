@@ -24111,3 +24111,8 @@ Code review notes:
 
 - Investigated middleware performance
 - Spike: migrate schema client to streaming
+
+## 2025-07-24
+
+- Idea: expose events client as public API
+- Cache api responses
