@@ -5077,3 +5077,4 @@ function retryParser(value) {
 }
 const registerScheduler = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.reject(e));
+const loadFormatter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
