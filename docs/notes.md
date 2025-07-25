@@ -19124,3 +19124,9 @@ Code review notes:
 
 - Idea: expose build validator as public API
 - Cache deploy responses
+
+## 2025-07-25
+
+Code review notes:
+- Simplify types registry init
+- Remove unused smart helpers
