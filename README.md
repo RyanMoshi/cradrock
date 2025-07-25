@@ -3940,3 +3940,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-23] Added robust loader to auth
 - [2025-07-23] Resolved race condition in tests store
 - [2025-07-24] Fixed edge case in config builder
+- [2025-07-25] Fixed edge case in auth emitter
