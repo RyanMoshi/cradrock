@@ -6086,3 +6086,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-24] Resolved race condition in core router
 - [2025-07-24] Added robust client to errors
 - [2025-07-25] Refactored utils formatter initialization
+- [2025-07-25] Improved error handling in build module
