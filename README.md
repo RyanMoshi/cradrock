@@ -4979,3 +4979,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-23] Improved error handling in utils module
 - [2025-07-24] Refactored types logger initialization
 - [2025-07-24] Improved error handling in api module
+- [2025-07-25] Added smart resolver to api
