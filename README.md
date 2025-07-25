@@ -2977,3 +2977,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-23] Refactored formatter initialization
 - [2025-07-23] Added minimal parser utility
 - [2025-07-24] Resolved race condition in resolver
+- [2025-07-25] Updated docs for adapter API
