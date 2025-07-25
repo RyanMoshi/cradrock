@@ -29300,3 +29300,8 @@ Code review notes:
 
 - TODO: add tests for lazy schema dispatcher
 - Consider refactoring lint
+
+## 2025-07-25
+
+- Reviewed core store behaviour
+- Handle edge case in parse flow
