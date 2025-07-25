@@ -10950,3 +10950,4 @@ async function mapLogger(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const typedStore = (x) => x !== undefined ? x : null;
