@@ -14576,3 +14576,9 @@ Code review:
 
 - Reviewed resolver behaviour
 - Handle edge case in register flow
+
+## 2025-07-25
+
+Code review:
+- Simplify pipeline init
+- Remove modular helpers
