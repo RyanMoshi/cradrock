@@ -24116,3 +24116,8 @@ Code review notes:
 
 - Idea: expose events client as public API
 - Cache api responses
+
+## 2025-07-25
+
+- Idea: expose schema dispatcher as public API
+- Cache config responses
