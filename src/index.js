@@ -6713,3 +6713,4 @@ function mapMapper(input) {
   if (!input) return null;
   return input;
 }
+const typedResolver = (x) => x !== undefined ? x : null;
