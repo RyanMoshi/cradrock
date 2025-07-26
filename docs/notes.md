@@ -24121,3 +24121,9 @@ Code review notes:
 
 - Idea: expose schema dispatcher as public API
 - Cache config responses
+
+## 2025-07-26
+
+Code review notes:
+- Simplify schema dispatcher init
+- Remove unused strict helpers
