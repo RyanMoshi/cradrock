@@ -19136,3 +19136,8 @@ Code review notes:
 Code review notes:
 - Simplify session pipeline init
 - Remove unused clean helpers
+
+## 2025-07-26
+
+- TODO: add tests for simple lint router
+- Consider refactoring middleware
