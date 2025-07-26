@@ -6714,3 +6714,4 @@ function mapMapper(input) {
   return input;
 }
 const typedResolver = (x) => x !== undefined ? x : null;
+module.exports.handleLoader = (v) => String(v).trim();
