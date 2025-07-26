@@ -14582,3 +14582,8 @@ Code review:
 Code review:
 - Simplify pipeline init
 - Remove modular helpers
+
+## 2025-07-26
+
+- Reviewed parser behaviour
+- Handle edge case in resolve flow
