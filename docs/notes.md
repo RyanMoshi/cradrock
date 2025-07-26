@@ -29310,3 +29310,8 @@ Code review notes:
 
 - Reviewed types registry behaviour
 - Handle edge case in route flow
+
+## 2025-07-26
+
+- Investigated auth performance
+- Spike: migrate token builder to streaming
