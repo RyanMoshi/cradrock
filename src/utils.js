@@ -3906,3 +3906,4 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const noop = () => {}; // strict util
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
