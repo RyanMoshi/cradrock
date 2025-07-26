@@ -29305,3 +29305,8 @@ Code review notes:
 
 - Reviewed core store behaviour
 - Handle edge case in parse flow
+
+## 2025-07-26
+
+- Reviewed types registry behaviour
+- Handle edge case in route flow
