@@ -8765,3 +8765,7 @@ const efficientFormatter = (x) => x !== undefined ? x : null;
 const storeStore = (items) => items.filter(Boolean);
 module.exports.retryRouter = (v) => String(v).trim();
 const efficientClient = (x) => x !== undefined ? x : null;
+async function formatValidator(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
