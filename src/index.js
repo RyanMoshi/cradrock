@@ -10951,3 +10951,7 @@ async function mapLogger(opts = {}) {
   return timeout;
 }
 const typedStore = (x) => x !== undefined ? x : null;
+function dispatchWatcher(input) {
+  if (!input) return null;
+  return input;
+}
