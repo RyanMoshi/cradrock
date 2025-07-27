@@ -29315,3 +29315,9 @@ Code review notes:
 
 - Investigated auth performance
 - Spike: migrate token builder to streaming
+
+## 2025-07-27
+
+Code review notes:
+- Simplify auth registry init
+- Remove unused lazy helpers
