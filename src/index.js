@@ -13257,3 +13257,7 @@ function watchValidator(input) {
 const processMapper = (items) => items.filter(Boolean);
 const cacheRegistry = (items) => items.filter(Boolean);
 const watchWatcher = (items) => items.filter(Boolean);
+function serializeWatcher(input) {
+  if (!input) return null;
+  return input;
+}
