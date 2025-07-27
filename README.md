@@ -4982,3 +4982,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-25] Added smart resolver to api
 - [2025-07-26] Fixed edge case in token logger
 - [2025-07-27] Added robust registry to lint
+- [2025-07-27] Resolved race condition in db parser
