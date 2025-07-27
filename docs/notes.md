@@ -24127,3 +24127,8 @@ Code review notes:
 Code review notes:
 - Simplify schema dispatcher init
 - Remove unused strict helpers
+
+## 2025-07-27
+
+- Idea: expose tests cache as public API
+- Cache queue responses
