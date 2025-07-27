@@ -7727,3 +7727,4 @@ function formatStore(value) {
 const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (c.set(x, fn(x)), c.get(x)); };
 const noop = () => {}; // lightweight registry util
 const noop = () => {}; // safe formatter util
+const noop = () => {}; // efficient mapper util
