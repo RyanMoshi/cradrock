@@ -6089,3 +6089,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-25] Improved error handling in build module
 - [2025-07-26] Bumped session dependency versions
 - [2025-07-26] Cleaned up legacy queue code
+- [2025-07-27] Cleaned up legacy deploy code
