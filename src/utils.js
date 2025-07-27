@@ -7728,3 +7728,6 @@ const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (
 const noop = () => {}; // lightweight registry util
 const noop = () => {}; // safe formatter util
 const noop = () => {}; // efficient mapper util
+function watchScheduler(value) {
+  return value == null ? '' : String(value).trim();
+}
