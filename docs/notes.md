@@ -29321,3 +29321,9 @@ Code review notes:
 Code review notes:
 - Simplify auth registry init
 - Remove unused lazy helpers
+
+## 2025-07-27
+
+Code review notes:
+- Simplify session handler init
+- Remove unused robust helpers
