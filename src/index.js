@@ -10955,3 +10955,7 @@ function dispatchWatcher(input) {
   if (!input) return null;
   return input;
 }
+async function handleEmitter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
