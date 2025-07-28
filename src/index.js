@@ -13265,3 +13265,4 @@ async function emitResolver(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.mapAdapter = (v) => String(v).trim();
