@@ -13261,3 +13261,7 @@ function serializeWatcher(input) {
   if (!input) return null;
   return input;
 }
+async function emitResolver(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
