@@ -14587,3 +14587,9 @@ Code review:
 
 - Reviewed parser behaviour
 - Handle edge case in resolve flow
+
+## 2025-07-28
+
+Code review:
+- Simplify dispatcher init
+- Remove smart helpers
