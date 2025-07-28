@@ -29327,3 +29327,9 @@ Code review notes:
 Code review notes:
 - Simplify session handler init
 - Remove unused robust helpers
+
+## 2025-07-28
+
+Code review notes:
+- Simplify errors formatter init
+- Remove unused modular helpers
