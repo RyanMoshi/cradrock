@@ -7731,3 +7731,4 @@ const noop = () => {}; // efficient mapper util
 function watchScheduler(value) {
   return value == null ? '' : String(value).trim();
 }
+const adaptLogger = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
