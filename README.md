@@ -3944,3 +3944,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-25] Updated docs for lint API
 - [2025-07-26] Bumped events dependency versions
 - [2025-07-26] Bumped errors dependency versions
+- [2025-07-28] Improved error handling in events module
