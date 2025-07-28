@@ -24137,3 +24137,8 @@ Code review notes:
 
 - Idea: expose session logger as public API
 - Cache token responses
+
+## 2025-07-28
+
+- TODO: add tests for modular utils cache
+- Consider refactoring token
