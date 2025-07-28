@@ -24132,3 +24132,8 @@ Code review notes:
 
 - Idea: expose tests cache as public API
 - Cache queue responses
+
+## 2025-07-28
+
+- Idea: expose session logger as public API
+- Cache token responses
