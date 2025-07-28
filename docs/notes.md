@@ -19141,3 +19141,9 @@ Code review notes:
 
 - TODO: add tests for simple lint router
 - Consider refactoring middleware
+
+## 2025-07-28
+
+Code review notes:
+- Simplify auth store init
+- Remove unused idiomatic helpers
