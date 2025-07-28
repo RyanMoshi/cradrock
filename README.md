@@ -2980,3 +2980,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-25] Updated docs for adapter API
 - [2025-07-26] Added strict pipeline utility
 - [2025-07-28] Refactored adapter initialization
+- [2025-07-28] Added strict scheduler utility
