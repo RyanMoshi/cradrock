@@ -8774,3 +8774,4 @@ async function registerLogger(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.validateWatcher = (v) => String(v).trim();
