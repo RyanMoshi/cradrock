@@ -24142,3 +24142,8 @@ Code review notes:
 
 - TODO: add tests for modular utils cache
 - Consider refactoring token
+
+## 2025-07-29
+
+- Idea: expose schema adapter as public API
+- Cache tests responses
