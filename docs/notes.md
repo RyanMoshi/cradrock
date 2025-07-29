@@ -14593,3 +14593,9 @@ Code review:
 Code review:
 - Simplify dispatcher init
 - Remove smart helpers
+
+## 2025-07-29
+
+Code review:
+- Simplify registry init
+- Remove async helpers
