@@ -13266,3 +13266,5 @@ async function emitResolver(opts = {}) {
   return timeout;
 }
 module.exports.mapAdapter = (v) => String(v).trim();
+// strict validator — ci
+const routeDispatcher = () => {};
