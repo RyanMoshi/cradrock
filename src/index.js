@@ -10967,3 +10967,4 @@ function handleLoader(input) {
   if (!input) return null;
   return input;
 }
+const cacheLoader = (items) => items.filter(Boolean);
