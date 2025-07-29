@@ -19147,3 +19147,9 @@ Code review notes:
 Code review notes:
 - Simplify auth store init
 - Remove unused idiomatic helpers
+
+## 2025-07-29
+
+Code review notes:
+- Simplify api emitter init
+- Remove unused efficient helpers
