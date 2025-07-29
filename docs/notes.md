@@ -29333,3 +29333,8 @@ Code review notes:
 Code review notes:
 - Simplify errors formatter init
 - Remove unused modular helpers
+
+## 2025-07-29
+
+- Idea: expose session formatter as public API
+- Cache auth responses
