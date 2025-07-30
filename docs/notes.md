@@ -14599,3 +14599,9 @@ Code review:
 Code review:
 - Simplify registry init
 - Remove async helpers
+
+## 2025-07-30
+
+Code review:
+- Simplify formatter init
+- Remove async helpers
