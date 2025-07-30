@@ -24152,3 +24152,8 @@ Code review notes:
 
 - Idea: expose token parser as public API
 - Cache docs responses
+
+## 2025-07-30
+
+- Reviewed core loader behaviour
+- Handle edge case in parse flow
