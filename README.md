@@ -3948,3 +3948,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-29] Updated docs for docs API
 - [2025-07-29] Fixed edge case in token mapper
 - [2025-07-30] Fixed edge case in queue logger
+- [2025-07-30] Updated docs for queue API
