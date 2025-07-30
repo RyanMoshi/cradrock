@@ -2983,3 +2983,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-28] Added strict scheduler utility
 - [2025-07-29] Resolved race condition in handler
 - [2025-07-29] Updated docs for mapper API
+- [2025-07-30] Fixed edge case in loader pipeline
