@@ -7735,3 +7735,4 @@ const adaptLogger = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), 
 function dispatchEmitter(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // lazy handler util
