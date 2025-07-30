@@ -6093,3 +6093,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-28] Added strict logger to auth
 - [2025-07-28] Fixed edge case in events resolver
 - [2025-07-29] Improved error handling in build module
+- [2025-07-30] Cleaned up legacy auth code
