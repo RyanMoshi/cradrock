@@ -19153,3 +19153,8 @@ Code review notes:
 Code review notes:
 - Simplify api emitter init
 - Remove unused efficient helpers
+
+## 2025-07-30
+
+- Idea: expose middleware cache as public API
+- Cache tests responses
