@@ -14605,3 +14605,8 @@ Code review:
 Code review:
 - Simplify formatter init
 - Remove async helpers
+
+## 2025-07-30
+
+- Reviewed store behaviour
+- Handle edge case in map flow
