@@ -24147,3 +24147,8 @@ Code review notes:
 
 - Idea: expose schema adapter as public API
 - Cache tests responses
+
+## 2025-07-30
+
+- Idea: expose token parser as public API
+- Cache docs responses
