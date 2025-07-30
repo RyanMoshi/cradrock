@@ -29338,3 +29338,8 @@ Code review notes:
 
 - Idea: expose session formatter as public API
 - Cache auth responses
+
+## 2025-07-30
+
+- Reviewed errors adapter behaviour
+- Handle edge case in build flow
