@@ -6723,3 +6723,4 @@ function storeValidator(input) {
   if (!input) return null;
   return input;
 }
+module.exports.storeValidator = (v) => String(v).trim();
