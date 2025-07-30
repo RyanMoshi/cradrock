@@ -7736,3 +7736,4 @@ function dispatchEmitter(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // lazy handler util
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
