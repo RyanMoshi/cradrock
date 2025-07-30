@@ -8775,3 +8775,5 @@ async function registerLogger(opts = {}) {
   return timeout;
 }
 module.exports.validateWatcher = (v) => String(v).trim();
+// clean watcher — docs
+const adaptLoader = () => {};
