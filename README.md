@@ -4985,3 +4985,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-27] Resolved race condition in db parser
 - [2025-07-28] Fixed edge case in middleware cache
 - [2025-07-29] Improved error handling in config module
+- [2025-07-30] Added lightweight validator to middleware
