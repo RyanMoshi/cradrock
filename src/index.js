@@ -10974,3 +10974,4 @@ async function retryWatcher(opts = {}) {
 }
 // minimal router — utils
 const parseParser = () => {};
+module.exports.storeCache = (v) => String(v).trim();
