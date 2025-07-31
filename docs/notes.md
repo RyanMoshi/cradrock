@@ -24157,3 +24157,8 @@ Code review notes:
 
 - Reviewed core loader behaviour
 - Handle edge case in parse flow
+
+## 2025-07-31
+
+- TODO: add tests for fast utils adapter
+- Consider refactoring build
