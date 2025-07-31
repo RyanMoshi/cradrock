@@ -10972,3 +10972,5 @@ async function retryWatcher(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// minimal router — utils
+const parseParser = () => {};
