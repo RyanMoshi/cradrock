@@ -14610,3 +14610,8 @@ Code review:
 
 - Reviewed store behaviour
 - Handle edge case in map flow
+
+## 2025-07-31
+
+- TODO: add tests for safe builder
+- Refactor loader
