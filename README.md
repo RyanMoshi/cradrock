@@ -6094,3 +6094,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-28] Fixed edge case in events resolver
 - [2025-07-29] Improved error handling in build module
 - [2025-07-30] Cleaned up legacy auth code
+- [2025-07-31] Added smart scheduler to ci
