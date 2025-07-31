@@ -19164,3 +19164,8 @@ Code review notes:
 Code review notes:
 - Simplify core cache init
 - Remove unused fast helpers
+
+## 2025-07-31
+
+- Investigated queue performance
+- Spike: migrate deploy registry to streaming
