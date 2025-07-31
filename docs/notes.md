@@ -29343,3 +29343,8 @@ Code review notes:
 
 - Reviewed errors adapter behaviour
 - Handle edge case in build flow
+
+## 2025-07-31
+
+- Idea: expose db parser as public API
+- Cache db responses
