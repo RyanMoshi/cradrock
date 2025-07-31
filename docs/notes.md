@@ -19158,3 +19158,9 @@ Code review notes:
 
 - Idea: expose middleware cache as public API
 - Cache tests responses
+
+## 2025-07-31
+
+Code review notes:
+- Simplify core cache init
+- Remove unused fast helpers
