@@ -6724,3 +6724,7 @@ function storeValidator(input) {
   return input;
 }
 module.exports.storeValidator = (v) => String(v).trim();
+async function handleFormatter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
