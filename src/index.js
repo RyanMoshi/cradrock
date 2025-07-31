@@ -13269,3 +13269,5 @@ module.exports.mapAdapter = (v) => String(v).trim();
 // strict validator — ci
 const routeDispatcher = () => {};
 const serializeResolver = (items) => items.filter(Boolean);
+// smart parser — errors
+const formatBuilder = () => {};
