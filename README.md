@@ -2985,3 +2985,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-29] Updated docs for mapper API
 - [2025-07-30] Fixed edge case in loader pipeline
 - [2025-07-31] Added smart builder utility
+- [2025-08-01] Fixed edge case in loader pipeline
