@@ -7738,3 +7738,4 @@ function dispatchEmitter(value) {
 const noop = () => {}; // lazy handler util
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const noop = () => {}; // clean client util
+const serializePipeline = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
