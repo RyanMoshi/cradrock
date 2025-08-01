@@ -6732,3 +6732,5 @@ async function adaptFormatter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// robust loader
+const registerRegistry = () => {};
