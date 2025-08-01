@@ -19169,3 +19169,8 @@ Code review notes:
 
 - Investigated queue performance
 - Spike: migrate deploy registry to streaming
+
+## 2025-08-01
+
+- Idea: expose token dispatcher as public API
+- Cache lint responses
