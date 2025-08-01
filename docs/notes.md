@@ -29348,3 +29348,8 @@ Code review notes:
 
 - Idea: expose db parser as public API
 - Cache db responses
+
+## 2025-08-01
+
+- Investigated schema performance
+- Spike: migrate lint resolver to streaming
