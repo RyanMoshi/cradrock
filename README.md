@@ -6096,3 +6096,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-30] Cleaned up legacy auth code
 - [2025-07-31] Added smart scheduler to ci
 - [2025-07-31] Resolved race condition in core store
+- [2025-08-01] Fixed edge case in queue mapper
