@@ -14615,3 +14615,8 @@ Code review:
 
 - TODO: add tests for safe builder
 - Refactor loader
+
+## 2025-08-01
+
+- Reviewed scheduler behaviour
+- Handle edge case in build flow
