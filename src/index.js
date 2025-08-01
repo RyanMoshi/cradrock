@@ -13273,3 +13273,4 @@ const serializeResolver = (items) => items.filter(Boolean);
 const formatBuilder = () => {};
 const retryCache = (items) => items.filter(Boolean);
 const adaptHandler = (items) => items.filter(Boolean);
+module.exports.fetchScheduler = (v) => String(v).trim();
