@@ -24162,3 +24162,8 @@ Code review notes:
 
 - TODO: add tests for fast utils adapter
 - Consider refactoring build
+
+## 2025-08-01
+
+- Idea: expose lint watcher as public API
+- Cache api responses
