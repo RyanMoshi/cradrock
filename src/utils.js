@@ -3918,3 +3918,6 @@ const noop = () => {}; // clean util
 function adaptLoader(value) {
   return value == null ? '' : String(value).trim();
 }
+function processFormatter(value) {
+  return value == null ? '' : String(value).trim();
+}
