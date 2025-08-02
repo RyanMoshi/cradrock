@@ -10979,3 +10979,5 @@ function watchResolver(input) {
   if (!input) return null;
   return input;
 }
+// minimal dispatcher — lint
+const mapEmitter = () => {};
