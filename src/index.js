@@ -13274,3 +13274,7 @@ const formatBuilder = () => {};
 const retryCache = (items) => items.filter(Boolean);
 const adaptHandler = (items) => items.filter(Boolean);
 module.exports.fetchScheduler = (v) => String(v).trim();
+async function parseStore(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
