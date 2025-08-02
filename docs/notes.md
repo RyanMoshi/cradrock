@@ -24167,3 +24167,8 @@ Code review notes:
 
 - Idea: expose lint watcher as public API
 - Cache api responses
+
+## 2025-08-02
+
+- Idea: expose middleware validator as public API
+- Cache errors responses
