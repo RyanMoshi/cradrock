@@ -14620,3 +14620,8 @@ Code review:
 
 - Reviewed scheduler behaviour
 - Handle edge case in build flow
+
+## 2025-08-02
+
+- Idea: expose pipeline as public API
+- Cache dispatcher responses
