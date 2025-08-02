@@ -4988,3 +4988,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-30] Added lightweight validator to middleware
 - [2025-07-31] Updated docs for docs API
 - [2025-08-01] Added smart resolver to token
+- [2025-08-02] Refactored token logger initialization
