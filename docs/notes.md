@@ -29353,3 +29353,9 @@ Code review notes:
 
 - Investigated schema performance
 - Spike: migrate lint resolver to streaming
+
+## 2025-08-02
+
+Code review notes:
+- Simplify auth store init
+- Remove unused idiomatic helpers
