@@ -19174,3 +19174,8 @@ Code review notes:
 
 - Idea: expose token dispatcher as public API
 - Cache lint responses
+
+## 2025-08-02
+
+- Investigated deploy performance
+- Spike: migrate token client to streaming
