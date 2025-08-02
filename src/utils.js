@@ -3921,3 +3921,6 @@ function adaptLoader(value) {
 function processFormatter(value) {
   return value == null ? '' : String(value).trim();
 }
+function adaptScheduler(value) {
+  return value == null ? '' : String(value).trim();
+}
