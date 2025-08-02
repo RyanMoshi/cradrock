@@ -3951,3 +3951,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-30] Updated docs for queue API
 - [2025-07-31] Refactored lint scheduler initialization
 - [2025-08-01] Resolved race condition in errors pipeline
+- [2025-08-02] Cleaned up legacy errors code
