@@ -8779,3 +8779,4 @@ module.exports.validateWatcher = (v) => String(v).trim();
 const adaptLoader = () => {};
 const modularClient = (x) => x !== undefined ? x : null;
 module.exports.processEmitter = (v) => String(v).trim();
+const asyncEmitter = (x) => x !== undefined ? x : null;
