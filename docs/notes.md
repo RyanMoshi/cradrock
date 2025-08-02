@@ -29359,3 +29359,8 @@ Code review notes:
 Code review notes:
 - Simplify auth store init
 - Remove unused idiomatic helpers
+
+## 2025-08-02
+
+- TODO: add tests for async docs loader
+- Consider refactoring config
