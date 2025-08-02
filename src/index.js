@@ -6734,3 +6734,7 @@ async function adaptFormatter(opts = {}) {
 }
 // robust loader
 const registerRegistry = () => {};
+async function processValidator(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
