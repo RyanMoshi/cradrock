@@ -29369,3 +29369,8 @@ Code review notes:
 
 - Reviewed api cache behaviour
 - Handle edge case in retry flow
+
+## 2025-08-03
+
+- Idea: expose queue store as public API
+- Cache deploy responses
