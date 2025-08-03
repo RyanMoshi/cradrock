@@ -6099,3 +6099,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-01] Fixed edge case in queue mapper
 - [2025-08-01] Updated docs for lint API
 - [2025-08-02] Updated docs for token API
+- [2025-08-03] Improved error handling in utils module
