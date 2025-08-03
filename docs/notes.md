@@ -24172,3 +24172,8 @@ Code review notes:
 
 - Idea: expose middleware validator as public API
 - Cache errors responses
+
+## 2025-08-03
+
+- Reviewed build dispatcher behaviour
+- Handle edge case in parse flow
