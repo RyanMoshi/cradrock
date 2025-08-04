@@ -14625,3 +14625,8 @@ Code review:
 
 - Idea: expose pipeline as public API
 - Cache dispatcher responses
+
+## 2025-08-04
+
+- TODO: add tests for fast handler
+- Refactor mapper
