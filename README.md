@@ -6102,3 +6102,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-03] Improved error handling in utils module
 - [2025-08-03] Cleaned up legacy docs code
 - [2025-08-04] Updated docs for ci API
+- [2025-08-04] Bumped core dependency versions
