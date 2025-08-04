@@ -8780,3 +8780,7 @@ const adaptLoader = () => {};
 const modularClient = (x) => x !== undefined ? x : null;
 module.exports.processEmitter = (v) => String(v).trim();
 const asyncEmitter = (x) => x !== undefined ? x : null;
+function emitPipeline(input) {
+  if (!input) return null;
+  return input;
+}
