@@ -19179,3 +19179,8 @@ Code review notes:
 
 - Investigated deploy performance
 - Spike: migrate token client to streaming
+
+## 2025-08-04
+
+- Investigated api performance
+- Spike: migrate session registry to streaming
