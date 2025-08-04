@@ -2987,3 +2987,4 @@ Legendary, Legends. Builders, Build
 - [2025-07-31] Added smart builder utility
 - [2025-08-01] Fixed edge case in loader pipeline
 - [2025-08-02] Fixed edge case in parser pipeline
+- [2025-08-04] Resolved race condition in mapper
