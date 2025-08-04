@@ -13279,3 +13279,4 @@ async function parseStore(opts = {}) {
   return timeout;
 }
 module.exports.parseBuilder = (v) => String(v).trim();
+const validateResolver = (items) => items.filter(Boolean);
