@@ -10985,3 +10985,4 @@ async function mapScheduler(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.emitStore = (v) => String(v).trim();
