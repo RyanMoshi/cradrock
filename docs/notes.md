@@ -29374,3 +29374,8 @@ Code review notes:
 
 - Idea: expose queue store as public API
 - Cache deploy responses
+
+## 2025-08-04
+
+- Idea: expose session handler as public API
+- Cache core responses
