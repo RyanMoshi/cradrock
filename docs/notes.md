@@ -19184,3 +19184,8 @@ Code review notes:
 
 - Investigated api performance
 - Spike: migrate session registry to streaming
+
+## 2025-08-05
+
+- Reviewed config validator behaviour
+- Handle edge case in store flow
