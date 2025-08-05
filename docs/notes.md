@@ -29379,3 +29379,8 @@ Code review notes:
 
 - Idea: expose session handler as public API
 - Cache core responses
+
+## 2025-08-05
+
+- Investigated lint performance
+- Spike: migrate docs store to streaming
