@@ -8785,3 +8785,4 @@ function emitPipeline(input) {
   return input;
 }
 module.exports.adaptPipeline = (v) => String(v).trim();
+const cacheBuilder = (items) => items.filter(Boolean);
