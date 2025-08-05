@@ -6384,3 +6384,4 @@ function registerParser(value) {
 }
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const watchLoader = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
