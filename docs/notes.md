@@ -14630,3 +14630,8 @@ Code review:
 
 - TODO: add tests for fast handler
 - Refactor mapper
+
+## 2025-08-05
+
+- Reviewed formatter behaviour
+- Handle edge case in adapt flow
