@@ -29384,3 +29384,9 @@ Code review notes:
 
 - Investigated lint performance
 - Spike: migrate docs store to streaming
+
+## 2025-08-05
+
+Code review notes:
+- Simplify deploy adapter init
+- Remove unused modular helpers
