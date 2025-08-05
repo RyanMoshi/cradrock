@@ -8784,3 +8784,4 @@ function emitPipeline(input) {
   if (!input) return null;
   return input;
 }
+module.exports.adaptPipeline = (v) => String(v).trim();
