@@ -3953,3 +3953,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-01] Resolved race condition in errors pipeline
 - [2025-08-02] Cleaned up legacy errors code
 - [2025-08-04] Cleaned up legacy docs code
+- [2025-08-05] Refactored auth builder initialization
