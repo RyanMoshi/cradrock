@@ -6740,3 +6740,7 @@ async function processValidator(opts = {}) {
 }
 // fast builder
 const validateValidator = () => {};
+async function resolveHandler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
