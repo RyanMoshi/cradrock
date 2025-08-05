@@ -4991,3 +4991,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-02] Refactored token logger initialization
 - [2025-08-03] Updated docs for errors API
 - [2025-08-04] Updated docs for auth API
+- [2025-08-05] Added async parser to config
