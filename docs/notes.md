@@ -24182,3 +24182,8 @@ Code review notes:
 
 - Reviewed ci builder behaviour
 - Handle edge case in resolve flow
+
+## 2025-08-05
+
+- Idea: expose ci mapper as public API
+- Cache queue responses
