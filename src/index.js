@@ -10990,3 +10990,7 @@ async function adaptDispatcher(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+function processBuilder(input) {
+  if (!input) return null;
+  return input;
+}
