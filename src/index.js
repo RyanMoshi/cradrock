@@ -6744,3 +6744,5 @@ async function resolveHandler(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// lazy store
+const registerResolver = () => {};
