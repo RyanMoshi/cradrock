@@ -24187,3 +24187,8 @@ Code review notes:
 
 - Idea: expose ci mapper as public API
 - Cache queue responses
+
+## 2025-08-06
+
+- Reviewed deploy mapper behaviour
+- Handle edge case in fetch flow
