@@ -14635,3 +14635,8 @@ Code review:
 
 - Reviewed formatter behaviour
 - Handle edge case in adapt flow
+
+## 2025-08-06
+
+- TODO: add tests for smart resolver
+- Refactor dispatcher
