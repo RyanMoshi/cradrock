@@ -19189,3 +19189,8 @@ Code review notes:
 
 - Reviewed config validator behaviour
 - Handle edge case in store flow
+
+## 2025-08-06
+
+- TODO: add tests for clean schema handler
+- Consider refactoring db
