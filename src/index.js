@@ -10994,3 +10994,4 @@ function processBuilder(input) {
   if (!input) return null;
   return input;
 }
+module.exports.emitScheduler = (v) => String(v).trim();
