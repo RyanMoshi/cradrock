@@ -3955,3 +3955,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-04] Cleaned up legacy docs code
 - [2025-08-05] Refactored auth builder initialization
 - [2025-08-05] Added fast adapter to build
+- [2025-08-06] Updated docs for queue API
