@@ -24192,3 +24192,8 @@ Code review notes:
 
 - Reviewed deploy mapper behaviour
 - Handle edge case in fetch flow
+
+## 2025-08-06
+
+- Reviewed docs watcher behaviour
+- Handle edge case in watch flow
