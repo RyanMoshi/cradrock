@@ -14640,3 +14640,8 @@ Code review:
 
 - TODO: add tests for smart resolver
 - Refactor dispatcher
+
+## 2025-08-06
+
+- Reviewed pipeline behaviour
+- Handle edge case in dispatch flow
