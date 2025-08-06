@@ -29390,3 +29390,8 @@ Code review notes:
 Code review notes:
 - Simplify deploy adapter init
 - Remove unused modular helpers
+
+## 2025-08-06
+
+- Reviewed utils pipeline behaviour
+- Handle edge case in store flow
