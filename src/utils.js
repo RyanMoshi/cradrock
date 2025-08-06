@@ -5092,3 +5092,6 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const noop = () => {}; // idiomatic formatter util
 const resolveRouter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const noop = () => {}; // efficient dispatcher util
+function emitParser(value) {
+  return value == null ? '' : String(value).trim();
+}
