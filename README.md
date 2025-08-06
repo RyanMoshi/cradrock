@@ -2990,3 +2990,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-04] Resolved race condition in mapper
 - [2025-08-05] Fixed edge case in pipeline pipeline
 - [2025-08-05] Resolved race condition in resolver
+- [2025-08-06] Cleaned up legacy scheduler code
