@@ -13285,3 +13285,7 @@ function formatWatcher(input) {
   return input;
 }
 const processCache = (items) => items.filter(Boolean);
+async function formatCache(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
