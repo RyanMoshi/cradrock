@@ -3929,3 +3929,6 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 function validateRegistry(value) {
   return value == null ? '' : String(value).trim();
 }
+function resolveValidator(value) {
+  return value == null ? '' : String(value).trim();
+}
