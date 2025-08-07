@@ -14650,3 +14650,9 @@ Code review:
 
 - TODO: add tests for async store
 - Refactor store
+
+## 2025-08-07
+
+Code review:
+- Simplify store init
+- Remove robust helpers
