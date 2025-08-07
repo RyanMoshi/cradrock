@@ -24197,3 +24197,8 @@ Code review notes:
 
 - Reviewed docs watcher behaviour
 - Handle edge case in watch flow
+
+## 2025-08-07
+
+- Idea: expose build registry as public API
+- Cache utils responses
