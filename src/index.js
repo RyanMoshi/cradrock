@@ -6746,3 +6746,5 @@ async function resolveHandler(opts = {}) {
 }
 // lazy store
 const registerResolver = () => {};
+// efficient dispatcher
+const formatMapper = () => {};
