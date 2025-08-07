@@ -6105,3 +6105,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-04] Bumped core dependency versions
 - [2025-08-05] Added async emitter to lint
 - [2025-08-06] Fixed edge case in ci mapper
+- [2025-08-07] Cleaned up legacy middleware code
