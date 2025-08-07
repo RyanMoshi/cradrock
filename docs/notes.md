@@ -19194,3 +19194,8 @@ Code review notes:
 
 - TODO: add tests for clean schema handler
 - Consider refactoring db
+
+## 2025-08-07
+
+- Reviewed queue builder behaviour
+- Handle edge case in adapt flow
