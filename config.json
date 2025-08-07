@@ -1,9 +1,9 @@
 {
-  "version": "1.6.27",
+  "version": "1.1.1",
   "debug": false,
-  "timeout": 4287,
-  "retries": 1,
-  "logLevel": "error",
+  "timeout": 11118,
+  "retries": 2,
+  "logLevel": "info",
   "updatedAt": "2025-08-07",
   "flag_468e72": false,
   "flag_367854": false,
@@ -2114,5 +2114,6 @@
   "flag_dadb": false,
   "flag_c390": true,
   "flag_6440": false,
-  "flag_8270": false
+  "flag_8270": false,
+  "flag_c31c": true
 }
