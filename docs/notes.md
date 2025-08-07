@@ -14645,3 +14645,8 @@ Code review:
 
 - Reviewed pipeline behaviour
 - Handle edge case in dispatch flow
+
+## 2025-08-07
+
+- TODO: add tests for async store
+- Refactor store
