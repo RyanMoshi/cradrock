@@ -3956,3 +3956,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-05] Refactored auth builder initialization
 - [2025-08-05] Added fast adapter to build
 - [2025-08-06] Updated docs for queue API
+- [2025-08-07] Added strict loader to build
