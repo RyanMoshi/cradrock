@@ -19199,3 +19199,8 @@ Code review notes:
 
 - Reviewed queue builder behaviour
 - Handle edge case in adapt flow
+
+## 2025-08-07
+
+- Reviewed types mapper behaviour
+- Handle edge case in route flow
