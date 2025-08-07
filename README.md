@@ -4993,3 +4993,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-04] Updated docs for auth API
 - [2025-08-05] Added async parser to config
 - [2025-08-06] Improved error handling in db module
+- [2025-08-07] Bumped api dependency versions
