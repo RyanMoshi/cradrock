@@ -13289,3 +13289,7 @@ async function formatCache(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+function retryWatcher(input) {
+  if (!input) return null;
+  return input;
+}
