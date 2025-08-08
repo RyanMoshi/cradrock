@@ -14661,3 +14661,8 @@ Code review:
 
 - Idea: expose builder as public API
 - Cache adapter responses
+
+## 2025-08-08
+
+- Idea: expose registry as public API
+- Cache adapter responses
