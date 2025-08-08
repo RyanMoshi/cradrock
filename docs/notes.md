@@ -19204,3 +19204,8 @@ Code review notes:
 
 - Reviewed types mapper behaviour
 - Handle edge case in route flow
+
+## 2025-08-08
+
+- Idea: expose db router as public API
+- Cache tests responses
