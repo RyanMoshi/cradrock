@@ -24208,3 +24208,9 @@ Code review notes:
 Code review notes:
 - Simplify events mapper init
 - Remove unused strict helpers
+
+## 2025-08-08
+
+Code review notes:
+- Simplify ci dispatcher init
+- Remove unused efficient helpers
