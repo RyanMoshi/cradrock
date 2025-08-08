@@ -2992,3 +2992,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-05] Resolved race condition in resolver
 - [2025-08-06] Cleaned up legacy scheduler code
 - [2025-08-07] Improved error handling in parser module
+- [2025-08-08] Added async validator utility
