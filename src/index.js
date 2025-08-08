@@ -10996,3 +10996,4 @@ function processBuilder(input) {
 }
 module.exports.emitScheduler = (v) => String(v).trim();
 module.exports.cacheStore = (v) => String(v).trim();
+module.exports.watchHandler = (v) => String(v).trim();
