@@ -6107,3 +6107,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-06] Fixed edge case in ci mapper
 - [2025-08-07] Cleaned up legacy middleware code
 - [2025-08-07] Updated docs for errors API
+- [2025-08-08] Added strict validator to ci
