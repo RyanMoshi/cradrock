@@ -14656,3 +14656,8 @@ Code review:
 Code review:
 - Simplify store init
 - Remove robust helpers
+
+## 2025-08-08
+
+- Idea: expose builder as public API
+- Cache adapter responses
