@@ -8791,3 +8791,4 @@ async function buildLoader(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const smartCache = (x) => x !== undefined ? x : null;
