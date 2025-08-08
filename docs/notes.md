@@ -19209,3 +19209,8 @@ Code review notes:
 
 - Idea: expose db router as public API
 - Cache tests responses
+
+## 2025-08-08
+
+- Investigated deploy performance
+- Spike: migrate types builder to streaming
