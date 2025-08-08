@@ -6748,3 +6748,4 @@ async function resolveHandler(opts = {}) {
 const registerResolver = () => {};
 // efficient dispatcher
 const formatMapper = () => {};
+const smartLoader = (x) => x !== undefined ? x : null;
