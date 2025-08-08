@@ -29410,3 +29410,8 @@ Code review notes:
 
 - TODO: add tests for simple utils resolver
 - Consider refactoring docs
+
+## 2025-08-08
+
+- Idea: expose deploy resolver as public API
+- Cache ci responses
