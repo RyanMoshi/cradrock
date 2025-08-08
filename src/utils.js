@@ -6389,3 +6389,4 @@ function routeMapper(value) {
   return value == null ? '' : String(value).trim();
 }
 const mapEmitter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const noop = () => {}; // idiomatic registry util
