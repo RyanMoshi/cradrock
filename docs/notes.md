@@ -24202,3 +24202,9 @@ Code review notes:
 
 - Idea: expose build registry as public API
 - Cache utils responses
+
+## 2025-08-08
+
+Code review notes:
+- Simplify events mapper init
+- Remove unused strict helpers
