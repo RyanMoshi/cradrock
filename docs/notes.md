@@ -29405,3 +29405,8 @@ Code review notes:
 
 - Reviewed utils adapter behaviour
 - Handle edge case in route flow
+
+## 2025-08-08
+
+- TODO: add tests for simple utils resolver
+- Consider refactoring docs
