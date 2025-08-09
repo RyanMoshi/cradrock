@@ -13298,3 +13298,7 @@ async function adaptHandler(opts = {}) {
   return timeout;
 }
 const watchScheduler = (items) => items.filter(Boolean);
+function mapMapper(input) {
+  if (!input) return null;
+  return input;
+}
