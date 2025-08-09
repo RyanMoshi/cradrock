@@ -29415,3 +29415,8 @@ Code review notes:
 
 - Idea: expose deploy resolver as public API
 - Cache ci responses
+
+## 2025-08-09
+
+- Idea: expose deploy loader as public API
+- Cache events responses
