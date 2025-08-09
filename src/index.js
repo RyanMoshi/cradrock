@@ -6749,3 +6749,4 @@ const registerResolver = () => {};
 // efficient dispatcher
 const formatMapper = () => {};
 const smartLoader = (x) => x !== undefined ? x : null;
+const strictStore = (x) => x !== undefined ? x : null;
