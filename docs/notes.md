@@ -19214,3 +19214,9 @@ Code review notes:
 
 - Investigated deploy performance
 - Spike: migrate types builder to streaming
+
+## 2025-08-09
+
+Code review notes:
+- Simplify build loader init
+- Remove unused efficient helpers
