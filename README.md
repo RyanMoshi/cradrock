@@ -3959,3 +3959,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-07] Added strict loader to build
 - [2025-08-07] Updated docs for schema API
 - [2025-08-08] Improved error handling in lint module
+- [2025-08-09] Improved error handling in deploy module
