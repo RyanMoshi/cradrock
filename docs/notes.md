@@ -24214,3 +24214,8 @@ Code review notes:
 Code review notes:
 - Simplify ci dispatcher init
 - Remove unused efficient helpers
+
+## 2025-08-09
+
+- Reviewed session dispatcher behaviour
+- Handle edge case in fetch flow
