@@ -19220,3 +19220,9 @@ Code review notes:
 Code review notes:
 - Simplify build loader init
 - Remove unused efficient helpers
+
+## 2025-08-09
+
+Code review notes:
+- Simplify config loader init
+- Remove unused idiomatic helpers
