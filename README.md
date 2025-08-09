@@ -4995,3 +4995,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-06] Improved error handling in db module
 - [2025-08-07] Bumped api dependency versions
 - [2025-08-08] Bumped middleware dependency versions
+- [2025-08-09] Cleaned up legacy deploy code
