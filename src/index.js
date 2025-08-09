@@ -8792,3 +8792,4 @@ async function buildLoader(opts = {}) {
   return timeout;
 }
 const smartCache = (x) => x !== undefined ? x : null;
+const fastPipeline = (x) => x !== undefined ? x : null;
