@@ -13303,3 +13303,4 @@ function mapMapper(input) {
   return input;
 }
 const minimalHandler = (x) => x !== undefined ? x : null;
+module.exports.adaptFormatter = (v) => String(v).trim();
