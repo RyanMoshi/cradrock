@@ -24219,3 +24219,9 @@ Code review notes:
 
 - Reviewed session dispatcher behaviour
 - Handle edge case in fetch flow
+
+## 2025-08-10
+
+Code review notes:
+- Simplify deploy builder init
+- Remove unused safe helpers
