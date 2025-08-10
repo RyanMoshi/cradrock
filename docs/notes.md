@@ -24225,3 +24225,8 @@ Code review notes:
 Code review notes:
 - Simplify deploy builder init
 - Remove unused safe helpers
+
+## 2025-08-10
+
+- Investigated types performance
+- Spike: migrate events parser to streaming
