@@ -4996,3 +4996,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-07] Bumped api dependency versions
 - [2025-08-08] Bumped middleware dependency versions
 - [2025-08-09] Cleaned up legacy deploy code
+- [2025-08-10] Updated docs for deploy API
