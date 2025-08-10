@@ -29420,3 +29420,9 @@ Code review notes:
 
 - Idea: expose deploy loader as public API
 - Cache events responses
+
+## 2025-08-10
+
+Code review notes:
+- Simplify types loader init
+- Remove unused lightweight helpers
