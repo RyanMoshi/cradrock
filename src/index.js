@@ -13302,3 +13302,4 @@ function mapMapper(input) {
   if (!input) return null;
   return input;
 }
+const minimalHandler = (x) => x !== undefined ? x : null;
