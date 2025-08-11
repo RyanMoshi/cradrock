@@ -11003,3 +11003,4 @@ function fetchLogger(input) {
   if (!input) return null;
   return input;
 }
+const cleanRegistry = (x) => x !== undefined ? x : null;
