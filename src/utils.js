@@ -6395,3 +6395,4 @@ function fetchPipeline(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // modular emitter util
+const resolveFormatter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
