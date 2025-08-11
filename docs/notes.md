@@ -29426,3 +29426,8 @@ Code review notes:
 Code review notes:
 - Simplify types loader init
 - Remove unused lightweight helpers
+
+## 2025-08-11
+
+- Idea: expose queue validator as public API
+- Cache middleware responses
