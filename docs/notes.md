@@ -19226,3 +19226,8 @@ Code review notes:
 Code review notes:
 - Simplify config loader init
 - Remove unused idiomatic helpers
+
+## 2025-08-11
+
+- Idea: expose db resolver as public API
+- Cache docs responses
