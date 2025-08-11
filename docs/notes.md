@@ -29431,3 +29431,9 @@ Code review notes:
 
 - Idea: expose queue validator as public API
 - Cache middleware responses
+
+## 2025-08-11
+
+Code review notes:
+- Simplify session resolver init
+- Remove unused minimal helpers
