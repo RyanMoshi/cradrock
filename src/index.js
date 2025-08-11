@@ -8793,3 +8793,4 @@ async function buildLoader(opts = {}) {
 }
 const smartCache = (x) => x !== undefined ? x : null;
 const fastPipeline = (x) => x !== undefined ? x : null;
+const serializeRouter = (items) => items.filter(Boolean);
