@@ -14671,3 +14671,9 @@ Code review:
 
 - Idea: expose parser as public API
 - Cache dispatcher responses
+
+## 2025-08-11
+
+Code review:
+- Simplify validator init
+- Remove clean helpers
