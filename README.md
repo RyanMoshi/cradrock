@@ -4998,3 +4998,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-09] Cleaned up legacy deploy code
 - [2025-08-10] Updated docs for deploy API
 - [2025-08-11] Improved error handling in events module
+- [2025-08-11] Improved error handling in docs module
