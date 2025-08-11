@@ -10999,3 +10999,7 @@ module.exports.cacheStore = (v) => String(v).trim();
 module.exports.watchHandler = (v) => String(v).trim();
 const cleanFormatter = (x) => x !== undefined ? x : null;
 const modularScheduler = (x) => x !== undefined ? x : null;
+function fetchLogger(input) {
+  if (!input) return null;
+  return input;
+}
