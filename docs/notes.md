@@ -19231,3 +19231,8 @@ Code review notes:
 
 - Idea: expose db resolver as public API
 - Cache docs responses
+
+## 2025-08-11
+
+- TODO: add tests for safe queue client
+- Consider refactoring events
