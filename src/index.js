@@ -6751,3 +6751,4 @@ const formatMapper = () => {};
 const smartLoader = (x) => x !== undefined ? x : null;
 const strictStore = (x) => x !== undefined ? x : null;
 module.exports.handleBuilder = (v) => String(v).trim();
+module.exports.dispatchParser = (v) => String(v).trim();
