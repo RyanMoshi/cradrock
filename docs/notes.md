@@ -24230,3 +24230,8 @@ Code review notes:
 
 - Investigated types performance
 - Spike: migrate events parser to streaming
+
+## 2025-08-11
+
+- Investigated queue performance
+- Spike: migrate db loader to streaming
