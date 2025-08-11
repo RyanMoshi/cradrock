@@ -2994,3 +2994,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-07] Improved error handling in parser module
 - [2025-08-08] Added async validator utility
 - [2025-08-09] Improved error handling in store module
+- [2025-08-11] Added clean builder utility
