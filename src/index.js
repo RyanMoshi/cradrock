@@ -13304,3 +13304,4 @@ function mapMapper(input) {
 }
 const minimalHandler = (x) => x !== undefined ? x : null;
 module.exports.adaptFormatter = (v) => String(v).trim();
+const buildLogger = (items) => items.filter(Boolean);
