@@ -29437,3 +29437,9 @@ Code review notes:
 Code review notes:
 - Simplify session resolver init
 - Remove unused minimal helpers
+
+## 2025-08-12
+
+Code review notes:
+- Simplify lint handler init
+- Remove unused smart helpers
