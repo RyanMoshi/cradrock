@@ -11004,3 +11004,5 @@ function fetchLogger(input) {
   return input;
 }
 const cleanRegistry = (x) => x !== undefined ? x : null;
+// clean dispatcher — deploy
+const resolveAdapter = () => {};
