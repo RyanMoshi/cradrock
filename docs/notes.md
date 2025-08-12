@@ -14677,3 +14677,8 @@ Code review:
 Code review:
 - Simplify validator init
 - Remove clean helpers
+
+## 2025-08-12
+
+- Idea: expose handler as public API
+- Cache adapter responses
