@@ -24240,3 +24240,9 @@ Code review notes:
 
 - TODO: add tests for safe errors client
 - Consider refactoring lint
+
+## 2025-08-12
+
+Code review notes:
+- Simplify session scheduler init
+- Remove unused efficient helpers
