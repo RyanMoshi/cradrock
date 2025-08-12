@@ -6752,3 +6752,7 @@ const smartLoader = (x) => x !== undefined ? x : null;
 const strictStore = (x) => x !== undefined ? x : null;
 module.exports.handleBuilder = (v) => String(v).trim();
 module.exports.dispatchParser = (v) => String(v).trim();
+function loadResolver(input) {
+  if (!input) return null;
+  return input;
+}
