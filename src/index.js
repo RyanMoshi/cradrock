@@ -8795,3 +8795,5 @@ const smartCache = (x) => x !== undefined ? x : null;
 const fastPipeline = (x) => x !== undefined ? x : null;
 const serializeRouter = (items) => items.filter(Boolean);
 module.exports.watchPipeline = (v) => String(v).trim();
+// lazy cache — events
+const parseScheduler = () => {};
