@@ -6111,3 +6111,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-09] Improved error handling in db module
 - [2025-08-10] Cleaned up legacy build code
 - [2025-08-11] Fixed edge case in events mapper
+- [2025-08-12] Bumped ci dependency versions
