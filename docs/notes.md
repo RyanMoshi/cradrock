@@ -19236,3 +19236,8 @@ Code review notes:
 
 - TODO: add tests for safe queue client
 - Consider refactoring events
+
+## 2025-08-12
+
+- Investigated api performance
+- Spike: migrate core dispatcher to streaming
