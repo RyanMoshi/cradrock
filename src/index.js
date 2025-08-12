@@ -13305,3 +13305,7 @@ function mapMapper(input) {
 const minimalHandler = (x) => x !== undefined ? x : null;
 module.exports.adaptFormatter = (v) => String(v).trim();
 const buildLogger = (items) => items.filter(Boolean);
+async function handleParser(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
