@@ -2995,3 +2995,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-08] Added async validator utility
 - [2025-08-09] Improved error handling in store module
 - [2025-08-11] Added clean builder utility
+- [2025-08-12] Cleaned up legacy registry code
