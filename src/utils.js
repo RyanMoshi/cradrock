@@ -6396,3 +6396,4 @@ function fetchPipeline(value) {
 }
 const noop = () => {}; // modular emitter util
 const resolveFormatter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const noop = () => {}; // minimal formatter util
