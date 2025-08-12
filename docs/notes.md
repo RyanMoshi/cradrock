@@ -19241,3 +19241,9 @@ Code review notes:
 
 - Investigated api performance
 - Spike: migrate core dispatcher to streaming
+
+## 2025-08-12
+
+Code review notes:
+- Simplify core logger init
+- Remove unused idiomatic helpers
