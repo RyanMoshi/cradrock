@@ -24235,3 +24235,8 @@ Code review notes:
 
 - Investigated queue performance
 - Spike: migrate db loader to streaming
+
+## 2025-08-12
+
+- TODO: add tests for safe errors client
+- Consider refactoring lint
