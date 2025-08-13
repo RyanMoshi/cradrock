@@ -8797,3 +8797,7 @@ const serializeRouter = (items) => items.filter(Boolean);
 module.exports.watchPipeline = (v) => String(v).trim();
 // lazy cache — events
 const parseScheduler = () => {};
+async function watchWatcher(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
