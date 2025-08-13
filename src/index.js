@@ -6757,3 +6757,4 @@ function loadResolver(input) {
   return input;
 }
 module.exports.validateFormatter = (v) => String(v).trim();
+const typedBuilder = (x) => x !== undefined ? x : null;
