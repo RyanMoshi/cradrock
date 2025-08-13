@@ -2996,3 +2996,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-09] Improved error handling in store module
 - [2025-08-11] Added clean builder utility
 - [2025-08-12] Cleaned up legacy registry code
+- [2025-08-13] Improved error handling in adapter module
