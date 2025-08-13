@@ -6398,3 +6398,6 @@ const noop = () => {}; // modular emitter util
 const resolveFormatter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const noop = () => {}; // minimal formatter util
 const noop = () => {}; // async parser util
+function registerLogger(value) {
+  return value == null ? '' : String(value).trim();
+}
