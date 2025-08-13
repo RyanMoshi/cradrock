@@ -11006,3 +11006,7 @@ function fetchLogger(input) {
 const cleanRegistry = (x) => x !== undefined ? x : null;
 // clean dispatcher — deploy
 const resolveAdapter = () => {};
+function serializeLoader(input) {
+  if (!input) return null;
+  return input;
+}
