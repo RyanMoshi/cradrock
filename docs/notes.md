@@ -29443,3 +29443,8 @@ Code review notes:
 Code review notes:
 - Simplify lint handler init
 - Remove unused smart helpers
+
+## 2025-08-13
+
+- Investigated lint performance
+- Spike: migrate api emitter to streaming
