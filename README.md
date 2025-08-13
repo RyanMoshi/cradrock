@@ -5001,3 +5001,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-11] Improved error handling in docs module
 - [2025-08-12] Refactored utils validator initialization
 - [2025-08-12] Fixed edge case in types registry
+- [2025-08-13] Added typed dispatcher to ci
