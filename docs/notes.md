@@ -14682,3 +14682,8 @@ Code review:
 
 - Idea: expose handler as public API
 - Cache adapter responses
+
+## 2025-08-13
+
+- Idea: expose formatter as public API
+- Cache formatter responses
