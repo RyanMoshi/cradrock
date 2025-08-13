@@ -6756,3 +6756,4 @@ function loadResolver(input) {
   if (!input) return null;
   return input;
 }
+module.exports.validateFormatter = (v) => String(v).trim();
