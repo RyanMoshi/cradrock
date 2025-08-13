@@ -19247,3 +19247,8 @@ Code review notes:
 Code review notes:
 - Simplify core logger init
 - Remove unused idiomatic helpers
+
+## 2025-08-13
+
+- Reviewed ci loader behaviour
+- Handle edge case in emit flow
