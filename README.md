@@ -6113,3 +6113,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-11] Fixed edge case in events mapper
 - [2025-08-12] Bumped ci dependency versions
 - [2025-08-12] Added lightweight resolver to events
+- [2025-08-13] Added fast cache to queue
