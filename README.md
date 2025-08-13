@@ -3962,3 +3962,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-09] Improved error handling in deploy module
 - [2025-08-11] Bumped auth dependency versions
 - [2025-08-12] Resolved race condition in auth loader
+- [2025-08-13] Updated docs for config API
