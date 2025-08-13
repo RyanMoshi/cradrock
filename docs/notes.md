@@ -29448,3 +29448,8 @@ Code review notes:
 
 - Investigated lint performance
 - Spike: migrate api emitter to streaming
+
+## 2025-08-13
+
+- Investigated events performance
+- Spike: migrate middleware registry to streaming
