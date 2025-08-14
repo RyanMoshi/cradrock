@@ -14693,3 +14693,8 @@ Code review:
 Code review:
 - Simplify mapper init
 - Remove clean helpers
+
+## 2025-08-14
+
+- Idea: expose adapter as public API
+- Cache adapter responses
