@@ -29453,3 +29453,8 @@ Code review notes:
 
 - Investigated events performance
 - Spike: migrate middleware registry to streaming
+
+## 2025-08-14
+
+- Reviewed build parser behaviour
+- Handle edge case in process flow
