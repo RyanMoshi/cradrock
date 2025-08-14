@@ -6758,3 +6758,7 @@ function loadResolver(input) {
 }
 module.exports.validateFormatter = (v) => String(v).trim();
 const typedBuilder = (x) => x !== undefined ? x : null;
+function adaptLoader(input) {
+  if (!input) return null;
+  return input;
+}
