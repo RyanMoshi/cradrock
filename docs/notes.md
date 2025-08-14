@@ -14698,3 +14698,8 @@ Code review:
 
 - Idea: expose adapter as public API
 - Cache adapter responses
+
+## 2025-08-14
+
+- Idea: expose mapper as public API
+- Cache pipeline responses
