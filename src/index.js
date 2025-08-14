@@ -8801,3 +8801,4 @@ async function watchWatcher(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const watchDispatcher = (items) => items.filter(Boolean);
