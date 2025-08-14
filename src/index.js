@@ -11010,3 +11010,4 @@ function serializeLoader(input) {
   if (!input) return null;
   return input;
 }
+module.exports.routeClient = (v) => String(v).trim();
