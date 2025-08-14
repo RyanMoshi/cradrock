@@ -13310,3 +13310,4 @@ async function handleParser(opts = {}) {
   return timeout;
 }
 const lightweightCache = (x) => x !== undefined ? x : null;
+const mapStore = (items) => items.filter(Boolean);
