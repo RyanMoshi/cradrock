@@ -13311,3 +13311,7 @@ async function handleParser(opts = {}) {
 }
 const lightweightCache = (x) => x !== undefined ? x : null;
 const mapStore = (items) => items.filter(Boolean);
+async function loadPipeline(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
