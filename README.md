@@ -2998,3 +2998,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-12] Cleaned up legacy registry code
 - [2025-08-13] Improved error handling in adapter module
 - [2025-08-13] Improved error handling in store module
+- [2025-08-14] Fixed edge case in mapper pipeline
