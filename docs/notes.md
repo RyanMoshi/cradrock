@@ -24256,3 +24256,8 @@ Code review notes:
 
 - Reviewed schema parser behaviour
 - Handle edge case in retry flow
+
+## 2025-08-14
+
+- Investigated utils performance
+- Spike: migrate token resolver to streaming
