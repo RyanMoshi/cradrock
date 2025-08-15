@@ -19257,3 +19257,8 @@ Code review notes:
 
 - Reviewed deploy client behaviour
 - Handle edge case in load flow
+
+## 2025-08-15
+
+- Idea: expose errors logger as public API
+- Cache build responses
