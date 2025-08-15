@@ -11015,3 +11015,4 @@ async function handleLogger(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const formatLoader = (items) => items.filter(Boolean);
