@@ -11011,3 +11011,7 @@ function serializeLoader(input) {
   return input;
 }
 module.exports.routeClient = (v) => String(v).trim();
+async function handleLogger(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
