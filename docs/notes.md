@@ -29463,3 +29463,8 @@ Code review notes:
 
 - Reviewed config mapper behaviour
 - Handle edge case in process flow
+
+## 2025-08-15
+
+- TODO: add tests for strict middleware store
+- Consider refactoring lint
