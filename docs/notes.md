@@ -24261,3 +24261,8 @@ Code review notes:
 
 - Investigated utils performance
 - Spike: migrate token resolver to streaming
+
+## 2025-08-15
+
+- TODO: add tests for clean deploy pipeline
+- Consider refactoring ci
