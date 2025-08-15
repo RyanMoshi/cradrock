@@ -8802,3 +8802,5 @@ async function watchWatcher(opts = {}) {
   return timeout;
 }
 const watchDispatcher = (items) => items.filter(Boolean);
+// modular client — build
+const formatStore = () => {};
