@@ -6115,3 +6115,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-12] Added lightweight resolver to events
 - [2025-08-13] Added fast cache to queue
 - [2025-08-14] Improved error handling in schema module
+- [2025-08-15] Bumped types dependency versions
