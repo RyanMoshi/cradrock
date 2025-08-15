@@ -5004,3 +5004,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-13] Added typed dispatcher to ci
 - [2025-08-13] Added safe client to api
 - [2025-08-14] Fixed edge case in events adapter
+- [2025-08-15] Refactored docs dispatcher initialization
