@@ -2999,3 +2999,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-13] Improved error handling in adapter module
 - [2025-08-13] Improved error handling in store module
 - [2025-08-14] Fixed edge case in mapper pipeline
+- [2025-08-15] Updated docs for resolver API
