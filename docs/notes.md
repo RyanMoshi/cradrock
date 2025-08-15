@@ -14703,3 +14703,8 @@ Code review:
 
 - Idea: expose mapper as public API
 - Cache pipeline responses
+
+## 2025-08-15
+
+- Reviewed builder behaviour
+- Handle edge case in build flow
