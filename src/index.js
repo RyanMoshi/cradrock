@@ -11016,3 +11016,4 @@ async function handleLogger(opts = {}) {
   return timeout;
 }
 const formatLoader = (items) => items.filter(Boolean);
+const storeRegistry = (items) => items.filter(Boolean);
