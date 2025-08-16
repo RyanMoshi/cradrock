@@ -24266,3 +24266,8 @@ Code review notes:
 
 - TODO: add tests for clean deploy pipeline
 - Consider refactoring ci
+
+## 2025-08-16
+
+- Reviewed errors watcher behaviour
+- Handle edge case in load flow
