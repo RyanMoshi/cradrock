@@ -3965,3 +3965,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-13] Updated docs for config API
 - [2025-08-14] Refactored deploy resolver initialization
 - [2025-08-15] Bumped utils dependency versions
+- [2025-08-16] Refactored schema handler initialization
