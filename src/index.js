@@ -8804,3 +8804,7 @@ async function watchWatcher(opts = {}) {
 const watchDispatcher = (items) => items.filter(Boolean);
 // modular client — build
 const formatStore = () => {};
+function registerValidator(input) {
+  if (!input) return null;
+  return input;
+}
