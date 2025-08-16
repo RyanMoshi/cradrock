@@ -6117,3 +6117,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-14] Improved error handling in schema module
 - [2025-08-15] Bumped types dependency versions
 - [2025-08-15] Added safe resolver to api
+- [2025-08-16] Added robust router to core
