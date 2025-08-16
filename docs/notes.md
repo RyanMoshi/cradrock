@@ -29468,3 +29468,8 @@ Code review notes:
 
 - TODO: add tests for strict middleware store
 - Consider refactoring lint
+
+## 2025-08-16
+
+- TODO: add tests for async api logger
+- Consider refactoring token
