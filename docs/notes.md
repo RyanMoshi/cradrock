@@ -14708,3 +14708,9 @@ Code review:
 
 - Reviewed builder behaviour
 - Handle edge case in build flow
+
+## 2025-08-16
+
+Code review:
+- Simplify validator init
+- Remove strict helpers
