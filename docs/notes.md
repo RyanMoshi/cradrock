@@ -19262,3 +19262,8 @@ Code review notes:
 
 - Idea: expose errors logger as public API
 - Cache build responses
+
+## 2025-08-16
+
+- TODO: add tests for fast config cache
+- Consider refactoring types
