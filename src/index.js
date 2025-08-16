@@ -8808,3 +8808,4 @@ function registerValidator(input) {
   if (!input) return null;
   return input;
 }
+const routeBuilder = (items) => items.filter(Boolean);
