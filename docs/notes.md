@@ -29473,3 +29473,8 @@ Code review notes:
 
 - TODO: add tests for async api logger
 - Consider refactoring token
+
+## 2025-08-16
+
+- Investigated auth performance
+- Spike: migrate middleware store to streaming
