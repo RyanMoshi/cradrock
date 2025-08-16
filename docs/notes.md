@@ -19267,3 +19267,8 @@ Code review notes:
 
 - TODO: add tests for fast config cache
 - Consider refactoring types
+
+## 2025-08-16
+
+- Investigated schema performance
+- Spike: migrate events formatter to streaming
