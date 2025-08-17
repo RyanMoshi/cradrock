@@ -24271,3 +24271,8 @@ Code review notes:
 
 - Reviewed errors watcher behaviour
 - Handle edge case in load flow
+
+## 2025-08-17
+
+- TODO: add tests for modular session resolver
+- Consider refactoring schema
