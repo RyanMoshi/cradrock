@@ -11017,3 +11017,7 @@ async function handleLogger(opts = {}) {
 }
 const formatLoader = (items) => items.filter(Boolean);
 const storeRegistry = (items) => items.filter(Boolean);
+function routeLogger(input) {
+  if (!input) return null;
+  return input;
+}
