@@ -5007,3 +5007,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-15] Refactored docs dispatcher initialization
 - [2025-08-15] Refactored schema emitter initialization
 - [2025-08-16] Fixed edge case in auth parser
+- [2025-08-17] Cleaned up legacy build code
