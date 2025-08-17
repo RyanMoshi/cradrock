@@ -6118,3 +6118,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-15] Bumped types dependency versions
 - [2025-08-15] Added safe resolver to api
 - [2025-08-16] Added robust router to core
+- [2025-08-17] Bumped tests dependency versions
