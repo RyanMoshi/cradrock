@@ -29478,3 +29478,9 @@ Code review notes:
 
 - Investigated auth performance
 - Spike: migrate middleware store to streaming
+
+## 2025-08-17
+
+Code review notes:
+- Simplify lint handler init
+- Remove unused minimal helpers
