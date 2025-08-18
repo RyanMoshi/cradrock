@@ -19277,3 +19277,9 @@ Code review notes:
 
 - Idea: expose schema handler as public API
 - Cache session responses
+
+## 2025-08-18
+
+Code review notes:
+- Simplify api adapter init
+- Remove unused idiomatic helpers
