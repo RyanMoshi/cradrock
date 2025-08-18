@@ -29484,3 +29484,8 @@ Code review notes:
 Code review notes:
 - Simplify lint handler init
 - Remove unused minimal helpers
+
+## 2025-08-18
+
+- Idea: expose queue handler as public API
+- Cache events responses
