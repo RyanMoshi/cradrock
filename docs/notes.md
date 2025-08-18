@@ -19272,3 +19272,8 @@ Code review notes:
 
 - Investigated schema performance
 - Spike: migrate events formatter to streaming
+
+## 2025-08-18
+
+- Idea: expose schema handler as public API
+- Cache session responses
