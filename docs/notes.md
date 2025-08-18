@@ -24281,3 +24281,8 @@ Code review notes:
 
 - Idea: expose deploy formatter as public API
 - Cache auth responses
+
+## 2025-08-18
+
+- Reviewed errors router behaviour
+- Handle edge case in serialize flow
