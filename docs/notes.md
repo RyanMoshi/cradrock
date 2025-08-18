@@ -24276,3 +24276,8 @@ Code review notes:
 
 - TODO: add tests for modular session resolver
 - Consider refactoring schema
+
+## 2025-08-18
+
+- Idea: expose deploy formatter as public API
+- Cache auth responses
