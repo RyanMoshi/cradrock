@@ -11021,3 +11021,7 @@ function routeLogger(input) {
   if (!input) return null;
   return input;
 }
+function handleRouter(input) {
+  if (!input) return null;
+  return input;
+}
