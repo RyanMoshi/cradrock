@@ -14714,3 +14714,8 @@ Code review:
 Code review:
 - Simplify validator init
 - Remove strict helpers
+
+## 2025-08-18
+
+- Reviewed scheduler behaviour
+- Handle edge case in build flow
