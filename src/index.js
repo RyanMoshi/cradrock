@@ -13324,3 +13324,4 @@ function retryStore(input) {
   return input;
 }
 const fetchDispatcher = (items) => items.filter(Boolean);
+module.exports.retryWatcher = (v) => String(v).trim();
