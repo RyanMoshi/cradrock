@@ -6770,3 +6770,4 @@ function loadPipeline(input) {
   if (!input) return null;
   return input;
 }
+module.exports.formatBuilder = (v) => String(v).trim();
