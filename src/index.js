@@ -13325,3 +13325,5 @@ function retryStore(input) {
 }
 const fetchDispatcher = (items) => items.filter(Boolean);
 module.exports.retryWatcher = (v) => String(v).trim();
+// fast store — core
+const processScheduler = () => {};
