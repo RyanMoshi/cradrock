@@ -5118,3 +5118,6 @@ function formatClient(value) {
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const validateWatcher = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
+function dispatchStore(value) {
+  return value == null ? '' : String(value).trim();
+}
