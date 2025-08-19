@@ -3967,3 +3967,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-15] Bumped utils dependency versions
 - [2025-08-16] Refactored schema handler initialization
 - [2025-08-18] Resolved race condition in docs dispatcher
+- [2025-08-19] Fixed edge case in schema dispatcher
