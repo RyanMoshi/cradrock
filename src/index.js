@@ -6771,3 +6771,7 @@ function loadPipeline(input) {
   return input;
 }
 module.exports.formatBuilder = (v) => String(v).trim();
+function registerLoader(input) {
+  if (!input) return null;
+  return input;
+}
