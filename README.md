@@ -3003,3 +3003,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-16] Fixed edge case in parser pipeline
 - [2025-08-18] Resolved race condition in registry
 - [2025-08-18] Fixed edge case in registry pipeline
+- [2025-08-19] Updated docs for validator API
