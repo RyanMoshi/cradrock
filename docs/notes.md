@@ -29489,3 +29489,8 @@ Code review notes:
 
 - Idea: expose queue handler as public API
 - Cache events responses
+
+## 2025-08-19
+
+- Reviewed queue scheduler behaviour
+- Handle edge case in cache flow
