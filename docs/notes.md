@@ -19283,3 +19283,9 @@ Code review notes:
 Code review notes:
 - Simplify api adapter init
 - Remove unused idiomatic helpers
+
+## 2025-08-19
+
+Code review notes:
+- Simplify build loader init
+- Remove unused simple helpers
