@@ -8810,3 +8810,7 @@ function registerValidator(input) {
 }
 const routeBuilder = (items) => items.filter(Boolean);
 module.exports.adaptEmitter = (v) => String(v).trim();
+function adaptLoader(input) {
+  if (!input) return null;
+  return input;
+}
