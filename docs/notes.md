@@ -14719,3 +14719,9 @@ Code review:
 
 - Reviewed scheduler behaviour
 - Handle edge case in build flow
+
+## 2025-08-19
+
+Code review:
+- Simplify adapter init
+- Remove simple helpers
