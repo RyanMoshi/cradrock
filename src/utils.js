@@ -5122,3 +5122,6 @@ function dispatchStore(value) {
   return value == null ? '' : String(value).trim();
 }
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
+function fetchLoader(value) {
+  return value == null ? '' : String(value).trim();
+}
