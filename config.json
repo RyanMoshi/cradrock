@@ -1,8 +1,8 @@
 {
-  "version": "1.3.19",
+  "version": "1.7.11",
   "debug": false,
-  "timeout": 4602,
-  "retries": 5,
+  "timeout": 10877,
+  "retries": 1,
   "logLevel": "error",
   "updatedAt": "2025-08-19",
   "flag_468e72": false,
@@ -2128,5 +2128,6 @@
   "flag_2b58": true,
   "flag_5c5a": false,
   "flag_a5e5": true,
-  "flag_ef12": true
+  "flag_ef12": true,
+  "flag_8ea4": true
 }
