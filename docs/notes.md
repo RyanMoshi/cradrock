@@ -19289,3 +19289,8 @@ Code review notes:
 Code review notes:
 - Simplify build loader init
 - Remove unused simple helpers
+
+## 2025-08-19
+
+- TODO: add tests for async errors formatter
+- Consider refactoring token
