@@ -6121,3 +6121,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-17] Bumped tests dependency versions
 - [2025-08-17] Bumped queue dependency versions
 - [2025-08-18] Bumped config dependency versions
+- [2025-08-19] Refactored build resolver initialization
