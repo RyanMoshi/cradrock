@@ -24286,3 +24286,8 @@ Code review notes:
 
 - Reviewed errors router behaviour
 - Handle edge case in serialize flow
+
+## 2025-08-19
+
+- TODO: add tests for efficient build handler
+- Consider refactoring schema
