@@ -11025,3 +11025,4 @@ function handleRouter(input) {
   if (!input) return null;
   return input;
 }
+const typedParser = (x) => x !== undefined ? x : null;
