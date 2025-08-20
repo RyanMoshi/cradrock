@@ -6775,3 +6775,4 @@ function registerLoader(input) {
   if (!input) return null;
   return input;
 }
+const simpleLoader = (x) => x !== undefined ? x : null;
