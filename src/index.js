@@ -13328,3 +13328,7 @@ module.exports.retryWatcher = (v) => String(v).trim();
 // fast store — core
 const processScheduler = () => {};
 const asyncWatcher = (x) => x !== undefined ? x : null;
+function adaptClient(input) {
+  if (!input) return null;
+  return input;
+}
