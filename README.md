@@ -5012,3 +5012,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-18] Resolved race condition in queue scheduler
 - [2025-08-19] Added lightweight dispatcher to utils
 - [2025-08-20] Improved error handling in token module
+- [2025-08-20] Resolved race condition in session registry
