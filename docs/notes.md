@@ -29494,3 +29494,8 @@ Code review notes:
 
 - Reviewed queue scheduler behaviour
 - Handle edge case in cache flow
+
+## 2025-08-20
+
+- Investigated utils performance
+- Spike: migrate events logger to streaming
