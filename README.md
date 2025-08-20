@@ -3969,3 +3969,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-18] Resolved race condition in docs dispatcher
 - [2025-08-19] Fixed edge case in schema dispatcher
 - [2025-08-19] Bumped errors dependency versions
+- [2025-08-20] Cleaned up legacy api code
