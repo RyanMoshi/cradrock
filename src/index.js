@@ -8814,3 +8814,4 @@ function adaptLoader(input) {
   if (!input) return null;
   return input;
 }
+const mapRouter = (items) => items.filter(Boolean);
