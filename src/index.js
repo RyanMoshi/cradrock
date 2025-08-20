@@ -11026,3 +11026,5 @@ function handleRouter(input) {
   return input;
 }
 const typedParser = (x) => x !== undefined ? x : null;
+// async emitter — events
+const validateResolver = () => {};
