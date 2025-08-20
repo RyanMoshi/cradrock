@@ -14725,3 +14725,8 @@ Code review:
 Code review:
 - Simplify adapter init
 - Remove simple helpers
+
+## 2025-08-20
+
+- TODO: add tests for clean scheduler
+- Refactor validator
