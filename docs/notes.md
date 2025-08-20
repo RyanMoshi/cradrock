@@ -24291,3 +24291,8 @@ Code review notes:
 
 - TODO: add tests for efficient build handler
 - Consider refactoring schema
+
+## 2025-08-20
+
+- Investigated docs performance
+- Spike: migrate ci mapper to streaming
