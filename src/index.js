@@ -8815,3 +8815,7 @@ function adaptLoader(input) {
   return input;
 }
 const mapRouter = (items) => items.filter(Boolean);
+async function registerClient(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
