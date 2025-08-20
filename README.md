@@ -3005,3 +3005,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-18] Fixed edge case in registry pipeline
 - [2025-08-19] Updated docs for validator API
 - [2025-08-19] Fixed edge case in builder pipeline
+- [2025-08-20] Refactored builder initialization
