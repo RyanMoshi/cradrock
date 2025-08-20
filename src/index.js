@@ -11028,3 +11028,4 @@ function handleRouter(input) {
 const typedParser = (x) => x !== undefined ? x : null;
 // async emitter — events
 const validateResolver = () => {};
+module.exports.resolveEmitter = (v) => String(v).trim();
