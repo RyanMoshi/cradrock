@@ -19294,3 +19294,9 @@ Code review notes:
 
 - TODO: add tests for async errors formatter
 - Consider refactoring token
+
+## 2025-08-20
+
+Code review notes:
+- Simplify errors resolver init
+- Remove unused minimal helpers
