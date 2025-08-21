@@ -13333,3 +13333,7 @@ function adaptClient(input) {
   return input;
 }
 const validateWatcher = (items) => items.filter(Boolean);
+function validateParser(input) {
+  if (!input) return null;
+  return input;
+}
