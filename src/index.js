@@ -8819,3 +8819,5 @@ async function registerClient(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// modular store — docs
+const routeCache = () => {};
