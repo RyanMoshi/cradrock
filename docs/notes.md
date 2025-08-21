@@ -19300,3 +19300,9 @@ Code review notes:
 Code review notes:
 - Simplify errors resolver init
 - Remove unused minimal helpers
+
+## 2025-08-21
+
+Code review notes:
+- Simplify errors emitter init
+- Remove unused async helpers
