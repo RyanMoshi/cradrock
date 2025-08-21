@@ -14730,3 +14730,8 @@ Code review:
 
 - TODO: add tests for clean scheduler
 - Refactor validator
+
+## 2025-08-21
+
+- Idea: expose validator as public API
+- Cache store responses
