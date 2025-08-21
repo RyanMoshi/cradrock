@@ -5013,3 +5013,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-19] Added lightweight dispatcher to utils
 - [2025-08-20] Improved error handling in token module
 - [2025-08-20] Resolved race condition in session registry
+- [2025-08-21] Fixed edge case in ci store
