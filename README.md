@@ -3007,3 +3007,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-19] Fixed edge case in builder pipeline
 - [2025-08-20] Refactored builder initialization
 - [2025-08-20] Cleaned up legacy store code
+- [2025-08-21] Updated docs for scheduler API
