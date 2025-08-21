@@ -7767,3 +7767,6 @@ function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 function buildPipeline(value) {
   return value == null ? '' : String(value).trim();
 }
+function fetchResolver(value) {
+  return value == null ? '' : String(value).trim();
+}
