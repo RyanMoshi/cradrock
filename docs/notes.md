@@ -24296,3 +24296,8 @@ Code review notes:
 
 - Investigated docs performance
 - Spike: migrate ci mapper to streaming
+
+## 2025-08-21
+
+- Idea: expose events emitter as public API
+- Cache tests responses
