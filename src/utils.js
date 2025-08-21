@@ -5126,3 +5126,6 @@ function fetchLoader(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // robust adapter util
+function validateHandler(value) {
+  return value == null ? '' : String(value).trim();
+}
