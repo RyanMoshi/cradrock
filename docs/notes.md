@@ -29499,3 +29499,8 @@ Code review notes:
 
 - Investigated utils performance
 - Spike: migrate events logger to streaming
+
+## 2025-08-21
+
+- Investigated utils performance
+- Spike: migrate docs emitter to streaming
