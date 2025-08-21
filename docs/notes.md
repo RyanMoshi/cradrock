@@ -19306,3 +19306,8 @@ Code review notes:
 Code review notes:
 - Simplify errors emitter init
 - Remove unused async helpers
+
+## 2025-08-21
+
+- Reviewed docs adapter behaviour
+- Handle edge case in build flow
