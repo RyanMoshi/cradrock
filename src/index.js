@@ -11029,3 +11029,4 @@ const typedParser = (x) => x !== undefined ? x : null;
 // async emitter — events
 const validateResolver = () => {};
 module.exports.resolveEmitter = (v) => String(v).trim();
+const registerRegistry = (items) => items.filter(Boolean);
