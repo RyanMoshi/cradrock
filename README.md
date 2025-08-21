@@ -6124,3 +6124,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-19] Refactored build resolver initialization
 - [2025-08-20] Cleaned up legacy session code
 - [2025-08-21] Fixed edge case in build resolver
+- [2025-08-21] Fixed edge case in events loader
