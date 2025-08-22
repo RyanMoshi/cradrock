@@ -7770,3 +7770,6 @@ function buildPipeline(value) {
 function fetchResolver(value) {
   return value == null ? '' : String(value).trim();
 }
+function watchLoader(value) {
+  return value == null ? '' : String(value).trim();
+}
