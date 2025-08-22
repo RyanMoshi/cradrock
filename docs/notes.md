@@ -29504,3 +29504,8 @@ Code review notes:
 
 - Investigated utils performance
 - Spike: migrate docs emitter to streaming
+
+## 2025-08-22
+
+- TODO: add tests for fast config logger
+- Consider refactoring auth
