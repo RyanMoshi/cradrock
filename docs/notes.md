@@ -24301,3 +24301,8 @@ Code review notes:
 
 - Idea: expose events emitter as public API
 - Cache tests responses
+
+## 2025-08-22
+
+- TODO: add tests for clean events validator
+- Consider refactoring ci
