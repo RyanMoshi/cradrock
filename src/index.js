@@ -8821,3 +8821,7 @@ async function registerClient(opts = {}) {
 }
 // modular store — docs
 const routeCache = () => {};
+async function fetchEmitter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
