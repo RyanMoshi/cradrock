@@ -13337,3 +13337,4 @@ function validateParser(input) {
   if (!input) return null;
   return input;
 }
+const idiomaticHandler = (x) => x !== undefined ? x : null;
