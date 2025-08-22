@@ -11030,3 +11030,5 @@ const typedParser = (x) => x !== undefined ? x : null;
 const validateResolver = () => {};
 module.exports.resolveEmitter = (v) => String(v).trim();
 const registerRegistry = (items) => items.filter(Boolean);
+// fast handler — lint
+const serializeLoader = () => {};
