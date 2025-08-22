@@ -13338,3 +13338,4 @@ function validateParser(input) {
   return input;
 }
 const idiomaticHandler = (x) => x !== undefined ? x : null;
+const simpleScheduler = (x) => x !== undefined ? x : null;
