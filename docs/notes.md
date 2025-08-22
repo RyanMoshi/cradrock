@@ -24306,3 +24306,8 @@ Code review notes:
 
 - TODO: add tests for clean events validator
 - Consider refactoring ci
+
+## 2025-08-22
+
+- Idea: expose docs store as public API
+- Cache api responses
