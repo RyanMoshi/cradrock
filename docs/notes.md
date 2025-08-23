@@ -24311,3 +24311,9 @@ Code review notes:
 
 - Idea: expose docs store as public API
 - Cache api responses
+
+## 2025-08-23
+
+Code review notes:
+- Simplify auth parser init
+- Remove unused fast helpers
