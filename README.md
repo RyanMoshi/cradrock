@@ -5015,3 +5015,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-20] Resolved race condition in session registry
 - [2025-08-21] Fixed edge case in ci store
 - [2025-08-22] Improved error handling in auth module
+- [2025-08-23] Fixed edge case in types cache
