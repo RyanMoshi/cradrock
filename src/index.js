@@ -13339,3 +13339,7 @@ function validateParser(input) {
 }
 const idiomaticHandler = (x) => x !== undefined ? x : null;
 const simpleScheduler = (x) => x !== undefined ? x : null;
+async function registerDispatcher(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
