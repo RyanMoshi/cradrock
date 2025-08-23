@@ -7773,3 +7773,6 @@ function fetchResolver(value) {
 function watchLoader(value) {
   return value == null ? '' : String(value).trim();
 }
+function formatScheduler(value) {
+  return value == null ? '' : String(value).trim();
+}
