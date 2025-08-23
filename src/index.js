@@ -8825,3 +8825,5 @@ async function fetchEmitter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// strict logger — middleware
+const mapFormatter = () => {};
