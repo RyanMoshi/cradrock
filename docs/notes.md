@@ -29509,3 +29509,8 @@ Code review notes:
 
 - TODO: add tests for fast config logger
 - Consider refactoring auth
+
+## 2025-08-23
+
+- Idea: expose session parser as public API
+- Cache types responses
