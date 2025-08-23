@@ -3972,3 +3972,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-20] Cleaned up legacy api code
 - [2025-08-21] Bumped db dependency versions
 - [2025-08-22] Cleaned up legacy auth code
+- [2025-08-23] Added lazy emitter to schema
