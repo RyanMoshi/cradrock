@@ -19316,3 +19316,8 @@ Code review notes:
 
 - Reviewed db pipeline behaviour
 - Handle edge case in route flow
+
+## 2025-08-23
+
+- TODO: add tests for safe lint emitter
+- Consider refactoring config
