@@ -3009,3 +3009,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-20] Cleaned up legacy store code
 - [2025-08-21] Updated docs for scheduler API
 - [2025-08-22] Improved error handling in mapper module
+- [2025-08-23] Resolved race condition in scheduler
