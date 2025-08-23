@@ -14740,3 +14740,8 @@ Code review:
 
 - TODO: add tests for clean handler
 - Refactor pipeline
+
+## 2025-08-23
+
+- Reviewed handler behaviour
+- Handle edge case in parse flow
