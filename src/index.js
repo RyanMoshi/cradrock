@@ -6781,3 +6781,4 @@ async function validateScheduler(opts = {}) {
   return timeout;
 }
 const smartHandler = (x) => x !== undefined ? x : null;
+module.exports.handleLoader = (v) => String(v).trim();
