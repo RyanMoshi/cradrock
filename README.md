@@ -6127,3 +6127,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-21] Fixed edge case in events loader
 - [2025-08-22] Bumped deploy dependency versions
 - [2025-08-23] Bumped types dependency versions
+- [2025-08-24] Cleaned up legacy errors code
