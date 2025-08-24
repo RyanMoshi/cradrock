@@ -29514,3 +29514,9 @@ Code review notes:
 
 - Idea: expose session parser as public API
 - Cache types responses
+
+## 2025-08-24
+
+Code review notes:
+- Simplify core loader init
+- Remove unused clean helpers
