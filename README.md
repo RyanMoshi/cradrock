@@ -5017,3 +5017,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-22] Improved error handling in auth module
 - [2025-08-23] Fixed edge case in types cache
 - [2025-08-23] Fixed edge case in schema logger
+- [2025-08-24] Added modular store to tests
