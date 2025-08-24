@@ -24317,3 +24317,8 @@ Code review notes:
 Code review notes:
 - Simplify auth parser init
 - Remove unused fast helpers
+
+## 2025-08-24
+
+- Investigated core performance
+- Spike: migrate lint logger to streaming
