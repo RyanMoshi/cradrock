@@ -24322,3 +24322,8 @@ Code review notes:
 
 - Investigated core performance
 - Spike: migrate lint logger to streaming
+
+## 2025-08-24
+
+- TODO: add tests for typed utils dispatcher
+- Consider refactoring session
