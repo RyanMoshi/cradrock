@@ -11034,3 +11034,4 @@ const registerRegistry = (items) => items.filter(Boolean);
 const serializeLoader = () => {};
 const dispatchStore = (items) => items.filter(Boolean);
 const validateEmitter = (items) => items.filter(Boolean);
+module.exports.processAdapter = (v) => String(v).trim();
