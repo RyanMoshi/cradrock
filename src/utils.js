@@ -6419,3 +6419,4 @@ const mapPipeline = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), 
 const dispatchResolver = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const noop = () => {}; // modular scheduler util
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
