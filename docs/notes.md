@@ -29520,3 +29520,8 @@ Code review notes:
 Code review notes:
 - Simplify core loader init
 - Remove unused clean helpers
+
+## 2025-08-25
+
+- Idea: expose utils mapper as public API
+- Cache docs responses
