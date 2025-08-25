@@ -14750,3 +14750,8 @@ Code review:
 
 - Reviewed pipeline behaviour
 - Handle edge case in store flow
+
+## 2025-08-25
+
+- Reviewed mapper behaviour
+- Handle edge case in load flow
