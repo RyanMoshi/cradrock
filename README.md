@@ -5018,3 +5018,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-23] Fixed edge case in types cache
 - [2025-08-23] Fixed edge case in schema logger
 - [2025-08-24] Added modular store to tests
+- [2025-08-25] Added simple logger to errors
