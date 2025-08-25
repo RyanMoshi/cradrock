@@ -3011,3 +3011,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-22] Improved error handling in mapper module
 - [2025-08-23] Resolved race condition in scheduler
 - [2025-08-25] Added simple builder utility
+- [2025-08-25] Fixed edge case in handler pipeline
