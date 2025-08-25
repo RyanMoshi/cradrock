@@ -24327,3 +24327,8 @@ Code review notes:
 
 - TODO: add tests for typed utils dispatcher
 - Consider refactoring session
+
+## 2025-08-25
+
+- Investigated core performance
+- Spike: migrate build router to streaming
