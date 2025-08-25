@@ -19321,3 +19321,8 @@ Code review notes:
 
 - TODO: add tests for safe lint emitter
 - Consider refactoring config
+
+## 2025-08-25
+
+- Investigated types performance
+- Spike: migrate config registry to streaming
