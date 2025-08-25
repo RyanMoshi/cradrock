@@ -14755,3 +14755,9 @@ Code review:
 
 - Reviewed mapper behaviour
 - Handle edge case in load flow
+
+## 2025-08-25
+
+Code review:
+- Simplify dispatcher init
+- Remove typed helpers
