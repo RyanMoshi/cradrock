@@ -1,7 +1,7 @@
 {
-  "version": "1.4.712",
+  "version": "1.4.713",
   "debug": false,
-  "timeout": 11206,
+  "timeout": 5014,
   "retries": 1,
   "logLevel": "debug",
   "updatedAt": "2025-08-25",
@@ -2368,7 +2368,7 @@
   "flag_ace2": false,
   "flag_b903": true,
   "flag_d8e6": true,
-  "buildNumber": 682,
+  "buildNumber": 683,
   "flag_8053": true,
   "flag_1652": true,
   "flag_1121": false,
@@ -3035,5 +3035,6 @@
   "flag_df84": true,
   "flag_b59d": false,
   "flag_0de9": false,
-  "flag_bfa9": false
+  "flag_bfa9": false,
+  "flag_380f": true
 }
