@@ -13351,3 +13351,7 @@ async function formatScheduler(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+function fetchEmitter(input) {
+  if (!input) return null;
+  return input;
+}
