@@ -6786,3 +6786,7 @@ function storeFormatter(input) {
   if (!input) return null;
   return input;
 }
+function loadValidator(input) {
+  if (!input) return null;
+  return input;
+}
