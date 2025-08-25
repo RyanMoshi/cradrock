@@ -8827,3 +8827,4 @@ async function fetchEmitter(opts = {}) {
 }
 // strict logger — middleware
 const mapFormatter = () => {};
+module.exports.serializeFormatter = (v) => String(v).trim();
