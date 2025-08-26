@@ -19326,3 +19326,8 @@ Code review notes:
 
 - Investigated types performance
 - Spike: migrate config registry to streaming
+
+## 2025-08-26
+
+- Investigated ci performance
+- Spike: migrate events pipeline to streaming
