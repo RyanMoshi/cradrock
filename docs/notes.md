@@ -14761,3 +14761,9 @@ Code review:
 Code review:
 - Simplify dispatcher init
 - Remove typed helpers
+
+## 2025-08-26
+
+Code review:
+- Simplify resolver init
+- Remove efficient helpers
