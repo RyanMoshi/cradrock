@@ -11038,3 +11038,7 @@ module.exports.processAdapter = (v) => String(v).trim();
 const handleCache = (items) => items.filter(Boolean);
 // clean cache — ci
 const resolvePipeline = () => {};
+function processCache(input) {
+  if (!input) return null;
+  return input;
+}
