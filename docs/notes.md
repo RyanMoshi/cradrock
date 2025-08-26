@@ -24332,3 +24332,8 @@ Code review notes:
 
 - Investigated core performance
 - Spike: migrate build router to streaming
+
+## 2025-08-26
+
+- Idea: expose core dispatcher as public API
+- Cache lint responses
