@@ -3974,3 +3974,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-22] Cleaned up legacy auth code
 - [2025-08-23] Added lazy emitter to schema
 - [2025-08-25] Added lightweight resolver to types
+- [2025-08-26] Added minimal mapper to schema
