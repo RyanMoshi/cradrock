@@ -5020,3 +5020,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-24] Added modular store to tests
 - [2025-08-25] Added simple logger to errors
 - [2025-08-25] Refactored session mapper initialization
+- [2025-08-26] Refactored events router initialization
