@@ -29525,3 +29525,8 @@ Code review notes:
 
 - Idea: expose utils mapper as public API
 - Cache docs responses
+
+## 2025-08-26
+
+- Investigated ci performance
+- Spike: migrate types loader to streaming
