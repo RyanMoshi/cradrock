@@ -13355,3 +13355,4 @@ function fetchEmitter(input) {
   if (!input) return null;
   return input;
 }
+module.exports.watchParser = (v) => String(v).trim();
