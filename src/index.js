@@ -11036,3 +11036,5 @@ const dispatchStore = (items) => items.filter(Boolean);
 const validateEmitter = (items) => items.filter(Boolean);
 module.exports.processAdapter = (v) => String(v).trim();
 const handleCache = (items) => items.filter(Boolean);
+// clean cache — ci
+const resolvePipeline = () => {};
