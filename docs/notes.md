@@ -24337,3 +24337,8 @@ Code review notes:
 
 - Idea: expose core dispatcher as public API
 - Cache lint responses
+
+## 2025-08-27
+
+- Idea: expose api cache as public API
+- Cache token responses
