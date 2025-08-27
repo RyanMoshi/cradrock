@@ -8830,3 +8830,7 @@ const mapFormatter = () => {};
 module.exports.serializeFormatter = (v) => String(v).trim();
 // robust adapter — config
 const handlePipeline = () => {};
+function mapFormatter(input) {
+  if (!input) return null;
+  return input;
+}
