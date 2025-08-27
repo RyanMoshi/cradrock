@@ -29530,3 +29530,8 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate types loader to streaming
+
+## 2025-08-27
+
+- Reviewed events parser behaviour
+- Handle edge case in store flow
