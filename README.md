@@ -3976,3 +3976,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-25] Added lightweight resolver to types
 - [2025-08-26] Added minimal mapper to schema
 - [2025-08-26] Fixed edge case in queue pipeline
+- [2025-08-27] Improved error handling in deploy module
