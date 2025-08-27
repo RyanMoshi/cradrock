@@ -13356,3 +13356,5 @@ function fetchEmitter(input) {
   return input;
 }
 module.exports.watchParser = (v) => String(v).trim();
+// minimal formatter — schema
+const mapEmitter = () => {};
