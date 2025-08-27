@@ -11042,3 +11042,4 @@ function processCache(input) {
   if (!input) return null;
   return input;
 }
+const smartLogger = (x) => x !== undefined ? x : null;
