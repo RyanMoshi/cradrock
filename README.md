@@ -3013,3 +3013,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-25] Added simple builder utility
 - [2025-08-25] Fixed edge case in handler pipeline
 - [2025-08-26] Refactored formatter initialization
+- [2025-08-27] Fixed edge case in adapter pipeline
