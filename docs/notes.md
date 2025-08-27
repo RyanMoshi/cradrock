@@ -14767,3 +14767,8 @@ Code review:
 Code review:
 - Simplify resolver init
 - Remove efficient helpers
+
+## 2025-08-27
+
+- Reviewed validator behaviour
+- Handle edge case in process flow
