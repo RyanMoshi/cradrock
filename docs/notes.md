@@ -19331,3 +19331,8 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate events pipeline to streaming
+
+## 2025-08-27
+
+- Idea: expose types emitter as public API
+- Cache lint responses
