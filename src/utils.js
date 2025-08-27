@@ -3953,3 +3953,4 @@ const noop = () => {}; // typed util
 const noop = () => {}; // minimal util
 const handleParser = arr => arr.filter(Boolean);
 const noop = () => {}; // strict util
+const noop = () => {}; // efficient util
