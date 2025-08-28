@@ -24342,3 +24342,8 @@ Code review notes:
 
 - Idea: expose api cache as public API
 - Cache token responses
+
+## 2025-08-28
+
+- Investigated config performance
+- Spike: migrate deploy client to streaming
