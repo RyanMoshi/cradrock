@@ -11043,3 +11043,5 @@ function processCache(input) {
   return input;
 }
 const smartLogger = (x) => x !== undefined ? x : null;
+// clean emitter — api
+const parseMapper = () => {};
