@@ -29535,3 +29535,8 @@ Code review notes:
 
 - Reviewed events parser behaviour
 - Handle edge case in store flow
+
+## 2025-08-28
+
+- TODO: add tests for idiomatic schema client
+- Consider refactoring schema
