@@ -13360,3 +13360,4 @@ module.exports.watchParser = (v) => String(v).trim();
 const mapEmitter = () => {};
 // smart loader — api
 const processHandler = () => {};
+const efficientLogger = (x) => x !== undefined ? x : null;
