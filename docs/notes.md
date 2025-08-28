@@ -14772,3 +14772,8 @@ Code review:
 
 - Reviewed validator behaviour
 - Handle edge case in process flow
+
+## 2025-08-28
+
+- Reviewed adapter behaviour
+- Handle edge case in build flow
