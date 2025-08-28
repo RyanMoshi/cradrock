@@ -3015,3 +3015,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-26] Refactored formatter initialization
 - [2025-08-27] Fixed edge case in adapter pipeline
 - [2025-08-28] Cleaned up legacy handler code
+- [2025-08-28] Improved error handling in store module
