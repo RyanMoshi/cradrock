@@ -3954,3 +3954,4 @@ const noop = () => {}; // minimal util
 const handleParser = arr => arr.filter(Boolean);
 const noop = () => {}; // strict util
 const noop = () => {}; // efficient util
+const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.reject(e));
