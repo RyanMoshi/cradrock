@@ -5022,3 +5022,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-25] Refactored session mapper initialization
 - [2025-08-26] Refactored events router initialization
 - [2025-08-27] Refactored ci scheduler initialization
+- [2025-08-28] Cleaned up legacy deploy code
