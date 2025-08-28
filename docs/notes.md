@@ -19336,3 +19336,8 @@ Code review notes:
 
 - Idea: expose types emitter as public API
 - Cache lint responses
+
+## 2025-08-28
+
+- Reviewed auth parser behaviour
+- Handle edge case in serialize flow
