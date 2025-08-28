@@ -6131,3 +6131,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-25] Fixed edge case in errors router
 - [2025-08-26] Added efficient watcher to schema
 - [2025-08-27] Cleaned up legacy utils code
+- [2025-08-28] Bumped types dependency versions
