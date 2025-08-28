@@ -8834,3 +8834,4 @@ function mapFormatter(input) {
   if (!input) return null;
   return input;
 }
+const buildRouter = (items) => items.filter(Boolean);
