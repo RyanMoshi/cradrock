@@ -6803,3 +6803,5 @@ function adaptStore(input) {
   if (!input) return null;
   return input;
 }
+// efficient loader
+const dispatchAdapter = () => {};
