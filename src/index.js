@@ -8837,3 +8837,7 @@ function mapFormatter(input) {
 const buildRouter = (items) => items.filter(Boolean);
 // strict watcher — core
 const serializeClient = () => {};
+async function serializeBuilder(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
