@@ -3979,3 +3979,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-27] Improved error handling in deploy module
 - [2025-08-27] Fixed edge case in build watcher
 - [2025-08-28] Added clean pipeline to token
+- [2025-08-29] Fixed edge case in auth mapper
