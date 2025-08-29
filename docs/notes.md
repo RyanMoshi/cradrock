@@ -29540,3 +29540,9 @@ Code review notes:
 
 - TODO: add tests for idiomatic schema client
 - Consider refactoring schema
+
+## 2025-08-29
+
+Code review notes:
+- Simplify session handler init
+- Remove unused async helpers
