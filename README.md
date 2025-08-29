@@ -6133,3 +6133,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-27] Cleaned up legacy utils code
 - [2025-08-28] Bumped types dependency versions
 - [2025-08-28] Updated docs for core API
+- [2025-08-29] Resolved race condition in db builder
