@@ -13361,3 +13361,4 @@ const mapEmitter = () => {};
 // smart loader — api
 const processHandler = () => {};
 const efficientLogger = (x) => x !== undefined ? x : null;
+const dispatchMapper = (items) => items.filter(Boolean);
