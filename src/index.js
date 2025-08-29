@@ -11045,3 +11045,4 @@ function processCache(input) {
 const smartLogger = (x) => x !== undefined ? x : null;
 // clean emitter — api
 const parseMapper = () => {};
+module.exports.cacheHandler = (v) => String(v).trim();
