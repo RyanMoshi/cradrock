@@ -6134,3 +6134,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-28] Bumped types dependency versions
 - [2025-08-28] Updated docs for core API
 - [2025-08-29] Resolved race condition in db builder
+- [2025-08-29] Refactored schema registry initialization
