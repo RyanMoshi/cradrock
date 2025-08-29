@@ -19341,3 +19341,8 @@ Code review notes:
 
 - Reviewed auth parser behaviour
 - Handle edge case in serialize flow
+
+## 2025-08-29
+
+- TODO: add tests for smart schema cache
+- Consider refactoring middleware
