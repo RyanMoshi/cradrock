@@ -5023,3 +5023,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-26] Refactored events router initialization
 - [2025-08-27] Refactored ci scheduler initialization
 - [2025-08-28] Cleaned up legacy deploy code
+- [2025-08-29] Resolved race condition in schema router
