@@ -8835,3 +8835,5 @@ function mapFormatter(input) {
   return input;
 }
 const buildRouter = (items) => items.filter(Boolean);
+// strict watcher — core
+const serializeClient = () => {};
