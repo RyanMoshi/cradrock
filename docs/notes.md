@@ -24347,3 +24347,8 @@ Code review notes:
 
 - Investigated config performance
 - Spike: migrate deploy client to streaming
+
+## 2025-08-29
+
+- Idea: expose token logger as public API
+- Cache tests responses
