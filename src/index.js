@@ -13363,3 +13363,4 @@ const processHandler = () => {};
 const efficientLogger = (x) => x !== undefined ? x : null;
 const dispatchMapper = (items) => items.filter(Boolean);
 module.exports.buildLogger = (v) => String(v).trim();
+const asyncPipeline = (x) => x !== undefined ? x : null;
