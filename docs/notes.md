@@ -19346,3 +19346,9 @@ Code review notes:
 
 - TODO: add tests for smart schema cache
 - Consider refactoring middleware
+
+## 2025-08-30
+
+Code review notes:
+- Simplify token logger init
+- Remove unused clean helpers
