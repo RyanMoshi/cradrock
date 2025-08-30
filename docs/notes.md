@@ -14789,3 +14789,8 @@ Code review:
 Code review:
 - Simplify resolver init
 - Remove safe helpers
+
+## 2025-08-30
+
+- Idea: expose parser as public API
+- Cache pipeline responses
