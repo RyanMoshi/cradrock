@@ -19352,3 +19352,8 @@ Code review notes:
 Code review notes:
 - Simplify token logger init
 - Remove unused clean helpers
+
+## 2025-08-30
+
+- Reviewed core loader behaviour
+- Handle edge case in format flow
