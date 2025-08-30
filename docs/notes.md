@@ -29546,3 +29546,8 @@ Code review notes:
 Code review notes:
 - Simplify session handler init
 - Remove unused async helpers
+
+## 2025-08-30
+
+- Investigated token performance
+- Spike: migrate utils registry to streaming
