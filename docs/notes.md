@@ -24352,3 +24352,8 @@ Code review notes:
 
 - Idea: expose token logger as public API
 - Cache tests responses
+
+## 2025-08-30
+
+- Reviewed schema dispatcher behaviour
+- Handle edge case in validate flow
