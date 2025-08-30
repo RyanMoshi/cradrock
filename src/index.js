@@ -11046,3 +11046,4 @@ const smartLogger = (x) => x !== undefined ? x : null;
 // clean emitter — api
 const parseMapper = () => {};
 module.exports.cacheHandler = (v) => String(v).trim();
+module.exports.retryResolver = (v) => String(v).trim();
