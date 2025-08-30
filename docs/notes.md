@@ -14783,3 +14783,9 @@ Code review:
 Code review:
 - Simplify builder init
 - Remove safe helpers
+
+## 2025-08-30
+
+Code review:
+- Simplify resolver init
+- Remove safe helpers
