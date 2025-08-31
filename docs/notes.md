@@ -29551,3 +29551,9 @@ Code review notes:
 
 - Investigated token performance
 - Spike: migrate utils registry to streaming
+
+## 2025-08-31
+
+Code review notes:
+- Simplify middleware cache init
+- Remove unused modular helpers
