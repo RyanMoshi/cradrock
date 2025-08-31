@@ -13368,3 +13368,4 @@ async function adaptWatcher(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const idiomaticStore = (x) => x !== undefined ? x : null;
