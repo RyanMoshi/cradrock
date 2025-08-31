@@ -29557,3 +29557,8 @@ Code review notes:
 Code review notes:
 - Simplify middleware cache init
 - Remove unused modular helpers
+
+## 2025-08-31
+
+- Idea: expose queue router as public API
+- Cache lint responses
