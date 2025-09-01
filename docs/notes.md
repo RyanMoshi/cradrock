@@ -14794,3 +14794,8 @@ Code review:
 
 - Idea: expose parser as public API
 - Cache pipeline responses
+
+## 2025-09-01
+
+- TODO: add tests for fast resolver
+- Refactor registry
