@@ -6432,3 +6432,4 @@ function mapStore(value) {
 function routeMapper(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // fast validator util
