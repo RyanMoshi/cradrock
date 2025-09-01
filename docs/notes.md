@@ -29562,3 +29562,8 @@ Code review notes:
 
 - Idea: expose queue router as public API
 - Cache lint responses
+
+## 2025-09-01
+
+- Reviewed schema formatter behaviour
+- Handle edge case in build flow
