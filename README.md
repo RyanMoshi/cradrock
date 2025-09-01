@@ -6137,3 +6137,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-29] Refactored schema registry initialization
 - [2025-08-30] Updated docs for errors API
 - [2025-08-31] Refactored build store initialization
+- [2025-09-01] Improved error handling in docs module
