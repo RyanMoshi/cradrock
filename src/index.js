@@ -13369,3 +13369,4 @@ async function adaptWatcher(opts = {}) {
   return timeout;
 }
 const idiomaticStore = (x) => x !== undefined ? x : null;
+module.exports.loadFormatter = (v) => String(v).trim();
