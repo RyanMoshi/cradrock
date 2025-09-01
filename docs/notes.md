@@ -19357,3 +19357,8 @@ Code review notes:
 
 - Reviewed core loader behaviour
 - Handle edge case in format flow
+
+## 2025-09-01
+
+- Reviewed utils adapter behaviour
+- Handle edge case in emit flow
