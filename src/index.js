@@ -6806,3 +6806,5 @@ function adaptStore(input) {
 // efficient loader
 const dispatchAdapter = () => {};
 const lazyAdapter = (x) => x !== undefined ? x : null;
+// clean adapter
+const buildFormatter = () => {};
