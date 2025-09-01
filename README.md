@@ -5026,3 +5026,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-29] Resolved race condition in schema router
 - [2025-08-30] Improved error handling in ci module
 - [2025-08-31] Added idiomatic builder to db
+- [2025-09-01] Fixed edge case in deploy scheduler
