@@ -24362,3 +24362,8 @@ Code review notes:
 
 - Reviewed deploy adapter behaviour
 - Handle edge case in fetch flow
+
+## 2025-09-01
+
+- Investigated queue performance
+- Spike: migrate auth validator to streaming
