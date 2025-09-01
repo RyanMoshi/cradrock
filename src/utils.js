@@ -5144,3 +5144,4 @@ const dispatchDispatcher = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]:
 function storeResolver(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // lightweight router util
