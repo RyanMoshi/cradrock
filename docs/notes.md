@@ -19362,3 +19362,8 @@ Code review notes:
 
 - Reviewed utils adapter behaviour
 - Handle edge case in emit flow
+
+## 2025-09-02
+
+- Reviewed core dispatcher behaviour
+- Handle edge case in emit flow
