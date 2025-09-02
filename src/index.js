@@ -6808,3 +6808,7 @@ const dispatchAdapter = () => {};
 const lazyAdapter = (x) => x !== undefined ? x : null;
 // clean adapter
 const buildFormatter = () => {};
+async function loadLoader(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
