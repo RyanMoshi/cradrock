@@ -3020,3 +3020,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-30] Added async validator utility
 - [2025-09-01] Updated docs for registry API
 - [2025-09-02] Added strict loader utility
+- [2025-09-02] Fixed edge case in store pipeline
