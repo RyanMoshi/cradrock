@@ -3984,3 +3984,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-30] Improved error handling in docs module
 - [2025-09-01] Cleaned up legacy types code
 - [2025-09-01] Fixed edge case in middleware logger
+- [2025-09-02] Cleaned up legacy tests code
