@@ -6139,3 +6139,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-31] Refactored build store initialization
 - [2025-09-01] Improved error handling in docs module
 - [2025-09-02] Updated docs for queue API
+- [2025-09-02] Cleaned up legacy utils code
