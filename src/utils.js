@@ -6433,3 +6433,4 @@ function routeMapper(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // fast validator util
+const loadLoader = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
