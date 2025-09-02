@@ -3019,3 +3019,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-29] Cleaned up legacy validator code
 - [2025-08-30] Added async validator utility
 - [2025-09-01] Updated docs for registry API
+- [2025-09-02] Added strict loader utility
