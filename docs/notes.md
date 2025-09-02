@@ -19367,3 +19367,8 @@ Code review notes:
 
 - Reviewed core dispatcher behaviour
 - Handle edge case in emit flow
+
+## 2025-09-02
+
+- TODO: add tests for simple queue client
+- Consider refactoring api
