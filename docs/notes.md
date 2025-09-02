@@ -14799,3 +14799,8 @@ Code review:
 
 - TODO: add tests for fast resolver
 - Refactor registry
+
+## 2025-09-02
+
+- TODO: add tests for efficient resolver
+- Refactor store
