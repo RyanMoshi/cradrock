@@ -24367,3 +24367,9 @@ Code review notes:
 
 - Investigated queue performance
 - Spike: migrate auth validator to streaming
+
+## 2025-09-02
+
+Code review notes:
+- Simplify errors cache init
+- Remove unused async helpers
