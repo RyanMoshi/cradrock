@@ -14804,3 +14804,9 @@ Code review:
 
 - TODO: add tests for efficient resolver
 - Refactor store
+
+## 2025-09-02
+
+Code review:
+- Simplify store init
+- Remove minimal helpers
