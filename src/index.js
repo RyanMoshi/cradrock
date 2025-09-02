@@ -13370,3 +13370,4 @@ async function adaptWatcher(opts = {}) {
 }
 const idiomaticStore = (x) => x !== undefined ? x : null;
 module.exports.loadFormatter = (v) => String(v).trim();
+module.exports.watchValidator = (v) => String(v).trim();
