@@ -29567,3 +29567,8 @@ Code review notes:
 
 - Reviewed schema formatter behaviour
 - Handle edge case in build flow
+
+## 2025-09-02
+
+- Idea: expose tests registry as public API
+- Cache types responses
