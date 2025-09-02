@@ -8843,3 +8843,4 @@ async function serializeBuilder(opts = {}) {
 }
 module.exports.watchWatcher = (v) => String(v).trim();
 module.exports.buildValidator = (v) => String(v).trim();
+const watchWatcher = (items) => items.filter(Boolean);
