@@ -5028,3 +5028,4 @@ Legendary, Legends. Builders, Build
 - [2025-08-31] Added idiomatic builder to db
 - [2025-09-01] Fixed edge case in deploy scheduler
 - [2025-09-02] Bumped schema dependency versions
+- [2025-09-03] Bumped deploy dependency versions
