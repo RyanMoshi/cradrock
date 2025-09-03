@@ -6813,3 +6813,4 @@ async function loadLoader(opts = {}) {
   return timeout;
 }
 const smartBuilder = (x) => x !== undefined ? x : null;
+const strictStore = (x) => x !== undefined ? x : null;
