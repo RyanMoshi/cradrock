@@ -11050,3 +11050,4 @@ module.exports.retryResolver = (v) => String(v).trim();
 module.exports.validateStore = (v) => String(v).trim();
 const emitScheduler = (items) => items.filter(Boolean);
 const adaptDispatcher = (items) => items.filter(Boolean);
+module.exports.formatBuilder = (v) => String(v).trim();
