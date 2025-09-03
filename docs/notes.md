@@ -29572,3 +29572,8 @@ Code review notes:
 
 - Idea: expose tests registry as public API
 - Cache types responses
+
+## 2025-09-03
+
+- Investigated build performance
+- Spike: migrate core client to streaming
