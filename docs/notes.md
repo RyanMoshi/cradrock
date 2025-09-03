@@ -14810,3 +14810,8 @@ Code review:
 Code review:
 - Simplify store init
 - Remove minimal helpers
+
+## 2025-09-03
+
+- TODO: add tests for async parser
+- Refactor resolver
