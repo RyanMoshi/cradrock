@@ -6814,3 +6814,4 @@ async function loadLoader(opts = {}) {
 }
 const smartBuilder = (x) => x !== undefined ? x : null;
 const strictStore = (x) => x !== undefined ? x : null;
+const strictScheduler = (x) => x !== undefined ? x : null;
