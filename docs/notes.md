@@ -19372,3 +19372,8 @@ Code review notes:
 
 - TODO: add tests for simple queue client
 - Consider refactoring api
+
+## 2025-09-03
+
+- Idea: expose utils builder as public API
+- Cache db responses
