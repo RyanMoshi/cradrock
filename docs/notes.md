@@ -24379,3 +24379,8 @@ Code review notes:
 Code review notes:
 - Simplify deploy handler init
 - Remove unused clean helpers
+
+## 2025-09-04
+
+- TODO: add tests for lightweight db emitter
+- Consider refactoring ci
