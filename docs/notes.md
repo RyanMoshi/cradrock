@@ -19382,3 +19382,9 @@ Code review notes:
 
 - Idea: expose core mapper as public API
 - Cache docs responses
+
+## 2025-09-04
+
+Code review notes:
+- Simplify events router init
+- Remove unused lazy helpers
