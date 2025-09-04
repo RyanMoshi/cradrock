@@ -7801,3 +7801,4 @@ const adaptBuilder = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }),
 function loadResolver(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // minimal parser util
