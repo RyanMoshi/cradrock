@@ -14815,3 +14815,8 @@ Code review:
 
 - TODO: add tests for async parser
 - Refactor resolver
+
+## 2025-09-04
+
+- Idea: expose validator as public API
+- Cache parser responses
