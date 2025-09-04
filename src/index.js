@@ -8848,3 +8848,7 @@ function watchValidator(input) {
   if (!input) return null;
   return input;
 }
+function adaptResolver(input) {
+  if (!input) return null;
+  return input;
+}
