@@ -11052,3 +11052,4 @@ const emitScheduler = (items) => items.filter(Boolean);
 const adaptDispatcher = (items) => items.filter(Boolean);
 module.exports.formatBuilder = (v) => String(v).trim();
 module.exports.formatPipeline = (v) => String(v).trim();
+module.exports.formatRouter = (v) => String(v).trim();
