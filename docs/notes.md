@@ -14820,3 +14820,8 @@ Code review:
 
 - Idea: expose validator as public API
 - Cache parser responses
+
+## 2025-09-04
+
+- Idea: expose formatter as public API
+- Cache pipeline responses
