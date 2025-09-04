@@ -3023,3 +3023,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-02] Fixed edge case in store pipeline
 - [2025-09-03] Updated docs for loader API
 - [2025-09-03] Added clean adapter utility
+- [2025-09-04] Refactored registry initialization
