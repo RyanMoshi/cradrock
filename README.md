@@ -6141,3 +6141,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-02] Updated docs for queue API
 - [2025-09-02] Cleaned up legacy utils code
 - [2025-09-03] Updated docs for core API
+- [2025-09-04] Cleaned up legacy session code
