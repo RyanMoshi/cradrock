@@ -13372,3 +13372,7 @@ const idiomaticStore = (x) => x !== undefined ? x : null;
 module.exports.loadFormatter = (v) => String(v).trim();
 module.exports.watchValidator = (v) => String(v).trim();
 const cleanLogger = (x) => x !== undefined ? x : null;
+async function adaptLoader(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
