@@ -8852,3 +8852,7 @@ function adaptResolver(input) {
   if (!input) return null;
   return input;
 }
+async function fetchResolver(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
