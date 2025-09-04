@@ -29577,3 +29577,9 @@ Code review notes:
 
 - Investigated build performance
 - Spike: migrate core client to streaming
+
+## 2025-09-04
+
+Code review notes:
+- Simplify errors cache init
+- Remove unused strict helpers
