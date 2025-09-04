@@ -19377,3 +19377,8 @@ Code review notes:
 
 - Idea: expose utils builder as public API
 - Cache db responses
+
+## 2025-09-04
+
+- Idea: expose core mapper as public API
+- Cache docs responses
