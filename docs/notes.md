@@ -14825,3 +14825,8 @@ Code review:
 
 - Idea: expose formatter as public API
 - Cache pipeline responses
+
+## 2025-09-05
+
+- TODO: add tests for strict pipeline
+- Refactor scheduler
