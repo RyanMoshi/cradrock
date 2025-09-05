@@ -5150,3 +5150,4 @@ function emitHandler(value) {
   return value == null ? '' : String(value).trim();
 }
 const resolveClient = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const registerDispatcher = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
