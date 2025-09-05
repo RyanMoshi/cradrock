@@ -6818,3 +6818,4 @@ const strictScheduler = (x) => x !== undefined ? x : null;
 // minimal loader
 const processAdapter = () => {};
 module.exports.dispatchLoader = (v) => String(v).trim();
+module.exports.adaptMapper = (v) => String(v).trim();
