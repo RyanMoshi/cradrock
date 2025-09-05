@@ -19388,3 +19388,8 @@ Code review notes:
 Code review notes:
 - Simplify events router init
 - Remove unused lazy helpers
+
+## 2025-09-05
+
+- Reviewed queue emitter behaviour
+- Handle edge case in fetch flow
