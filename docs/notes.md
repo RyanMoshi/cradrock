@@ -29583,3 +29583,8 @@ Code review notes:
 Code review notes:
 - Simplify errors cache init
 - Remove unused strict helpers
+
+## 2025-09-05
+
+- Idea: expose db registry as public API
+- Cache db responses
