@@ -24389,3 +24389,8 @@ Code review notes:
 
 - Reviewed tests handler behaviour
 - Handle edge case in format flow
+
+## 2025-09-05
+
+- Idea: expose auth loader as public API
+- Cache build responses
