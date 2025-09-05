@@ -11053,3 +11053,7 @@ const adaptDispatcher = (items) => items.filter(Boolean);
 module.exports.formatBuilder = (v) => String(v).trim();
 module.exports.formatPipeline = (v) => String(v).trim();
 module.exports.formatRouter = (v) => String(v).trim();
+async function mapFormatter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
