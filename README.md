@@ -3024,3 +3024,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-03] Updated docs for loader API
 - [2025-09-03] Added clean adapter utility
 - [2025-09-04] Refactored registry initialization
+- [2025-09-05] Improved error handling in scheduler module
