@@ -24384,3 +24384,8 @@ Code review notes:
 
 - TODO: add tests for lightweight db emitter
 - Consider refactoring ci
+
+## 2025-09-05
+
+- Reviewed tests handler behaviour
+- Handle edge case in format flow
