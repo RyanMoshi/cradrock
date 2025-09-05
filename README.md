@@ -3987,3 +3987,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-02] Cleaned up legacy tests code
 - [2025-09-03] Added safe emitter to tests
 - [2025-09-04] Resolved race condition in tests watcher
+- [2025-09-05] Updated docs for token API
