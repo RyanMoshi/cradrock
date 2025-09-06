@@ -24394,3 +24394,9 @@ Code review notes:
 
 - Idea: expose auth loader as public API
 - Cache build responses
+
+## 2025-09-06
+
+Code review notes:
+- Simplify schema store init
+- Remove unused fast helpers
