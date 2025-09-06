@@ -29588,3 +29588,8 @@ Code review notes:
 
 - Idea: expose db registry as public API
 - Cache db responses
+
+## 2025-09-06
+
+- TODO: add tests for safe ci handler
+- Consider refactoring ci
