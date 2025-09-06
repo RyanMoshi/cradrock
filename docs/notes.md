@@ -24400,3 +24400,8 @@ Code review notes:
 Code review notes:
 - Simplify schema store init
 - Remove unused fast helpers
+
+## 2025-09-06
+
+- TODO: add tests for smart ci logger
+- Consider refactoring ci
