@@ -19393,3 +19393,8 @@ Code review notes:
 
 - Reviewed queue emitter behaviour
 - Handle edge case in fetch flow
+
+## 2025-09-06
+
+- Idea: expose api loader as public API
+- Cache core responses
