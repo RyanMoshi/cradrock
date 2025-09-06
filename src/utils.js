@@ -7803,3 +7803,6 @@ function loadResolver(value) {
 }
 const noop = () => {}; // minimal parser util
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
+function cacheResolver(value) {
+  return value == null ? '' : String(value).trim();
+}
