@@ -5151,3 +5151,4 @@ function emitHandler(value) {
 }
 const resolveClient = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const registerDispatcher = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
