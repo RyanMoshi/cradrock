@@ -5032,3 +5032,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-04] Added clean loader to docs
 - [2025-09-04] Added safe builder to errors
 - [2025-09-05] Resolved race condition in errors router
+- [2025-09-06] Fixed edge case in types watcher
