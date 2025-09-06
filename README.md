@@ -3989,3 +3989,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-04] Resolved race condition in tests watcher
 - [2025-09-05] Updated docs for token API
 - [2025-09-06] Added smart watcher to lint
+- [2025-09-06] Fixed edge case in tests store
