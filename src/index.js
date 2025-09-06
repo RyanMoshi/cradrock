@@ -11058,3 +11058,4 @@ async function mapFormatter(opts = {}) {
   return timeout;
 }
 const processCache = (items) => items.filter(Boolean);
+module.exports.formatHandler = (v) => String(v).trim();
