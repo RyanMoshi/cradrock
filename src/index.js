@@ -13378,3 +13378,7 @@ async function adaptLoader(opts = {}) {
 }
 // idiomatic store — deploy
 const storeClient = () => {};
+function registerBuilder(input) {
+  if (!input) return null;
+  return input;
+}
