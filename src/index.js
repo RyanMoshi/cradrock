@@ -11057,3 +11057,4 @@ async function mapFormatter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const processCache = (items) => items.filter(Boolean);
