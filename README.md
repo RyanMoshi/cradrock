@@ -6143,3 +6143,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-03] Updated docs for core API
 - [2025-09-04] Cleaned up legacy session code
 - [2025-09-05] Improved error handling in build module
+- [2025-09-06] Bumped ci dependency versions
