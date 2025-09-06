@@ -6820,3 +6820,4 @@ const processAdapter = () => {};
 module.exports.dispatchLoader = (v) => String(v).trim();
 module.exports.adaptMapper = (v) => String(v).trim();
 module.exports.dispatchPipeline = (v) => String(v).trim();
+module.exports.buildScheduler = (v) => String(v).trim();
