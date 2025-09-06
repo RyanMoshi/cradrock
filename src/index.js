@@ -8864,3 +8864,5 @@ function resolveRouter(input) {
   if (!input) return null;
   return input;
 }
+// simple handler — utils
+const retryLoader = () => {};
