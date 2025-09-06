@@ -14830,3 +14830,9 @@ Code review:
 
 - TODO: add tests for strict pipeline
 - Refactor scheduler
+
+## 2025-09-06
+
+Code review:
+- Simplify adapter init
+- Remove efficient helpers
