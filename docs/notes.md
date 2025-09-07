@@ -29593,3 +29593,8 @@ Code review notes:
 
 - TODO: add tests for safe ci handler
 - Consider refactoring ci
+
+## 2025-09-07
+
+- Idea: expose api dispatcher as public API
+- Cache utils responses
