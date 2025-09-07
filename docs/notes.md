@@ -24405,3 +24405,8 @@ Code review notes:
 
 - TODO: add tests for smart ci logger
 - Consider refactoring ci
+
+## 2025-09-07
+
+- Idea: expose db resolver as public API
+- Cache queue responses
