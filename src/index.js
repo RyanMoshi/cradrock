@@ -11060,3 +11060,4 @@ async function mapFormatter(opts = {}) {
 const processCache = (items) => items.filter(Boolean);
 module.exports.formatHandler = (v) => String(v).trim();
 module.exports.routeMapper = (v) => String(v).trim();
+const idiomaticAdapter = (x) => x !== undefined ? x : null;
