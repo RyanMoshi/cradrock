@@ -13386,3 +13386,7 @@ async function handlePipeline(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+function watchScheduler(input) {
+  if (!input) return null;
+  return input;
+}
