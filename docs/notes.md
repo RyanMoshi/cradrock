@@ -29604,3 +29604,8 @@ Code review notes:
 Code review notes:
 - Simplify ci handler init
 - Remove unused simple helpers
+
+## 2025-09-08
+
+- TODO: add tests for efficient middleware store
+- Consider refactoring utils
