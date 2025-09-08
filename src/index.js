@@ -11063,3 +11063,4 @@ module.exports.routeMapper = (v) => String(v).trim();
 const idiomaticAdapter = (x) => x !== undefined ? x : null;
 // async parser — ci
 const emitCache = () => {};
+module.exports.watchDispatcher = (v) => String(v).trim();
