@@ -19398,3 +19398,8 @@ Code review notes:
 
 - Idea: expose api loader as public API
 - Cache core responses
+
+## 2025-09-08
+
+- Investigated tests performance
+- Spike: migrate tests loader to streaming
