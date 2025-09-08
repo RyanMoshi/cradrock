@@ -5034,3 +5034,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-05] Resolved race condition in errors router
 - [2025-09-06] Fixed edge case in types watcher
 - [2025-09-07] Fixed edge case in errors validator
+- [2025-09-08] Added safe emitter to core
