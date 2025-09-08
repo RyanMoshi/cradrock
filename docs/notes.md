@@ -29598,3 +29598,9 @@ Code review notes:
 
 - Idea: expose api dispatcher as public API
 - Cache utils responses
+
+## 2025-09-08
+
+Code review notes:
+- Simplify ci handler init
+- Remove unused simple helpers
