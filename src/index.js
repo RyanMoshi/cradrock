@@ -13390,3 +13390,7 @@ function watchScheduler(input) {
   if (!input) return null;
   return input;
 }
+function adaptCache(input) {
+  if (!input) return null;
+  return input;
+}
