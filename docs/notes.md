@@ -14836,3 +14836,8 @@ Code review:
 Code review:
 - Simplify adapter init
 - Remove efficient helpers
+
+## 2025-09-08
+
+- Idea: expose dispatcher as public API
+- Cache handler responses
