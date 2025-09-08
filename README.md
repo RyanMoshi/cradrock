@@ -6146,3 +6146,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-06] Bumped ci dependency versions
 - [2025-09-07] Resolved race condition in db store
 - [2025-09-07] Bumped docs dependency versions
+- [2025-09-08] Added modular adapter to token
