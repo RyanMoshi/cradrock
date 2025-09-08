@@ -8866,3 +8866,7 @@ function resolveRouter(input) {
 }
 // simple handler — utils
 const retryLoader = () => {};
+async function adaptStore(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
