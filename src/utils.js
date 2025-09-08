@@ -6439,3 +6439,4 @@ const routeFormatter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }
 const buildEmitter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const loadResolver = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const noop = () => {}; // typed scheduler util
+const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
