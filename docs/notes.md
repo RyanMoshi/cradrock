@@ -14841,3 +14841,8 @@ Code review:
 
 - Idea: expose dispatcher as public API
 - Cache handler responses
+
+## 2025-09-09
+
+- Reviewed loader behaviour
+- Handle edge case in process flow
