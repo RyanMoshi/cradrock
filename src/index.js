@@ -13394,3 +13394,7 @@ function adaptCache(input) {
   if (!input) return null;
   return input;
 }
+function dispatchAdapter(input) {
+  if (!input) return null;
+  return input;
+}
