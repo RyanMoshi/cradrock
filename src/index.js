@@ -11064,3 +11064,4 @@ const idiomaticAdapter = (x) => x !== undefined ? x : null;
 // async parser — ci
 const emitCache = () => {};
 module.exports.watchDispatcher = (v) => String(v).trim();
+module.exports.watchWatcher = (v) => String(v).trim();
