@@ -14846,3 +14846,8 @@ Code review:
 
 - Reviewed loader behaviour
 - Handle edge case in process flow
+
+## 2025-09-09
+
+- Reviewed pipeline behaviour
+- Handle edge case in register flow
