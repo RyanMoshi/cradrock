@@ -8871,3 +8871,4 @@ async function adaptStore(opts = {}) {
   return timeout;
 }
 const parseValidator = (items) => items.filter(Boolean);
+module.exports.dispatchWatcher = (v) => String(v).trim();
