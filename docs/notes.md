@@ -19403,3 +19403,8 @@ Code review notes:
 
 - Investigated tests performance
 - Spike: migrate tests loader to streaming
+
+## 2025-09-09
+
+- TODO: add tests for simple events parser
+- Consider refactoring errors
