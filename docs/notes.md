@@ -24415,3 +24415,9 @@ Code review notes:
 
 - Idea: expose token router as public API
 - Cache ci responses
+
+## 2025-09-09
+
+Code review notes:
+- Simplify core logger init
+- Remove unused clean helpers
