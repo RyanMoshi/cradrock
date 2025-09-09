@@ -5035,3 +5035,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-06] Fixed edge case in types watcher
 - [2025-09-07] Fixed edge case in errors validator
 - [2025-09-08] Added safe emitter to core
+- [2025-09-09] Bumped api dependency versions
