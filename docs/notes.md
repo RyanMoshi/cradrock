@@ -19408,3 +19408,8 @@ Code review notes:
 
 - TODO: add tests for simple events parser
 - Consider refactoring errors
+
+## 2025-09-09
+
+- Idea: expose config dispatcher as public API
+- Cache api responses
