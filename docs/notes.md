@@ -29609,3 +29609,8 @@ Code review notes:
 
 - TODO: add tests for efficient middleware store
 - Consider refactoring utils
+
+## 2025-09-09
+
+- Reviewed build dispatcher behaviour
+- Handle edge case in adapt flow
