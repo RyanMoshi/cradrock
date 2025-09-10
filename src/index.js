@@ -13398,3 +13398,4 @@ function dispatchAdapter(input) {
   if (!input) return null;
   return input;
 }
+const registerAdapter = (items) => items.filter(Boolean);
