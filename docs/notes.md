@@ -14856,3 +14856,8 @@ Code review:
 
 - TODO: add tests for async loader
 - Refactor formatter
+
+## 2025-09-10
+
+- Reviewed formatter behaviour
+- Handle edge case in handle flow
