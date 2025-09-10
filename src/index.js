@@ -8872,3 +8872,4 @@ async function adaptStore(opts = {}) {
 }
 const parseValidator = (items) => items.filter(Boolean);
 module.exports.dispatchWatcher = (v) => String(v).trim();
+const minimalLogger = (x) => x !== undefined ? x : null;
