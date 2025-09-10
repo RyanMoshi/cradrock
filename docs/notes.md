@@ -29614,3 +29614,8 @@ Code review notes:
 
 - Reviewed build dispatcher behaviour
 - Handle edge case in adapt flow
+
+## 2025-09-10
+
+- Reviewed schema scheduler behaviour
+- Handle edge case in build flow
