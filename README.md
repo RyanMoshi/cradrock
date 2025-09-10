@@ -6149,3 +6149,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-08] Added modular adapter to token
 - [2025-09-08] Updated docs for config API
 - [2025-09-09] Fixed edge case in lint handler
+- [2025-09-10] Resolved race condition in session parser
