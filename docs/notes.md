@@ -29619,3 +29619,8 @@ Code review notes:
 
 - Reviewed schema scheduler behaviour
 - Handle edge case in build flow
+
+## 2025-09-10
+
+- Idea: expose queue mapper as public API
+- Cache api responses
