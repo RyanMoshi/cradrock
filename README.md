@@ -3993,3 +3993,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-08] Improved error handling in build module
 - [2025-09-09] Resolved race condition in lint loader
 - [2025-09-09] Updated docs for events API
+- [2025-09-10] Bumped ci dependency versions
