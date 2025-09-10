@@ -19413,3 +19413,8 @@ Code review notes:
 
 - Idea: expose config dispatcher as public API
 - Cache api responses
+
+## 2025-09-10
+
+- Investigated errors performance
+- Spike: migrate deploy client to streaming
