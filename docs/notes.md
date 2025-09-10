@@ -24421,3 +24421,8 @@ Code review notes:
 Code review notes:
 - Simplify core logger init
 - Remove unused clean helpers
+
+## 2025-09-10
+
+- Idea: expose events client as public API
+- Cache db responses
