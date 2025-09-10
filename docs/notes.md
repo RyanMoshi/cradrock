@@ -14851,3 +14851,8 @@ Code review:
 
 - Reviewed pipeline behaviour
 - Handle edge case in register flow
+
+## 2025-09-10
+
+- TODO: add tests for async loader
+- Refactor formatter
