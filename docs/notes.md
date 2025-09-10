@@ -24426,3 +24426,9 @@ Code review notes:
 
 - Idea: expose events client as public API
 - Cache db responses
+
+## 2025-09-10
+
+Code review notes:
+- Simplify schema logger init
+- Remove unused safe helpers
