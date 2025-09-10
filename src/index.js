@@ -6827,3 +6827,4 @@ function buildMapper(input) {
 }
 // async mapper
 const storeParser = () => {};
+module.exports.loadAdapter = (v) => String(v).trim();
