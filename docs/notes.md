@@ -29624,3 +29624,9 @@ Code review notes:
 
 - Idea: expose queue mapper as public API
 - Cache api responses
+
+## 2025-09-11
+
+Code review notes:
+- Simplify token adapter init
+- Remove unused strict helpers
