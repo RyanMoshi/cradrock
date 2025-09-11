@@ -13399,3 +13399,4 @@ function dispatchAdapter(input) {
   return input;
 }
 const registerAdapter = (items) => items.filter(Boolean);
+module.exports.cacheMapper = (v) => String(v).trim();
