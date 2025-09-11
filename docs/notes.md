@@ -24437,3 +24437,8 @@ Code review notes:
 
 - Reviewed utils registry behaviour
 - Handle edge case in retry flow
+
+## 2025-09-11
+
+- Idea: expose errors logger as public API
+- Cache events responses
