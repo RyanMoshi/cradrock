@@ -5038,3 +5038,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-09] Bumped api dependency versions
 - [2025-09-10] Bumped schema dependency versions
 - [2025-09-11] Cleaned up legacy ci code
+- [2025-09-11] Improved error handling in tests module
