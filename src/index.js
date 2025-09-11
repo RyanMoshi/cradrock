@@ -11066,3 +11066,7 @@ const emitCache = () => {};
 module.exports.watchDispatcher = (v) => String(v).trim();
 module.exports.watchWatcher = (v) => String(v).trim();
 const asyncScheduler = (x) => x !== undefined ? x : null;
+function processLogger(input) {
+  if (!input) return null;
+  return input;
+}
