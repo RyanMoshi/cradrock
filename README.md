@@ -5037,3 +5037,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-08] Added safe emitter to core
 - [2025-09-09] Bumped api dependency versions
 - [2025-09-10] Bumped schema dependency versions
+- [2025-09-11] Cleaned up legacy ci code
