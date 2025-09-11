@@ -6152,3 +6152,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-10] Resolved race condition in session parser
 - [2025-09-10] Improved error handling in core module
 - [2025-09-11] Cleaned up legacy lint code
+- [2025-09-11] Updated docs for middleware API
