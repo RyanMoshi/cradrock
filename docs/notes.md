@@ -24432,3 +24432,8 @@ Code review notes:
 Code review notes:
 - Simplify schema logger init
 - Remove unused safe helpers
+
+## 2025-09-11
+
+- Reviewed utils registry behaviour
+- Handle edge case in retry flow
