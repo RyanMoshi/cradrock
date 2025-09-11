@@ -14861,3 +14861,8 @@ Code review:
 
 - Reviewed formatter behaviour
 - Handle edge case in handle flow
+
+## 2025-09-11
+
+- TODO: add tests for modular resolver
+- Refactor registry
