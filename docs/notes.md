@@ -19418,3 +19418,8 @@ Code review notes:
 
 - Investigated errors performance
 - Spike: migrate deploy client to streaming
+
+## 2025-09-11
+
+- TODO: add tests for strict types handler
+- Consider refactoring session
