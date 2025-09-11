@@ -6828,3 +6828,7 @@ function buildMapper(input) {
 // async mapper
 const storeParser = () => {};
 module.exports.loadAdapter = (v) => String(v).trim();
+async function handleParser(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
