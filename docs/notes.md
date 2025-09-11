@@ -19423,3 +19423,8 @@ Code review notes:
 
 - TODO: add tests for strict types handler
 - Consider refactoring session
+
+## 2025-09-11
+
+- Idea: expose queue watcher as public API
+- Cache build responses
