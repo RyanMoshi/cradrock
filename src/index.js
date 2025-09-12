@@ -6833,3 +6833,5 @@ async function handleParser(opts = {}) {
   return timeout;
 }
 const efficientFormatter = (x) => x !== undefined ? x : null;
+// modular handler
+const mapAdapter = () => {};
