@@ -24442,3 +24442,8 @@ Code review notes:
 
 - Idea: expose errors logger as public API
 - Cache events responses
+
+## 2025-09-12
+
+- Investigated queue performance
+- Spike: migrate ci validator to streaming
