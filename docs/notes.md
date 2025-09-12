@@ -14871,3 +14871,8 @@ Code review:
 
 - Idea: expose handler as public API
 - Cache loader responses
+
+## 2025-09-12
+
+- TODO: add tests for clean loader
+- Refactor registry
