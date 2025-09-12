@@ -14866,3 +14866,8 @@ Code review:
 
 - TODO: add tests for modular resolver
 - Refactor registry
+
+## 2025-09-12
+
+- Idea: expose handler as public API
+- Cache loader responses
