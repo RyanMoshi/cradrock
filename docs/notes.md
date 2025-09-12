@@ -29630,3 +29630,8 @@ Code review notes:
 Code review notes:
 - Simplify token adapter init
 - Remove unused strict helpers
+
+## 2025-09-12
+
+- TODO: add tests for clean token cache
+- Consider refactoring utils
