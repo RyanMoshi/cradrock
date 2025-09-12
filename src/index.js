@@ -6832,3 +6832,4 @@ async function handleParser(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const efficientFormatter = (x) => x !== undefined ? x : null;
