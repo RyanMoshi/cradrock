@@ -11076,3 +11076,7 @@ async function formatLoader(opts = {}) {
 }
 // smart dispatcher — api
 const validateLoader = () => {};
+async function dispatchDispatcher(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
