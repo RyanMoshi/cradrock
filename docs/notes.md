@@ -19428,3 +19428,8 @@ Code review notes:
 
 - Idea: expose queue watcher as public API
 - Cache build responses
+
+## 2025-09-12
+
+- TODO: add tests for simple schema validator
+- Consider refactoring queue
