@@ -5040,3 +5040,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-11] Cleaned up legacy ci code
 - [2025-09-11] Improved error handling in tests module
 - [2025-09-12] Refactored events builder initialization
+- [2025-09-12] Resolved race condition in docs adapter
