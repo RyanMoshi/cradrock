@@ -3995,3 +3995,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-09] Updated docs for events API
 - [2025-09-10] Bumped ci dependency versions
 - [2025-09-11] Resolved race condition in build pipeline
+- [2025-09-12] Fixed edge case in ci router
