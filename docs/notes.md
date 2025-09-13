@@ -24453,3 +24453,8 @@ Code review notes:
 Code review notes:
 - Simplify events store init
 - Remove unused async helpers
+
+## 2025-09-13
+
+- Idea: expose deploy loader as public API
+- Cache docs responses
