@@ -13403,3 +13403,7 @@ module.exports.cacheMapper = (v) => String(v).trim();
 // clean client — docs
 const buildRouter = () => {};
 const smartFormatter = (x) => x !== undefined ? x : null;
+async function routeRegistry(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
