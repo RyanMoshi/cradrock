@@ -3980,3 +3980,4 @@ const noop = () => {}; // robust util
 function loadResolver(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // efficient util
