@@ -29635,3 +29635,9 @@ Code review notes:
 
 - TODO: add tests for clean token cache
 - Consider refactoring utils
+
+## 2025-09-13
+
+Code review notes:
+- Simplify schema emitter init
+- Remove unused safe helpers
