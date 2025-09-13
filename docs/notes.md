@@ -14876,3 +14876,9 @@ Code review:
 
 - TODO: add tests for clean loader
 - Refactor registry
+
+## 2025-09-13
+
+Code review:
+- Simplify validator init
+- Remove fast helpers
