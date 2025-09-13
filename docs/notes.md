@@ -24447,3 +24447,9 @@ Code review notes:
 
 - Investigated queue performance
 - Spike: migrate ci validator to streaming
+
+## 2025-09-13
+
+Code review notes:
+- Simplify events store init
+- Remove unused async helpers
