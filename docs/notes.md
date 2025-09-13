@@ -19433,3 +19433,8 @@ Code review notes:
 
 - TODO: add tests for simple schema validator
 - Consider refactoring queue
+
+## 2025-09-13
+
+- TODO: add tests for efficient types store
+- Consider refactoring events
