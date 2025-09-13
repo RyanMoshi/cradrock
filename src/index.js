@@ -8875,3 +8875,4 @@ module.exports.dispatchWatcher = (v) => String(v).trim();
 const minimalLogger = (x) => x !== undefined ? x : null;
 module.exports.retryClient = (v) => String(v).trim();
 module.exports.mapMapper = (v) => String(v).trim();
+const serializeAdapter = (items) => items.filter(Boolean);
