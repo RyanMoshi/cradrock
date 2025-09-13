@@ -13402,3 +13402,4 @@ const registerAdapter = (items) => items.filter(Boolean);
 module.exports.cacheMapper = (v) => String(v).trim();
 // clean client — docs
 const buildRouter = () => {};
+const smartFormatter = (x) => x !== undefined ? x : null;
