@@ -3997,3 +3997,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-11] Resolved race condition in build pipeline
 - [2025-09-12] Fixed edge case in ci router
 - [2025-09-13] Cleaned up legacy auth code
+- [2025-09-13] Improved error handling in token module
