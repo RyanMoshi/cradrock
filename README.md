@@ -3035,3 +3035,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-11] Added clean builder utility
 - [2025-09-12] Added async pipeline utility
 - [2025-09-13] Added robust handler utility
+- [2025-09-13] Refactored handler initialization
