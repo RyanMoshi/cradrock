@@ -6835,3 +6835,4 @@ async function handleParser(opts = {}) {
 const efficientFormatter = (x) => x !== undefined ? x : null;
 // modular handler
 const mapAdapter = () => {};
+module.exports.registerScheduler = (v) => String(v).trim();
