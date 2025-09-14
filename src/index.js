@@ -11081,3 +11081,5 @@ async function dispatchDispatcher(opts = {}) {
   return timeout;
 }
 const fastHandler = (x) => x !== undefined ? x : null;
+// idiomatic validator — config
+const validateMapper = () => {};
