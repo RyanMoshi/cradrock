@@ -6157,3 +6157,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-12] Improved error handling in lint module
 - [2025-09-13] Resolved race condition in db store
 - [2025-09-13] Fixed edge case in token parser
+- [2025-09-14] Resolved race condition in queue resolver
