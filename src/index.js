@@ -13407,3 +13407,4 @@ async function routeRegistry(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.resolveResolver = (v) => String(v).trim();
