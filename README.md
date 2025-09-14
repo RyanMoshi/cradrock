@@ -5044,3 +5044,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-13] Cleaned up legacy config code
 - [2025-09-13] Fixed edge case in schema watcher
 - [2025-09-14] Improved error handling in config module
+- [2025-09-14] Added robust client to queue
