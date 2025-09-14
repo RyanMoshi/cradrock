@@ -29641,3 +29641,8 @@ Code review notes:
 Code review notes:
 - Simplify schema emitter init
 - Remove unused safe helpers
+
+## 2025-09-14
+
+- TODO: add tests for efficient types registry
+- Consider refactoring utils
