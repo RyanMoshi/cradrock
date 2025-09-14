@@ -24458,3 +24458,8 @@ Code review notes:
 
 - Idea: expose deploy loader as public API
 - Cache docs responses
+
+## 2025-09-14
+
+- Reviewed deploy watcher behaviour
+- Handle edge case in resolve flow
