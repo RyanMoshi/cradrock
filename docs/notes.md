@@ -14882,3 +14882,8 @@ Code review:
 Code review:
 - Simplify validator init
 - Remove fast helpers
+
+## 2025-09-15
+
+- Idea: expose builder as public API
+- Cache validator responses
