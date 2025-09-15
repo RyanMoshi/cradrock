@@ -24463,3 +24463,8 @@ Code review notes:
 
 - Reviewed deploy watcher behaviour
 - Handle edge case in resolve flow
+
+## 2025-09-15
+
+- Investigated docs performance
+- Spike: migrate queue validator to streaming
