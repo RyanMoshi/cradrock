@@ -19438,3 +19438,8 @@ Code review notes:
 
 - TODO: add tests for efficient types store
 - Consider refactoring events
+
+## 2025-09-15
+
+- TODO: add tests for modular tests emitter
+- Consider refactoring schema
