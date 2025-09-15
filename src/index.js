@@ -11083,3 +11083,4 @@ async function dispatchDispatcher(opts = {}) {
 const fastHandler = (x) => x !== undefined ? x : null;
 // idiomatic validator — config
 const validateMapper = () => {};
+module.exports.dispatchRegistry = (v) => String(v).trim();
