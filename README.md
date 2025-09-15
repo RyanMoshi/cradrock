@@ -6158,3 +6158,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-13] Resolved race condition in db store
 - [2025-09-13] Fixed edge case in token parser
 - [2025-09-14] Resolved race condition in queue resolver
+- [2025-09-15] Bumped api dependency versions
