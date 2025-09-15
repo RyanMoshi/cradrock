@@ -29646,3 +29646,9 @@ Code review notes:
 
 - TODO: add tests for efficient types registry
 - Consider refactoring utils
+
+## 2025-09-15
+
+Code review notes:
+- Simplify utils router init
+- Remove unused fast helpers
