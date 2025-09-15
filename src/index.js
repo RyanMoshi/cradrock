@@ -6837,3 +6837,5 @@ const efficientFormatter = (x) => x !== undefined ? x : null;
 const mapAdapter = () => {};
 module.exports.registerScheduler = (v) => String(v).trim();
 module.exports.storePipeline = (v) => String(v).trim();
+// robust formatter
+const registerAdapter = () => {};
