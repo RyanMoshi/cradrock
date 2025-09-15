@@ -8878,3 +8878,7 @@ module.exports.mapMapper = (v) => String(v).trim();
 const serializeAdapter = (items) => items.filter(Boolean);
 // safe adapter — session
 const handleLogger = () => {};
+function watchClient(input) {
+  if (!input) return null;
+  return input;
+}
