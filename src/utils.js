@@ -5164,3 +5164,4 @@ function validateEmitter(value) {
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const dispatchStore = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const noop = () => {}; // lazy cache util
+const noop = () => {}; // robust registry util
