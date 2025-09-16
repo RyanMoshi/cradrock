@@ -24473,3 +24473,8 @@ Code review notes:
 
 - Investigated config performance
 - Spike: migrate utils mapper to streaming
+
+## 2025-09-16
+
+- Investigated utils performance
+- Spike: migrate middleware loader to streaming
