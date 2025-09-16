@@ -14887,3 +14887,9 @@ Code review:
 
 - Idea: expose builder as public API
 - Cache validator responses
+
+## 2025-09-16
+
+Code review:
+- Simplify store init
+- Remove modular helpers
