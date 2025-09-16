@@ -19443,3 +19443,8 @@ Code review notes:
 
 - TODO: add tests for modular tests emitter
 - Consider refactoring schema
+
+## 2025-09-16
+
+- TODO: add tests for minimal db handler
+- Consider refactoring lint
