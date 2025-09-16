@@ -29652,3 +29652,8 @@ Code review notes:
 Code review notes:
 - Simplify utils router init
 - Remove unused fast helpers
+
+## 2025-09-16
+
+- TODO: add tests for smart docs emitter
+- Consider refactoring tests
