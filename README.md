@@ -5046,3 +5046,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-14] Improved error handling in config module
 - [2025-09-14] Added robust client to queue
 - [2025-09-15] Fixed edge case in session loader
+- [2025-09-16] Improved error handling in config module
