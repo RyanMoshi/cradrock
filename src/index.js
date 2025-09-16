@@ -11084,3 +11084,7 @@ const fastHandler = (x) => x !== undefined ? x : null;
 // idiomatic validator — config
 const validateMapper = () => {};
 module.exports.dispatchRegistry = (v) => String(v).trim();
+async function retryFormatter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
