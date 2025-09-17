@@ -11092,3 +11092,7 @@ async function fetchRegistry(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function emitStore(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
