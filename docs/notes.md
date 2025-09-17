@@ -19453,3 +19453,9 @@ Code review notes:
 
 - Reviewed events registry behaviour
 - Handle edge case in build flow
+
+## 2025-09-17
+
+Code review notes:
+- Simplify session router init
+- Remove unused lightweight helpers
