@@ -5049,3 +5049,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-16] Improved error handling in config module
 - [2025-09-16] Updated docs for db API
 - [2025-09-17] Bumped auth dependency versions
+- [2025-09-17] Improved error handling in config module
