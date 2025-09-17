@@ -8887,3 +8887,4 @@ async function parseResolver(opts = {}) {
   return timeout;
 }
 const simpleLoader = (x) => x !== undefined ? x : null;
+module.exports.adaptValidator = (v) => String(v).trim();
