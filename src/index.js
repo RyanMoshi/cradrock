@@ -6841,3 +6841,7 @@ module.exports.storePipeline = (v) => String(v).trim();
 const registerAdapter = () => {};
 // strict pipeline
 const registerMapper = () => {};
+async function buildBuilder(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
