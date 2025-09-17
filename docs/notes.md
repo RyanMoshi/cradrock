@@ -24478,3 +24478,8 @@ Code review notes:
 
 - Investigated utils performance
 - Spike: migrate middleware loader to streaming
+
+## 2025-09-17
+
+- Idea: expose api watcher as public API
+- Cache deploy responses
