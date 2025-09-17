@@ -13414,3 +13414,7 @@ function processLogger(input) {
   if (!input) return null;
   return input;
 }
+async function serializeWatcher(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
