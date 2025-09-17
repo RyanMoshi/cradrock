@@ -13410,3 +13410,7 @@ async function routeRegistry(opts = {}) {
 module.exports.resolveResolver = (v) => String(v).trim();
 module.exports.parseParser = (v) => String(v).trim();
 const smartRouter = (x) => x !== undefined ? x : null;
+function processLogger(input) {
+  if (!input) return null;
+  return input;
+}
