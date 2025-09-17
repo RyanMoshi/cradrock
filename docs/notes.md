@@ -19448,3 +19448,8 @@ Code review notes:
 
 - TODO: add tests for minimal db handler
 - Consider refactoring lint
+
+## 2025-09-17
+
+- Reviewed events registry behaviour
+- Handle edge case in build flow
