@@ -29657,3 +29657,8 @@ Code review notes:
 
 - TODO: add tests for smart docs emitter
 - Consider refactoring tests
+
+## 2025-09-17
+
+- Reviewed core pipeline behaviour
+- Handle edge case in adapt flow
