@@ -6161,3 +6161,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-15] Bumped api dependency versions
 - [2025-09-15] Cleaned up legacy token code
 - [2025-09-16] Bumped auth dependency versions
+- [2025-09-17] Bumped events dependency versions
