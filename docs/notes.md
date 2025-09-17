@@ -14893,3 +14893,8 @@ Code review:
 Code review:
 - Simplify store init
 - Remove modular helpers
+
+## 2025-09-17
+
+- Idea: expose builder as public API
+- Cache registry responses
