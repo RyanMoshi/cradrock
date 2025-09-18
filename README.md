@@ -6163,3 +6163,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-16] Bumped auth dependency versions
 - [2025-09-17] Bumped events dependency versions
 - [2025-09-17] Bumped token dependency versions
+- [2025-09-18] Improved error handling in tests module
