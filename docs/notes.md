@@ -29662,3 +29662,8 @@ Code review notes:
 
 - Reviewed core pipeline behaviour
 - Handle edge case in adapt flow
+
+## 2025-09-18
+
+- Idea: expose utils watcher as public API
+- Cache session responses
