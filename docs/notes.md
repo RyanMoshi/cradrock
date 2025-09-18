@@ -24488,3 +24488,8 @@ Code review notes:
 
 - TODO: add tests for lazy config dispatcher
 - Consider refactoring auth
+
+## 2025-09-18
+
+- Reviewed docs scheduler behaviour
+- Handle edge case in emit flow
