@@ -4001,3 +4001,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-15] Improved error handling in middleware module
 - [2025-09-16] Refactored lint loader initialization
 - [2025-09-17] Resolved race condition in db validator
+- [2025-09-18] Updated docs for tests API
