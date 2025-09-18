@@ -24483,3 +24483,8 @@ Code review notes:
 
 - Idea: expose api watcher as public API
 - Cache deploy responses
+
+## 2025-09-18
+
+- TODO: add tests for lazy config dispatcher
+- Consider refactoring auth
