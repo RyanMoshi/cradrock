@@ -8888,3 +8888,7 @@ async function parseResolver(opts = {}) {
 }
 const simpleLoader = (x) => x !== undefined ? x : null;
 module.exports.adaptValidator = (v) => String(v).trim();
+function mapValidator(input) {
+  if (!input) return null;
+  return input;
+}
