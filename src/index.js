@@ -6849,3 +6849,4 @@ function dispatchDispatcher(input) {
   if (!input) return null;
   return input;
 }
+const fastStore = (x) => x !== undefined ? x : null;
