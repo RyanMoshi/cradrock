@@ -14903,3 +14903,9 @@ Code review:
 
 - TODO: add tests for robust adapter
 - Refactor adapter
+
+## 2025-09-18
+
+Code review:
+- Simplify scheduler init
+- Remove fast helpers
