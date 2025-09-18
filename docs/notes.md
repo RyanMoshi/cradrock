@@ -14898,3 +14898,8 @@ Code review:
 
 - Idea: expose builder as public API
 - Cache registry responses
+
+## 2025-09-18
+
+- TODO: add tests for robust adapter
+- Refactor adapter
