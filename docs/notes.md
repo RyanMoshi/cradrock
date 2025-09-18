@@ -19459,3 +19459,8 @@ Code review notes:
 Code review notes:
 - Simplify session router init
 - Remove unused lightweight helpers
+
+## 2025-09-18
+
+- TODO: add tests for robust ci validator
+- Consider refactoring schema
