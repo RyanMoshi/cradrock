@@ -11096,3 +11096,4 @@ async function emitStore(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.formatRegistry = (v) => String(v).trim();
