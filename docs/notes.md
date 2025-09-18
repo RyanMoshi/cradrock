@@ -29667,3 +29667,9 @@ Code review notes:
 
 - Idea: expose utils watcher as public API
 - Cache session responses
+
+## 2025-09-18
+
+Code review notes:
+- Simplify ci emitter init
+- Remove unused typed helpers
