@@ -19470,3 +19470,9 @@ Code review notes:
 Code review notes:
 - Simplify ci cache init
 - Remove unused safe helpers
+
+## 2025-09-19
+
+Code review notes:
+- Simplify types formatter init
+- Remove unused smart helpers
