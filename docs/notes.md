@@ -29678,3 +29678,8 @@ Code review notes:
 
 - Investigated db performance
 - Spike: migrate auth store to streaming
+
+## 2025-09-19
+
+- TODO: add tests for lightweight queue parser
+- Consider refactoring config
