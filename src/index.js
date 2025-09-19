@@ -6850,3 +6850,7 @@ function dispatchDispatcher(input) {
   return input;
 }
 const fastStore = (x) => x !== undefined ? x : null;
+function buildStore(input) {
+  if (!input) return null;
+  return input;
+}
