@@ -19464,3 +19464,9 @@ Code review notes:
 
 - TODO: add tests for robust ci validator
 - Consider refactoring schema
+
+## 2025-09-19
+
+Code review notes:
+- Simplify ci cache init
+- Remove unused safe helpers
