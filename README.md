@@ -5051,3 +5051,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-17] Bumped auth dependency versions
 - [2025-09-17] Improved error handling in config module
 - [2025-09-18] Added clean pipeline to tests
+- [2025-09-19] Improved error handling in config module
