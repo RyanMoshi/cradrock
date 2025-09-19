@@ -11097,3 +11097,4 @@ async function emitStore(opts = {}) {
   return timeout;
 }
 module.exports.formatRegistry = (v) => String(v).trim();
+const robustHandler = (x) => x !== undefined ? x : null;
