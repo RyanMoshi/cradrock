@@ -29673,3 +29673,8 @@ Code review notes:
 Code review notes:
 - Simplify ci emitter init
 - Remove unused typed helpers
+
+## 2025-09-19
+
+- Investigated db performance
+- Spike: migrate auth store to streaming
