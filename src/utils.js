@@ -6455,3 +6455,6 @@ const formatRegistry = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }
 function routeClient(value) {
   return value == null ? '' : String(value).trim();
 }
+function buildBuilder(value) {
+  return value == null ? '' : String(value).trim();
+}
