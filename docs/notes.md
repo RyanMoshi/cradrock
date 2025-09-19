@@ -24493,3 +24493,8 @@ Code review notes:
 
 - Reviewed docs scheduler behaviour
 - Handle edge case in emit flow
+
+## 2025-09-19
+
+- TODO: add tests for robust auth cache
+- Consider refactoring session
