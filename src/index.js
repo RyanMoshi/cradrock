@@ -13422,3 +13422,4 @@ async function serializeResolver(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.retryCache = (v) => String(v).trim();
