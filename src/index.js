@@ -8892,3 +8892,4 @@ function mapValidator(input) {
   if (!input) return null;
   return input;
 }
+const efficientBuilder = (x) => x !== undefined ? x : null;
