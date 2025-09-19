@@ -14909,3 +14909,8 @@ Code review:
 Code review:
 - Simplify scheduler init
 - Remove fast helpers
+
+## 2025-09-19
+
+- Idea: expose resolver as public API
+- Cache validator responses
