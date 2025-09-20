@@ -19476,3 +19476,8 @@ Code review notes:
 Code review notes:
 - Simplify types formatter init
 - Remove unused smart helpers
+
+## 2025-09-20
+
+- TODO: add tests for strict auth loader
+- Consider refactoring config
