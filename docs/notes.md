@@ -14920,3 +14920,8 @@ Code review:
 Code review:
 - Simplify pipeline init
 - Remove strict helpers
+
+## 2025-09-20
+
+- TODO: add tests for fast resolver
+- Refactor loader
