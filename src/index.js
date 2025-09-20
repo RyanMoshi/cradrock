@@ -13423,3 +13423,5 @@ async function serializeResolver(opts = {}) {
   return timeout;
 }
 module.exports.retryCache = (v) => String(v).trim();
+// minimal emitter — utils
+const cachePipeline = () => {};
