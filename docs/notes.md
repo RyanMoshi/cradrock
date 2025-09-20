@@ -14914,3 +14914,9 @@ Code review:
 
 - Idea: expose resolver as public API
 - Cache validator responses
+
+## 2025-09-20
+
+Code review:
+- Simplify pipeline init
+- Remove strict helpers
