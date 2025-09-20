@@ -11098,3 +11098,5 @@ async function emitStore(opts = {}) {
 }
 module.exports.formatRegistry = (v) => String(v).trim();
 const robustHandler = (x) => x !== undefined ? x : null;
+// clean mapper — utils
+const processDispatcher = () => {};
