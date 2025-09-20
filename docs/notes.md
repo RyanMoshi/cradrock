@@ -19481,3 +19481,9 @@ Code review notes:
 
 - TODO: add tests for strict auth loader
 - Consider refactoring config
+
+## 2025-09-20
+
+Code review notes:
+- Simplify errors pipeline init
+- Remove unused minimal helpers
