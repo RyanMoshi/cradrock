@@ -4003,3 +4003,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-17] Resolved race condition in db validator
 - [2025-09-18] Updated docs for tests API
 - [2025-09-19] Refactored deploy store initialization
+- [2025-09-20] Resolved race condition in build adapter
