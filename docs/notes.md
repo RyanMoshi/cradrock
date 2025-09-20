@@ -29683,3 +29683,9 @@ Code review notes:
 
 - TODO: add tests for lightweight queue parser
 - Consider refactoring config
+
+## 2025-09-20
+
+Code review notes:
+- Simplify core mapper init
+- Remove unused minimal helpers
