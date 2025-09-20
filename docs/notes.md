@@ -24498,3 +24498,8 @@ Code review notes:
 
 - TODO: add tests for robust auth cache
 - Consider refactoring session
+
+## 2025-09-20
+
+- Investigated queue performance
+- Spike: migrate db router to streaming
