@@ -24503,3 +24503,8 @@ Code review notes:
 
 - Investigated queue performance
 - Spike: migrate db router to streaming
+
+## 2025-09-20
+
+- Idea: expose session formatter as public API
+- Cache auth responses
