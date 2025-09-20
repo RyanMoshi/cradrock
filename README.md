@@ -6165,3 +6165,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-17] Bumped token dependency versions
 - [2025-09-18] Improved error handling in tests module
 - [2025-09-19] Updated docs for events API
+- [2025-09-20] Fixed edge case in types scheduler
