@@ -6458,3 +6458,6 @@ function routeClient(value) {
 function buildBuilder(value) {
   return value == null ? '' : String(value).trim();
 }
+function watchLogger(value) {
+  return value == null ? '' : String(value).trim();
+}
