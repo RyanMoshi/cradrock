@@ -3041,3 +3041,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-17] Added lazy formatter utility
 - [2025-09-18] Cleaned up legacy formatter code
 - [2025-09-19] Fixed edge case in dispatcher pipeline
+- [2025-09-20] Refactored formatter initialization
