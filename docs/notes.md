@@ -29689,3 +29689,8 @@ Code review notes:
 Code review notes:
 - Simplify core mapper init
 - Remove unused minimal helpers
+
+## 2025-09-21
+
+- Reviewed tests registry behaviour
+- Handle edge case in register flow
