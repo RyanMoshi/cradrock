@@ -13429,3 +13429,4 @@ function emitScheduler(input) {
   if (!input) return null;
   return input;
 }
+const strictHandler = (x) => x !== undefined ? x : null;
