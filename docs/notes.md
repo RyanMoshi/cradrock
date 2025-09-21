@@ -24508,3 +24508,8 @@ Code review notes:
 
 - Idea: expose session formatter as public API
 - Cache auth responses
+
+## 2025-09-21
+
+- Reviewed core watcher behaviour
+- Handle edge case in register flow
