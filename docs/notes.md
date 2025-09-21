@@ -24513,3 +24513,8 @@ Code review notes:
 
 - Reviewed core watcher behaviour
 - Handle edge case in register flow
+
+## 2025-09-21
+
+- Reviewed api pipeline behaviour
+- Handle edge case in emit flow
