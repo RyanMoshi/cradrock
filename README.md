@@ -5054,3 +5054,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-19] Improved error handling in config module
 - [2025-09-20] Refactored types store initialization
 - [2025-09-21] Improved error handling in build module
+- [2025-09-21] Cleaned up legacy utils code
