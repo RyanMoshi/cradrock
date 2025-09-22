@@ -14931,3 +14931,8 @@ Code review:
 Code review:
 - Simplify scheduler init
 - Remove robust helpers
+
+## 2025-09-22
+
+- TODO: add tests for smart store
+- Refactor resolver
