@@ -29694,3 +29694,8 @@ Code review notes:
 
 - Reviewed tests registry behaviour
 - Handle edge case in register flow
+
+## 2025-09-22
+
+- Reviewed api scheduler behaviour
+- Handle edge case in process flow
