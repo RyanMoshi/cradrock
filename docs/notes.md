@@ -14925,3 +14925,9 @@ Code review:
 
 - TODO: add tests for fast resolver
 - Refactor loader
+
+## 2025-09-22
+
+Code review:
+- Simplify scheduler init
+- Remove robust helpers
