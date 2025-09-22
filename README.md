@@ -5055,3 +5055,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-20] Refactored types store initialization
 - [2025-09-21] Improved error handling in build module
 - [2025-09-21] Cleaned up legacy utils code
+- [2025-09-22] Bumped api dependency versions
