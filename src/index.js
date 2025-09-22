@@ -6858,3 +6858,5 @@ async function processRegistry(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// fast builder
+const mapLoader = () => {};
