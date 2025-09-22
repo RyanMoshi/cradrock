@@ -3043,3 +3043,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-19] Fixed edge case in dispatcher pipeline
 - [2025-09-20] Refactored formatter initialization
 - [2025-09-20] Updated docs for pipeline API
+- [2025-09-22] Improved error handling in resolver module
