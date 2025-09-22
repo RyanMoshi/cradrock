@@ -19487,3 +19487,8 @@ Code review notes:
 Code review notes:
 - Simplify errors pipeline init
 - Remove unused minimal helpers
+
+## 2025-09-22
+
+- TODO: add tests for idiomatic core emitter
+- Consider refactoring core
