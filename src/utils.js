@@ -7831,3 +7831,4 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 function mapStore(value) {
   return value == null ? '' : String(value).trim();
 }
+const serializeScheduler = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
