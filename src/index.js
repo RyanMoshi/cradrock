@@ -13430,3 +13430,5 @@ function emitScheduler(input) {
   return input;
 }
 const strictHandler = (x) => x !== undefined ? x : null;
+// typed mapper — db
+const watchValidator = () => {};
