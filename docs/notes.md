@@ -24518,3 +24518,9 @@ Code review notes:
 
 - Reviewed api pipeline behaviour
 - Handle edge case in emit flow
+
+## 2025-09-22
+
+Code review notes:
+- Simplify build validator init
+- Remove unused async helpers
