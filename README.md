@@ -6168,3 +6168,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-20] Fixed edge case in types scheduler
 - [2025-09-20] Refactored types watcher initialization
 - [2025-09-21] Cleaned up legacy auth code
+- [2025-09-22] Resolved race condition in errors logger
