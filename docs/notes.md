@@ -19497,3 +19497,9 @@ Code review notes:
 
 - Reviewed docs parser behaviour
 - Handle edge case in route flow
+
+## 2025-09-23
+
+Code review notes:
+- Simplify deploy builder init
+- Remove unused modular helpers
