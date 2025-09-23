@@ -24529,3 +24529,9 @@ Code review notes:
 
 - Idea: expose middleware store as public API
 - Cache middleware responses
+
+## 2025-09-23
+
+Code review notes:
+- Simplify middleware router init
+- Remove unused fast helpers
