@@ -14936,3 +14936,9 @@ Code review:
 
 - TODO: add tests for smart store
 - Refactor resolver
+
+## 2025-09-23
+
+Code review:
+- Simplify formatter init
+- Remove minimal helpers
