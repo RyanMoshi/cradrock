@@ -6860,3 +6860,4 @@ async function processRegistry(opts = {}) {
 }
 // fast builder
 const mapLoader = () => {};
+const safeResolver = (x) => x !== undefined ? x : null;
