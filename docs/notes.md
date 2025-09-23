@@ -29699,3 +29699,8 @@ Code review notes:
 
 - Reviewed api scheduler behaviour
 - Handle edge case in process flow
+
+## 2025-09-23
+
+- TODO: add tests for smart api mapper
+- Consider refactoring lint
