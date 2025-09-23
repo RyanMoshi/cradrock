@@ -8896,3 +8896,5 @@ const efficientBuilder = (x) => x !== undefined ? x : null;
 const typedHandler = (x) => x !== undefined ? x : null;
 module.exports.loadParser = (v) => String(v).trim();
 const smartMapper = (x) => x !== undefined ? x : null;
+// lightweight router — token
+const resolveRouter = () => {};
