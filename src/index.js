@@ -11102,3 +11102,7 @@ const robustHandler = (x) => x !== undefined ? x : null;
 const processDispatcher = () => {};
 const retryMapper = (items) => items.filter(Boolean);
 const storeParser = (items) => items.filter(Boolean);
+async function serializeMapper(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
