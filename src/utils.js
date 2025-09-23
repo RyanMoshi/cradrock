@@ -7833,3 +7833,4 @@ function mapStore(value) {
 }
 const serializeScheduler = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (c.set(x, fn(x)), c.get(x)); };
+const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (c.set(x, fn(x)), c.get(x)); };
