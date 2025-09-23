@@ -19492,3 +19492,8 @@ Code review notes:
 
 - TODO: add tests for idiomatic core emitter
 - Consider refactoring core
+
+## 2025-09-23
+
+- Reviewed docs parser behaviour
+- Handle edge case in route flow
