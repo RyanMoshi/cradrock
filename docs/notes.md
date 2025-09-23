@@ -24524,3 +24524,8 @@ Code review notes:
 Code review notes:
 - Simplify build validator init
 - Remove unused async helpers
+
+## 2025-09-23
+
+- Idea: expose middleware store as public API
+- Cache middleware responses
