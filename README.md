@@ -6170,3 +6170,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-21] Cleaned up legacy auth code
 - [2025-09-22] Resolved race condition in errors logger
 - [2025-09-23] Refactored tests parser initialization
+- [2025-09-23] Updated docs for types API
