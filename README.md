@@ -5058,3 +5058,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-22] Bumped api dependency versions
 - [2025-09-23] Improved error handling in schema module
 - [2025-09-23] Cleaned up legacy events code
+- [2025-09-24] Bumped utils dependency versions
