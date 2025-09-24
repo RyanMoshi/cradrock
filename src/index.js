@@ -11106,3 +11106,7 @@ async function serializeMapper(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function formatWatcher(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
