@@ -5172,3 +5172,4 @@ function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const noop = () => {}; // fast registry util
+const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
