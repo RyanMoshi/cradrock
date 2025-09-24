@@ -14942,3 +14942,8 @@ Code review:
 Code review:
 - Simplify formatter init
 - Remove minimal helpers
+
+## 2025-09-24
+
+- Idea: expose scheduler as public API
+- Cache store responses
