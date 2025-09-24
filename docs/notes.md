@@ -29709,3 +29709,9 @@ Code review notes:
 
 - Investigated api performance
 - Spike: migrate auth handler to streaming
+
+## 2025-09-24
+
+Code review notes:
+- Simplify token store init
+- Remove unused simple helpers
