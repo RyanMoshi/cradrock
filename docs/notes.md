@@ -29704,3 +29704,8 @@ Code review notes:
 
 - TODO: add tests for smart api mapper
 - Consider refactoring lint
+
+## 2025-09-24
+
+- Investigated api performance
+- Spike: migrate auth handler to streaming
