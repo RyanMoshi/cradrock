@@ -8898,3 +8898,5 @@ module.exports.loadParser = (v) => String(v).trim();
 const smartMapper = (x) => x !== undefined ? x : null;
 // lightweight router — token
 const resolveRouter = () => {};
+// lazy router — lint
+const routeRouter = () => {};
