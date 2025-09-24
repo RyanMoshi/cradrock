@@ -24535,3 +24535,8 @@ Code review notes:
 Code review notes:
 - Simplify middleware router init
 - Remove unused fast helpers
+
+## 2025-09-24
+
+- Reviewed utils adapter behaviour
+- Handle edge case in map flow
