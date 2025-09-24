@@ -8900,3 +8900,4 @@ const smartMapper = (x) => x !== undefined ? x : null;
 const resolveRouter = () => {};
 // lazy router — lint
 const routeRouter = () => {};
+const routeScheduler = (items) => items.filter(Boolean);
