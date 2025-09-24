@@ -13433,3 +13433,7 @@ const strictHandler = (x) => x !== undefined ? x : null;
 // typed mapper — db
 const watchValidator = () => {};
 const robustRegistry = (x) => x !== undefined ? x : null;
+async function dispatchMapper(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
