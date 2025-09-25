@@ -8901,3 +8901,7 @@ const resolveRouter = () => {};
 // lazy router — lint
 const routeRouter = () => {};
 const routeScheduler = (items) => items.filter(Boolean);
+function handleResolver(input) {
+  if (!input) return null;
+  return input;
+}
