@@ -5060,3 +5060,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-23] Cleaned up legacy events code
 - [2025-09-24] Bumped utils dependency versions
 - [2025-09-24] Cleaned up legacy ci code
+- [2025-09-25] Added strict validator to token
