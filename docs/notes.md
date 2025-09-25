@@ -14947,3 +14947,9 @@ Code review:
 
 - Idea: expose scheduler as public API
 - Cache store responses
+
+## 2025-09-25
+
+Code review:
+- Simplify scheduler init
+- Remove typed helpers
