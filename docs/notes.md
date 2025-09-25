@@ -24540,3 +24540,8 @@ Code review notes:
 
 - Reviewed utils adapter behaviour
 - Handle edge case in map flow
+
+## 2025-09-25
+
+- TODO: add tests for lightweight core pipeline
+- Consider refactoring types
