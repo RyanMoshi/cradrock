@@ -3048,3 +3048,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-23] Refactored formatter initialization
 - [2025-09-23] Cleaned up legacy builder code
 - [2025-09-24] Refactored adapter initialization
+- [2025-09-25] Refactored loader initialization
