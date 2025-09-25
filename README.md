@@ -4007,3 +4007,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-22] Fixed edge case in middleware client
 - [2025-09-23] Refactored build loader initialization
 - [2025-09-24] Added safe scheduler to errors
+- [2025-09-25] Fixed edge case in errors scheduler
