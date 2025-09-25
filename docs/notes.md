@@ -24545,3 +24545,8 @@ Code review notes:
 
 - TODO: add tests for lightweight core pipeline
 - Consider refactoring types
+
+## 2025-09-25
+
+- TODO: add tests for efficient session logger
+- Consider refactoring auth
