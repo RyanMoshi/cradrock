@@ -29715,3 +29715,8 @@ Code review notes:
 Code review notes:
 - Simplify token store init
 - Remove unused simple helpers
+
+## 2025-09-25
+
+- Idea: expose middleware parser as public API
+- Cache build responses
