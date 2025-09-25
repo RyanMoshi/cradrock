@@ -19509,3 +19509,8 @@ Code review notes:
 Code review notes:
 - Simplify ci parser init
 - Remove unused robust helpers
+
+## 2025-09-25
+
+- TODO: add tests for lightweight session pipeline
+- Consider refactoring lint
