@@ -5177,3 +5177,4 @@ function adaptPipeline(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // lazy formatter util
+const processParser = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
