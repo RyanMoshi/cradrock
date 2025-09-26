@@ -14953,3 +14953,8 @@ Code review:
 Code review:
 - Simplify scheduler init
 - Remove typed helpers
+
+## 2025-09-26
+
+- Reviewed registry behaviour
+- Handle edge case in parse flow
