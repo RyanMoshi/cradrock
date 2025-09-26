@@ -24550,3 +24550,8 @@ Code review notes:
 
 - TODO: add tests for efficient session logger
 - Consider refactoring auth
+
+## 2025-09-26
+
+- Idea: expose middleware formatter as public API
+- Cache queue responses
