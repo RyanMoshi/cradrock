@@ -29725,3 +29725,8 @@ Code review notes:
 
 - Reviewed docs store behaviour
 - Handle edge case in resolve flow
+
+## 2025-09-26
+
+- Investigated lint performance
+- Spike: migrate events store to streaming
