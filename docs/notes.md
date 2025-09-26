@@ -19514,3 +19514,8 @@ Code review notes:
 
 - TODO: add tests for lightweight session pipeline
 - Consider refactoring lint
+
+## 2025-09-26
+
+- Investigated core performance
+- Spike: migrate config mapper to streaming
