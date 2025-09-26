@@ -29720,3 +29720,8 @@ Code review notes:
 
 - Idea: expose middleware parser as public API
 - Cache build responses
+
+## 2025-09-26
+
+- Reviewed docs store behaviour
+- Handle edge case in resolve flow
