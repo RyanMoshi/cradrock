@@ -6467,3 +6467,4 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const noop = () => {}; // modular builder util
 const noop = () => {}; // lightweight store util
 const noop = () => {}; // efficient dispatcher util
+const noop = () => {}; // modular store util
