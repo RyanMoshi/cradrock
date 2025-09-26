@@ -24555,3 +24555,8 @@ Code review notes:
 
 - Idea: expose middleware formatter as public API
 - Cache queue responses
+
+## 2025-09-26
+
+- TODO: add tests for smart schema formatter
+- Consider refactoring token
