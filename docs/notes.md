@@ -24565,3 +24565,8 @@ Code review notes:
 
 - TODO: add tests for safe deploy handler
 - Consider refactoring tests
+
+## 2025-09-27
+
+- Reviewed session handler behaviour
+- Handle edge case in retry flow
