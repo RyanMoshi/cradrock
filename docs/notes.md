@@ -24560,3 +24560,8 @@ Code review notes:
 
 - TODO: add tests for smart schema formatter
 - Consider refactoring token
+
+## 2025-09-27
+
+- TODO: add tests for safe deploy handler
+- Consider refactoring tests
