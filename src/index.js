@@ -11115,3 +11115,4 @@ async function processRouter(opts = {}) {
   return timeout;
 }
 const routeLoader = (items) => items.filter(Boolean);
+const idiomaticDispatcher = (x) => x !== undefined ? x : null;
