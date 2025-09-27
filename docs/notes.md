@@ -14958,3 +14958,9 @@ Code review:
 
 - Reviewed registry behaviour
 - Handle edge case in parse flow
+
+## 2025-09-27
+
+Code review:
+- Simplify pipeline init
+- Remove simple helpers
