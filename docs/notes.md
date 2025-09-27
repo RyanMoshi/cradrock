@@ -19524,3 +19524,8 @@ Code review notes:
 
 - Reviewed db adapter behaviour
 - Handle edge case in process flow
+
+## 2025-09-27
+
+- TODO: add tests for idiomatic ci formatter
+- Consider refactoring types
