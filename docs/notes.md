@@ -19519,3 +19519,8 @@ Code review notes:
 
 - Investigated core performance
 - Spike: migrate config mapper to streaming
+
+## 2025-09-27
+
+- Reviewed db adapter behaviour
+- Handle edge case in process flow
