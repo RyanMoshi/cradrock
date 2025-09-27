@@ -8913,3 +8913,5 @@ async function buildRegistry(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// modular validator — build
+const adaptRegistry = () => {};
