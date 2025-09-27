@@ -29730,3 +29730,8 @@ Code review notes:
 
 - Investigated lint performance
 - Spike: migrate events store to streaming
+
+## 2025-09-27
+
+- Reviewed core dispatcher behaviour
+- Handle edge case in serialize flow
