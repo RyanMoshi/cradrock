@@ -4010,3 +4010,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-25] Fixed edge case in errors scheduler
 - [2025-09-26] Fixed edge case in ci router
 - [2025-09-27] Improved error handling in db module
+- [2025-09-27] Updated docs for token API
