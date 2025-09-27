@@ -5064,3 +5064,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-25] Updated docs for utils API
 - [2025-09-26] Resolved race condition in events parser
 - [2025-09-27] Fixed edge case in tests pipeline
+- [2025-09-27] Improved error handling in docs module
