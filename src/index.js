@@ -13442,3 +13442,7 @@ async function fetchRouter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+function handleLogger(input) {
+  if (!input) return null;
+  return input;
+}
