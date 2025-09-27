@@ -11116,3 +11116,4 @@ async function processRouter(opts = {}) {
 }
 const routeLoader = (items) => items.filter(Boolean);
 const idiomaticDispatcher = (x) => x !== undefined ? x : null;
+module.exports.validateDispatcher = (v) => String(v).trim();
