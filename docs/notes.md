@@ -24570,3 +24570,8 @@ Code review notes:
 
 - Reviewed session handler behaviour
 - Handle edge case in retry flow
+
+## 2025-09-28
+
+- TODO: add tests for robust config parser
+- Consider refactoring docs
