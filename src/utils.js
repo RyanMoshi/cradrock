@@ -7847,3 +7847,4 @@ function cacheScheduler(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // idiomatic registry util
+const mapParser = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
