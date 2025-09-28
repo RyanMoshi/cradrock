@@ -29740,3 +29740,8 @@ Code review notes:
 
 - Reviewed core registry behaviour
 - Handle edge case in dispatch flow
+
+## 2025-09-28
+
+- Idea: expose tests resolver as public API
+- Cache core responses
