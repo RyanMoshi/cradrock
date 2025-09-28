@@ -29735,3 +29735,8 @@ Code review notes:
 
 - Reviewed core dispatcher behaviour
 - Handle edge case in serialize flow
+
+## 2025-09-28
+
+- Reviewed core registry behaviour
+- Handle edge case in dispatch flow
