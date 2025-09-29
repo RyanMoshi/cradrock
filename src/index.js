@@ -6873,3 +6873,7 @@ module.exports.handleHandler = (v) => String(v).trim();
 const fastStore = (x) => x !== undefined ? x : null;
 // efficient mapper
 const registerScheduler = () => {};
+async function adaptFormatter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
