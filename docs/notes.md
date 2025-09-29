@@ -29745,3 +29745,8 @@ Code review notes:
 
 - Idea: expose tests resolver as public API
 - Cache core responses
+
+## 2025-09-29
+
+- TODO: add tests for minimal deploy validator
+- Consider refactoring tests
