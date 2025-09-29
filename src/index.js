@@ -13450,3 +13450,4 @@ async function cacheAdapter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.mapEmitter = (v) => String(v).trim();
