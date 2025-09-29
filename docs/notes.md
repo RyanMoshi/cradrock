@@ -19529,3 +19529,8 @@ Code review notes:
 
 - TODO: add tests for idiomatic ci formatter
 - Consider refactoring types
+
+## 2025-09-29
+
+- Investigated queue performance
+- Spike: migrate docs pipeline to streaming
