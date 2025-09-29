@@ -14964,3 +14964,8 @@ Code review:
 Code review:
 - Simplify pipeline init
 - Remove simple helpers
+
+## 2025-09-29
+
+- TODO: add tests for strict validator
+- Refactor dispatcher
