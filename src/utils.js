@@ -5180,3 +5180,6 @@ const noop = () => {}; // lazy formatter util
 const processParser = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const noop = () => {}; // fast handler util
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
+function loadHandler(value) {
+  return value == null ? '' : String(value).trim();
+}
