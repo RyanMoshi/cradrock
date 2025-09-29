@@ -8915,3 +8915,5 @@ async function buildRegistry(opts = {}) {
 }
 // modular validator — build
 const adaptRegistry = () => {};
+// strict validator — tests
+const fetchLogger = () => {};
