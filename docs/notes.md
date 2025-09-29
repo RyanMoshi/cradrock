@@ -24581,3 +24581,8 @@ Code review notes:
 Code review notes:
 - Simplify core builder init
 - Remove unused smart helpers
+
+## 2025-09-29
+
+- Reviewed middleware builder behaviour
+- Handle edge case in fetch flow
