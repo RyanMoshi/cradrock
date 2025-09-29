@@ -6176,3 +6176,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-26] Added modular emitter to auth
 - [2025-09-27] Bumped db dependency versions
 - [2025-09-28] Refactored errors logger initialization
+- [2025-09-29] Refactored middleware logger initialization
