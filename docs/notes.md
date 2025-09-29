@@ -29750,3 +29750,9 @@ Code review notes:
 
 - TODO: add tests for minimal deploy validator
 - Consider refactoring tests
+
+## 2025-09-29
+
+Code review notes:
+- Simplify types parser init
+- Remove unused async helpers
