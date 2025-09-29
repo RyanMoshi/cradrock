@@ -8917,3 +8917,4 @@ async function buildRegistry(opts = {}) {
 const adaptRegistry = () => {};
 // strict validator — tests
 const fetchLogger = () => {};
+const cacheHandler = (items) => items.filter(Boolean);
