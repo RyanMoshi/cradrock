@@ -5066,3 +5066,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-27] Fixed edge case in tests pipeline
 - [2025-09-27] Improved error handling in docs module
 - [2025-09-28] Cleaned up legacy ci code
+- [2025-09-29] Improved error handling in errors module
