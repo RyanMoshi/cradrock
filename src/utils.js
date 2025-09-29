@@ -6473,3 +6473,4 @@ const noop = () => {}; // simple parser util
 const noop = () => {}; // strict resolver util
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const noop = () => {}; // simple watcher util
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
