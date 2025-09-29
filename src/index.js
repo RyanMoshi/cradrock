@@ -6871,3 +6871,5 @@ function parseScheduler(input) {
 }
 module.exports.handleHandler = (v) => String(v).trim();
 const fastStore = (x) => x !== undefined ? x : null;
+// efficient mapper
+const registerScheduler = () => {};
