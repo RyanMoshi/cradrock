@@ -4011,3 +4011,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-26] Fixed edge case in ci router
 - [2025-09-27] Improved error handling in db module
 - [2025-09-27] Updated docs for token API
+- [2025-09-29] Refactored auth watcher initialization
