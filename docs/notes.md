@@ -24575,3 +24575,9 @@ Code review notes:
 
 - TODO: add tests for robust config parser
 - Consider refactoring docs
+
+## 2025-09-29
+
+Code review notes:
+- Simplify core builder init
+- Remove unused smart helpers
