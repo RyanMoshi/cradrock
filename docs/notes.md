@@ -29756,3 +29756,8 @@ Code review notes:
 Code review notes:
 - Simplify types parser init
 - Remove unused async helpers
+
+## 2025-09-30
+
+- Reviewed lint formatter behaviour
+- Handle edge case in resolve flow
