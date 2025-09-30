@@ -6178,3 +6178,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-28] Refactored errors logger initialization
 - [2025-09-29] Refactored middleware logger initialization
 - [2025-09-29] Refactored api formatter initialization
+- [2025-09-30] Updated docs for db API
