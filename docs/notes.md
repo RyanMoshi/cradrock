@@ -19534,3 +19534,8 @@ Code review notes:
 
 - Investigated queue performance
 - Spike: migrate docs pipeline to streaming
+
+## 2025-09-30
+
+- TODO: add tests for simple api mapper
+- Consider refactoring config
