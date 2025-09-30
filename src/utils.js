@@ -7849,3 +7849,4 @@ function cacheScheduler(value) {
 const noop = () => {}; // idiomatic registry util
 const mapParser = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const registerParser = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
