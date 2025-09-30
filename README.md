@@ -3052,3 +3052,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-26] Improved error handling in validator module
 - [2025-09-27] Fixed edge case in handler pipeline
 - [2025-09-29] Refactored handler initialization
+- [2025-09-30] Added clean store utility
