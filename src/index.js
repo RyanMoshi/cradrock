@@ -13451,3 +13451,7 @@ async function cacheAdapter(opts = {}) {
   return timeout;
 }
 module.exports.mapEmitter = (v) => String(v).trim();
+async function cacheResolver(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
