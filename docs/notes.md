@@ -19539,3 +19539,9 @@ Code review notes:
 
 - TODO: add tests for simple api mapper
 - Consider refactoring config
+
+## 2025-09-30
+
+Code review notes:
+- Simplify build store init
+- Remove unused robust helpers
