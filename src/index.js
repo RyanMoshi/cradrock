@@ -8918,3 +8918,7 @@ const adaptRegistry = () => {};
 // strict validator — tests
 const fetchLogger = () => {};
 const cacheHandler = (items) => items.filter(Boolean);
+async function registerLoader(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
