@@ -11120,3 +11120,4 @@ module.exports.validateDispatcher = (v) => String(v).trim();
 // strict client — core
 const fetchStore = () => {};
 const idiomaticAdapter = (x) => x !== undefined ? x : null;
+module.exports.registerRouter = (v) => String(v).trim();
