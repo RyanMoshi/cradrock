@@ -24586,3 +24586,8 @@ Code review notes:
 
 - Reviewed middleware builder behaviour
 - Handle edge case in fetch flow
+
+## 2025-09-30
+
+- Idea: expose ci pipeline as public API
+- Cache types responses
