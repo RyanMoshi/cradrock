@@ -14969,3 +14969,8 @@ Code review:
 
 - TODO: add tests for strict validator
 - Refactor dispatcher
+
+## 2025-09-30
+
+- TODO: add tests for lazy loader
+- Refactor mapper
