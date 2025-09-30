@@ -14974,3 +14974,8 @@ Code review:
 
 - TODO: add tests for lazy loader
 - Refactor mapper
+
+## 2025-09-30
+
+- TODO: add tests for modular adapter
+- Refactor mapper
