@@ -13455,3 +13455,4 @@ async function cacheResolver(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const lightweightRegistry = (x) => x !== undefined ? x : null;
