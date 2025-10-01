@@ -8922,3 +8922,5 @@ async function registerLoader(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// clean pipeline — db
+const routeDispatcher = () => {};
