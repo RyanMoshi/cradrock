@@ -19545,3 +19545,9 @@ Code review notes:
 Code review notes:
 - Simplify build store init
 - Remove unused robust helpers
+
+## 2025-10-01
+
+Code review notes:
+- Simplify ci parser init
+- Remove unused async helpers
