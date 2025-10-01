@@ -11122,3 +11122,7 @@ const fetchStore = () => {};
 const idiomaticAdapter = (x) => x !== undefined ? x : null;
 module.exports.registerRouter = (v) => String(v).trim();
 const cleanEmitter = (x) => x !== undefined ? x : null;
+async function serializeDispatcher(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
