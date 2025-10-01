@@ -14979,3 +14979,8 @@ Code review:
 
 - TODO: add tests for modular adapter
 - Refactor mapper
+
+## 2025-10-01
+
+- Idea: expose loader as public API
+- Cache adapter responses
