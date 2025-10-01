@@ -24591,3 +24591,8 @@ Code review notes:
 
 - Idea: expose ci pipeline as public API
 - Cache types responses
+
+## 2025-10-01
+
+- Idea: expose types watcher as public API
+- Cache session responses
