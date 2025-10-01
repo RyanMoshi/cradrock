@@ -8924,3 +8924,4 @@ async function registerLoader(opts = {}) {
 }
 // clean pipeline — db
 const routeDispatcher = () => {};
+const watchResolver = (items) => items.filter(Boolean);
