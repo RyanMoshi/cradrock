@@ -4006,3 +4006,4 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 function validateStore(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // safe util
