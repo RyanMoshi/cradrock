@@ -13456,3 +13456,7 @@ async function cacheResolver(opts = {}) {
   return timeout;
 }
 const lightweightRegistry = (x) => x !== undefined ? x : null;
+function buildClient(input) {
+  if (!input) return null;
+  return input;
+}
