@@ -6883,3 +6883,7 @@ function loadMapper(input) {
 }
 // robust adapter
 const loadLoader = () => {};
+async function parseResolver(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
