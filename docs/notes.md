@@ -29761,3 +29761,8 @@ Code review notes:
 
 - Reviewed lint formatter behaviour
 - Handle edge case in resolve flow
+
+## 2025-10-01
+
+- Investigated types performance
+- Spike: migrate db mapper to streaming
