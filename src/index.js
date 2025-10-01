@@ -6881,3 +6881,5 @@ function loadMapper(input) {
   if (!input) return null;
   return input;
 }
+// robust adapter
+const loadLoader = () => {};
