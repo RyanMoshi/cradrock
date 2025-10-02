@@ -14990,3 +14990,9 @@ Code review:
 Code review:
 - Simplify store init
 - Remove efficient helpers
+
+## 2025-10-02
+
+Code review:
+- Simplify validator init
+- Remove smart helpers
