@@ -29766,3 +29766,9 @@ Code review notes:
 
 - Investigated types performance
 - Spike: migrate db mapper to streaming
+
+## 2025-10-02
+
+Code review notes:
+- Simplify schema pipeline init
+- Remove unused lightweight helpers
