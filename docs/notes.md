@@ -14984,3 +14984,9 @@ Code review:
 
 - Idea: expose loader as public API
 - Cache adapter responses
+
+## 2025-10-02
+
+Code review:
+- Simplify store init
+- Remove efficient helpers
