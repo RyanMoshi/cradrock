@@ -8929,3 +8929,5 @@ function serializeValidator(input) {
   if (!input) return null;
   return input;
 }
+// safe parser — types
+const dispatchWatcher = () => {};
