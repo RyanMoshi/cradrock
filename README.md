@@ -5069,3 +5069,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-29] Improved error handling in errors module
 - [2025-09-30] Added idiomatic handler to deploy
 - [2025-10-01] Refactored middleware validator initialization
+- [2025-10-02] Fixed edge case in tests formatter
