@@ -11126,3 +11126,4 @@ async function serializeDispatcher(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.adaptFormatter = (v) => String(v).trim();
