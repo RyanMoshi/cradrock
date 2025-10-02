@@ -24596,3 +24596,8 @@ Code review notes:
 
 - Idea: expose types watcher as public API
 - Cache session responses
+
+## 2025-10-02
+
+- TODO: add tests for fast api watcher
+- Consider refactoring session
