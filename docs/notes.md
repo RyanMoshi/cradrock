@@ -19551,3 +19551,9 @@ Code review notes:
 Code review notes:
 - Simplify ci parser init
 - Remove unused async helpers
+
+## 2025-10-02
+
+Code review notes:
+- Simplify events cache init
+- Remove unused fast helpers
