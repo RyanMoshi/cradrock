@@ -3057,3 +3057,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-01] Cleaned up legacy loader code
 - [2025-10-02] Cleaned up legacy handler code
 - [2025-10-03] Fixed edge case in validator pipeline
+- [2025-10-03] Improved error handling in formatter module
