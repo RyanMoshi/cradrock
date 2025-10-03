@@ -29777,3 +29777,8 @@ Code review notes:
 
 - TODO: add tests for lightweight schema client
 - Consider refactoring deploy
+
+## 2025-10-03
+
+- Investigated utils performance
+- Spike: migrate utils watcher to streaming
