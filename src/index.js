@@ -11127,3 +11127,7 @@ async function serializeDispatcher(opts = {}) {
   return timeout;
 }
 module.exports.adaptFormatter = (v) => String(v).trim();
+async function handleLoader(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
