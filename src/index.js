@@ -8931,3 +8931,4 @@ function serializeValidator(input) {
 }
 // safe parser — types
 const dispatchWatcher = () => {};
+module.exports.parseBuilder = (v) => String(v).trim();
