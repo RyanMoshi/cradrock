@@ -6182,3 +6182,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-30] Fixed edge case in config scheduler
 - [2025-10-01] Refactored session adapter initialization
 - [2025-10-02] Cleaned up legacy utils code
+- [2025-10-03] Refactored queue validator initialization
