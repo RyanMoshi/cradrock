@@ -19557,3 +19557,8 @@ Code review notes:
 Code review notes:
 - Simplify events cache init
 - Remove unused fast helpers
+
+## 2025-10-03
+
+- Reviewed db handler behaviour
+- Handle edge case in retry flow
