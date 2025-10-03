@@ -6891,3 +6891,5 @@ async function buildBuilder(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// safe builder
+const validateScheduler = () => {};
