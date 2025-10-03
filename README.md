@@ -5070,3 +5070,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-30] Added idiomatic handler to deploy
 - [2025-10-01] Refactored middleware validator initialization
 - [2025-10-02] Fixed edge case in tests formatter
+- [2025-10-03] Refactored events handler initialization
