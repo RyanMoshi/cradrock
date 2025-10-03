@@ -29772,3 +29772,8 @@ Code review notes:
 Code review notes:
 - Simplify schema pipeline init
 - Remove unused lightweight helpers
+
+## 2025-10-03
+
+- TODO: add tests for lightweight schema client
+- Consider refactoring deploy
