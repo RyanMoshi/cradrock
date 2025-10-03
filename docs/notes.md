@@ -19562,3 +19562,8 @@ Code review notes:
 
 - Reviewed db handler behaviour
 - Handle edge case in retry flow
+
+## 2025-10-03
+
+- Idea: expose deploy pipeline as public API
+- Cache deploy responses
