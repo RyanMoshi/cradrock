@@ -14996,3 +14996,9 @@ Code review:
 Code review:
 - Simplify validator init
 - Remove smart helpers
+
+## 2025-10-03
+
+Code review:
+- Simplify mapper init
+- Remove robust helpers
