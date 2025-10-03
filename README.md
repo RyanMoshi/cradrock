@@ -3056,3 +3056,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-30] Updated docs for mapper API
 - [2025-10-01] Cleaned up legacy loader code
 - [2025-10-02] Cleaned up legacy handler code
+- [2025-10-03] Fixed edge case in validator pipeline
