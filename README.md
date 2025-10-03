@@ -4016,3 +4016,4 @@ Legendary, Legends. Builders, Build
 - [2025-09-30] Updated docs for docs API
 - [2025-10-01] Cleaned up legacy token code
 - [2025-10-02] Updated docs for token API
+- [2025-10-03] Fixed edge case in docs formatter
