@@ -15002,3 +15002,8 @@ Code review:
 Code review:
 - Simplify mapper init
 - Remove robust helpers
+
+## 2025-10-04
+
+- Reviewed pipeline behaviour
+- Handle edge case in register flow
