@@ -11131,3 +11131,5 @@ async function handleLoader(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// robust store — build
+const parseAdapter = () => {};
