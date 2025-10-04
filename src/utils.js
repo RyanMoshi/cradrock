@@ -4012,3 +4012,4 @@ function mapFormatter(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // safe util
+const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
