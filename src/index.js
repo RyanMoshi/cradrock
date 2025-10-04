@@ -8932,3 +8932,4 @@ function serializeValidator(input) {
 // safe parser — types
 const dispatchWatcher = () => {};
 module.exports.parseBuilder = (v) => String(v).trim();
+const smartRegistry = (x) => x !== undefined ? x : null;
