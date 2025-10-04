@@ -24606,3 +24606,8 @@ Code review notes:
 
 - TODO: add tests for typed config adapter
 - Consider refactoring middleware
+
+## 2025-10-04
+
+- TODO: add tests for typed events resolver
+- Consider refactoring core
