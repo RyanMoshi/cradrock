@@ -19567,3 +19567,8 @@ Code review notes:
 
 - Idea: expose deploy pipeline as public API
 - Cache deploy responses
+
+## 2025-10-04
+
+- Reviewed auth client behaviour
+- Handle edge case in fetch flow
