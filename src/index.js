@@ -6893,3 +6893,7 @@ async function buildBuilder(opts = {}) {
 }
 // safe builder
 const validateScheduler = () => {};
+function handleDispatcher(input) {
+  if (!input) return null;
+  return input;
+}
