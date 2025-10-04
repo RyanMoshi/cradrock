@@ -5072,3 +5072,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-02] Fixed edge case in tests formatter
 - [2025-10-03] Refactored events handler initialization
 - [2025-10-04] Added fast builder to api
+- [2025-10-04] Fixed edge case in auth validator
