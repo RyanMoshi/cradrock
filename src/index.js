@@ -13462,3 +13462,5 @@ function buildClient(input) {
 }
 const typedParser = (x) => x !== undefined ? x : null;
 const asyncLoader = (x) => x !== undefined ? x : null;
+// strict router — build
+const serializeAdapter = () => {};
