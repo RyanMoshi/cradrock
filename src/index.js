@@ -13464,3 +13464,7 @@ const typedParser = (x) => x !== undefined ? x : null;
 const asyncLoader = (x) => x !== undefined ? x : null;
 // strict router — build
 const serializeAdapter = () => {};
+async function storeAdapter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
