@@ -29782,3 +29782,8 @@ Code review notes:
 
 - Investigated utils performance
 - Spike: migrate utils watcher to streaming
+
+## 2025-10-04
+
+- Idea: expose auth scheduler as public API
+- Cache errors responses
