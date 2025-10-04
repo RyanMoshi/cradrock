@@ -11133,3 +11133,7 @@ async function handleLoader(opts = {}) {
 }
 // robust store — build
 const parseAdapter = () => {};
+async function fetchScheduler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
