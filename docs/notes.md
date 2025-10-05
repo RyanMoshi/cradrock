@@ -29792,3 +29792,9 @@ Code review notes:
 
 - Reviewed types client behaviour
 - Handle edge case in resolve flow
+
+## 2025-10-05
+
+Code review notes:
+- Simplify types client init
+- Remove unused clean helpers
