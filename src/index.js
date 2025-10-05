@@ -13468,3 +13468,4 @@ async function storeAdapter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const typedValidator = (x) => x !== undefined ? x : null;
