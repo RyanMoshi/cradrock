@@ -29787,3 +29787,8 @@ Code review notes:
 
 - Idea: expose auth scheduler as public API
 - Cache errors responses
+
+## 2025-10-05
+
+- Reviewed types client behaviour
+- Handle edge case in resolve flow
