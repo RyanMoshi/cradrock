@@ -6482,3 +6482,4 @@ const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const noop = () => {}; // lazy router util
 const mapAdapter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
