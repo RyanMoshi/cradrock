@@ -24611,3 +24611,8 @@ Code review notes:
 
 - TODO: add tests for typed events resolver
 - Consider refactoring core
+
+## 2025-10-05
+
+- Investigated auth performance
+- Spike: migrate session formatter to streaming
