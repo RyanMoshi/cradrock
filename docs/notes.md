@@ -24616,3 +24616,8 @@ Code review notes:
 
 - Investigated auth performance
 - Spike: migrate session formatter to streaming
+
+## 2025-10-06
+
+- TODO: add tests for clean errors logger
+- Consider refactoring session
