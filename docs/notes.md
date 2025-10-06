@@ -29798,3 +29798,8 @@ Code review notes:
 Code review notes:
 - Simplify types client init
 - Remove unused clean helpers
+
+## 2025-10-06
+
+- Reviewed core pipeline behaviour
+- Handle edge case in parse flow
