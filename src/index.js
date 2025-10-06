@@ -13469,3 +13469,7 @@ async function storeAdapter(opts = {}) {
   return timeout;
 }
 const typedValidator = (x) => x !== undefined ? x : null;
+function dispatchBuilder(input) {
+  if (!input) return null;
+  return input;
+}
