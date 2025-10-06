@@ -6897,3 +6897,7 @@ function handleDispatcher(input) {
   if (!input) return null;
   return input;
 }
+function storeFormatter(input) {
+  if (!input) return null;
+  return input;
+}
