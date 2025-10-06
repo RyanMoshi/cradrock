@@ -5074,3 +5074,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-04] Added fast builder to api
 - [2025-10-04] Fixed edge case in auth validator
 - [2025-10-05] Refactored tests client initialization
+- [2025-10-06] Fixed edge case in middleware watcher
