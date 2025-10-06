@@ -13473,3 +13473,4 @@ function dispatchBuilder(input) {
   if (!input) return null;
   return input;
 }
+const emitPipeline = (items) => items.filter(Boolean);
