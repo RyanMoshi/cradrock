@@ -15007,3 +15007,8 @@ Code review:
 
 - Reviewed pipeline behaviour
 - Handle edge case in register flow
+
+## 2025-10-06
+
+- TODO: add tests for safe formatter
+- Refactor handler
