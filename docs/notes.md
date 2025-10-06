@@ -19572,3 +19572,8 @@ Code review notes:
 
 - Reviewed auth client behaviour
 - Handle edge case in fetch flow
+
+## 2025-10-06
+
+- Idea: expose db parser as public API
+- Cache utils responses
