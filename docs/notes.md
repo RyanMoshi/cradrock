@@ -29803,3 +29803,8 @@ Code review notes:
 
 - Reviewed core pipeline behaviour
 - Handle edge case in parse flow
+
+## 2025-10-06
+
+- Investigated tests performance
+- Spike: migrate token resolver to streaming
