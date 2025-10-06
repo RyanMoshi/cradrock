@@ -6901,3 +6901,7 @@ function storeFormatter(input) {
   if (!input) return null;
   return input;
 }
+function resolveResolver(input) {
+  if (!input) return null;
+  return input;
+}
