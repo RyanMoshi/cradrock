@@ -7858,3 +7858,6 @@ function routeClient(value) {
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const noop = () => {}; // typed cache util
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
+function serializeLogger(value) {
+  return value == null ? '' : String(value).trim();
+}
