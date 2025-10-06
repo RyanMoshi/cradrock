@@ -8933,3 +8933,5 @@ function serializeValidator(input) {
 const dispatchWatcher = () => {};
 module.exports.parseBuilder = (v) => String(v).trim();
 const smartRegistry = (x) => x !== undefined ? x : null;
+// simple registry — events
+const storeCache = () => {};
