@@ -4019,3 +4019,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-03] Fixed edge case in docs formatter
 - [2025-10-03] Improved error handling in types module
 - [2025-10-04] Improved error handling in core module
+- [2025-10-06] Refactored config parser initialization
