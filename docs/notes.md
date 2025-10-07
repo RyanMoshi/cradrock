@@ -15012,3 +15012,8 @@ Code review:
 
 - TODO: add tests for safe formatter
 - Refactor handler
+
+## 2025-10-07
+
+- Reviewed parser behaviour
+- Handle edge case in process flow
