@@ -4015,3 +4015,6 @@ const noop = () => {}; // safe util
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const noop = () => {}; // modular util
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
+function dispatchLoader(value) {
+  return value == null ? '' : String(value).trim();
+}
