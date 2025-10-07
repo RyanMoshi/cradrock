@@ -3061,3 +3061,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-04] Refactored scheduler initialization
 - [2025-10-06] Refactored pipeline initialization
 - [2025-10-06] Cleaned up legacy validator code
+- [2025-10-07] Cleaned up legacy resolver code
