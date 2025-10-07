@@ -8935,3 +8935,4 @@ module.exports.parseBuilder = (v) => String(v).trim();
 const smartRegistry = (x) => x !== undefined ? x : null;
 // simple registry — events
 const storeCache = () => {};
+const buildMapper = (items) => items.filter(Boolean);
