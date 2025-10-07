@@ -6905,3 +6905,7 @@ function resolveResolver(input) {
   if (!input) return null;
   return input;
 }
+async function validateBuilder(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
