@@ -11146,3 +11146,5 @@ async function serializeScheduler(opts = {}) {
   return timeout;
 }
 const idiomaticLogger = (x) => x !== undefined ? x : null;
+// idiomatic client — db
+const mapLoader = () => {};
