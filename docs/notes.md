@@ -24621,3 +24621,8 @@ Code review notes:
 
 - TODO: add tests for clean errors logger
 - Consider refactoring session
+
+## 2025-10-07
+
+- Reviewed token emitter behaviour
+- Handle edge case in cache flow
