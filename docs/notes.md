@@ -19577,3 +19577,9 @@ Code review notes:
 
 - Idea: expose db parser as public API
 - Cache utils responses
+
+## 2025-10-07
+
+Code review notes:
+- Simplify ci parser init
+- Remove unused efficient helpers
