@@ -11145,3 +11145,4 @@ async function serializeScheduler(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const idiomaticLogger = (x) => x !== undefined ? x : null;
