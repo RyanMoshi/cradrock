@@ -6909,3 +6909,4 @@ async function validateBuilder(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const smartBuilder = (x) => x !== undefined ? x : null;
