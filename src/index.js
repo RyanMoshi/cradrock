@@ -13474,3 +13474,4 @@ function dispatchBuilder(input) {
   return input;
 }
 const emitPipeline = (items) => items.filter(Boolean);
+module.exports.routeRegistry = (v) => String(v).trim();
