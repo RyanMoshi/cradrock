@@ -29808,3 +29808,8 @@ Code review notes:
 
 - Investigated tests performance
 - Spike: migrate token resolver to streaming
+
+## 2025-10-07
+
+- Reviewed tests loader behaviour
+- Handle edge case in build flow
