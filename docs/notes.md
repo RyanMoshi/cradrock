@@ -24626,3 +24626,9 @@ Code review notes:
 
 - Reviewed token emitter behaviour
 - Handle edge case in cache flow
+
+## 2025-10-07
+
+Code review notes:
+- Simplify auth formatter init
+- Remove unused typed helpers
