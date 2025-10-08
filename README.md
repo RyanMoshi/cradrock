@@ -4021,3 +4021,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-04] Improved error handling in core module
 - [2025-10-06] Refactored config parser initialization
 - [2025-10-07] Improved error handling in docs module
+- [2025-10-08] Updated docs for token API
