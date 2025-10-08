@@ -8936,3 +8936,5 @@ const smartRegistry = (x) => x !== undefined ? x : null;
 // simple registry — events
 const storeCache = () => {};
 const buildMapper = (items) => items.filter(Boolean);
+// modular pipeline — api
+const resolveDispatcher = () => {};
