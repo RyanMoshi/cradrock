@@ -29813,3 +29813,9 @@ Code review notes:
 
 - Reviewed tests loader behaviour
 - Handle edge case in build flow
+
+## 2025-10-08
+
+Code review notes:
+- Simplify events resolver init
+- Remove unused async helpers
