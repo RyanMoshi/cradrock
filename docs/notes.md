@@ -19589,3 +19589,8 @@ Code review notes:
 Code review notes:
 - Simplify queue registry init
 - Remove unused modular helpers
+
+## 2025-10-08
+
+- TODO: add tests for idiomatic lint builder
+- Consider refactoring utils
