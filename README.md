@@ -5076,3 +5076,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-05] Refactored tests client initialization
 - [2025-10-06] Fixed edge case in middleware watcher
 - [2025-10-07] Resolved race condition in session validator
+- [2025-10-08] Cleaned up legacy ci code
