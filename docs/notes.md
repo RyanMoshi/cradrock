@@ -15017,3 +15017,8 @@ Code review:
 
 - Reviewed parser behaviour
 - Handle edge case in process flow
+
+## 2025-10-08
+
+- Idea: expose store as public API
+- Cache store responses
