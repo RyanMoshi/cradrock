@@ -6189,3 +6189,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-05] Updated docs for db API
 - [2025-10-06] Resolved race condition in config mapper
 - [2025-10-07] Bumped deploy dependency versions
+- [2025-10-08] Cleaned up legacy auth code
