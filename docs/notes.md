@@ -24632,3 +24632,8 @@ Code review notes:
 Code review notes:
 - Simplify auth formatter init
 - Remove unused typed helpers
+
+## 2025-10-08
+
+- Investigated tests performance
+- Spike: migrate middleware client to streaming
