@@ -13475,3 +13475,7 @@ function dispatchBuilder(input) {
 }
 const emitPipeline = (items) => items.filter(Boolean);
 module.exports.routeRegistry = (v) => String(v).trim();
+async function watchValidator(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
