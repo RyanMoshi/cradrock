@@ -29819,3 +29819,9 @@ Code review notes:
 Code review notes:
 - Simplify events resolver init
 - Remove unused async helpers
+
+## 2025-10-08
+
+Code review notes:
+- Simplify api cache init
+- Remove unused smart helpers
