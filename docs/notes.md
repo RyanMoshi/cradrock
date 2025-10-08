@@ -24637,3 +24637,9 @@ Code review notes:
 
 - Investigated tests performance
 - Spike: migrate middleware client to streaming
+
+## 2025-10-08
+
+Code review notes:
+- Simplify docs handler init
+- Remove unused idiomatic helpers
