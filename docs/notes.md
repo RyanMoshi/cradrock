@@ -15022,3 +15022,9 @@ Code review:
 
 - Idea: expose store as public API
 - Cache store responses
+
+## 2025-10-08
+
+Code review:
+- Simplify parser init
+- Remove modular helpers
