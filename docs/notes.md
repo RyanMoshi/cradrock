@@ -19583,3 +19583,9 @@ Code review notes:
 Code review notes:
 - Simplify ci parser init
 - Remove unused efficient helpers
+
+## 2025-10-08
+
+Code review notes:
+- Simplify queue registry init
+- Remove unused modular helpers
