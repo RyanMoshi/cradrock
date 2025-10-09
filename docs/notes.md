@@ -29825,3 +29825,8 @@ Code review notes:
 Code review notes:
 - Simplify api cache init
 - Remove unused smart helpers
+
+## 2025-10-09
+
+- Reviewed docs scheduler behaviour
+- Handle edge case in cache flow
