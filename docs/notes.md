@@ -29830,3 +29830,8 @@ Code review notes:
 
 - Reviewed docs scheduler behaviour
 - Handle edge case in cache flow
+
+## 2025-10-09
+
+- Investigated queue performance
+- Spike: migrate docs resolver to streaming
