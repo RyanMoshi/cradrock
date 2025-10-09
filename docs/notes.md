@@ -19594,3 +19594,9 @@ Code review notes:
 
 - TODO: add tests for idiomatic lint builder
 - Consider refactoring utils
+
+## 2025-10-09
+
+Code review notes:
+- Simplify db pipeline init
+- Remove unused typed helpers
