@@ -8938,3 +8938,7 @@ const storeCache = () => {};
 const buildMapper = (items) => items.filter(Boolean);
 // modular pipeline — api
 const resolveDispatcher = () => {};
+function adaptScheduler(input) {
+  if (!input) return null;
+  return input;
+}
