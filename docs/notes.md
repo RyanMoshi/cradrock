@@ -15028,3 +15028,9 @@ Code review:
 Code review:
 - Simplify parser init
 - Remove modular helpers
+
+## 2025-10-09
+
+Code review:
+- Simplify dispatcher init
+- Remove modular helpers
