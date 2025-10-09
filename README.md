@@ -5078,3 +5078,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-07] Resolved race condition in session validator
 - [2025-10-08] Cleaned up legacy ci code
 - [2025-10-09] Bumped session dependency versions
+- [2025-10-09] Updated docs for tests API
