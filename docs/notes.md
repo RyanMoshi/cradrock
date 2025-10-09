@@ -24643,3 +24643,8 @@ Code review notes:
 Code review notes:
 - Simplify docs handler init
 - Remove unused idiomatic helpers
+
+## 2025-10-09
+
+- Investigated db performance
+- Spike: migrate docs store to streaming
