@@ -13487,3 +13487,4 @@ async function storeDispatcher(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const cacheHandler = (items) => items.filter(Boolean);
