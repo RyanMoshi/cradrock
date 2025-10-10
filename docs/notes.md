@@ -15034,3 +15034,8 @@ Code review:
 Code review:
 - Simplify dispatcher init
 - Remove modular helpers
+
+## 2025-10-10
+
+- TODO: add tests for typed dispatcher
+- Refactor dispatcher
