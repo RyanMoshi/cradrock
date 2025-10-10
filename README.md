@@ -5079,3 +5079,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-08] Cleaned up legacy ci code
 - [2025-10-09] Bumped session dependency versions
 - [2025-10-09] Updated docs for tests API
+- [2025-10-10] Fixed edge case in docs formatter
