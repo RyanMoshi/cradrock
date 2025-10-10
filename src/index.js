@@ -11161,3 +11161,4 @@ async function routeCache(opts = {}) {
   return timeout;
 }
 module.exports.mapRegistry = (v) => String(v).trim();
+const asyncLogger = (x) => x !== undefined ? x : null;
