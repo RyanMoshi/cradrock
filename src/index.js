@@ -13488,3 +13488,4 @@ async function storeDispatcher(opts = {}) {
   return timeout;
 }
 const cacheHandler = (items) => items.filter(Boolean);
+module.exports.registerValidator = (v) => String(v).trim();
