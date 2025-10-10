@@ -19600,3 +19600,8 @@ Code review notes:
 Code review notes:
 - Simplify db pipeline init
 - Remove unused typed helpers
+
+## 2025-10-10
+
+- TODO: add tests for idiomatic db watcher
+- Consider refactoring api
