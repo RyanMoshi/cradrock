@@ -6192,3 +6192,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-08] Cleaned up legacy auth code
 - [2025-10-09] Bumped config dependency versions
 - [2025-10-09] Updated docs for utils API
+- [2025-10-10] Resolved race condition in docs pipeline
