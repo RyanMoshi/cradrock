@@ -15039,3 +15039,8 @@ Code review:
 
 - TODO: add tests for typed dispatcher
 - Refactor dispatcher
+
+## 2025-10-10
+
+- TODO: add tests for robust adapter
+- Refactor loader
