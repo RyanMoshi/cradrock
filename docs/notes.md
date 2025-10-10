@@ -24648,3 +24648,9 @@ Code review notes:
 
 - Investigated db performance
 - Spike: migrate docs store to streaming
+
+## 2025-10-10
+
+Code review notes:
+- Simplify queue mapper init
+- Remove unused typed helpers
