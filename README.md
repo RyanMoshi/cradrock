@@ -3065,3 +3065,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-08] Updated docs for store API
 - [2025-10-08] Added clean mapper utility
 - [2025-10-09] Cleaned up legacy registry code
+- [2025-10-10] Resolved race condition in mapper
