@@ -6919,3 +6919,7 @@ async function buildParser(opts = {}) {
   return timeout;
 }
 const smartLoader = (x) => x !== undefined ? x : null;
+function processDispatcher(input) {
+  if (!input) return null;
+  return input;
+}
