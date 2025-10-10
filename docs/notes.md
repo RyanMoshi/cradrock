@@ -29835,3 +29835,8 @@ Code review notes:
 
 - Investigated queue performance
 - Spike: migrate docs resolver to streaming
+
+## 2025-10-10
+
+- Reviewed token formatter behaviour
+- Handle edge case in fetch flow
