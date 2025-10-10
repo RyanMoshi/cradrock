@@ -8942,3 +8942,4 @@ function adaptScheduler(input) {
   if (!input) return null;
   return input;
 }
+const handleFormatter = (items) => items.filter(Boolean);
