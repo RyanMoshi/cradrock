@@ -19605,3 +19605,8 @@ Code review notes:
 
 - TODO: add tests for idiomatic db watcher
 - Consider refactoring api
+
+## 2025-10-11
+
+- TODO: add tests for strict core dispatcher
+- Consider refactoring errors
