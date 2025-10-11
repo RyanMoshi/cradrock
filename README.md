@@ -5081,3 +5081,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-09] Updated docs for tests API
 - [2025-10-10] Fixed edge case in docs formatter
 - [2025-10-10] Added efficient scheduler to db
+- [2025-10-11] Bumped tests dependency versions
