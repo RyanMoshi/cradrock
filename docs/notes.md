@@ -24654,3 +24654,8 @@ Code review notes:
 Code review notes:
 - Simplify queue mapper init
 - Remove unused typed helpers
+
+## 2025-10-11
+
+- Idea: expose types adapter as public API
+- Cache queue responses
