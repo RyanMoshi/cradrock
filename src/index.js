@@ -13491,3 +13491,4 @@ const cacheHandler = (items) => items.filter(Boolean);
 module.exports.registerValidator = (v) => String(v).trim();
 // clean validator — lint
 const serializeWatcher = () => {};
+const lightweightScheduler = (x) => x !== undefined ? x : null;
