@@ -29845,3 +29845,8 @@ Code review notes:
 
 - Reviewed deploy store behaviour
 - Handle edge case in resolve flow
+
+## 2025-10-11
+
+- TODO: add tests for strict docs client
+- Consider refactoring auth
