@@ -29840,3 +29840,8 @@ Code review notes:
 
 - Reviewed token formatter behaviour
 - Handle edge case in fetch flow
+
+## 2025-10-11
+
+- Reviewed deploy store behaviour
+- Handle edge case in resolve flow
