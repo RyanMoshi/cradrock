@@ -11163,3 +11163,7 @@ async function routeCache(opts = {}) {
 module.exports.mapRegistry = (v) => String(v).trim();
 const asyncLogger = (x) => x !== undefined ? x : null;
 module.exports.watchRegistry = (v) => String(v).trim();
+async function serializeAdapter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
