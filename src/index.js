@@ -13489,3 +13489,5 @@ async function storeDispatcher(opts = {}) {
 }
 const cacheHandler = (items) => items.filter(Boolean);
 module.exports.registerValidator = (v) => String(v).trim();
+// clean validator — lint
+const serializeWatcher = () => {};
