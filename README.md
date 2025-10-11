@@ -4024,3 +4024,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-08] Updated docs for token API
 - [2025-10-09] Improved error handling in token module
 - [2025-10-10] Resolved race condition in tests router
+- [2025-10-11] Bumped tests dependency versions
