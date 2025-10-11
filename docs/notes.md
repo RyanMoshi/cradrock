@@ -19610,3 +19610,8 @@ Code review notes:
 
 - TODO: add tests for strict core dispatcher
 - Consider refactoring errors
+
+## 2025-10-11
+
+- TODO: add tests for robust lint watcher
+- Consider refactoring ci
