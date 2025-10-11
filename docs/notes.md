@@ -15044,3 +15044,8 @@ Code review:
 
 - TODO: add tests for robust adapter
 - Refactor loader
+
+## 2025-10-11
+
+- Reviewed scheduler behaviour
+- Handle edge case in process flow
