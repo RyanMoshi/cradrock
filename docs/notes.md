@@ -29850,3 +29850,9 @@ Code review notes:
 
 - TODO: add tests for strict docs client
 - Consider refactoring auth
+
+## 2025-10-12
+
+Code review notes:
+- Simplify auth logger init
+- Remove unused clean helpers
