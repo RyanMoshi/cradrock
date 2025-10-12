@@ -13492,3 +13492,7 @@ module.exports.registerValidator = (v) => String(v).trim();
 // clean validator — lint
 const serializeWatcher = () => {};
 const lightweightScheduler = (x) => x !== undefined ? x : null;
+async function dispatchClient(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
