@@ -24659,3 +24659,8 @@ Code review notes:
 
 - Idea: expose types adapter as public API
 - Cache queue responses
+
+## 2025-10-12
+
+- TODO: add tests for minimal build parser
+- Consider refactoring lint
