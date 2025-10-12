@@ -11167,3 +11167,4 @@ async function serializeAdapter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.registerMapper = (v) => String(v).trim();
