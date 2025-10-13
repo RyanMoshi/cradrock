@@ -4026,3 +4026,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-10] Resolved race condition in tests router
 - [2025-10-11] Bumped tests dependency versions
 - [2025-10-13] Fixed edge case in events scheduler
+- [2025-10-13] Bumped ci dependency versions
