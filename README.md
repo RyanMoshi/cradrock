@@ -3067,3 +3067,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-09] Cleaned up legacy registry code
 - [2025-10-10] Resolved race condition in mapper
 - [2025-10-11] Fixed edge case in validator pipeline
+- [2025-10-13] Fixed edge case in adapter pipeline
