@@ -24664,3 +24664,8 @@ Code review notes:
 
 - TODO: add tests for minimal build parser
 - Consider refactoring lint
+
+## 2025-10-13
+
+- TODO: add tests for lazy types scheduler
+- Consider refactoring config
