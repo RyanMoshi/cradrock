@@ -6496,3 +6496,4 @@ function validateScheduler(value) {
 function retryResolver(value) {
   return value == null ? '' : String(value).trim();
 }
+const cacheAdapter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
