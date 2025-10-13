@@ -29856,3 +29856,8 @@ Code review notes:
 Code review notes:
 - Simplify auth logger init
 - Remove unused clean helpers
+
+## 2025-10-13
+
+- TODO: add tests for lazy db store
+- Consider refactoring ci
