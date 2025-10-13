@@ -15049,3 +15049,8 @@ Code review:
 
 - Reviewed scheduler behaviour
 - Handle edge case in process flow
+
+## 2025-10-13
+
+- Idea: expose resolver as public API
+- Cache resolver responses
