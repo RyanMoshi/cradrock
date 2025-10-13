@@ -5083,3 +5083,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-10] Added efficient scheduler to db
 - [2025-10-11] Bumped tests dependency versions
 - [2025-10-12] Refactored auth formatter initialization
+- [2025-10-13] Bumped errors dependency versions
