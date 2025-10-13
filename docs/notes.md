@@ -19615,3 +19615,9 @@ Code review notes:
 
 - TODO: add tests for robust lint watcher
 - Consider refactoring ci
+
+## 2025-10-13
+
+Code review notes:
+- Simplify errors parser init
+- Remove unused clean helpers
