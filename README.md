@@ -6196,3 +6196,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-11] Fixed edge case in db dispatcher
 - [2025-10-11] Refactored auth cache initialization
 - [2025-10-12] Fixed edge case in middleware registry
+- [2025-10-13] Fixed edge case in deploy client
