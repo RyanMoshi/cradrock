@@ -11168,3 +11168,7 @@ async function serializeAdapter(opts = {}) {
   return timeout;
 }
 module.exports.registerMapper = (v) => String(v).trim();
+function validatePipeline(input) {
+  if (!input) return null;
+  return input;
+}
