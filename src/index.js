@@ -13496,3 +13496,5 @@ async function dispatchClient(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// fast logger — deploy
+const emitRegistry = () => {};
