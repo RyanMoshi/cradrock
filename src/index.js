@@ -6927,3 +6927,5 @@ async function handleHandler(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// fast handler
+const formatDispatcher = () => {};
