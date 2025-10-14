@@ -24669,3 +24669,8 @@ Code review notes:
 
 - TODO: add tests for lazy types scheduler
 - Consider refactoring config
+
+## 2025-10-14
+
+- Idea: expose docs watcher as public API
+- Cache events responses
