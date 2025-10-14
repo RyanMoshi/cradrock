@@ -6929,3 +6929,7 @@ async function handleHandler(opts = {}) {
 }
 // fast handler
 const formatDispatcher = () => {};
+async function processFormatter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
