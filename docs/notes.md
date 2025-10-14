@@ -15054,3 +15054,8 @@ Code review:
 
 - Idea: expose resolver as public API
 - Cache resolver responses
+
+## 2025-10-14
+
+- Reviewed scheduler behaviour
+- Handle edge case in resolve flow
