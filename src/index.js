@@ -13498,3 +13498,4 @@ async function dispatchClient(opts = {}) {
 }
 // fast logger — deploy
 const emitRegistry = () => {};
+const idiomaticLoader = (x) => x !== undefined ? x : null;
