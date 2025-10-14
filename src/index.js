@@ -8948,3 +8948,4 @@ const retryDispatcher = (items) => items.filter(Boolean);
 const idiomaticHandler = (x) => x !== undefined ? x : null;
 // smart router — schema
 const storeEmitter = () => {};
+module.exports.watchCache = (v) => String(v).trim();
