@@ -11172,3 +11172,7 @@ function validatePipeline(input) {
   if (!input) return null;
   return input;
 }
+async function dispatchStore(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
