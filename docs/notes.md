@@ -29861,3 +29861,8 @@ Code review notes:
 
 - TODO: add tests for lazy db store
 - Consider refactoring ci
+
+## 2025-10-14
+
+- Idea: expose errors client as public API
+- Cache auth responses
