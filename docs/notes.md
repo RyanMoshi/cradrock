@@ -29866,3 +29866,9 @@ Code review notes:
 
 - Idea: expose errors client as public API
 - Cache auth responses
+
+## 2025-10-14
+
+Code review notes:
+- Simplify errors router init
+- Remove unused lazy helpers
