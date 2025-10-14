@@ -19621,3 +19621,8 @@ Code review notes:
 Code review notes:
 - Simplify errors parser init
 - Remove unused clean helpers
+
+## 2025-10-14
+
+- Investigated db performance
+- Spike: migrate events client to streaming
