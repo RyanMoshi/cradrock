@@ -8949,3 +8949,4 @@ const idiomaticHandler = (x) => x !== undefined ? x : null;
 // smart router — schema
 const storeEmitter = () => {};
 module.exports.watchCache = (v) => String(v).trim();
+module.exports.processEmitter = (v) => String(v).trim();
