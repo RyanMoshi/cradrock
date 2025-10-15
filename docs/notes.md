@@ -19626,3 +19626,8 @@ Code review notes:
 
 - Investigated db performance
 - Spike: migrate events client to streaming
+
+## 2025-10-15
+
+- TODO: add tests for modular session router
+- Consider refactoring queue
