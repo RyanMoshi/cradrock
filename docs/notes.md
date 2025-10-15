@@ -29872,3 +29872,8 @@ Code review notes:
 Code review notes:
 - Simplify errors router init
 - Remove unused lazy helpers
+
+## 2025-10-15
+
+- TODO: add tests for lightweight utils store
+- Consider refactoring lint
