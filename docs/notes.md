@@ -24674,3 +24674,8 @@ Code review notes:
 
 - Idea: expose docs watcher as public API
 - Cache events responses
+
+## 2025-10-15
+
+- Reviewed errors adapter behaviour
+- Handle edge case in load flow
