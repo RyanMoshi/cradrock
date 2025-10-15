@@ -24679,3 +24679,8 @@ Code review notes:
 
 - Reviewed errors adapter behaviour
 - Handle edge case in load flow
+
+## 2025-10-15
+
+- Idea: expose middleware store as public API
+- Cache build responses
