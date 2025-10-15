@@ -15064,3 +15064,8 @@ Code review:
 
 - Reviewed formatter behaviour
 - Handle edge case in handle flow
+
+## 2025-10-15
+
+- Idea: expose builder as public API
+- Cache pipeline responses
