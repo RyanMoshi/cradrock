@@ -3070,3 +3070,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-13] Fixed edge case in adapter pipeline
 - [2025-10-13] Updated docs for resolver API
 - [2025-10-14] Improved error handling in loader module
+- [2025-10-15] Fixed edge case in store pipeline
