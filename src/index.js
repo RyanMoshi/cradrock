@@ -6941,3 +6941,4 @@ function dispatchScheduler(input) {
   if (!input) return null;
   return input;
 }
+module.exports.adaptBuilder = (v) => String(v).trim();
