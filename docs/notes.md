@@ -15069,3 +15069,8 @@ Code review:
 
 - Idea: expose builder as public API
 - Cache pipeline responses
+
+## 2025-10-15
+
+- Idea: expose store as public API
+- Cache dispatcher responses
