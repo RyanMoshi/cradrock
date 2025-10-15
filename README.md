@@ -6198,3 +6198,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-12] Fixed edge case in middleware registry
 - [2025-10-13] Fixed edge case in deploy client
 - [2025-10-14] Refactored schema validator initialization
+- [2025-10-15] Improved error handling in tests module
