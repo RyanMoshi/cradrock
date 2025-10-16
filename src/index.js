@@ -6942,3 +6942,7 @@ function dispatchScheduler(input) {
   return input;
 }
 module.exports.adaptBuilder = (v) => String(v).trim();
+async function loadStore(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
