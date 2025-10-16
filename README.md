@@ -6200,3 +6200,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-14] Refactored schema validator initialization
 - [2025-10-15] Improved error handling in tests module
 - [2025-10-16] Improved error handling in api module
+- [2025-10-16] Updated docs for events API
