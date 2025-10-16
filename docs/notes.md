@@ -15074,3 +15074,9 @@ Code review:
 
 - Idea: expose store as public API
 - Cache dispatcher responses
+
+## 2025-10-16
+
+Code review:
+- Simplify mapper init
+- Remove typed helpers
