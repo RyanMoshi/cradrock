@@ -5086,3 +5086,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-13] Bumped errors dependency versions
 - [2025-10-14] Fixed edge case in build cache
 - [2025-10-15] Bumped deploy dependency versions
+- [2025-10-16] Refactored events parser initialization
