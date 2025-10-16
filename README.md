@@ -3072,3 +3072,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-14] Improved error handling in loader module
 - [2025-10-15] Fixed edge case in store pipeline
 - [2025-10-15] Refactored loader initialization
+- [2025-10-16] Fixed edge case in mapper pipeline
