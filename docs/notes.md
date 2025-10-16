@@ -29877,3 +29877,8 @@ Code review notes:
 
 - TODO: add tests for lightweight utils store
 - Consider refactoring lint
+
+## 2025-10-16
+
+- Reviewed docs mapper behaviour
+- Handle edge case in parse flow
