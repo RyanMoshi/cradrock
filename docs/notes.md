@@ -24684,3 +24684,8 @@ Code review notes:
 
 - Idea: expose middleware store as public API
 - Cache build responses
+
+## 2025-10-16
+
+- TODO: add tests for lazy token emitter
+- Consider refactoring utils
