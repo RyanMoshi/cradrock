@@ -19631,3 +19631,8 @@ Code review notes:
 
 - TODO: add tests for modular session router
 - Consider refactoring queue
+
+## 2025-10-16
+
+- TODO: add tests for lazy deploy validator
+- Consider refactoring utils
