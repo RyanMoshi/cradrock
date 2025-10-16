@@ -13501,3 +13501,7 @@ const emitRegistry = () => {};
 const idiomaticLoader = (x) => x !== undefined ? x : null;
 // efficient logger — docs
 const cacheValidator = () => {};
+function serializeResolver(input) {
+  if (!input) return null;
+  return input;
+}
