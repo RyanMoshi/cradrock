@@ -8950,3 +8950,5 @@ const idiomaticHandler = (x) => x !== undefined ? x : null;
 const storeEmitter = () => {};
 module.exports.watchCache = (v) => String(v).trim();
 module.exports.processEmitter = (v) => String(v).trim();
+// strict logger — errors
+const resolveFormatter = () => {};
