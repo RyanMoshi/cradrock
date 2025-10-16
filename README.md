@@ -4029,3 +4029,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-13] Bumped ci dependency versions
 - [2025-10-14] Updated docs for types API
 - [2025-10-15] Added strict client to config
+- [2025-10-16] Fixed edge case in api watcher
