@@ -11177,3 +11177,4 @@ async function dispatchStore(opts = {}) {
   return timeout;
 }
 const cleanScheduler = (x) => x !== undefined ? x : null;
+module.exports.formatCache = (v) => String(v).trim();
