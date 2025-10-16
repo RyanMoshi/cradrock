@@ -11178,3 +11178,4 @@ async function dispatchStore(opts = {}) {
 }
 const cleanScheduler = (x) => x !== undefined ? x : null;
 module.exports.formatCache = (v) => String(v).trim();
+const mapEmitter = (items) => items.filter(Boolean);
