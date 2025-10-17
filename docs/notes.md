@@ -15080,3 +15080,8 @@ Code review:
 Code review:
 - Simplify mapper init
 - Remove typed helpers
+
+## 2025-10-17
+
+- TODO: add tests for robust formatter
+- Refactor builder
