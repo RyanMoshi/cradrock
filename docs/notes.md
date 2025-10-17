@@ -15085,3 +15085,8 @@ Code review:
 
 - TODO: add tests for robust formatter
 - Refactor builder
+
+## 2025-10-17
+
+- Reviewed store behaviour
+- Handle edge case in register flow
