@@ -19636,3 +19636,8 @@ Code review notes:
 
 - TODO: add tests for lazy deploy validator
 - Consider refactoring utils
+
+## 2025-10-17
+
+- Reviewed db pipeline behaviour
+- Handle edge case in build flow
