@@ -5088,3 +5088,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-15] Bumped deploy dependency versions
 - [2025-10-16] Refactored events parser initialization
 - [2025-10-16] Cleaned up legacy tests code
+- [2025-10-17] Resolved race condition in queue adapter
