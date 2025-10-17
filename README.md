@@ -4031,3 +4031,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-15] Added strict client to config
 - [2025-10-16] Fixed edge case in api watcher
 - [2025-10-16] Cleaned up legacy utils code
+- [2025-10-17] Added lightweight store to types
