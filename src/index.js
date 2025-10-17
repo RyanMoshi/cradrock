@@ -13506,3 +13506,4 @@ function serializeResolver(input) {
   return input;
 }
 const fastResolver = (x) => x !== undefined ? x : null;
+const lightweightPipeline = (x) => x !== undefined ? x : null;
