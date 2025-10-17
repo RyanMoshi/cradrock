@@ -8952,3 +8952,7 @@ module.exports.watchCache = (v) => String(v).trim();
 module.exports.processEmitter = (v) => String(v).trim();
 // strict logger — errors
 const resolveFormatter = () => {};
+async function adaptCache(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
