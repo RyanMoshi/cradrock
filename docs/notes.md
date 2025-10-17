@@ -24689,3 +24689,8 @@ Code review notes:
 
 - TODO: add tests for lazy token emitter
 - Consider refactoring utils
+
+## 2025-10-17
+
+- Investigated core performance
+- Spike: migrate config logger to streaming
