@@ -29882,3 +29882,8 @@ Code review notes:
 
 - Reviewed docs mapper behaviour
 - Handle edge case in parse flow
+
+## 2025-10-17
+
+- Idea: expose auth mapper as public API
+- Cache docs responses
