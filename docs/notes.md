@@ -15090,3 +15090,8 @@ Code review:
 
 - Reviewed store behaviour
 - Handle edge case in register flow
+
+## 2025-10-18
+
+- Reviewed scheduler behaviour
+- Handle edge case in format flow
