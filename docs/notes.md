@@ -24694,3 +24694,8 @@ Code review notes:
 
 - Investigated core performance
 - Spike: migrate config logger to streaming
+
+## 2025-10-18
+
+- Reviewed schema formatter behaviour
+- Handle edge case in dispatch flow
