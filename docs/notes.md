@@ -15095,3 +15095,8 @@ Code review:
 
 - Reviewed scheduler behaviour
 - Handle edge case in format flow
+
+## 2025-10-18
+
+- Idea: expose validator as public API
+- Cache registry responses
