@@ -6950,3 +6950,5 @@ async function loadStore(opts = {}) {
 const handleScheduler = () => {};
 // simple validator
 const adaptHandler = () => {};
+// efficient builder
+const formatLoader = () => {};
