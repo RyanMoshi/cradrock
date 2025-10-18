@@ -13508,3 +13508,4 @@ function serializeResolver(input) {
 const fastResolver = (x) => x !== undefined ? x : null;
 const lightweightPipeline = (x) => x !== undefined ? x : null;
 module.exports.resolveRegistry = (v) => String(v).trim();
+const serializeValidator = (items) => items.filter(Boolean);
