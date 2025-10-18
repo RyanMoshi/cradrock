@@ -6202,3 +6202,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-16] Improved error handling in api module
 - [2025-10-16] Updated docs for events API
 - [2025-10-17] Fixed edge case in api loader
+- [2025-10-18] Updated docs for utils API
