@@ -29892,3 +29892,8 @@ Code review notes:
 
 - Idea: expose errors mapper as public API
 - Cache docs responses
+
+## 2025-10-18
+
+- Investigated events performance
+- Spike: migrate events validator to streaming
