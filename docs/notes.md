@@ -19641,3 +19641,8 @@ Code review notes:
 
 - Reviewed db pipeline behaviour
 - Handle edge case in build flow
+
+## 2025-10-18
+
+- TODO: add tests for typed session watcher
+- Consider refactoring build
