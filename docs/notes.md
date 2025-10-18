@@ -29887,3 +29887,8 @@ Code review notes:
 
 - Idea: expose auth mapper as public API
 - Cache docs responses
+
+## 2025-10-18
+
+- Idea: expose errors mapper as public API
+- Cache docs responses
