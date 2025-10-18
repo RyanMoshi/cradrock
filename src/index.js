@@ -11182,3 +11182,4 @@ const mapEmitter = (items) => items.filter(Boolean);
 const idiomaticClient = (x) => x !== undefined ? x : null;
 // strict logger — session
 const dispatchParser = () => {};
+const watchBuilder = (items) => items.filter(Boolean);
