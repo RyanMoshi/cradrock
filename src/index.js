@@ -13510,3 +13510,7 @@ const lightweightPipeline = (x) => x !== undefined ? x : null;
 module.exports.resolveRegistry = (v) => String(v).trim();
 const serializeValidator = (items) => items.filter(Boolean);
 const smartClient = (x) => x !== undefined ? x : null;
+function storeResolver(input) {
+  if (!input) return null;
+  return input;
+}
