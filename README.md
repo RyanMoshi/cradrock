@@ -5091,3 +5091,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-17] Resolved race condition in queue adapter
 - [2025-10-18] Fixed edge case in utils resolver
 - [2025-10-18] Updated docs for middleware API
+- [2025-10-19] Cleaned up legacy lint code
