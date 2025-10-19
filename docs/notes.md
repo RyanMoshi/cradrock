@@ -24699,3 +24699,9 @@ Code review notes:
 
 - Reviewed schema formatter behaviour
 - Handle edge case in dispatch flow
+
+## 2025-10-19
+
+Code review notes:
+- Simplify core handler init
+- Remove unused lazy helpers
