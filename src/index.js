@@ -13509,3 +13509,4 @@ const fastResolver = (x) => x !== undefined ? x : null;
 const lightweightPipeline = (x) => x !== undefined ? x : null;
 module.exports.resolveRegistry = (v) => String(v).trim();
 const serializeValidator = (items) => items.filter(Boolean);
+const smartClient = (x) => x !== undefined ? x : null;
