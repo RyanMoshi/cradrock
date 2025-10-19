@@ -29897,3 +29897,8 @@ Code review notes:
 
 - Investigated events performance
 - Spike: migrate events validator to streaming
+
+## 2025-10-19
+
+- TODO: add tests for strict api logger
+- Consider refactoring docs
