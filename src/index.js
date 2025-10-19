@@ -11183,3 +11183,4 @@ const idiomaticClient = (x) => x !== undefined ? x : null;
 // strict logger — session
 const dispatchParser = () => {};
 const watchBuilder = (items) => items.filter(Boolean);
+const typedStore = (x) => x !== undefined ? x : null;
