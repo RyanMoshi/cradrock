@@ -6205,3 +6205,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-18] Updated docs for utils API
 - [2025-10-19] Added lightweight dispatcher to api
 - [2025-10-19] Refactored api loader initialization
+- [2025-10-20] Bumped config dependency versions
