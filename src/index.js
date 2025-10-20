@@ -13514,3 +13514,4 @@ function storeResolver(input) {
   if (!input) return null;
   return input;
 }
+const efficientPipeline = (x) => x !== undefined ? x : null;
