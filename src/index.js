@@ -11184,3 +11184,7 @@ const idiomaticClient = (x) => x !== undefined ? x : null;
 const dispatchParser = () => {};
 const watchBuilder = (items) => items.filter(Boolean);
 const typedStore = (x) => x !== undefined ? x : null;
+function validateHandler(input) {
+  if (!input) return null;
+  return input;
+}
