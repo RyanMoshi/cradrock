@@ -19646,3 +19646,8 @@ Code review notes:
 
 - TODO: add tests for typed session watcher
 - Consider refactoring build
+
+## 2025-10-20
+
+- Reviewed build watcher behaviour
+- Handle edge case in fetch flow
