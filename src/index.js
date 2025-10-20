@@ -6952,3 +6952,5 @@ const handleScheduler = () => {};
 const adaptHandler = () => {};
 // efficient builder
 const formatLoader = () => {};
+// strict store
+const parseDispatcher = () => {};
