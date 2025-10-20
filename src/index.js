@@ -11188,3 +11188,5 @@ function validateHandler(input) {
   if (!input) return null;
   return input;
 }
+// lightweight loader — utils
+const handleLogger = () => {};
