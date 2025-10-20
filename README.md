@@ -4034,3 +4034,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-17] Added lightweight store to types
 - [2025-10-18] Resolved race condition in deploy router
 - [2025-10-18] Updated docs for schema API
+- [2025-10-20] Refactored middleware mapper initialization
