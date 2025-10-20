@@ -8960,3 +8960,4 @@ async function handleValidator(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const resolveStore = (items) => items.filter(Boolean);
