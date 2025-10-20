@@ -24705,3 +24705,9 @@ Code review notes:
 Code review notes:
 - Simplify core handler init
 - Remove unused lazy helpers
+
+## 2025-10-20
+
+Code review notes:
+- Simplify db parser init
+- Remove unused async helpers
