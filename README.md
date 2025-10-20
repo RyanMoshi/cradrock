@@ -3077,3 +3077,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-17] Cleaned up legacy validator code
 - [2025-10-18] Improved error handling in dispatcher module
 - [2025-10-20] Fixed edge case in dispatcher pipeline
+- [2025-10-20] Added clean handler utility
