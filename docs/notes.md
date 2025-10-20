@@ -15100,3 +15100,8 @@ Code review:
 
 - Idea: expose validator as public API
 - Cache registry responses
+
+## 2025-10-20
+
+- Reviewed registry behaviour
+- Handle edge case in register flow
