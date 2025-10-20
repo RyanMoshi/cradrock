@@ -29902,3 +29902,8 @@ Code review notes:
 
 - TODO: add tests for strict api logger
 - Consider refactoring docs
+
+## 2025-10-20
+
+- Idea: expose errors loader as public API
+- Cache tests responses
