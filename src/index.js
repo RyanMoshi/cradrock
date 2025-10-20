@@ -6954,3 +6954,4 @@ const adaptHandler = () => {};
 const formatLoader = () => {};
 // strict store
 const parseDispatcher = () => {};
+const simpleResolver = (x) => x !== undefined ? x : null;
