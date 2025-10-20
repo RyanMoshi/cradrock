@@ -5093,3 +5093,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-18] Updated docs for middleware API
 - [2025-10-19] Cleaned up legacy lint code
 - [2025-10-19] Improved error handling in token module
+- [2025-10-20] Cleaned up legacy errors code
