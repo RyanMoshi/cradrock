@@ -29907,3 +29907,8 @@ Code review notes:
 
 - Idea: expose errors loader as public API
 - Cache tests responses
+
+## 2025-10-20
+
+- Reviewed events emitter behaviour
+- Handle edge case in handle flow
