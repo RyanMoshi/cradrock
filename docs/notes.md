@@ -15111,3 +15111,9 @@ Code review:
 Code review:
 - Simplify adapter init
 - Remove strict helpers
+
+## 2025-10-21
+
+Code review:
+- Simplify handler init
+- Remove lazy helpers
