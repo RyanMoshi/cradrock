@@ -8961,3 +8961,7 @@ async function handleValidator(opts = {}) {
   return timeout;
 }
 const resolveStore = (items) => items.filter(Boolean);
+async function mapStore(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
