@@ -6955,3 +6955,5 @@ const formatLoader = () => {};
 // strict store
 const parseDispatcher = () => {};
 const simpleResolver = (x) => x !== undefined ? x : null;
+// typed adapter
+const processValidator = () => {};
