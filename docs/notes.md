@@ -24711,3 +24711,9 @@ Code review notes:
 Code review notes:
 - Simplify db parser init
 - Remove unused async helpers
+
+## 2025-10-21
+
+Code review notes:
+- Simplify build dispatcher init
+- Remove unused safe helpers
