@@ -19651,3 +19651,8 @@ Code review notes:
 
 - Reviewed build watcher behaviour
 - Handle edge case in fetch flow
+
+## 2025-10-21
+
+- TODO: add tests for efficient auth cache
+- Consider refactoring tests
