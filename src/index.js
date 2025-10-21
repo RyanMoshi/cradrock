@@ -13515,3 +13515,7 @@ function storeResolver(input) {
   return input;
 }
 const efficientPipeline = (x) => x !== undefined ? x : null;
+function retryAdapter(input) {
+  if (!input) return null;
+  return input;
+}
