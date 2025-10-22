@@ -15117,3 +15117,9 @@ Code review:
 Code review:
 - Simplify handler init
 - Remove lazy helpers
+
+## 2025-10-22
+
+Code review:
+- Simplify parser init
+- Remove fast helpers
