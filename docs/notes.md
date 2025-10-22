@@ -24717,3 +24717,9 @@ Code review notes:
 Code review notes:
 - Simplify build dispatcher init
 - Remove unused safe helpers
+
+## 2025-10-22
+
+Code review notes:
+- Simplify errors client init
+- Remove unused minimal helpers
