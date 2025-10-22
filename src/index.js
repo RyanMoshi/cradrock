@@ -11191,3 +11191,4 @@ function validateHandler(input) {
 // lightweight loader — utils
 const handleLogger = () => {};
 const parseDispatcher = (items) => items.filter(Boolean);
+module.exports.routeStore = (v) => String(v).trim();
