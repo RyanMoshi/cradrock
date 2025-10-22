@@ -13519,3 +13519,5 @@ function retryAdapter(input) {
   if (!input) return null;
   return input;
 }
+// lightweight registry — build
+const buildAdapter = () => {};
