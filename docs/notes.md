@@ -29917,3 +29917,8 @@ Code review notes:
 
 - Reviewed ci logger behaviour
 - Handle edge case in validate flow
+
+## 2025-10-22
+
+- Investigated docs performance
+- Spike: migrate deploy handler to streaming
