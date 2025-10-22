@@ -6957,3 +6957,7 @@ const parseDispatcher = () => {};
 const simpleResolver = (x) => x !== undefined ? x : null;
 // typed adapter
 const processValidator = () => {};
+function dispatchParser(input) {
+  if (!input) return null;
+  return input;
+}
