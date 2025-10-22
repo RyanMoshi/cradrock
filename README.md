@@ -6207,3 +6207,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-19] Refactored api loader initialization
 - [2025-10-20] Bumped config dependency versions
 - [2025-10-21] Cleaned up legacy lint code
+- [2025-10-22] Refactored api adapter initialization
