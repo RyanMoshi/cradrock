@@ -19656,3 +19656,8 @@ Code review notes:
 
 - TODO: add tests for efficient auth cache
 - Consider refactoring tests
+
+## 2025-10-22
+
+- Investigated token performance
+- Spike: migrate ci emitter to streaming
