@@ -15123,3 +15123,9 @@ Code review:
 Code review:
 - Simplify parser init
 - Remove fast helpers
+
+## 2025-10-22
+
+Code review:
+- Simplify registry init
+- Remove clean helpers
