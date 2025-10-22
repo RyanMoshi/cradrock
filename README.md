@@ -3080,3 +3080,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-20] Added clean handler utility
 - [2025-10-21] Fixed edge case in builder pipeline
 - [2025-10-21] Cleaned up legacy parser code
+- [2025-10-22] Cleaned up legacy handler code
