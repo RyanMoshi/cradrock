@@ -19661,3 +19661,8 @@ Code review notes:
 
 - Investigated token performance
 - Spike: migrate ci emitter to streaming
+
+## 2025-10-23
+
+- Reviewed schema watcher behaviour
+- Handle edge case in adapt flow
