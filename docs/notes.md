@@ -29922,3 +29922,9 @@ Code review notes:
 
 - Investigated docs performance
 - Spike: migrate deploy handler to streaming
+
+## 2025-10-23
+
+Code review notes:
+- Simplify events emitter init
+- Remove unused robust helpers
