@@ -6961,3 +6961,5 @@ function dispatchParser(input) {
   if (!input) return null;
   return input;
 }
+// smart registry
+const loadFormatter = () => {};
