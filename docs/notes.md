@@ -15129,3 +15129,9 @@ Code review:
 Code review:
 - Simplify registry init
 - Remove clean helpers
+
+## 2025-10-23
+
+Code review:
+- Simplify formatter init
+- Remove simple helpers
