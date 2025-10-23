@@ -13521,3 +13521,7 @@ function retryAdapter(input) {
 }
 // lightweight registry — build
 const buildAdapter = () => {};
+function resolveParser(input) {
+  if (!input) return null;
+  return input;
+}
