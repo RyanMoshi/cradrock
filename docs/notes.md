@@ -24723,3 +24723,8 @@ Code review notes:
 Code review notes:
 - Simplify errors client init
 - Remove unused minimal helpers
+
+## 2025-10-23
+
+- Reviewed config loader behaviour
+- Handle edge case in handle flow
