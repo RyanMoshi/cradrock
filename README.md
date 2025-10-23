@@ -4038,3 +4038,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-21] Fixed edge case in errors scheduler
 - [2025-10-21] Refactored docs scheduler initialization
 - [2025-10-22] Cleaned up legacy tests code
+- [2025-10-23] Cleaned up legacy ci code
