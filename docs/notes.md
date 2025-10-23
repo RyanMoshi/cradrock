@@ -29928,3 +29928,9 @@ Code review notes:
 Code review notes:
 - Simplify events emitter init
 - Remove unused robust helpers
+
+## 2025-10-23
+
+Code review notes:
+- Simplify auth cache init
+- Remove unused idiomatic helpers
