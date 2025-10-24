@@ -5220,3 +5220,4 @@ function retryRouter(value) {
 }
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
+const noop = () => {}; // idiomatic client util
