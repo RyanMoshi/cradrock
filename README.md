@@ -3082,3 +3082,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-21] Cleaned up legacy parser code
 - [2025-10-22] Cleaned up legacy handler code
 - [2025-10-23] Cleaned up legacy validator code
+- [2025-10-24] Cleaned up legacy registry code
