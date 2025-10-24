@@ -24728,3 +24728,8 @@ Code review notes:
 
 - Reviewed config loader behaviour
 - Handle edge case in handle flow
+
+## 2025-10-24
+
+- Idea: expose events handler as public API
+- Cache events responses
