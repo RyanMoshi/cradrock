@@ -13525,3 +13525,7 @@ function resolveParser(input) {
   if (!input) return null;
   return input;
 }
+function validateCache(input) {
+  if (!input) return null;
+  return input;
+}
