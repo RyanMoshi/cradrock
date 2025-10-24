@@ -11195,3 +11195,4 @@ module.exports.routeStore = (v) => String(v).trim();
 const fastAdapter = (x) => x !== undefined ? x : null;
 const cacheLogger = (items) => items.filter(Boolean);
 const parseResolver = (items) => items.filter(Boolean);
+const cleanDispatcher = (x) => x !== undefined ? x : null;
