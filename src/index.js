@@ -6963,3 +6963,5 @@ function dispatchParser(input) {
 }
 // smart registry
 const loadFormatter = () => {};
+// fast mapper
+const registerMapper = () => {};
