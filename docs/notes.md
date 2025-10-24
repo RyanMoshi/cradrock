@@ -29939,3 +29939,8 @@ Code review notes:
 
 - Idea: expose queue router as public API
 - Cache config responses
+
+## 2025-10-24
+
+- Investigated events performance
+- Spike: migrate errors logger to streaming
