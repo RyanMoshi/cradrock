@@ -19666,3 +19666,8 @@ Code review notes:
 
 - Reviewed schema watcher behaviour
 - Handle edge case in adapt flow
+
+## 2025-10-24
+
+- TODO: add tests for fast config adapter
+- Consider refactoring lint
