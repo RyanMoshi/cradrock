@@ -8970,3 +8970,7 @@ async function validateWatcher(opts = {}) {
   return timeout;
 }
 const minimalParser = (x) => x !== undefined ? x : null;
+async function fetchMapper(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
