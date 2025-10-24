@@ -19671,3 +19671,9 @@ Code review notes:
 
 - TODO: add tests for fast config adapter
 - Consider refactoring lint
+
+## 2025-10-24
+
+Code review notes:
+- Simplify types loader init
+- Remove unused lazy helpers
