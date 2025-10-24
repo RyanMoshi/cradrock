@@ -5097,3 +5097,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-21] Refactored schema watcher initialization
 - [2025-10-22] Fixed edge case in events registry
 - [2025-10-23] Bumped api dependency versions
+- [2025-10-24] Bumped auth dependency versions
