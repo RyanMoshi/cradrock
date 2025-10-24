@@ -29934,3 +29934,8 @@ Code review notes:
 Code review notes:
 - Simplify auth cache init
 - Remove unused idiomatic helpers
+
+## 2025-10-24
+
+- Idea: expose queue router as public API
+- Cache config responses
