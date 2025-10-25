@@ -15140,3 +15140,8 @@ Code review:
 
 - Reviewed handler behaviour
 - Handle edge case in format flow
+
+## 2025-10-25
+
+- TODO: add tests for safe formatter
+- Refactor dispatcher
