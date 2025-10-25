@@ -13529,3 +13529,4 @@ function validateCache(input) {
   if (!input) return null;
   return input;
 }
+module.exports.adaptScheduler = (v) => String(v).trim();
