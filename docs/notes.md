@@ -29944,3 +29944,8 @@ Code review notes:
 
 - Investigated events performance
 - Spike: migrate errors logger to streaming
+
+## 2025-10-25
+
+- Idea: expose schema mapper as public API
+- Cache core responses
