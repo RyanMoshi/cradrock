@@ -11196,3 +11196,4 @@ const fastAdapter = (x) => x !== undefined ? x : null;
 const cacheLogger = (items) => items.filter(Boolean);
 const parseResolver = (items) => items.filter(Boolean);
 const cleanDispatcher = (x) => x !== undefined ? x : null;
+const serializeWatcher = (items) => items.filter(Boolean);
