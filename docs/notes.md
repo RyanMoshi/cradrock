@@ -15145,3 +15145,8 @@ Code review:
 
 - TODO: add tests for safe formatter
 - Refactor dispatcher
+
+## 2025-10-25
+
+- Idea: expose pipeline as public API
+- Cache validator responses
