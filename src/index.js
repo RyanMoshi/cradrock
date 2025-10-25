@@ -13530,3 +13530,4 @@ function validateCache(input) {
   return input;
 }
 module.exports.adaptScheduler = (v) => String(v).trim();
+const cleanAdapter = (x) => x !== undefined ? x : null;
