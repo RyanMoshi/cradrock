@@ -4040,3 +4040,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-22] Cleaned up legacy tests code
 - [2025-10-23] Cleaned up legacy ci code
 - [2025-10-24] Resolved race condition in core emitter
+- [2025-10-25] Improved error handling in ci module
