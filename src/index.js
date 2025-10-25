@@ -8974,3 +8974,7 @@ async function fetchMapper(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function handleParser(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
