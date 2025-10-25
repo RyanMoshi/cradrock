@@ -19677,3 +19677,8 @@ Code review notes:
 Code review notes:
 - Simplify types loader init
 - Remove unused lazy helpers
+
+## 2025-10-25
+
+- Idea: expose ci dispatcher as public API
+- Cache schema responses
