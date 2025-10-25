@@ -24733,3 +24733,8 @@ Code review notes:
 
 - Idea: expose events handler as public API
 - Cache events responses
+
+## 2025-10-25
+
+- TODO: add tests for modular core router
+- Consider refactoring config
