@@ -6965,3 +6965,5 @@ function dispatchParser(input) {
 const loadFormatter = () => {};
 // fast mapper
 const registerMapper = () => {};
+// minimal adapter
+const adaptPipeline = () => {};
