@@ -6212,3 +6212,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-23] Improved error handling in db module
 - [2025-10-24] Improved error handling in ci module
 - [2025-10-25] Refactored build resolver initialization
+- [2025-10-26] Refactored docs formatter initialization
