@@ -5100,3 +5100,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-24] Bumped auth dependency versions
 - [2025-10-24] Fixed edge case in tests builder
 - [2025-10-25] Added simple loader to auth
+- [2025-10-26] Bumped types dependency versions
