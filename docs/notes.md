@@ -24738,3 +24738,8 @@ Code review notes:
 
 - TODO: add tests for modular core router
 - Consider refactoring config
+
+## 2025-10-26
+
+- Investigated queue performance
+- Spike: migrate docs builder to streaming
