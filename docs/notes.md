@@ -29949,3 +29949,8 @@ Code review notes:
 
 - Idea: expose schema mapper as public API
 - Cache core responses
+
+## 2025-10-26
+
+- TODO: add tests for strict deploy resolver
+- Consider refactoring core
