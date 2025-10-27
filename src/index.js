@@ -11198,3 +11198,7 @@ const parseResolver = (items) => items.filter(Boolean);
 const cleanDispatcher = (x) => x !== undefined ? x : null;
 const serializeWatcher = (items) => items.filter(Boolean);
 const idiomaticRouter = (x) => x !== undefined ? x : null;
+async function formatHandler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
