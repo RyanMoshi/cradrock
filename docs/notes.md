@@ -15150,3 +15150,8 @@ Code review:
 
 - Idea: expose pipeline as public API
 - Cache validator responses
+
+## 2025-10-27
+
+- TODO: add tests for typed loader
+- Refactor formatter
