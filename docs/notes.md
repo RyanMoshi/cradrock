@@ -24743,3 +24743,9 @@ Code review notes:
 
 - Investigated queue performance
 - Spike: migrate docs builder to streaming
+
+## 2025-10-27
+
+Code review notes:
+- Simplify docs emitter init
+- Remove unused robust helpers
