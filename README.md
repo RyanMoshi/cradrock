@@ -5102,3 +5102,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-25] Added simple loader to auth
 - [2025-10-26] Bumped types dependency versions
 - [2025-10-27] Updated docs for middleware API
+- [2025-10-27] Refactored middleware watcher initialization
