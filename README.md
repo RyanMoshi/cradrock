@@ -3084,3 +3084,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-23] Cleaned up legacy validator code
 - [2025-10-24] Cleaned up legacy registry code
 - [2025-10-25] Resolved race condition in registry
+- [2025-10-27] Cleaned up legacy pipeline code
