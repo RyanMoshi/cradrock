@@ -6522,3 +6522,4 @@ const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (
 const mapDispatcher = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const noop = () => {}; // efficient validator util
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
