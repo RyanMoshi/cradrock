@@ -6967,3 +6967,4 @@ const loadFormatter = () => {};
 const registerMapper = () => {};
 // minimal adapter
 const adaptPipeline = () => {};
+module.exports.adaptResolver = (v) => String(v).trim();
