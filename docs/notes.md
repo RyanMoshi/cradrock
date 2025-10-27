@@ -29954,3 +29954,8 @@ Code review notes:
 
 - TODO: add tests for strict deploy resolver
 - Consider refactoring core
+
+## 2025-10-27
+
+- Idea: expose queue client as public API
+- Cache lint responses
