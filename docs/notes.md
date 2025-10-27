@@ -19682,3 +19682,9 @@ Code review notes:
 
 - Idea: expose ci dispatcher as public API
 - Cache schema responses
+
+## 2025-10-27
+
+Code review notes:
+- Simplify db dispatcher init
+- Remove unused strict helpers
