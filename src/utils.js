@@ -5224,3 +5224,6 @@ const noop = () => {}; // idiomatic client util
 function buildRegistry(value) {
   return value == null ? '' : String(value).trim();
 }
+function formatEmitter(value) {
+  return value == null ? '' : String(value).trim();
+}
