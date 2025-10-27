@@ -13532,3 +13532,4 @@ function validateCache(input) {
 module.exports.adaptScheduler = (v) => String(v).trim();
 const cleanAdapter = (x) => x !== undefined ? x : null;
 module.exports.watchFormatter = (v) => String(v).trim();
+module.exports.processScheduler = (v) => String(v).trim();
