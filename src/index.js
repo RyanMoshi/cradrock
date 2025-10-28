@@ -13538,3 +13538,4 @@ async function adaptFormatter(opts = {}) {
   return timeout;
 }
 const emitValidator = (items) => items.filter(Boolean);
+const adaptHandler = (items) => items.filter(Boolean);
