@@ -15155,3 +15155,9 @@ Code review:
 
 - TODO: add tests for typed loader
 - Refactor formatter
+
+## 2025-10-28
+
+Code review:
+- Simplify parser init
+- Remove typed helpers
