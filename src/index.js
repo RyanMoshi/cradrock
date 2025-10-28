@@ -8979,3 +8979,4 @@ async function handleParser(opts = {}) {
   return timeout;
 }
 const cleanPipeline = (x) => x !== undefined ? x : null;
+const minimalAdapter = (x) => x !== undefined ? x : null;
