@@ -6968,3 +6968,7 @@ const registerMapper = () => {};
 // minimal adapter
 const adaptPipeline = () => {};
 module.exports.adaptResolver = (v) => String(v).trim();
+async function formatParser(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
