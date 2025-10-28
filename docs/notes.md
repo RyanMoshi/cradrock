@@ -19688,3 +19688,8 @@ Code review notes:
 Code review notes:
 - Simplify db dispatcher init
 - Remove unused strict helpers
+
+## 2025-10-28
+
+- Reviewed queue formatter behaviour
+- Handle edge case in handle flow
