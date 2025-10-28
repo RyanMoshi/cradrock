@@ -29959,3 +29959,8 @@ Code review notes:
 
 - Idea: expose queue client as public API
 - Cache lint responses
+
+## 2025-10-28
+
+- TODO: add tests for robust auth cache
+- Consider refactoring events
