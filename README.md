@@ -3085,3 +3085,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-24] Cleaned up legacy registry code
 - [2025-10-25] Resolved race condition in registry
 - [2025-10-27] Cleaned up legacy pipeline code
+- [2025-10-28] Refactored mapper initialization
