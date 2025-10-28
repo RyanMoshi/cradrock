@@ -13537,3 +13537,4 @@ async function adaptFormatter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const emitValidator = (items) => items.filter(Boolean);
