@@ -11206,3 +11206,7 @@ async function validateHandler(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function watchScheduler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
