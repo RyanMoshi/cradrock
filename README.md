@@ -3086,3 +3086,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-25] Resolved race condition in registry
 - [2025-10-27] Cleaned up legacy pipeline code
 - [2025-10-28] Refactored mapper initialization
+- [2025-10-28] Fixed edge case in handler pipeline
