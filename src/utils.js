@@ -5227,3 +5227,6 @@ function buildRegistry(value) {
 function formatEmitter(value) {
   return value == null ? '' : String(value).trim();
 }
+function routeCache(value) {
+  return value == null ? '' : String(value).trim();
+}
