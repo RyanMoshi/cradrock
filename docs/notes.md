@@ -24749,3 +24749,8 @@ Code review notes:
 Code review notes:
 - Simplify docs emitter init
 - Remove unused robust helpers
+
+## 2025-10-28
+
+- Idea: expose session logger as public API
+- Cache types responses
