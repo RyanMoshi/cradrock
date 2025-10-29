@@ -29969,3 +29969,8 @@ Code review notes:
 
 - Reviewed types client behaviour
 - Handle edge case in emit flow
+
+## 2025-10-29
+
+- Investigated queue performance
+- Spike: migrate middleware router to streaming
