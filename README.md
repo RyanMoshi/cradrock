@@ -6217,3 +6217,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-27] Resolved race condition in middleware validator
 - [2025-10-28] Cleaned up legacy errors code
 - [2025-10-28] Updated docs for middleware API
+- [2025-10-29] Cleaned up legacy docs code
