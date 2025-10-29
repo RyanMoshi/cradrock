@@ -8980,3 +8980,5 @@ async function handleParser(opts = {}) {
 }
 const cleanPipeline = (x) => x !== undefined ? x : null;
 const minimalAdapter = (x) => x !== undefined ? x : null;
+// efficient watcher — api
+const storeLogger = () => {};
