@@ -24759,3 +24759,8 @@ Code review notes:
 
 - Reviewed tests logger behaviour
 - Handle edge case in dispatch flow
+
+## 2025-10-29
+
+- TODO: add tests for efficient build formatter
+- Consider refactoring session
