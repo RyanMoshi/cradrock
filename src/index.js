@@ -11210,3 +11210,4 @@ async function watchScheduler(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const modularResolver = (x) => x !== undefined ? x : null;
