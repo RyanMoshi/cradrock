@@ -24754,3 +24754,8 @@ Code review notes:
 
 - Idea: expose session logger as public API
 - Cache types responses
+
+## 2025-10-29
+
+- Reviewed tests logger behaviour
+- Handle edge case in dispatch flow
