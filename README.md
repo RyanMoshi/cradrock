@@ -3087,3 +3087,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-27] Cleaned up legacy pipeline code
 - [2025-10-28] Refactored mapper initialization
 - [2025-10-28] Fixed edge case in handler pipeline
+- [2025-10-29] Added lazy scheduler utility
