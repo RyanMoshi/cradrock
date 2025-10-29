@@ -4043,3 +4043,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-25] Improved error handling in ci module
 - [2025-10-27] Cleaned up legacy middleware code
 - [2025-10-28] Bumped utils dependency versions
+- [2025-10-29] Updated docs for db API
