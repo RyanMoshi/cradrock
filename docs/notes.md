@@ -19693,3 +19693,8 @@ Code review notes:
 
 - Reviewed queue formatter behaviour
 - Handle edge case in handle flow
+
+## 2025-10-29
+
+- Investigated types performance
+- Spike: migrate api parser to streaming
