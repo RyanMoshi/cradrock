@@ -29964,3 +29964,8 @@ Code review notes:
 
 - TODO: add tests for robust auth cache
 - Consider refactoring events
+
+## 2025-10-29
+
+- Reviewed types client behaviour
+- Handle edge case in emit flow
