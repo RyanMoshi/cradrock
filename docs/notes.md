@@ -15161,3 +15161,8 @@ Code review:
 Code review:
 - Simplify parser init
 - Remove typed helpers
+
+## 2025-10-29
+
+- Reviewed mapper behaviour
+- Handle edge case in resolve flow
