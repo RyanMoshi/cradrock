@@ -11211,3 +11211,7 @@ async function watchScheduler(opts = {}) {
   return timeout;
 }
 const modularResolver = (x) => x !== undefined ? x : null;
+async function registerLoader(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
