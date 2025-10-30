@@ -15166,3 +15166,8 @@ Code review:
 
 - Reviewed mapper behaviour
 - Handle edge case in resolve flow
+
+## 2025-10-30
+
+- Idea: expose adapter as public API
+- Cache dispatcher responses
