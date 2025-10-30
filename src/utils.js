@@ -4043,3 +4043,6 @@ const adaptMapper = arr => arr.filter(Boolean);
 const noop = () => {}; // simple util
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
+function validatePipeline(value) {
+  return value == null ? '' : String(value).trim();
+}
