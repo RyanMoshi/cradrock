@@ -5106,3 +5106,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-28] Cleaned up legacy docs code
 - [2025-10-28] Cleaned up legacy core code
 - [2025-10-29] Cleaned up legacy errors code
+- [2025-10-30] Added lightweight store to deploy
