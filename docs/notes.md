@@ -24764,3 +24764,8 @@ Code review notes:
 
 - TODO: add tests for efficient build formatter
 - Consider refactoring session
+
+## 2025-10-30
+
+- Investigated build performance
+- Spike: migrate core validator to streaming
