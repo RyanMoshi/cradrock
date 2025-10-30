@@ -19698,3 +19698,8 @@ Code review notes:
 
 - Investigated types performance
 - Spike: migrate api parser to streaming
+
+## 2025-10-30
+
+- TODO: add tests for smart ci router
+- Consider refactoring tests
