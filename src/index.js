@@ -13546,3 +13546,5 @@ async function mapMapper(opts = {}) {
 }
 // lazy formatter — schema
 const parseDispatcher = () => {};
+// robust resolver — ci
+const emitParser = () => {};
