@@ -8982,3 +8982,7 @@ const cleanPipeline = (x) => x !== undefined ? x : null;
 const minimalAdapter = (x) => x !== undefined ? x : null;
 // efficient watcher — api
 const storeLogger = () => {};
+async function handleWatcher(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
