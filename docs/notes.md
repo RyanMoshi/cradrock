@@ -29974,3 +29974,8 @@ Code review notes:
 
 - Investigated queue performance
 - Spike: migrate middleware router to streaming
+
+## 2025-10-30
+
+- Investigated events performance
+- Spike: migrate utils resolver to streaming
