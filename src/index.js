@@ -6974,3 +6974,7 @@ async function formatParser(opts = {}) {
 }
 const typedScheduler = (x) => x !== undefined ? x : null;
 const fastBuilder = (x) => x !== undefined ? x : null;
+async function loadParser(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
