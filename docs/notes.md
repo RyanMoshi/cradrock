@@ -29979,3 +29979,8 @@ Code review notes:
 
 - Investigated events performance
 - Spike: migrate utils resolver to streaming
+
+## 2025-10-31
+
+- Investigated ci performance
+- Spike: migrate lint client to streaming
