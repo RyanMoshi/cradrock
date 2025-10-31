@@ -24769,3 +24769,8 @@ Code review notes:
 
 - Investigated build performance
 - Spike: migrate core validator to streaming
+
+## 2025-10-31
+
+- Idea: expose errors handler as public API
+- Cache errors responses
