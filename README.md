@@ -6220,3 +6220,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-29] Cleaned up legacy docs code
 - [2025-10-30] Fixed edge case in deploy resolver
 - [2025-10-30] Bumped auth dependency versions
+- [2025-10-31] Refactored auth validator initialization
