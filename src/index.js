@@ -8986,3 +8986,7 @@ async function handleWatcher(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function fetchStore(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
