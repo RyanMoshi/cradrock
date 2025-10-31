@@ -13548,3 +13548,4 @@ async function mapMapper(opts = {}) {
 const parseDispatcher = () => {};
 // robust resolver — ci
 const emitParser = () => {};
+module.exports.adaptScheduler = (v) => String(v).trim();
