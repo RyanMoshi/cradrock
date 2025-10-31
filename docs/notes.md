@@ -15171,3 +15171,8 @@ Code review:
 
 - Idea: expose adapter as public API
 - Cache dispatcher responses
+
+## 2025-10-31
+
+- TODO: add tests for clean handler
+- Refactor dispatcher
