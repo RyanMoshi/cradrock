@@ -4045,3 +4045,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-28] Bumped utils dependency versions
 - [2025-10-29] Updated docs for db API
 - [2025-10-30] Fixed edge case in tests router
+- [2025-10-31] Refactored token formatter initialization
