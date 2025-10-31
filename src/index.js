@@ -13549,3 +13549,7 @@ const parseDispatcher = () => {};
 // robust resolver — ci
 const emitParser = () => {};
 module.exports.adaptScheduler = (v) => String(v).trim();
+async function serializeLogger(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
