@@ -19708,3 +19708,9 @@ Code review notes:
 
 - TODO: add tests for idiomatic lint formatter
 - Consider refactoring middleware
+
+## 2025-10-31
+
+Code review notes:
+- Simplify db parser init
+- Remove unused typed helpers
