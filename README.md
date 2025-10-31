@@ -3091,3 +3091,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-29] Fixed edge case in resolver pipeline
 - [2025-10-30] Resolved race condition in mapper
 - [2025-10-30] Fixed edge case in formatter pipeline
+- [2025-10-31] Refactored loader initialization
