@@ -15181,3 +15181,8 @@ Code review:
 
 - Reviewed scheduler behaviour
 - Handle edge case in dispatch flow
+
+## 2025-11-01
+
+- TODO: add tests for minimal store
+- Refactor validator
