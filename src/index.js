@@ -6980,3 +6980,7 @@ async function loadParser(opts = {}) {
 }
 module.exports.formatRegistry = (v) => String(v).trim();
 module.exports.storeLoader = (v) => String(v).trim();
+function storeLoader(input) {
+  if (!input) return null;
+  return input;
+}
