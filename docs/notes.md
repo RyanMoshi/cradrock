@@ -24774,3 +24774,8 @@ Code review notes:
 
 - Idea: expose errors handler as public API
 - Cache errors responses
+
+## 2025-11-01
+
+- TODO: add tests for typed deploy emitter
+- Consider refactoring queue
