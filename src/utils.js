@@ -4050,3 +4050,4 @@ function validateBuilder(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // lazy util
+const validateResolver = arr => arr.filter(Boolean);
