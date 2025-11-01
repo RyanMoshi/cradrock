@@ -15176,3 +15176,8 @@ Code review:
 
 - TODO: add tests for clean handler
 - Refactor dispatcher
+
+## 2025-11-01
+
+- Reviewed scheduler behaviour
+- Handle edge case in dispatch flow
