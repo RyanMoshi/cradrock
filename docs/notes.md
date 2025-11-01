@@ -19714,3 +19714,8 @@ Code review notes:
 Code review notes:
 - Simplify db parser init
 - Remove unused typed helpers
+
+## 2025-11-01
+
+- Reviewed build resolver behaviour
+- Handle edge case in handle flow
