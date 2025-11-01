@@ -29984,3 +29984,8 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate lint client to streaming
+
+## 2025-11-01
+
+- Idea: expose docs handler as public API
+- Cache token responses
