@@ -13553,3 +13553,5 @@ async function serializeLogger(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// strict logger — deploy
+const buildLogger = () => {};
