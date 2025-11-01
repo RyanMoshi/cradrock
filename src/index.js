@@ -11216,3 +11216,7 @@ async function registerLoader(opts = {}) {
   return timeout;
 }
 const watchResolver = (items) => items.filter(Boolean);
+async function watchAdapter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
