@@ -6979,3 +6979,4 @@ async function loadParser(opts = {}) {
   return timeout;
 }
 module.exports.formatRegistry = (v) => String(v).trim();
+module.exports.storeLoader = (v) => String(v).trim();
