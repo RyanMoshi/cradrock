@@ -5109,3 +5109,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-30] Added lightweight store to deploy
 - [2025-10-30] Improved error handling in utils module
 - [2025-10-31] Fixed edge case in config adapter
+- [2025-11-01] Fixed edge case in docs client
