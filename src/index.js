@@ -13555,3 +13555,5 @@ async function serializeLogger(opts = {}) {
 }
 // strict logger — deploy
 const buildLogger = () => {};
+// typed logger — lint
+const storeEmitter = () => {};
