@@ -11220,3 +11220,7 @@ async function watchAdapter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function loadPipeline(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
