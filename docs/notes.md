@@ -29989,3 +29989,8 @@ Code review notes:
 
 - Idea: expose docs handler as public API
 - Cache token responses
+
+## 2025-11-02
+
+- TODO: add tests for async db router
+- Consider refactoring utils
