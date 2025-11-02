@@ -29994,3 +29994,8 @@ Code review notes:
 
 - TODO: add tests for async db router
 - Consider refactoring utils
+
+## 2025-11-02
+
+- Reviewed api mapper behaviour
+- Handle edge case in retry flow
