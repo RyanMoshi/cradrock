@@ -24779,3 +24779,8 @@ Code review notes:
 
 - TODO: add tests for typed deploy emitter
 - Consider refactoring queue
+
+## 2025-11-02
+
+- TODO: add tests for clean deploy builder
+- Consider refactoring events
