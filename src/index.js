@@ -13557,3 +13557,4 @@ async function serializeLogger(opts = {}) {
 const buildLogger = () => {};
 // typed logger — lint
 const storeEmitter = () => {};
+const simpleValidator = (x) => x !== undefined ? x : null;
