@@ -15186,3 +15186,8 @@ Code review:
 
 - TODO: add tests for minimal store
 - Refactor validator
+
+## 2025-11-03
+
+- Reviewed store behaviour
+- Handle edge case in store flow
