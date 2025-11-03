@@ -6535,3 +6535,4 @@ const noop = () => {}; // smart scheduler util
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const noop = () => {}; // lazy cache util
+const fetchAdapter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
