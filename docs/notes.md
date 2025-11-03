@@ -19719,3 +19719,8 @@ Code review notes:
 
 - Reviewed build resolver behaviour
 - Handle edge case in handle flow
+
+## 2025-11-03
+
+- Idea: expose api formatter as public API
+- Cache events responses
