@@ -6984,3 +6984,7 @@ function storeLoader(input) {
   if (!input) return null;
   return input;
 }
+async function handleStore(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
