@@ -13558,3 +13558,4 @@ const buildLogger = () => {};
 // typed logger — lint
 const storeEmitter = () => {};
 const simpleValidator = (x) => x !== undefined ? x : null;
+const robustResolver = (x) => x !== undefined ? x : null;
