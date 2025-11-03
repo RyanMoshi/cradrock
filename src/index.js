@@ -8994,3 +8994,4 @@ function validateMapper(input) {
   if (!input) return null;
   return input;
 }
+const modularRouter = (x) => x !== undefined ? x : null;
