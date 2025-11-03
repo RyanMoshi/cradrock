@@ -24784,3 +24784,8 @@ Code review notes:
 
 - TODO: add tests for clean deploy builder
 - Consider refactoring events
+
+## 2025-11-03
+
+- Investigated session performance
+- Spike: migrate ci validator to streaming
