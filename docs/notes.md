@@ -24789,3 +24789,8 @@ Code review notes:
 
 - Investigated session performance
 - Spike: migrate ci validator to streaming
+
+## 2025-11-03
+
+- Idea: expose lint cache as public API
+- Cache db responses
