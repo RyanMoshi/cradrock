@@ -29999,3 +29999,8 @@ Code review notes:
 
 - Reviewed api mapper behaviour
 - Handle edge case in retry flow
+
+## 2025-11-03
+
+- Idea: expose lint scheduler as public API
+- Cache middleware responses
