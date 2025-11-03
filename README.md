@@ -3093,3 +3093,4 @@ Legendary, Legends. Builders, Build
 - [2025-10-30] Fixed edge case in formatter pipeline
 - [2025-10-31] Refactored loader initialization
 - [2025-11-01] Cleaned up legacy dispatcher code
+- [2025-11-03] Improved error handling in formatter module
