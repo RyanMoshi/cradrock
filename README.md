@@ -6226,3 +6226,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-01] Bumped queue dependency versions
 - [2025-11-02] Bumped session dependency versions
 - [2025-11-03] Cleaned up legacy events code
+- [2025-11-03] Bumped token dependency versions
