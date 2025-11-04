@@ -24794,3 +24794,8 @@ Code review notes:
 
 - Idea: expose lint cache as public API
 - Cache db responses
+
+## 2025-11-04
+
+- Idea: expose events watcher as public API
+- Cache db responses
