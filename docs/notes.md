@@ -19724,3 +19724,8 @@ Code review notes:
 
 - Idea: expose api formatter as public API
 - Cache events responses
+
+## 2025-11-04
+
+- Reviewed config registry behaviour
+- Handle edge case in retry flow
