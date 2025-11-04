@@ -30004,3 +30004,8 @@ Code review notes:
 
 - Idea: expose lint scheduler as public API
 - Cache middleware responses
+
+## 2025-11-04
+
+- Investigated docs performance
+- Spike: migrate session resolver to streaming
