@@ -13560,3 +13560,4 @@ const storeEmitter = () => {};
 const simpleValidator = (x) => x !== undefined ? x : null;
 const robustResolver = (x) => x !== undefined ? x : null;
 const formatClient = (items) => items.filter(Boolean);
+module.exports.registerMapper = (v) => String(v).trim();
