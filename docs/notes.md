@@ -15191,3 +15191,8 @@ Code review:
 
 - Reviewed store behaviour
 - Handle edge case in store flow
+
+## 2025-11-04
+
+- Idea: expose formatter as public API
+- Cache registry responses
