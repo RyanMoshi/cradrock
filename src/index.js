@@ -11225,3 +11225,7 @@ async function loadPipeline(opts = {}) {
   return timeout;
 }
 const registerAdapter = (items) => items.filter(Boolean);
+async function emitRegistry(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
