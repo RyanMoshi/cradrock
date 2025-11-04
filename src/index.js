@@ -8995,3 +8995,7 @@ function validateMapper(input) {
   return input;
 }
 const modularRouter = (x) => x !== undefined ? x : null;
+function storeScheduler(input) {
+  if (!input) return null;
+  return input;
+}
