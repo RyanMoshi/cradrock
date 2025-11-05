@@ -15196,3 +15196,8 @@ Code review:
 
 - Idea: expose formatter as public API
 - Cache registry responses
+
+## 2025-11-05
+
+- Reviewed scheduler behaviour
+- Handle edge case in map flow
