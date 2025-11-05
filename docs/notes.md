@@ -24799,3 +24799,8 @@ Code review notes:
 
 - Idea: expose events watcher as public API
 - Cache db responses
+
+## 2025-11-05
+
+- TODO: add tests for clean token emitter
+- Consider refactoring auth
