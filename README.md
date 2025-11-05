@@ -5113,3 +5113,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-02] Fixed edge case in errors scheduler
 - [2025-11-03] Resolved race condition in config loader
 - [2025-11-04] Resolved race condition in utils validator
+- [2025-11-05] Bumped deploy dependency versions
