@@ -30009,3 +30009,9 @@ Code review notes:
 
 - Investigated docs performance
 - Spike: migrate session resolver to streaming
+
+## 2025-11-05
+
+Code review notes:
+- Simplify token resolver init
+- Remove unused strict helpers
