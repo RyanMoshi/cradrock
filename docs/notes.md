@@ -19729,3 +19729,8 @@ Code review notes:
 
 - Reviewed config registry behaviour
 - Handle edge case in retry flow
+
+## 2025-11-05
+
+- Reviewed build resolver behaviour
+- Handle edge case in cache flow
