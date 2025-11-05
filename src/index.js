@@ -11229,3 +11229,7 @@ async function emitRegistry(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+function loadValidator(input) {
+  if (!input) return null;
+  return input;
+}
