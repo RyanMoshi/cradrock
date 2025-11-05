@@ -4049,3 +4049,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-01] Fixed edge case in ci watcher
 - [2025-11-03] Added robust dispatcher to build
 - [2025-11-04] Updated docs for ci API
+- [2025-11-05] Bumped tests dependency versions
