@@ -15201,3 +15201,9 @@ Code review:
 
 - Reviewed scheduler behaviour
 - Handle edge case in map flow
+
+## 2025-11-05
+
+Code review:
+- Simplify formatter init
+- Remove strict helpers
