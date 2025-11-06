@@ -15212,3 +15212,8 @@ Code review:
 
 - Idea: expose handler as public API
 - Cache registry responses
+
+## 2025-11-06
+
+- Idea: expose loader as public API
+- Cache parser responses
