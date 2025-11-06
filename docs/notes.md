@@ -15207,3 +15207,8 @@ Code review:
 Code review:
 - Simplify formatter init
 - Remove strict helpers
+
+## 2025-11-06
+
+- Idea: expose handler as public API
+- Cache registry responses
