@@ -6992,3 +6992,7 @@ const cleanParser = (x) => x !== undefined ? x : null;
 module.exports.handleScheduler = (v) => String(v).trim();
 // fast handler
 const adaptHandler = () => {};
+function buildFormatter(input) {
+  if (!input) return null;
+  return input;
+}
