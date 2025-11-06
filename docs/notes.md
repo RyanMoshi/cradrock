@@ -30015,3 +30015,8 @@ Code review notes:
 Code review notes:
 - Simplify token resolver init
 - Remove unused strict helpers
+
+## 2025-11-06
+
+- Investigated session performance
+- Spike: migrate errors mapper to streaming
