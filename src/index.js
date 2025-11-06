@@ -6990,3 +6990,5 @@ async function handleStore(opts = {}) {
 }
 const cleanParser = (x) => x !== undefined ? x : null;
 module.exports.handleScheduler = (v) => String(v).trim();
+// fast handler
+const adaptHandler = () => {};
