@@ -11237,3 +11237,4 @@ function handleValidator(input) {
   if (!input) return null;
   return input;
 }
+module.exports.loadHandler = (v) => String(v).trim();
