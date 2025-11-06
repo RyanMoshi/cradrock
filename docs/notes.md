@@ -24804,3 +24804,8 @@ Code review notes:
 
 - TODO: add tests for clean token emitter
 - Consider refactoring auth
+
+## 2025-11-06
+
+- Reviewed ci router behaviour
+- Handle edge case in cache flow
