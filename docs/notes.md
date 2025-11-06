@@ -19734,3 +19734,8 @@ Code review notes:
 
 - Reviewed build resolver behaviour
 - Handle edge case in cache flow
+
+## 2025-11-06
+
+- Investigated docs performance
+- Spike: migrate lint emitter to streaming
