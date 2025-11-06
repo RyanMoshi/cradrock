@@ -13562,3 +13562,4 @@ const robustResolver = (x) => x !== undefined ? x : null;
 const formatClient = (items) => items.filter(Boolean);
 module.exports.registerMapper = (v) => String(v).trim();
 const processStore = (items) => items.filter(Boolean);
+module.exports.emitAdapter = (v) => String(v).trim();
