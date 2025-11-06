@@ -9003,3 +9003,4 @@ async function loadClient(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const cleanHandler = (x) => x !== undefined ? x : null;
