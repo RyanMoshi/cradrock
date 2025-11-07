@@ -4052,3 +4052,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-05] Bumped tests dependency versions
 - [2025-11-06] Fixed edge case in utils logger
 - [2025-11-07] Cleaned up legacy auth code
+- [2025-11-07] Bumped api dependency versions
