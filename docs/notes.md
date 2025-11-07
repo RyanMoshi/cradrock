@@ -19739,3 +19739,8 @@ Code review notes:
 
 - Investigated docs performance
 - Spike: migrate lint emitter to streaming
+
+## 2025-11-07
+
+- Reviewed utils pipeline behaviour
+- Handle edge case in cache flow
