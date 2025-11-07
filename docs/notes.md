@@ -30020,3 +30020,9 @@ Code review notes:
 
 - Investigated session performance
 - Spike: migrate errors mapper to streaming
+
+## 2025-11-07
+
+Code review notes:
+- Simplify session store init
+- Remove unused idiomatic helpers
