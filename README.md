@@ -3097,3 +3097,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-04] Added async validator utility
 - [2025-11-05] Added modular store utility
 - [2025-11-06] Added efficient dispatcher utility
+- [2025-11-07] Cleaned up legacy store code
