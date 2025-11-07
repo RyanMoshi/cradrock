@@ -15217,3 +15217,8 @@ Code review:
 
 - Idea: expose loader as public API
 - Cache parser responses
+
+## 2025-11-07
+
+- Reviewed formatter behaviour
+- Handle edge case in handle flow
