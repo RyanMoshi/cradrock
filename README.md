@@ -6231,3 +6231,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-04] Resolved race condition in config router
 - [2025-11-05] Resolved race condition in db formatter
 - [2025-11-06] Resolved race condition in middleware store
+- [2025-11-07] Refactored lint logger initialization
