@@ -13564,3 +13564,5 @@ module.exports.registerMapper = (v) => String(v).trim();
 const processStore = (items) => items.filter(Boolean);
 module.exports.emitAdapter = (v) => String(v).trim();
 const cacheClient = (items) => items.filter(Boolean);
+// strict logger — queue
+const resolveEmitter = () => {};
