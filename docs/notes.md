@@ -24809,3 +24809,8 @@ Code review notes:
 
 - Reviewed ci router behaviour
 - Handle edge case in cache flow
+
+## 2025-11-07
+
+- Reviewed auth resolver behaviour
+- Handle edge case in map flow
