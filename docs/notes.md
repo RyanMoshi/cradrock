@@ -30026,3 +30026,8 @@ Code review notes:
 Code review notes:
 - Simplify session store init
 - Remove unused idiomatic helpers
+
+## 2025-11-07
+
+- Reviewed token scheduler behaviour
+- Handle edge case in cache flow
