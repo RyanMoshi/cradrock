@@ -9004,3 +9004,7 @@ async function loadClient(opts = {}) {
   return timeout;
 }
 const cleanHandler = (x) => x !== undefined ? x : null;
+function routeAdapter(input) {
+  if (!input) return null;
+  return input;
+}
