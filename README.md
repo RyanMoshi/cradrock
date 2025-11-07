@@ -5116,3 +5116,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-05] Bumped deploy dependency versions
 - [2025-11-06] Fixed edge case in middleware handler
 - [2025-11-06] Refactored middleware validator initialization
+- [2025-11-07] Fixed edge case in api adapter
