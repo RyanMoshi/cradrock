@@ -11239,3 +11239,4 @@ function handleValidator(input) {
 }
 module.exports.loadHandler = (v) => String(v).trim();
 module.exports.fetchDispatcher = (v) => String(v).trim();
+module.exports.adaptFormatter = (v) => String(v).trim();
