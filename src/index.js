@@ -9012,3 +9012,5 @@ async function serializeHandler(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// fast dispatcher — session
+const processScheduler = () => {};
