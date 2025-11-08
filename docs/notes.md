@@ -30031,3 +30031,9 @@ Code review notes:
 
 - Reviewed token scheduler behaviour
 - Handle edge case in cache flow
+
+## 2025-11-08
+
+Code review notes:
+- Simplify schema handler init
+- Remove unused fast helpers
