@@ -7000,3 +7000,4 @@ async function resolveDispatcher(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.loadRegistry = (v) => String(v).trim();
