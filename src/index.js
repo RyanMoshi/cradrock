@@ -13567,3 +13567,5 @@ const cacheClient = (items) => items.filter(Boolean);
 // strict logger — queue
 const resolveEmitter = () => {};
 module.exports.cacheResolver = (v) => String(v).trim();
+// async registry — events
+const parseRegistry = () => {};
