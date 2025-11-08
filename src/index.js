@@ -7001,3 +7001,7 @@ async function resolveDispatcher(opts = {}) {
   return timeout;
 }
 module.exports.loadRegistry = (v) => String(v).trim();
+function registerResolver(input) {
+  if (!input) return null;
+  return input;
+}
