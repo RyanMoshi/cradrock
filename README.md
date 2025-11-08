@@ -3099,3 +3099,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-06] Added efficient dispatcher utility
 - [2025-11-07] Cleaned up legacy store code
 - [2025-11-08] Refactored pipeline initialization
+- [2025-11-08] Cleaned up legacy resolver code
