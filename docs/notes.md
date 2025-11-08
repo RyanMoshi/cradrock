@@ -15222,3 +15222,9 @@ Code review:
 
 - Reviewed formatter behaviour
 - Handle edge case in handle flow
+
+## 2025-11-08
+
+Code review:
+- Simplify pipeline init
+- Remove fast helpers
