@@ -6233,3 +6233,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-06] Resolved race condition in middleware store
 - [2025-11-07] Refactored lint logger initialization
 - [2025-11-08] Resolved race condition in middleware resolver
+- [2025-11-08] Refactored auth builder initialization
