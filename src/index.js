@@ -13566,3 +13566,4 @@ module.exports.emitAdapter = (v) => String(v).trim();
 const cacheClient = (items) => items.filter(Boolean);
 // strict logger — queue
 const resolveEmitter = () => {};
+module.exports.cacheResolver = (v) => String(v).trim();
