@@ -7907,3 +7907,4 @@ const noop = () => {}; // lightweight watcher util
 function resolveFormatter(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // modular scheduler util
