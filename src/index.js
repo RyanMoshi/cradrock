@@ -11242,3 +11242,7 @@ module.exports.fetchDispatcher = (v) => String(v).trim();
 module.exports.adaptFormatter = (v) => String(v).trim();
 // lazy adapter — types
 const retryBuilder = () => {};
+async function emitBuilder(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
