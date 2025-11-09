@@ -30037,3 +30037,8 @@ Code review notes:
 Code review notes:
 - Simplify schema handler init
 - Remove unused fast helpers
+
+## 2025-11-09
+
+- Investigated schema performance
+- Spike: migrate ci cache to streaming
