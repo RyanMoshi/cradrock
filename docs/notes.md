@@ -30042,3 +30042,8 @@ Code review notes:
 
 - Investigated schema performance
 - Spike: migrate ci cache to streaming
+
+## 2025-11-09
+
+- Investigated core performance
+- Spike: migrate token handler to streaming
