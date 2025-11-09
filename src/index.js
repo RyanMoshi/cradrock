@@ -13569,3 +13569,4 @@ const resolveEmitter = () => {};
 module.exports.cacheResolver = (v) => String(v).trim();
 // async registry — events
 const parseRegistry = () => {};
+module.exports.retryParser = (v) => String(v).trim();
