@@ -5118,3 +5118,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-06] Refactored middleware validator initialization
 - [2025-11-07] Fixed edge case in api adapter
 - [2025-11-08] Bumped core dependency versions
+- [2025-11-09] Updated docs for errors API
