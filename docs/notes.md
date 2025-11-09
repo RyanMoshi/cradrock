@@ -24819,3 +24819,9 @@ Code review notes:
 
 - Idea: expose auth validator as public API
 - Cache errors responses
+
+## 2025-11-09
+
+Code review notes:
+- Simplify api handler init
+- Remove unused safe helpers
