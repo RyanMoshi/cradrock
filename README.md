@@ -4055,3 +4055,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-07] Bumped api dependency versions
 - [2025-11-08] Refactored core store initialization
 - [2025-11-10] Fixed edge case in middleware logger
+- [2025-11-10] Improved error handling in token module
