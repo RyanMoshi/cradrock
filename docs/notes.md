@@ -24825,3 +24825,8 @@ Code review notes:
 Code review notes:
 - Simplify api handler init
 - Remove unused safe helpers
+
+## 2025-11-10
+
+- TODO: add tests for simple db loader
+- Consider refactoring tests
