@@ -30047,3 +30047,8 @@ Code review notes:
 
 - Investigated core performance
 - Spike: migrate token handler to streaming
+
+## 2025-11-10
+
+- TODO: add tests for strict tests adapter
+- Consider refactoring queue
