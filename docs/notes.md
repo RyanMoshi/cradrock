@@ -24830,3 +24830,8 @@ Code review notes:
 
 - TODO: add tests for simple db loader
 - Consider refactoring tests
+
+## 2025-11-10
+
+- Idea: expose events watcher as public API
+- Cache lint responses
