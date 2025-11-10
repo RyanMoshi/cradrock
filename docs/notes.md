@@ -19754,3 +19754,9 @@ Code review notes:
 
 - Reviewed config resolver behaviour
 - Handle edge case in parse flow
+
+## 2025-11-10
+
+Code review notes:
+- Simplify events parser init
+- Remove unused robust helpers
