@@ -15228,3 +15228,8 @@ Code review:
 Code review:
 - Simplify pipeline init
 - Remove fast helpers
+
+## 2025-11-10
+
+- TODO: add tests for modular loader
+- Refactor scheduler
