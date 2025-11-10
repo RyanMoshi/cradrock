@@ -7006,3 +7006,7 @@ function registerResolver(input) {
   return input;
 }
 module.exports.dispatchPipeline = (v) => String(v).trim();
+async function validateHandler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
