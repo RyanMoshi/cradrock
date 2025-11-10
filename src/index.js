@@ -7005,3 +7005,4 @@ function registerResolver(input) {
   if (!input) return null;
   return input;
 }
+module.exports.dispatchPipeline = (v) => String(v).trim();
