@@ -9014,3 +9014,4 @@ async function serializeHandler(opts = {}) {
 }
 // fast dispatcher — session
 const processScheduler = () => {};
+const simpleEmitter = (x) => x !== undefined ? x : null;
