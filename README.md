@@ -6236,3 +6236,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-08] Refactored auth builder initialization
 - [2025-11-09] Refactored session scheduler initialization
 - [2025-11-09] Refactored build resolver initialization
+- [2025-11-10] Bumped docs dependency versions
