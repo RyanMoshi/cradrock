@@ -30052,3 +30052,8 @@ Code review notes:
 
 - TODO: add tests for strict tests adapter
 - Consider refactoring queue
+
+## 2025-11-11
+
+- TODO: add tests for efficient db store
+- Consider refactoring db
