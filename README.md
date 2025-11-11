@@ -5121,3 +5121,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-09] Updated docs for errors API
 - [2025-11-09] Resolved race condition in events builder
 - [2025-11-10] Refactored tests emitter initialization
+- [2025-11-11] Added minimal pipeline to token
