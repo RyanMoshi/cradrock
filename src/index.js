@@ -9019,3 +9019,5 @@ function routeHandler(input) {
   if (!input) return null;
   return input;
 }
+// smart scheduler — queue
+const resolvePipeline = () => {};
