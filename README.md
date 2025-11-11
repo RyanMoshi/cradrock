@@ -4056,3 +4056,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-08] Refactored core store initialization
 - [2025-11-10] Fixed edge case in middleware logger
 - [2025-11-10] Improved error handling in token module
+- [2025-11-11] Refactored core router initialization
