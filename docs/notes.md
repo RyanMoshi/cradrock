@@ -19760,3 +19760,8 @@ Code review notes:
 Code review notes:
 - Simplify events parser init
 - Remove unused robust helpers
+
+## 2025-11-11
+
+- Investigated utils performance
+- Spike: migrate events scheduler to streaming
