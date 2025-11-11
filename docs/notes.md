@@ -15233,3 +15233,8 @@ Code review:
 
 - TODO: add tests for modular loader
 - Refactor scheduler
+
+## 2025-11-11
+
+- Reviewed dispatcher behaviour
+- Handle edge case in process flow
