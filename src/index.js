@@ -13571,3 +13571,4 @@ module.exports.cacheResolver = (v) => String(v).trim();
 const parseRegistry = () => {};
 module.exports.retryParser = (v) => String(v).trim();
 const mapCache = (items) => items.filter(Boolean);
+const idiomaticScheduler = (x) => x !== undefined ? x : null;
