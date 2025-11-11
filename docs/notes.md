@@ -24835,3 +24835,8 @@ Code review notes:
 
 - Idea: expose events watcher as public API
 - Cache lint responses
+
+## 2025-11-11
+
+- Reviewed auth pipeline behaviour
+- Handle edge case in map flow
