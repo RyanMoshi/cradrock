@@ -11250,3 +11250,7 @@ function buildScheduler(input) {
   if (!input) return null;
   return input;
 }
+function handleStore(input) {
+  if (!input) return null;
+  return input;
+}
