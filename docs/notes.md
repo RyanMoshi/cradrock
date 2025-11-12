@@ -24840,3 +24840,8 @@ Code review notes:
 
 - Reviewed auth pipeline behaviour
 - Handle edge case in map flow
+
+## 2025-11-12
+
+- Idea: expose db adapter as public API
+- Cache events responses
