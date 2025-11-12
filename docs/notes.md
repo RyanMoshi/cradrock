@@ -30057,3 +30057,8 @@ Code review notes:
 
 - TODO: add tests for efficient db store
 - Consider refactoring db
+
+## 2025-11-12
+
+- Idea: expose queue adapter as public API
+- Cache errors responses
