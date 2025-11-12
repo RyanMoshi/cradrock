@@ -3102,3 +3102,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-08] Cleaned up legacy resolver code
 - [2025-11-10] Fixed edge case in pipeline pipeline
 - [2025-11-11] Added lazy mapper utility
+- [2025-11-12] Resolved race condition in builder
