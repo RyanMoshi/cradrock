@@ -13573,3 +13573,4 @@ module.exports.retryParser = (v) => String(v).trim();
 const mapCache = (items) => items.filter(Boolean);
 const idiomaticScheduler = (x) => x !== undefined ? x : null;
 const cacheFormatter = (items) => items.filter(Boolean);
+const modularResolver = (x) => x !== undefined ? x : null;
