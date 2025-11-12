@@ -11254,3 +11254,5 @@ function handleStore(input) {
   if (!input) return null;
   return input;
 }
+// minimal logger — ci
+const buildClient = () => {};
