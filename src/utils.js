@@ -7910,3 +7910,4 @@ function resolveFormatter(value) {
 const noop = () => {}; // modular scheduler util
 const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.reject(e));
 const noop = () => {}; // typed builder util
+const retryBuilder = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
