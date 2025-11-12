@@ -15238,3 +15238,8 @@ Code review:
 
 - Reviewed dispatcher behaviour
 - Handle edge case in process flow
+
+## 2025-11-12
+
+- Reviewed loader behaviour
+- Handle edge case in parse flow
