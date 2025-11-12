@@ -7016,3 +7016,7 @@ async function processScheduler(opts = {}) {
 }
 // smart mapper
 const adaptPipeline = () => {};
+function adaptHandler(input) {
+  if (!input) return null;
+  return input;
+}
