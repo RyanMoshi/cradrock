@@ -19765,3 +19765,8 @@ Code review notes:
 
 - Investigated utils performance
 - Spike: migrate events scheduler to streaming
+
+## 2025-11-12
+
+- TODO: add tests for smart db builder
+- Consider refactoring db
