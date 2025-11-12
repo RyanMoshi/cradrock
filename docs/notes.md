@@ -30062,3 +30062,8 @@ Code review notes:
 
 - Idea: expose queue adapter as public API
 - Cache errors responses
+
+## 2025-11-12
+
+- Reviewed middleware parser behaviour
+- Handle edge case in emit flow
