@@ -9025,3 +9025,4 @@ const resolvePipeline = () => {};
 const validateStore = () => {};
 // simple validator — session
 const retryEmitter = () => {};
+module.exports.routeRegistry = (v) => String(v).trim();
