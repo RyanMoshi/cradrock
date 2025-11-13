@@ -24845,3 +24845,8 @@ Code review notes:
 
 - Idea: expose db adapter as public API
 - Cache events responses
+
+## 2025-11-13
+
+- Idea: expose utils scheduler as public API
+- Cache tests responses
