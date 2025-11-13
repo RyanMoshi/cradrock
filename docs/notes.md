@@ -15243,3 +15243,8 @@ Code review:
 
 - Reviewed loader behaviour
 - Handle edge case in parse flow
+
+## 2025-11-13
+
+- Idea: expose dispatcher as public API
+- Cache adapter responses
