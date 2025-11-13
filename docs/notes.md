@@ -19770,3 +19770,8 @@ Code review notes:
 
 - TODO: add tests for smart db builder
 - Consider refactoring db
+
+## 2025-11-13
+
+- Reviewed db parser behaviour
+- Handle edge case in dispatch flow
