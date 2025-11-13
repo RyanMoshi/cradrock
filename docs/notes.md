@@ -30067,3 +30067,8 @@ Code review notes:
 
 - Reviewed middleware parser behaviour
 - Handle edge case in emit flow
+
+## 2025-11-13
+
+- TODO: add tests for modular ci logger
+- Consider refactoring db
