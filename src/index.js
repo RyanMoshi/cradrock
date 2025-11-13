@@ -7020,3 +7020,7 @@ function adaptHandler(input) {
   if (!input) return null;
   return input;
 }
+function adaptAdapter(input) {
+  if (!input) return null;
+  return input;
+}
