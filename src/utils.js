@@ -7913,3 +7913,4 @@ const noop = () => {}; // typed builder util
 const retryBuilder = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const storeBuilder = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
+const noop = () => {}; // simple mapper util
