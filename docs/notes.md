@@ -24850,3 +24850,8 @@ Code review notes:
 
 - Idea: expose utils scheduler as public API
 - Cache tests responses
+
+## 2025-11-14
+
+- Idea: expose types adapter as public API
+- Cache core responses
