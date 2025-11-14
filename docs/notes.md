@@ -30072,3 +30072,8 @@ Code review notes:
 
 - TODO: add tests for modular ci logger
 - Consider refactoring db
+
+## 2025-11-14
+
+- TODO: add tests for clean auth adapter
+- Consider refactoring token
