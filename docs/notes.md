@@ -19780,3 +19780,8 @@ Code review notes:
 
 - Reviewed session formatter behaviour
 - Handle edge case in load flow
+
+## 2025-11-14
+
+- Investigated schema performance
+- Spike: migrate events scheduler to streaming
