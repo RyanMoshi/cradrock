@@ -6242,3 +6242,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-12] Resolved race condition in build formatter
 - [2025-11-13] Bumped events dependency versions
 - [2025-11-14] Bumped schema dependency versions
+- [2025-11-14] Resolved race condition in queue adapter
