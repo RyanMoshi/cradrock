@@ -6241,3 +6241,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-11] Bumped api dependency versions
 - [2025-11-12] Resolved race condition in build formatter
 - [2025-11-13] Bumped events dependency versions
+- [2025-11-14] Bumped schema dependency versions
