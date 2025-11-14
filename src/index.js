@@ -9026,3 +9026,4 @@ const validateStore = () => {};
 // simple validator — session
 const retryEmitter = () => {};
 module.exports.routeRegistry = (v) => String(v).trim();
+const mapEmitter = (items) => items.filter(Boolean);
