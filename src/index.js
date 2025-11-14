@@ -13576,3 +13576,4 @@ const cacheFormatter = (items) => items.filter(Boolean);
 const modularResolver = (x) => x !== undefined ? x : null;
 // typed parser — schema
 const routeStore = () => {};
+const cleanAdapter = (x) => x !== undefined ? x : null;
