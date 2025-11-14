@@ -11257,3 +11257,4 @@ function handleStore(input) {
 // minimal logger — ci
 const buildClient = () => {};
 const retryDispatcher = (items) => items.filter(Boolean);
+const fastEmitter = (x) => x !== undefined ? x : null;
