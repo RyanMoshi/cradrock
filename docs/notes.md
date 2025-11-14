@@ -15248,3 +15248,8 @@ Code review:
 
 - Idea: expose dispatcher as public API
 - Cache adapter responses
+
+## 2025-11-14
+
+- Idea: expose scheduler as public API
+- Cache adapter responses
