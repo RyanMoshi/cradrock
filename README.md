@@ -4059,3 +4059,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-11] Refactored core router initialization
 - [2025-11-12] Improved error handling in config module
 - [2025-11-13] Improved error handling in db module
+- [2025-11-14] Fixed edge case in token client
