@@ -30077,3 +30077,9 @@ Code review notes:
 
 - TODO: add tests for clean auth adapter
 - Consider refactoring token
+
+## 2025-11-15
+
+Code review notes:
+- Simplify auth handler init
+- Remove unused modular helpers
