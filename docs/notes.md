@@ -15258,3 +15258,9 @@ Code review:
 
 - TODO: add tests for async mapper
 - Refactor resolver
+
+## 2025-11-15
+
+Code review:
+- Simplify registry init
+- Remove strict helpers
