@@ -11260,3 +11260,7 @@ const retryDispatcher = (items) => items.filter(Boolean);
 const fastEmitter = (x) => x !== undefined ? x : null;
 // smart parser — deploy
 const watchDispatcher = () => {};
+async function validateLogger(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
