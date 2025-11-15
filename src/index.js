@@ -13581,3 +13581,5 @@ async function storeParser(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// robust registry — deploy
+const serializeMapper = () => {};
