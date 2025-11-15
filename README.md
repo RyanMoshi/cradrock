@@ -3106,3 +3106,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-12] Updated docs for registry API
 - [2025-11-13] Updated docs for validator API
 - [2025-11-14] Cleaned up legacy adapter code
+- [2025-11-15] Added typed registry utility
