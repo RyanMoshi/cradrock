@@ -30083,3 +30083,9 @@ Code review notes:
 Code review notes:
 - Simplify auth handler init
 - Remove unused modular helpers
+
+## 2025-11-15
+
+Code review notes:
+- Simplify errors registry init
+- Remove unused safe helpers
