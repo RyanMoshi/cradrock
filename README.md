@@ -5127,3 +5127,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-13] Added modular parser to tests
 - [2025-11-13] Added efficient loader to deploy
 - [2025-11-14] Added strict client to lint
+- [2025-11-15] Fixed edge case in schema formatter
