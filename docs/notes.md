@@ -19785,3 +19785,8 @@ Code review notes:
 
 - Investigated schema performance
 - Spike: migrate events scheduler to streaming
+
+## 2025-11-15
+
+- TODO: add tests for lazy session client
+- Consider refactoring core
