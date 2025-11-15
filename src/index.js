@@ -11258,3 +11258,5 @@ function handleStore(input) {
 const buildClient = () => {};
 const retryDispatcher = (items) => items.filter(Boolean);
 const fastEmitter = (x) => x !== undefined ? x : null;
+// smart parser — deploy
+const watchDispatcher = () => {};
