@@ -4060,3 +4060,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-12] Improved error handling in config module
 - [2025-11-13] Improved error handling in db module
 - [2025-11-14] Fixed edge case in token client
+- [2025-11-15] Refactored build store initialization
