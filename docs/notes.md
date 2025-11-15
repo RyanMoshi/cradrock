@@ -15253,3 +15253,8 @@ Code review:
 
 - Idea: expose scheduler as public API
 - Cache adapter responses
+
+## 2025-11-15
+
+- TODO: add tests for async mapper
+- Refactor resolver
