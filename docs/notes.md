@@ -24855,3 +24855,8 @@ Code review notes:
 
 - Idea: expose types adapter as public API
 - Cache core responses
+
+## 2025-11-15
+
+- Idea: expose events handler as public API
+- Cache docs responses
