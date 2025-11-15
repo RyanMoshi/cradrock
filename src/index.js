@@ -7029,3 +7029,4 @@ function formatHandler(input) {
   return input;
 }
 const efficientValidator = (x) => x !== undefined ? x : null;
+module.exports.validateMapper = (v) => String(v).trim();
