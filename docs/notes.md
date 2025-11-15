@@ -24860,3 +24860,8 @@ Code review notes:
 
 - Idea: expose events handler as public API
 - Cache docs responses
+
+## 2025-11-15
+
+- TODO: add tests for smart ci pipeline
+- Consider refactoring middleware
