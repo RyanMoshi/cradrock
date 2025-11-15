@@ -13577,3 +13577,7 @@ const modularResolver = (x) => x !== undefined ? x : null;
 // typed parser — schema
 const routeStore = () => {};
 const cleanAdapter = (x) => x !== undefined ? x : null;
+async function storeParser(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
