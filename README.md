@@ -6245,3 +6245,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-14] Resolved race condition in queue adapter
 - [2025-11-15] Bumped events dependency versions
 - [2025-11-16] Updated docs for core API
+- [2025-11-16] Refactored token parser initialization
