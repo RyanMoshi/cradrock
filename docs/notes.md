@@ -30089,3 +30089,8 @@ Code review notes:
 Code review notes:
 - Simplify errors registry init
 - Remove unused safe helpers
+
+## 2025-11-16
+
+- TODO: add tests for efficient docs handler
+- Consider refactoring config
