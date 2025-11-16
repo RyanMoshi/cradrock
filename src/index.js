@@ -11265,3 +11265,4 @@ async function validateLogger(opts = {}) {
   return timeout;
 }
 const safeBuilder = (x) => x !== undefined ? x : null;
+module.exports.loadAdapter = (v) => String(v).trim();
