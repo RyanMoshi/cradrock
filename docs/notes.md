@@ -24865,3 +24865,9 @@ Code review notes:
 
 - TODO: add tests for smart ci pipeline
 - Consider refactoring middleware
+
+## 2025-11-16
+
+Code review notes:
+- Simplify ci dispatcher init
+- Remove unused async helpers
