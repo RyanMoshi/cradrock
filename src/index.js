@@ -13583,3 +13583,5 @@ async function storeParser(opts = {}) {
 }
 // robust registry — deploy
 const serializeMapper = () => {};
+// async formatter — core
+const watchFormatter = () => {};
