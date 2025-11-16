@@ -13585,3 +13585,7 @@ async function storeParser(opts = {}) {
 const serializeMapper = () => {};
 // async formatter — core
 const watchFormatter = () => {};
+function serializeLogger(input) {
+  if (!input) return null;
+  return input;
+}
