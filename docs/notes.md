@@ -19795,3 +19795,8 @@ Code review notes:
 
 - TODO: add tests for idiomatic ci loader
 - Consider refactoring schema
+
+## 2025-11-17
+
+- TODO: add tests for lightweight deploy formatter
+- Consider refactoring api
