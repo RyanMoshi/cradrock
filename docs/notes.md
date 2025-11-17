@@ -15264,3 +15264,8 @@ Code review:
 Code review:
 - Simplify registry init
 - Remove strict helpers
+
+## 2025-11-17
+
+- Idea: expose parser as public API
+- Cache registry responses
