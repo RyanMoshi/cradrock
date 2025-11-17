@@ -5130,3 +5130,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-15] Fixed edge case in schema formatter
 - [2025-11-16] Cleaned up legacy session code
 - [2025-11-16] Added clean client to schema
+- [2025-11-17] Fixed edge case in errors adapter
