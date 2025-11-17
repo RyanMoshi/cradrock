@@ -4062,3 +4062,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-14] Fixed edge case in token client
 - [2025-11-15] Refactored build store initialization
 - [2025-11-17] Fixed edge case in token loader
+- [2025-11-17] Fixed edge case in schema router
