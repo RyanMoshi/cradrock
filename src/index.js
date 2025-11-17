@@ -13589,3 +13589,7 @@ function serializeLogger(input) {
   if (!input) return null;
   return input;
 }
+async function watchDispatcher(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
