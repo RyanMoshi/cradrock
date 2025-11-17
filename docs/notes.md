@@ -19790,3 +19790,8 @@ Code review notes:
 
 - TODO: add tests for lazy session client
 - Consider refactoring core
+
+## 2025-11-17
+
+- TODO: add tests for idiomatic ci loader
+- Consider refactoring schema
