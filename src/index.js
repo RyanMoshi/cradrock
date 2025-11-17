@@ -7030,3 +7030,7 @@ function formatHandler(input) {
 }
 const efficientValidator = (x) => x !== undefined ? x : null;
 module.exports.validateMapper = (v) => String(v).trim();
+async function storeBuilder(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
