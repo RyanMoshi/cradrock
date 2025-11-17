@@ -30094,3 +30094,9 @@ Code review notes:
 
 - TODO: add tests for efficient docs handler
 - Consider refactoring config
+
+## 2025-11-17
+
+Code review notes:
+- Simplify utils mapper init
+- Remove unused robust helpers
