@@ -24871,3 +24871,8 @@ Code review notes:
 Code review notes:
 - Simplify ci dispatcher init
 - Remove unused async helpers
+
+## 2025-11-17
+
+- TODO: add tests for modular lint mapper
+- Consider refactoring build
