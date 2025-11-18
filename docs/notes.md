@@ -24876,3 +24876,8 @@ Code review notes:
 
 - TODO: add tests for modular lint mapper
 - Consider refactoring build
+
+## 2025-11-18
+
+- Idea: expose middleware builder as public API
+- Cache auth responses
