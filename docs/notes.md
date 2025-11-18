@@ -24881,3 +24881,9 @@ Code review notes:
 
 - Idea: expose middleware builder as public API
 - Cache auth responses
+
+## 2025-11-18
+
+Code review notes:
+- Simplify deploy scheduler init
+- Remove unused minimal helpers
