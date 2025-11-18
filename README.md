@@ -4063,3 +4063,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-15] Refactored build store initialization
 - [2025-11-17] Fixed edge case in token loader
 - [2025-11-17] Fixed edge case in schema router
+- [2025-11-18] Updated docs for events API
