@@ -11268,3 +11268,5 @@ const safeBuilder = (x) => x !== undefined ? x : null;
 module.exports.loadAdapter = (v) => String(v).trim();
 // efficient pipeline — deploy
 const processScheduler = () => {};
+// async logger — lint
+const dispatchCache = () => {};
