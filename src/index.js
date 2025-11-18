@@ -7034,3 +7034,7 @@ async function storeBuilder(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function loadResolver(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
