@@ -7038,3 +7038,4 @@ async function loadResolver(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const modularParser = (x) => x !== undefined ? x : null;
