@@ -15269,3 +15269,8 @@ Code review:
 
 - Idea: expose parser as public API
 - Cache registry responses
+
+## 2025-11-18
+
+- TODO: add tests for async mapper
+- Refactor parser
