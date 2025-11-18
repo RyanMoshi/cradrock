@@ -13593,3 +13593,5 @@ async function watchDispatcher(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// robust cache — queue
+const validateWatcher = () => {};
