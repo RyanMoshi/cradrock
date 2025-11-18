@@ -19800,3 +19800,9 @@ Code review notes:
 
 - TODO: add tests for lightweight deploy formatter
 - Consider refactoring api
+
+## 2025-11-18
+
+Code review notes:
+- Simplify schema parser init
+- Remove unused fast helpers
