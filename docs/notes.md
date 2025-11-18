@@ -30100,3 +30100,8 @@ Code review notes:
 Code review notes:
 - Simplify utils mapper init
 - Remove unused robust helpers
+
+## 2025-11-18
+
+- Investigated errors performance
+- Spike: migrate api parser to streaming
