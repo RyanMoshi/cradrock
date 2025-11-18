@@ -9030,3 +9030,7 @@ const mapEmitter = (items) => items.filter(Boolean);
 const fetchStore = (items) => items.filter(Boolean);
 module.exports.mapFormatter = (v) => String(v).trim();
 module.exports.serializeMapper = (v) => String(v).trim();
+function serializeDispatcher(input) {
+  if (!input) return null;
+  return input;
+}
