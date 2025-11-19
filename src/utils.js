@@ -6560,3 +6560,6 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 function watchWatcher(value) {
   return value == null ? '' : String(value).trim();
 }
+function cacheValidator(value) {
+  return value == null ? '' : String(value).trim();
+}
