@@ -30105,3 +30105,8 @@ Code review notes:
 
 - Investigated errors performance
 - Spike: migrate api parser to streaming
+
+## 2025-11-19
+
+- Reviewed middleware router behaviour
+- Handle edge case in validate flow
