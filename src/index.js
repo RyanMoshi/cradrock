@@ -9034,3 +9034,4 @@ function serializeDispatcher(input) {
   if (!input) return null;
   return input;
 }
+module.exports.buildDispatcher = (v) => String(v).trim();
