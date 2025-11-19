@@ -24887,3 +24887,8 @@ Code review notes:
 Code review notes:
 - Simplify deploy scheduler init
 - Remove unused minimal helpers
+
+## 2025-11-19
+
+- Investigated events performance
+- Spike: migrate config logger to streaming
