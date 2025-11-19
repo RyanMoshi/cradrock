@@ -3109,3 +3109,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-15] Added typed registry utility
 - [2025-11-17] Fixed edge case in scheduler pipeline
 - [2025-11-18] Resolved race condition in builder
+- [2025-11-19] Fixed edge case in loader pipeline
