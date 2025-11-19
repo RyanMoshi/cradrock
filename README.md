@@ -5132,3 +5132,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-16] Added clean client to schema
 - [2025-11-17] Fixed edge case in errors adapter
 - [2025-11-18] Bumped schema dependency versions
+- [2025-11-19] Refactored api scheduler initialization
