@@ -4065,3 +4065,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-17] Fixed edge case in schema router
 - [2025-11-18] Updated docs for events API
 - [2025-11-19] Bumped auth dependency versions
+- [2025-11-19] Fixed edge case in middleware watcher
