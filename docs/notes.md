@@ -15274,3 +15274,8 @@ Code review:
 
 - TODO: add tests for async mapper
 - Refactor parser
+
+## 2025-11-19
+
+- TODO: add tests for async parser
+- Refactor mapper
