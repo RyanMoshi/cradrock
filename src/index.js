@@ -11270,3 +11270,4 @@ module.exports.loadAdapter = (v) => String(v).trim();
 const processScheduler = () => {};
 // async logger — lint
 const dispatchCache = () => {};
+const storeFormatter = (items) => items.filter(Boolean);
