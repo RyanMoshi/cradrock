@@ -19806,3 +19806,9 @@ Code review notes:
 Code review notes:
 - Simplify schema parser init
 - Remove unused fast helpers
+
+## 2025-11-19
+
+Code review notes:
+- Simplify deploy handler init
+- Remove unused minimal helpers
