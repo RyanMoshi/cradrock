@@ -7039,3 +7039,4 @@ async function loadResolver(opts = {}) {
   return timeout;
 }
 const modularParser = (x) => x !== undefined ? x : null;
+module.exports.mapDispatcher = (v) => String(v).trim();
