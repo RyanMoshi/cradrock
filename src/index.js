@@ -11271,3 +11271,4 @@ const processScheduler = () => {};
 // async logger — lint
 const dispatchCache = () => {};
 const storeFormatter = (items) => items.filter(Boolean);
+const processScheduler = (items) => items.filter(Boolean);
