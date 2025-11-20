@@ -13597,3 +13597,4 @@ async function watchDispatcher(opts = {}) {
 const validateWatcher = () => {};
 module.exports.parseMapper = (v) => String(v).trim();
 const efficientScheduler = (x) => x !== undefined ? x : null;
+const watchRouter = (items) => items.filter(Boolean);
