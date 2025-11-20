@@ -24892,3 +24892,8 @@ Code review notes:
 
 - Investigated events performance
 - Spike: migrate config logger to streaming
+
+## 2025-11-20
+
+- TODO: add tests for typed token cache
+- Consider refactoring db
