@@ -19812,3 +19812,8 @@ Code review notes:
 Code review notes:
 - Simplify deploy handler init
 - Remove unused minimal helpers
+
+## 2025-11-20
+
+- Reviewed db logger behaviour
+- Handle edge case in handle flow
