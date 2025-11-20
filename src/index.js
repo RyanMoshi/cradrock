@@ -9035,3 +9035,4 @@ function serializeDispatcher(input) {
   return input;
 }
 module.exports.buildDispatcher = (v) => String(v).trim();
+const loadResolver = (items) => items.filter(Boolean);
