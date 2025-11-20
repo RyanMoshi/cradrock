@@ -6251,3 +6251,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-18] Improved error handling in events module
 - [2025-11-19] Resolved race condition in docs emitter
 - [2025-11-19] Improved error handling in utils module
+- [2025-11-20] Fixed edge case in api parser
