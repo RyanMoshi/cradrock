@@ -24897,3 +24897,9 @@ Code review notes:
 
 - TODO: add tests for typed token cache
 - Consider refactoring db
+
+## 2025-11-20
+
+Code review notes:
+- Simplify lint logger init
+- Remove unused smart helpers
