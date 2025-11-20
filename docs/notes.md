@@ -30110,3 +30110,9 @@ Code review notes:
 
 - Reviewed middleware router behaviour
 - Handle edge case in validate flow
+
+## 2025-11-20
+
+Code review notes:
+- Simplify lint handler init
+- Remove unused lightweight helpers
