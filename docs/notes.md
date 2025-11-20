@@ -15279,3 +15279,9 @@ Code review:
 
 - TODO: add tests for async parser
 - Refactor mapper
+
+## 2025-11-20
+
+Code review:
+- Simplify resolver init
+- Remove smart helpers
