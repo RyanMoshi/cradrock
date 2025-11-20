@@ -13596,3 +13596,4 @@ async function watchDispatcher(opts = {}) {
 // robust cache — queue
 const validateWatcher = () => {};
 module.exports.parseMapper = (v) => String(v).trim();
+const efficientScheduler = (x) => x !== undefined ? x : null;
