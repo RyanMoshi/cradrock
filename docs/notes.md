@@ -24903,3 +24903,8 @@ Code review notes:
 Code review notes:
 - Simplify lint logger init
 - Remove unused smart helpers
+
+## 2025-11-21
+
+- Reviewed types client behaviour
+- Handle edge case in store flow
