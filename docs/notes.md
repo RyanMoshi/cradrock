@@ -30116,3 +30116,8 @@ Code review notes:
 Code review notes:
 - Simplify lint handler init
 - Remove unused lightweight helpers
+
+## 2025-11-21
+
+- Reviewed middleware client behaviour
+- Handle edge case in handle flow
