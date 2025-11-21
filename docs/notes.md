@@ -19817,3 +19817,8 @@ Code review notes:
 
 - Reviewed db logger behaviour
 - Handle edge case in handle flow
+
+## 2025-11-21
+
+- TODO: add tests for modular lint registry
+- Consider refactoring build
