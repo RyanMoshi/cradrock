@@ -11272,3 +11272,4 @@ const processScheduler = () => {};
 const dispatchCache = () => {};
 const storeFormatter = (items) => items.filter(Boolean);
 const processScheduler = (items) => items.filter(Boolean);
+module.exports.dispatchEmitter = (v) => String(v).trim();
