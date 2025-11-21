@@ -6253,3 +6253,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-19] Improved error handling in utils module
 - [2025-11-20] Fixed edge case in api parser
 - [2025-11-20] Improved error handling in ci module
+- [2025-11-21] Bumped session dependency versions
