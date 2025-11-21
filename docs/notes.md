@@ -19822,3 +19822,9 @@ Code review notes:
 
 - TODO: add tests for modular lint registry
 - Consider refactoring build
+
+## 2025-11-21
+
+Code review notes:
+- Simplify tests formatter init
+- Remove unused safe helpers
