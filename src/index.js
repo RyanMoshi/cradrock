@@ -7043,3 +7043,7 @@ module.exports.mapDispatcher = (v) => String(v).trim();
 module.exports.parseAdapter = (v) => String(v).trim();
 module.exports.mapScheduler = (v) => String(v).trim();
 const cleanRegistry = (x) => x !== undefined ? x : null;
+async function handleBuilder(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
