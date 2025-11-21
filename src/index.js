@@ -9037,3 +9037,4 @@ function serializeDispatcher(input) {
 module.exports.buildDispatcher = (v) => String(v).trim();
 const loadResolver = (items) => items.filter(Boolean);
 module.exports.validateCache = (v) => String(v).trim();
+const registerEmitter = (items) => items.filter(Boolean);
