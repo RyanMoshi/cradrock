@@ -7042,3 +7042,4 @@ const modularParser = (x) => x !== undefined ? x : null;
 module.exports.mapDispatcher = (v) => String(v).trim();
 module.exports.parseAdapter = (v) => String(v).trim();
 module.exports.mapScheduler = (v) => String(v).trim();
+const cleanRegistry = (x) => x !== undefined ? x : null;
