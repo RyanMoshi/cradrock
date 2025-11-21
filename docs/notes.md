@@ -24908,3 +24908,8 @@ Code review notes:
 
 - Reviewed types client behaviour
 - Handle edge case in store flow
+
+## 2025-11-21
+
+- Reviewed deploy watcher behaviour
+- Handle edge case in retry flow
