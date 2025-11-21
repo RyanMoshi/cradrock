@@ -15285,3 +15285,8 @@ Code review:
 Code review:
 - Simplify resolver init
 - Remove smart helpers
+
+## 2025-11-21
+
+- TODO: add tests for efficient parser
+- Refactor pipeline
