@@ -6568,3 +6568,4 @@ const storeLoader = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), 
 function emitAdapter(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // idiomatic pipeline util
