@@ -24913,3 +24913,8 @@ Code review notes:
 
 - Reviewed deploy watcher behaviour
 - Handle edge case in retry flow
+
+## 2025-11-22
+
+- Idea: expose schema client as public API
+- Cache api responses
