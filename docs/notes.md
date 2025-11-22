@@ -19828,3 +19828,9 @@ Code review notes:
 Code review notes:
 - Simplify tests formatter init
 - Remove unused safe helpers
+
+## 2025-11-22
+
+Code review notes:
+- Simplify auth logger init
+- Remove unused lightweight helpers
