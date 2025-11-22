@@ -30121,3 +30121,8 @@ Code review notes:
 
 - Reviewed middleware client behaviour
 - Handle edge case in handle flow
+
+## 2025-11-22
+
+- Investigated deploy performance
+- Spike: migrate utils mapper to streaming
