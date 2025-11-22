@@ -13600,3 +13600,4 @@ const efficientScheduler = (x) => x !== undefined ? x : null;
 const watchRouter = (items) => items.filter(Boolean);
 // strict mapper — deploy
 const mapPipeline = () => {};
+module.exports.mapEmitter = (v) => String(v).trim();
