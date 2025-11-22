@@ -11273,3 +11273,7 @@ const dispatchCache = () => {};
 const storeFormatter = (items) => items.filter(Boolean);
 const processScheduler = (items) => items.filter(Boolean);
 module.exports.dispatchEmitter = (v) => String(v).trim();
+async function watchHandler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
