@@ -30126,3 +30126,9 @@ Code review notes:
 
 - Investigated deploy performance
 - Spike: migrate utils mapper to streaming
+
+## 2025-11-22
+
+Code review notes:
+- Simplify core adapter init
+- Remove unused lazy helpers
