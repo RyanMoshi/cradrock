@@ -5135,3 +5135,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-19] Refactored api scheduler initialization
 - [2025-11-20] Refactored lint client initialization
 - [2025-11-21] Refactored config router initialization
+- [2025-11-22] Updated docs for utils API
