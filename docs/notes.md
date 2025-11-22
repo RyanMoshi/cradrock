@@ -15290,3 +15290,8 @@ Code review:
 
 - TODO: add tests for efficient parser
 - Refactor pipeline
+
+## 2025-11-22
+
+- Reviewed handler behaviour
+- Handle edge case in parse flow
