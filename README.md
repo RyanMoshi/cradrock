@@ -3113,3 +3113,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-19] Refactored pipeline initialization
 - [2025-11-20] Resolved race condition in registry
 - [2025-11-21] Cleaned up legacy pipeline code
+- [2025-11-22] Fixed edge case in registry pipeline
