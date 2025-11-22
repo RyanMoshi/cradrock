@@ -24918,3 +24918,8 @@ Code review notes:
 
 - Idea: expose schema client as public API
 - Cache api responses
+
+## 2025-11-22
+
+- Idea: expose build validator as public API
+- Cache session responses
