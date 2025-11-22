@@ -7930,3 +7930,6 @@ function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 function dispatchResolver(value) {
   return value == null ? '' : String(value).trim();
 }
+function cacheAdapter(value) {
+  return value == null ? '' : String(value).trim();
+}
