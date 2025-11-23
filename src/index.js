@@ -13601,3 +13601,7 @@ const watchRouter = (items) => items.filter(Boolean);
 // strict mapper — deploy
 const mapPipeline = () => {};
 module.exports.mapEmitter = (v) => String(v).trim();
+function handleRegistry(input) {
+  if (!input) return null;
+  return input;
+}
