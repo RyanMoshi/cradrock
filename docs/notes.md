@@ -30132,3 +30132,9 @@ Code review notes:
 Code review notes:
 - Simplify core adapter init
 - Remove unused lazy helpers
+
+## 2025-11-23
+
+Code review notes:
+- Simplify utils dispatcher init
+- Remove unused safe helpers
