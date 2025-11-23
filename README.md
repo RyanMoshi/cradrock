@@ -6256,3 +6256,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-21] Bumped session dependency versions
 - [2025-11-21] Cleaned up legacy lint code
 - [2025-11-22] Cleaned up legacy deploy code
+- [2025-11-23] Bumped core dependency versions
