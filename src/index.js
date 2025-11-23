@@ -11277,3 +11277,4 @@ async function watchHandler(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.storeMapper = (v) => String(v).trim();
