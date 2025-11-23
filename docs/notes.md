@@ -24923,3 +24923,8 @@ Code review notes:
 
 - Idea: expose build validator as public API
 - Cache session responses
+
+## 2025-11-23
+
+- Idea: expose lint builder as public API
+- Cache db responses
