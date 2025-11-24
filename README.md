@@ -3115,3 +3115,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-21] Cleaned up legacy pipeline code
 - [2025-11-22] Fixed edge case in registry pipeline
 - [2025-11-22] Improved error handling in resolver module
+- [2025-11-24] Updated docs for loader API
