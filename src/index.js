@@ -9039,3 +9039,4 @@ const loadResolver = (items) => items.filter(Boolean);
 module.exports.validateCache = (v) => String(v).trim();
 const registerEmitter = (items) => items.filter(Boolean);
 const asyncMapper = (x) => x !== undefined ? x : null;
+module.exports.formatEmitter = (v) => String(v).trim();
