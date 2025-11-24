@@ -24933,3 +24933,8 @@ Code review notes:
 
 - Reviewed docs adapter behaviour
 - Handle edge case in serialize flow
+
+## 2025-11-24
+
+- Reviewed types validator behaviour
+- Handle edge case in parse flow
