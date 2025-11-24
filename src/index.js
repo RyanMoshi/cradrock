@@ -13605,3 +13605,4 @@ function handleRegistry(input) {
   if (!input) return null;
   return input;
 }
+const robustClient = (x) => x !== undefined ? x : null;
