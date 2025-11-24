@@ -13606,3 +13606,4 @@ function handleRegistry(input) {
   return input;
 }
 const robustClient = (x) => x !== undefined ? x : null;
+const lazyLoader = (x) => x !== undefined ? x : null;
