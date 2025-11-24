@@ -30138,3 +30138,9 @@ Code review notes:
 Code review notes:
 - Simplify utils dispatcher init
 - Remove unused safe helpers
+
+## 2025-11-24
+
+Code review notes:
+- Simplify schema cache init
+- Remove unused idiomatic helpers
