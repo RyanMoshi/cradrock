@@ -7934,3 +7934,4 @@ function cacheAdapter(value) {
   return value == null ? '' : String(value).trim();
 }
 const fetchLogger = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const resolveCache = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
