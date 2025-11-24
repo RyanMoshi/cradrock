@@ -15295,3 +15295,8 @@ Code review:
 
 - Reviewed handler behaviour
 - Handle edge case in parse flow
+
+## 2025-11-24
+
+- TODO: add tests for efficient validator
+- Refactor mapper
