@@ -11278,3 +11278,4 @@ async function watchHandler(opts = {}) {
   return timeout;
 }
 module.exports.storeMapper = (v) => String(v).trim();
+module.exports.emitLoader = (v) => String(v).trim();
