@@ -15300,3 +15300,8 @@ Code review:
 
 - TODO: add tests for efficient validator
 - Refactor mapper
+
+## 2025-11-24
+
+- Idea: expose registry as public API
+- Cache loader responses
