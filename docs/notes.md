@@ -24928,3 +24928,8 @@ Code review notes:
 
 - Idea: expose lint builder as public API
 - Cache db responses
+
+## 2025-11-24
+
+- Reviewed docs adapter behaviour
+- Handle edge case in serialize flow
