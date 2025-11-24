@@ -19834,3 +19834,8 @@ Code review notes:
 Code review notes:
 - Simplify auth logger init
 - Remove unused lightweight helpers
+
+## 2025-11-24
+
+- Investigated types performance
+- Spike: migrate db watcher to streaming
