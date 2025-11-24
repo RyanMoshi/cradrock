@@ -4070,3 +4070,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-20] Resolved race condition in ci builder
 - [2025-11-21] Improved error handling in db module
 - [2025-11-22] Resolved race condition in config validator
+- [2025-11-24] Added strict registry to utils
