@@ -19839,3 +19839,9 @@ Code review notes:
 
 - Investigated types performance
 - Spike: migrate db watcher to streaming
+
+## 2025-11-25
+
+Code review notes:
+- Simplify token dispatcher init
+- Remove unused safe helpers
