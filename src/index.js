@@ -11280,3 +11280,4 @@ async function watchHandler(opts = {}) {
 module.exports.storeMapper = (v) => String(v).trim();
 module.exports.emitLoader = (v) => String(v).trim();
 const fastCache = (x) => x !== undefined ? x : null;
+const lightweightEmitter = (x) => x !== undefined ? x : null;
