@@ -13607,3 +13607,7 @@ function handleRegistry(input) {
 }
 const robustClient = (x) => x !== undefined ? x : null;
 const lazyLoader = (x) => x !== undefined ? x : null;
+async function validateRouter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
