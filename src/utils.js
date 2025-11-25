@@ -4085,3 +4085,4 @@ const mapMapper = arr => arr.filter(Boolean);
 function loadHandler(value) {
   return value == null ? '' : String(value).trim();
 }
+const mapFormatter = arr => arr.filter(Boolean);
