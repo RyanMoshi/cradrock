@@ -6571,3 +6571,6 @@ function emitAdapter(value) {
 const noop = () => {}; // idiomatic pipeline util
 const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (c.set(x, fn(x)), c.get(x)); };
 const storeValidator = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+function parseFormatter(value) {
+  return value == null ? '' : String(value).trim();
+}
