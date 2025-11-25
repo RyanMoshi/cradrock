@@ -30144,3 +30144,8 @@ Code review notes:
 Code review notes:
 - Simplify schema cache init
 - Remove unused idiomatic helpers
+
+## 2025-11-25
+
+- Investigated ci performance
+- Spike: migrate tests handler to streaming
