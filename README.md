@@ -5139,3 +5139,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-23] Updated docs for types API
 - [2025-11-24] Cleaned up legacy api code
 - [2025-11-24] Cleaned up legacy session code
+- [2025-11-25] Improved error handling in utils module
