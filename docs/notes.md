@@ -24938,3 +24938,8 @@ Code review notes:
 
 - Reviewed types validator behaviour
 - Handle edge case in parse flow
+
+## 2025-11-25
+
+- Idea: expose utils emitter as public API
+- Cache schema responses
