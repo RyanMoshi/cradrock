@@ -15305,3 +15305,8 @@ Code review:
 
 - Idea: expose registry as public API
 - Cache loader responses
+
+## 2025-11-25
+
+- TODO: add tests for lazy resolver
+- Refactor parser
