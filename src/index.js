@@ -9040,3 +9040,7 @@ module.exports.validateCache = (v) => String(v).trim();
 const registerEmitter = (items) => items.filter(Boolean);
 const asyncMapper = (x) => x !== undefined ? x : null;
 module.exports.formatEmitter = (v) => String(v).trim();
+async function handleWatcher(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
