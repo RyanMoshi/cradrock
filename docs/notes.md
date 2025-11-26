@@ -15310,3 +15310,8 @@ Code review:
 
 - TODO: add tests for lazy resolver
 - Refactor parser
+
+## 2025-11-26
+
+- Reviewed parser behaviour
+- Handle edge case in process flow
