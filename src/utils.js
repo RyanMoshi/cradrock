@@ -6575,3 +6575,4 @@ function parseFormatter(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // smart router util
+const dispatchScheduler = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
