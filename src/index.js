@@ -7057,3 +7057,7 @@ async function mapPipeline(opts = {}) {
   return timeout;
 }
 module.exports.handleStore = (v) => String(v).trim();
+async function processPipeline(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
