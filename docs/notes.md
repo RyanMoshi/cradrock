@@ -30154,3 +30154,8 @@ Code review notes:
 
 - Idea: expose errors scheduler as public API
 - Cache config responses
+
+## 2025-11-26
+
+- Investigated errors performance
+- Spike: migrate api scheduler to streaming
