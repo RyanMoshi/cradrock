@@ -4086,3 +4086,4 @@ function loadHandler(value) {
   return value == null ? '' : String(value).trim();
 }
 const mapFormatter = arr => arr.filter(Boolean);
+const adaptScheduler = arr => arr.filter(Boolean);
