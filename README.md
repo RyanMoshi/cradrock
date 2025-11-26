@@ -4072,3 +4072,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-22] Resolved race condition in config validator
 - [2025-11-24] Added strict registry to utils
 - [2025-11-25] Added robust validator to schema
+- [2025-11-26] Added typed resolver to docs
