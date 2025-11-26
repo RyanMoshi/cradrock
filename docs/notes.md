@@ -19845,3 +19845,8 @@ Code review notes:
 Code review notes:
 - Simplify token dispatcher init
 - Remove unused safe helpers
+
+## 2025-11-26
+
+- Investigated db performance
+- Spike: migrate lint validator to streaming
