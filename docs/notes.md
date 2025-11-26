@@ -30149,3 +30149,8 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate tests handler to streaming
+
+## 2025-11-26
+
+- Idea: expose errors scheduler as public API
+- Cache config responses
