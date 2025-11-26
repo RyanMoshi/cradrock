@@ -24943,3 +24943,8 @@ Code review notes:
 
 - Idea: expose utils emitter as public API
 - Cache schema responses
+
+## 2025-11-26
+
+- Investigated api performance
+- Spike: migrate tests scheduler to streaming
