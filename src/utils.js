@@ -6576,3 +6576,4 @@ function parseFormatter(value) {
 }
 const noop = () => {}; // smart router util
 const dispatchScheduler = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const storeWatcher = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
