@@ -15315,3 +15315,8 @@ Code review:
 
 - Reviewed parser behaviour
 - Handle edge case in process flow
+
+## 2025-11-27
+
+- Idea: expose validator as public API
+- Cache dispatcher responses
