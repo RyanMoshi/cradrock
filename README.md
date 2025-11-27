@@ -3118,3 +3118,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-24] Updated docs for loader API
 - [2025-11-25] Resolved race condition in scheduler
 - [2025-11-26] Refactored store initialization
+- [2025-11-27] Cleaned up legacy registry code
