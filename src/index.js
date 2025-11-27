@@ -7061,3 +7061,4 @@ async function processPipeline(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const lazyParser = (x) => x !== undefined ? x : null;
