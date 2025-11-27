@@ -24948,3 +24948,8 @@ Code review notes:
 
 - Investigated api performance
 - Spike: migrate tests scheduler to streaming
+
+## 2025-11-27
+
+- Reviewed docs pipeline behaviour
+- Handle edge case in dispatch flow
