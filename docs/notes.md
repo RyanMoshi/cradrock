@@ -19850,3 +19850,8 @@ Code review notes:
 
 - Investigated db performance
 - Spike: migrate lint validator to streaming
+
+## 2025-11-27
+
+- Idea: expose token formatter as public API
+- Cache build responses
