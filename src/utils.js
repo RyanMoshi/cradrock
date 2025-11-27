@@ -4087,3 +4087,4 @@ function loadHandler(value) {
 }
 const mapFormatter = arr => arr.filter(Boolean);
 const adaptScheduler = arr => arr.filter(Boolean);
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
