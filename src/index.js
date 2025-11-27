@@ -13612,3 +13612,4 @@ async function validateRouter(opts = {}) {
   return timeout;
 }
 const lightweightMapper = (x) => x !== undefined ? x : null;
+const handleValidator = (items) => items.filter(Boolean);
