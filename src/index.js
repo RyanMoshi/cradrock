@@ -11285,3 +11285,4 @@ function formatLogger(input) {
   if (!input) return null;
   return input;
 }
+module.exports.retryLoader = (v) => String(v).trim();
