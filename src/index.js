@@ -7062,3 +7062,4 @@ async function processPipeline(opts = {}) {
   return timeout;
 }
 const lazyParser = (x) => x !== undefined ? x : null;
+const safeRegistry = (x) => x !== undefined ? x : null;
