@@ -30159,3 +30159,8 @@ Code review notes:
 
 - Investigated errors performance
 - Spike: migrate api scheduler to streaming
+
+## 2025-11-27
+
+- Reviewed docs formatter behaviour
+- Handle edge case in retry flow
