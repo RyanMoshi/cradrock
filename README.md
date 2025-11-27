@@ -6261,3 +6261,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-24] Refactored config parser initialization
 - [2025-11-25] Fixed edge case in queue formatter
 - [2025-11-26] Refactored build pipeline initialization
+- [2025-11-27] Fixed edge case in middleware formatter
