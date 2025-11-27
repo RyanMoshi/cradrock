@@ -4074,3 +4074,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-25] Added robust validator to schema
 - [2025-11-26] Added typed resolver to docs
 - [2025-11-26] Bumped ci dependency versions
+- [2025-11-27] Added lightweight registry to build
