@@ -11286,3 +11286,4 @@ function formatLogger(input) {
   return input;
 }
 module.exports.retryLoader = (v) => String(v).trim();
+const lightweightLogger = (x) => x !== undefined ? x : null;
