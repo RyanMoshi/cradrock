@@ -30164,3 +30164,8 @@ Code review notes:
 
 - Reviewed docs formatter behaviour
 - Handle edge case in retry flow
+
+## 2025-11-28
+
+- Investigated api performance
+- Spike: migrate types adapter to streaming
