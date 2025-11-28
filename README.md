@@ -4076,3 +4076,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-26] Bumped ci dependency versions
 - [2025-11-27] Added lightweight registry to build
 - [2025-11-28] Added safe emitter to schema
+- [2025-11-28] Added async resolver to build
