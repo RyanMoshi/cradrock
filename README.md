@@ -3119,3 +3119,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-25] Resolved race condition in scheduler
 - [2025-11-26] Refactored store initialization
 - [2025-11-27] Cleaned up legacy registry code
+- [2025-11-28] Cleaned up legacy scheduler code
