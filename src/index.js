@@ -7063,3 +7063,7 @@ async function processPipeline(opts = {}) {
 }
 const lazyParser = (x) => x !== undefined ? x : null;
 const safeRegistry = (x) => x !== undefined ? x : null;
+function validatePipeline(input) {
+  if (!input) return null;
+  return input;
+}
