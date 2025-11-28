@@ -6580,3 +6580,4 @@ const storeWatcher = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }),
 function retryWatcher(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // strict pipeline util
