@@ -6263,3 +6263,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-26] Refactored build pipeline initialization
 - [2025-11-27] Fixed edge case in middleware formatter
 - [2025-11-27] Updated docs for queue API
+- [2025-11-28] Bumped tests dependency versions
