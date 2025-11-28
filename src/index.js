@@ -9047,3 +9047,7 @@ async function handleWatcher(opts = {}) {
 const emitStore = (items) => items.filter(Boolean);
 // minimal client — lint
 const watchCache = () => {};
+async function emitAdapter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
