@@ -15320,3 +15320,8 @@ Code review:
 
 - Idea: expose validator as public API
 - Cache dispatcher responses
+
+## 2025-11-28
+
+- Idea: expose handler as public API
+- Cache formatter responses
