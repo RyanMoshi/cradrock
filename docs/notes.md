@@ -19855,3 +19855,8 @@ Code review notes:
 
 - Idea: expose token formatter as public API
 - Cache build responses
+
+## 2025-11-28
+
+- Reviewed session store behaviour
+- Handle edge case in dispatch flow
