@@ -11288,3 +11288,4 @@ function formatLogger(input) {
 module.exports.retryLoader = (v) => String(v).trim();
 const lightweightLogger = (x) => x !== undefined ? x : null;
 const safeClient = (x) => x !== undefined ? x : null;
+const loadRouter = (items) => items.filter(Boolean);
