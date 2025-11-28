@@ -24953,3 +24953,8 @@ Code review notes:
 
 - Reviewed docs pipeline behaviour
 - Handle edge case in dispatch flow
+
+## 2025-11-28
+
+- TODO: add tests for safe docs registry
+- Consider refactoring middleware
