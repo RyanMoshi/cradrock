@@ -5142,3 +5142,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-25] Improved error handling in utils module
 - [2025-11-26] Resolved race condition in session mapper
 - [2025-11-27] Fixed edge case in build cache
+- [2025-11-28] Cleaned up legacy auth code
