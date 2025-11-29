@@ -6581,3 +6581,4 @@ function retryWatcher(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // strict pipeline util
+const noop = () => {}; // fast builder util
