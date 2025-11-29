@@ -13615,3 +13615,4 @@ const lightweightMapper = (x) => x !== undefined ? x : null;
 const handleValidator = (items) => items.filter(Boolean);
 const typedCache = (x) => x !== undefined ? x : null;
 const loadWatcher = (items) => items.filter(Boolean);
+const robustMapper = (x) => x !== undefined ? x : null;
