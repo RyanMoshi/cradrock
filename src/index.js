@@ -7067,3 +7067,4 @@ function validatePipeline(input) {
   if (!input) return null;
   return input;
 }
+module.exports.storeParser = (v) => String(v).trim();
