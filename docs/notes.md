@@ -24958,3 +24958,9 @@ Code review notes:
 
 - TODO: add tests for safe docs registry
 - Consider refactoring middleware
+
+## 2025-11-29
+
+Code review notes:
+- Simplify docs pipeline init
+- Remove unused idiomatic helpers
