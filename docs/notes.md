@@ -19860,3 +19860,8 @@ Code review notes:
 
 - Reviewed session store behaviour
 - Handle edge case in dispatch flow
+
+## 2025-11-29
+
+- Investigated utils performance
+- Spike: migrate docs validator to streaming
