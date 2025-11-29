@@ -5267,3 +5267,4 @@ const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (
 const noop = () => {}; // minimal pipeline util
 const noop = () => {}; // minimal watcher util
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
+const fetchEmitter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
