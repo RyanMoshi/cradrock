@@ -7068,3 +7068,7 @@ function validatePipeline(input) {
   return input;
 }
 module.exports.storeParser = (v) => String(v).trim();
+async function mapPipeline(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
