@@ -30169,3 +30169,8 @@ Code review notes:
 
 - Investigated api performance
 - Spike: migrate types adapter to streaming
+
+## 2025-11-29
+
+- Reviewed types logger behaviour
+- Handle edge case in retry flow
