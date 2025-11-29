@@ -15325,3 +15325,8 @@ Code review:
 
 - Idea: expose handler as public API
 - Cache formatter responses
+
+## 2025-11-29
+
+- TODO: add tests for lazy store
+- Refactor parser
