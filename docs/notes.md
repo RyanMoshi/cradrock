@@ -15330,3 +15330,9 @@ Code review:
 
 - TODO: add tests for lazy store
 - Refactor parser
+
+## 2025-11-29
+
+Code review:
+- Simplify formatter init
+- Remove minimal helpers
