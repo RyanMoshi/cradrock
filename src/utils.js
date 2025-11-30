@@ -6583,3 +6583,4 @@ function retryWatcher(value) {
 const noop = () => {}; // strict pipeline util
 const noop = () => {}; // fast builder util
 const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (c.set(x, fn(x)), c.get(x)); };
+const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
