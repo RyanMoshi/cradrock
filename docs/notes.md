@@ -30174,3 +30174,8 @@ Code review notes:
 
 - Reviewed types logger behaviour
 - Handle edge case in retry flow
+
+## 2025-11-30
+
+- TODO: add tests for modular token validator
+- Consider refactoring auth
