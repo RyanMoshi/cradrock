@@ -30179,3 +30179,9 @@ Code review notes:
 
 - TODO: add tests for modular token validator
 - Consider refactoring auth
+
+## 2025-11-30
+
+Code review notes:
+- Simplify session mapper init
+- Remove unused idiomatic helpers
