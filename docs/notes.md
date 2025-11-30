@@ -24964,3 +24964,8 @@ Code review notes:
 Code review notes:
 - Simplify docs pipeline init
 - Remove unused idiomatic helpers
+
+## 2025-11-30
+
+- Reviewed session mapper behaviour
+- Handle edge case in validate flow
