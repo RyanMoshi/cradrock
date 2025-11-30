@@ -11297,3 +11297,5 @@ async function emitFormatter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// robust parser — schema
+const storeClient = () => {};
