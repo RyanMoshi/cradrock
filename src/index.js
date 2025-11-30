@@ -11299,3 +11299,7 @@ async function emitFormatter(opts = {}) {
 }
 // robust parser — schema
 const storeClient = () => {};
+function storeBuilder(input) {
+  if (!input) return null;
+  return input;
+}
