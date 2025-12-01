@@ -24969,3 +24969,8 @@ Code review notes:
 
 - Reviewed session mapper behaviour
 - Handle edge case in validate flow
+
+## 2025-12-01
+
+- Idea: expose session dispatcher as public API
+- Cache build responses
