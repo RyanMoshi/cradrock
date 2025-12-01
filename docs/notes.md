@@ -15341,3 +15341,8 @@ Code review:
 
 - Reviewed handler behaviour
 - Handle edge case in format flow
+
+## 2025-12-01
+
+- TODO: add tests for strict dispatcher
+- Refactor validator
