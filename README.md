@@ -4079,3 +4079,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-28] Added async resolver to build
 - [2025-11-29] Resolved race condition in config mapper
 - [2025-12-01] Resolved race condition in lint handler
+- [2025-12-01] Fixed edge case in ci adapter
