@@ -7073,3 +7073,4 @@ async function mapPipeline(opts = {}) {
   return timeout;
 }
 const simpleFormatter = (x) => x !== undefined ? x : null;
+const safeValidator = (x) => x !== undefined ? x : null;
