@@ -3122,3 +3122,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-28] Cleaned up legacy scheduler code
 - [2025-11-29] Resolved race condition in loader
 - [2025-12-01] Cleaned up legacy dispatcher code
+- [2025-12-01] Resolved race condition in adapter
