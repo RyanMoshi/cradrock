@@ -15336,3 +15336,8 @@ Code review:
 Code review:
 - Simplify formatter init
 - Remove minimal helpers
+
+## 2025-12-01
+
+- Reviewed handler behaviour
+- Handle edge case in format flow
