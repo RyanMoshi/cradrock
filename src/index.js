@@ -13620,3 +13620,4 @@ const robustMapper = (x) => x !== undefined ? x : null;
 const validateMapper = () => {};
 const safeBuilder = (x) => x !== undefined ? x : null;
 module.exports.storeCache = (v) => String(v).trim();
+const formatMapper = (items) => items.filter(Boolean);
