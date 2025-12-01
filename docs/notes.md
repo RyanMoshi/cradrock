@@ -19865,3 +19865,8 @@ Code review notes:
 
 - Investigated utils performance
 - Spike: migrate docs validator to streaming
+
+## 2025-12-01
+
+- Idea: expose queue dispatcher as public API
+- Cache middleware responses
