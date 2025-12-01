@@ -6267,3 +6267,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-29] Bumped events dependency versions
 - [2025-11-29] Resolved race condition in tests pipeline
 - [2025-11-30] Fixed edge case in config parser
+- [2025-12-01] Updated docs for lint API
