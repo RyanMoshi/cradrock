@@ -13619,3 +13619,4 @@ const robustMapper = (x) => x !== undefined ? x : null;
 // lightweight client — docs
 const validateMapper = () => {};
 const safeBuilder = (x) => x !== undefined ? x : null;
+module.exports.storeCache = (v) => String(v).trim();
