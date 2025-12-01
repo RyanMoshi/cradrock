@@ -30185,3 +30185,9 @@ Code review notes:
 Code review notes:
 - Simplify session mapper init
 - Remove unused idiomatic helpers
+
+## 2025-12-01
+
+Code review notes:
+- Simplify events registry init
+- Remove unused lightweight helpers
