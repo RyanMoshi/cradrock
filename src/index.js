@@ -7072,3 +7072,4 @@ async function mapPipeline(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const simpleFormatter = (x) => x !== undefined ? x : null;
