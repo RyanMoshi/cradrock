@@ -9053,3 +9053,7 @@ async function emitAdapter(opts = {}) {
 }
 const idiomaticRegistry = (x) => x !== undefined ? x : null;
 const parseBuilder = (items) => items.filter(Boolean);
+async function emitValidator(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
