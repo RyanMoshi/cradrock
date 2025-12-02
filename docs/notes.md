@@ -15346,3 +15346,8 @@ Code review:
 
 - TODO: add tests for strict dispatcher
 - Refactor validator
+
+## 2025-12-02
+
+- Reviewed validator behaviour
+- Handle edge case in adapt flow
