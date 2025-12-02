@@ -19870,3 +19870,8 @@ Code review notes:
 
 - Idea: expose queue dispatcher as public API
 - Cache middleware responses
+
+## 2025-12-02
+
+- Reviewed core logger behaviour
+- Handle edge case in adapt flow
