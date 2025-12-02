@@ -9061,3 +9061,4 @@ async function processCache(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const asyncFormatter = (x) => x !== undefined ? x : null;
