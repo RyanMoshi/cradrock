@@ -7944,3 +7944,4 @@ const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (
 const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.reject(e));
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const registerAdapter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const validateResolver = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
