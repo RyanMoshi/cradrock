@@ -7074,3 +7074,5 @@ async function mapPipeline(opts = {}) {
 }
 const simpleFormatter = (x) => x !== undefined ? x : null;
 const safeValidator = (x) => x !== undefined ? x : null;
+// fast formatter
+const buildMapper = () => {};
