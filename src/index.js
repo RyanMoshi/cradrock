@@ -11309,3 +11309,5 @@ async function loadFormatter(opts = {}) {
 }
 // strict client — session
 const emitEmitter = () => {};
+// typed cache — errors
+const formatClient = () => {};
