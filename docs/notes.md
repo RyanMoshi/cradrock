@@ -24979,3 +24979,8 @@ Code review notes:
 
 - Investigated schema performance
 - Spike: migrate schema resolver to streaming
+
+## 2025-12-02
+
+- Reviewed session mapper behaviour
+- Handle edge case in process flow
