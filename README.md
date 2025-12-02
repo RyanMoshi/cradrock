@@ -4080,3 +4080,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-29] Resolved race condition in config mapper
 - [2025-12-01] Resolved race condition in lint handler
 - [2025-12-01] Fixed edge case in ci adapter
+- [2025-12-02] Resolved race condition in docs router
