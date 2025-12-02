@@ -24974,3 +24974,8 @@ Code review notes:
 
 - Idea: expose session dispatcher as public API
 - Cache build responses
+
+## 2025-12-02
+
+- Investigated schema performance
+- Spike: migrate schema resolver to streaming
