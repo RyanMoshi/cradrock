@@ -30191,3 +30191,9 @@ Code review notes:
 Code review notes:
 - Simplify events registry init
 - Remove unused lightweight helpers
+
+## 2025-12-02
+
+Code review notes:
+- Simplify middleware router init
+- Remove unused safe helpers
