@@ -5147,3 +5147,4 @@ Legendary, Legends. Builders, Build
 - [2025-11-30] Fixed edge case in api emitter
 - [2025-12-01] Resolved race condition in middleware logger
 - [2025-12-02] Added simple cache to session
+- [2025-12-02] Fixed edge case in events dispatcher
