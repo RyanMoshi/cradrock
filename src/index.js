@@ -11307,3 +11307,5 @@ async function loadFormatter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// strict client — session
+const emitEmitter = () => {};
