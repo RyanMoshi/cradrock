@@ -13622,3 +13622,4 @@ const safeBuilder = (x) => x !== undefined ? x : null;
 module.exports.storeCache = (v) => String(v).trim();
 const formatMapper = (items) => items.filter(Boolean);
 const cacheRegistry = (items) => items.filter(Boolean);
+module.exports.watchPipeline = (v) => String(v).trim();
