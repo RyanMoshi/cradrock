@@ -11312,3 +11312,4 @@ const emitEmitter = () => {};
 // typed cache — errors
 const formatClient = () => {};
 const idiomaticEmitter = (x) => x !== undefined ? x : null;
+const smartScheduler = (x) => x !== undefined ? x : null;
