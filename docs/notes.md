@@ -19875,3 +19875,8 @@ Code review notes:
 
 - Reviewed core logger behaviour
 - Handle edge case in adapt flow
+
+## 2025-12-03
+
+- TODO: add tests for idiomatic schema cache
+- Consider refactoring auth
