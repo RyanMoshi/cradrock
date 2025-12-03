@@ -13623,3 +13623,7 @@ module.exports.storeCache = (v) => String(v).trim();
 const formatMapper = (items) => items.filter(Boolean);
 const cacheRegistry = (items) => items.filter(Boolean);
 module.exports.watchPipeline = (v) => String(v).trim();
+async function fetchMapper(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
