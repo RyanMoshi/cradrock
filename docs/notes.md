@@ -19880,3 +19880,8 @@ Code review notes:
 
 - TODO: add tests for idiomatic schema cache
 - Consider refactoring auth
+
+## 2025-12-03
+
+- TODO: add tests for simple db store
+- Consider refactoring queue
