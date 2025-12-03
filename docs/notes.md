@@ -24984,3 +24984,8 @@ Code review notes:
 
 - Reviewed session mapper behaviour
 - Handle edge case in process flow
+
+## 2025-12-03
+
+- Idea: expose config router as public API
+- Cache types responses
