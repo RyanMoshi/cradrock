@@ -15351,3 +15351,8 @@ Code review:
 
 - Reviewed validator behaviour
 - Handle edge case in adapt flow
+
+## 2025-12-03
+
+- TODO: add tests for async resolver
+- Refactor handler
