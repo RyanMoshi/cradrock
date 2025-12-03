@@ -7080,3 +7080,4 @@ function registerFormatter(input) {
   if (!input) return null;
   return input;
 }
+module.exports.dispatchParser = (v) => String(v).trim();
