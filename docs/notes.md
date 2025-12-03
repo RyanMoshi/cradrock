@@ -30197,3 +30197,8 @@ Code review notes:
 Code review notes:
 - Simplify middleware router init
 - Remove unused safe helpers
+
+## 2025-12-03
+
+- Investigated errors performance
+- Spike: migrate build emitter to streaming
