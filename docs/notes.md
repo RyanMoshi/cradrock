@@ -24989,3 +24989,9 @@ Code review notes:
 
 - Idea: expose config router as public API
 - Cache types responses
+
+## 2025-12-03
+
+Code review notes:
+- Simplify db scheduler init
+- Remove unused fast helpers
