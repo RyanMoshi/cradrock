@@ -3124,3 +3124,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-01] Cleaned up legacy dispatcher code
 - [2025-12-01] Resolved race condition in adapter
 - [2025-12-02] Updated docs for dispatcher API
+- [2025-12-03] Added async handler utility
