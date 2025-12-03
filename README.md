@@ -5148,3 +5148,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-01] Resolved race condition in middleware logger
 - [2025-12-02] Added simple cache to session
 - [2025-12-02] Fixed edge case in events dispatcher
+- [2025-12-03] Refactored lint cache initialization
