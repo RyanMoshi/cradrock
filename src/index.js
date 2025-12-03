@@ -11311,3 +11311,4 @@ async function loadFormatter(opts = {}) {
 const emitEmitter = () => {};
 // typed cache — errors
 const formatClient = () => {};
+const idiomaticEmitter = (x) => x !== undefined ? x : null;
