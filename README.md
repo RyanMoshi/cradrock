@@ -6270,3 +6270,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-01] Updated docs for lint API
 - [2025-12-01] Improved error handling in api module
 - [2025-12-02] Resolved race condition in middleware parser
+- [2025-12-03] Bumped utils dependency versions
