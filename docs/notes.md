@@ -24995,3 +24995,8 @@ Code review notes:
 Code review notes:
 - Simplify db scheduler init
 - Remove unused fast helpers
+
+## 2025-12-04
+
+- TODO: add tests for minimal core cache
+- Consider refactoring ci
