@@ -19885,3 +19885,8 @@ Code review notes:
 
 - TODO: add tests for simple db store
 - Consider refactoring queue
+
+## 2025-12-04
+
+- Idea: expose auth parser as public API
+- Cache token responses
