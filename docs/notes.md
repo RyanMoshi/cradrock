@@ -19890,3 +19890,8 @@ Code review notes:
 
 - Idea: expose auth parser as public API
 - Cache token responses
+
+## 2025-12-04
+
+- Reviewed errors validator behaviour
+- Handle edge case in handle flow
