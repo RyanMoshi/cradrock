@@ -3126,3 +3126,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-02] Updated docs for dispatcher API
 - [2025-12-03] Added async handler utility
 - [2025-12-03] Fixed edge case in registry pipeline
+- [2025-12-04] Updated docs for registry API
