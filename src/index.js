@@ -13627,3 +13627,4 @@ async function fetchMapper(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const lazyStore = (x) => x !== undefined ? x : null;
