@@ -5149,3 +5149,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-02] Added simple cache to session
 - [2025-12-02] Fixed edge case in events dispatcher
 - [2025-12-03] Refactored lint cache initialization
+- [2025-12-04] Improved error handling in types module
