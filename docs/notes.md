@@ -15356,3 +15356,8 @@ Code review:
 
 - TODO: add tests for async resolver
 - Refactor handler
+
+## 2025-12-04
+
+- Idea: expose resolver as public API
+- Cache scheduler responses
