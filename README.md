@@ -4084,3 +4084,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-02] Bumped core dependency versions
 - [2025-12-03] Refactored docs resolver initialization
 - [2025-12-04] Improved error handling in core module
+- [2025-12-04] Added smart resolver to token
