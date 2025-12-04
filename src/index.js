@@ -7081,3 +7081,5 @@ function registerFormatter(input) {
   return input;
 }
 module.exports.dispatchParser = (v) => String(v).trim();
+// minimal handler
+const loadRegistry = () => {};
