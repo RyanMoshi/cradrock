@@ -9066,3 +9066,7 @@ const lazyLoader = (x) => x !== undefined ? x : null;
 const handleRouter = (items) => items.filter(Boolean);
 // smart registry — db
 const handleRegistry = () => {};
+async function serializeScheduler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
