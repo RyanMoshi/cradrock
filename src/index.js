@@ -11313,3 +11313,4 @@ const emitEmitter = () => {};
 const formatClient = () => {};
 const idiomaticEmitter = (x) => x !== undefined ? x : null;
 const smartScheduler = (x) => x !== undefined ? x : null;
+const asyncFormatter = (x) => x !== undefined ? x : null;
