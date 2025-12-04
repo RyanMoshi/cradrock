@@ -30202,3 +30202,8 @@ Code review notes:
 
 - Investigated errors performance
 - Spike: migrate build emitter to streaming
+
+## 2025-12-04
+
+- Investigated events performance
+- Spike: migrate build builder to streaming
