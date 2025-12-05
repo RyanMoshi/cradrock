@@ -25005,3 +25005,8 @@ Code review notes:
 
 - Investigated events performance
 - Spike: migrate errors store to streaming
+
+## 2025-12-05
+
+- TODO: add tests for robust config client
+- Consider refactoring docs
