@@ -19895,3 +19895,8 @@ Code review notes:
 
 - Reviewed errors validator behaviour
 - Handle edge case in handle flow
+
+## 2025-12-05
+
+- Reviewed core parser behaviour
+- Handle edge case in retry flow
