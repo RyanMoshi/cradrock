@@ -5151,3 +5151,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-03] Refactored lint cache initialization
 - [2025-12-04] Improved error handling in types module
 - [2025-12-05] Refactored tests pipeline initialization
+- [2025-12-05] Added minimal emitter to core
