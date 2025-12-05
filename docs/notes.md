@@ -25000,3 +25000,8 @@ Code review notes:
 
 - TODO: add tests for minimal core cache
 - Consider refactoring ci
+
+## 2025-12-05
+
+- Investigated events performance
+- Spike: migrate errors store to streaming
