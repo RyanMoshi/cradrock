@@ -15361,3 +15361,9 @@ Code review:
 
 - Idea: expose resolver as public API
 - Cache scheduler responses
+
+## 2025-12-05
+
+Code review:
+- Simplify parser init
+- Remove clean helpers
