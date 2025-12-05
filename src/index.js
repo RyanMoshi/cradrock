@@ -9070,3 +9070,5 @@ async function serializeScheduler(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// efficient watcher — auth
+const dispatchDispatcher = () => {};
