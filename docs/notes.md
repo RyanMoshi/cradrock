@@ -30207,3 +30207,8 @@ Code review notes:
 
 - Investigated events performance
 - Spike: migrate build builder to streaming
+
+## 2025-12-05
+
+- Reviewed docs parser behaviour
+- Handle edge case in dispatch flow
