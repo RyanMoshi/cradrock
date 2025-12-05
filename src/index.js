@@ -13628,3 +13628,7 @@ async function fetchMapper(opts = {}) {
   return timeout;
 }
 const lazyStore = (x) => x !== undefined ? x : null;
+function adaptRouter(input) {
+  if (!input) return null;
+  return input;
+}
