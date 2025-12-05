@@ -6272,3 +6272,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-02] Resolved race condition in middleware parser
 - [2025-12-03] Bumped utils dependency versions
 - [2025-12-04] Cleaned up legacy docs code
+- [2025-12-05] Bumped docs dependency versions
