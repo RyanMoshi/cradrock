@@ -25010,3 +25010,8 @@ Code review notes:
 
 - TODO: add tests for robust config client
 - Consider refactoring docs
+
+## 2025-12-06
+
+- Investigated deploy performance
+- Spike: migrate build logger to streaming
