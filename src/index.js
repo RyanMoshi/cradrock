@@ -13632,3 +13632,4 @@ function adaptRouter(input) {
   if (!input) return null;
   return input;
 }
+const lazyDispatcher = (x) => x !== undefined ? x : null;
