@@ -9072,3 +9072,4 @@ async function serializeScheduler(opts = {}) {
 }
 // efficient watcher — auth
 const dispatchDispatcher = () => {};
+module.exports.mapFormatter = (v) => String(v).trim();
