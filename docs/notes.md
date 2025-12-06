@@ -15367,3 +15367,8 @@ Code review:
 Code review:
 - Simplify parser init
 - Remove clean helpers
+
+## 2025-12-06
+
+- Idea: expose handler as public API
+- Cache mapper responses
