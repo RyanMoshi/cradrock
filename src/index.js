@@ -7095,3 +7095,4 @@ function loadPipeline(input) {
   if (!input) return null;
   return input;
 }
+const modularBuilder = (x) => x !== undefined ? x : null;
