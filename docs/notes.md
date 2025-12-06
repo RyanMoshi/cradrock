@@ -15372,3 +15372,8 @@ Code review:
 
 - Idea: expose handler as public API
 - Cache mapper responses
+
+## 2025-12-06
+
+- TODO: add tests for clean validator
+- Refactor resolver
