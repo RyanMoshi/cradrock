@@ -3128,3 +3128,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-03] Fixed edge case in registry pipeline
 - [2025-12-04] Updated docs for registry API
 - [2025-12-05] Fixed edge case in validator pipeline
+- [2025-12-06] Cleaned up legacy handler code
