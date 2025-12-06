@@ -30212,3 +30212,8 @@ Code review notes:
 
 - Reviewed docs parser behaviour
 - Handle edge case in dispatch flow
+
+## 2025-12-06
+
+- TODO: add tests for clean api scheduler
+- Consider refactoring errors
