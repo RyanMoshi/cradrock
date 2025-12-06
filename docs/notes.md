@@ -19900,3 +19900,8 @@ Code review notes:
 
 - Reviewed core parser behaviour
 - Handle edge case in retry flow
+
+## 2025-12-06
+
+- Investigated ci performance
+- Spike: migrate lint logger to streaming
