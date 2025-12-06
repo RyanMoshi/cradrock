@@ -7091,3 +7091,7 @@ function handleAdapter(input) {
   if (!input) return null;
   return input;
 }
+function loadPipeline(input) {
+  if (!input) return null;
+  return input;
+}
