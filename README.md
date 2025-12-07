@@ -5154,3 +5154,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-05] Added minimal emitter to core
 - [2025-12-06] Updated docs for errors API
 - [2025-12-06] Refactored db scheduler initialization
+- [2025-12-07] Resolved race condition in deploy dispatcher
