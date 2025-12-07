@@ -11317,3 +11317,5 @@ const asyncFormatter = (x) => x !== undefined ? x : null;
 // async cache — middleware
 const cacheCache = () => {};
 const safeRegistry = (x) => x !== undefined ? x : null;
+// robust store — middleware
+const mapRegistry = () => {};
