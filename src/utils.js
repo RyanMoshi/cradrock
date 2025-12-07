@@ -7952,3 +7952,4 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 function routeAdapter(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // idiomatic dispatcher util
