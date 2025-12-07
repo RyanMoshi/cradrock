@@ -25020,3 +25020,8 @@ Code review notes:
 
 - Idea: expose types handler as public API
 - Cache tests responses
+
+## 2025-12-07
+
+- TODO: add tests for minimal docs logger
+- Consider refactoring events
