@@ -30217,3 +30217,8 @@ Code review notes:
 
 - TODO: add tests for clean api scheduler
 - Consider refactoring errors
+
+## 2025-12-07
+
+- Investigated ci performance
+- Spike: migrate api scheduler to streaming
