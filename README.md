@@ -6274,3 +6274,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-04] Cleaned up legacy docs code
 - [2025-12-05] Bumped docs dependency versions
 - [2025-12-06] Resolved race condition in db handler
+- [2025-12-07] Fixed edge case in auth mapper
