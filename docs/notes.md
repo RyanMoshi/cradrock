@@ -25015,3 +25015,8 @@ Code review notes:
 
 - Investigated deploy performance
 - Spike: migrate build logger to streaming
+
+## 2025-12-07
+
+- Idea: expose types handler as public API
+- Cache tests responses
