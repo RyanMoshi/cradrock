@@ -7953,3 +7953,6 @@ function routeAdapter(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // idiomatic dispatcher util
+function emitHandler(value) {
+  return value == null ? '' : String(value).trim();
+}
