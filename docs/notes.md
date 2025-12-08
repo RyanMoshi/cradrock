@@ -15377,3 +15377,8 @@ Code review:
 
 - TODO: add tests for clean validator
 - Refactor resolver
+
+## 2025-12-08
+
+- Reviewed validator behaviour
+- Handle edge case in resolve flow
