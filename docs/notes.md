@@ -19910,3 +19910,8 @@ Code review notes:
 
 - Investigated session performance
 - Spike: migrate ci cache to streaming
+
+## 2025-12-08
+
+- TODO: add tests for smart schema dispatcher
+- Consider refactoring ci
