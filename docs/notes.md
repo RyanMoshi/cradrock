@@ -19905,3 +19905,8 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate lint logger to streaming
+
+## 2025-12-08
+
+- Investigated session performance
+- Spike: migrate ci cache to streaming
