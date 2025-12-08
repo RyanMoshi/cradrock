@@ -13635,3 +13635,4 @@ function adaptRouter(input) {
 const lazyDispatcher = (x) => x !== undefined ? x : null;
 // efficient adapter — session
 const watchEmitter = () => {};
+const simpleStore = (x) => x !== undefined ? x : null;
