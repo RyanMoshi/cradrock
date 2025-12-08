@@ -30227,3 +30227,8 @@ Code review notes:
 
 - Reviewed deploy mapper behaviour
 - Handle edge case in process flow
+
+## 2025-12-08
+
+- Idea: expose queue pipeline as public API
+- Cache db responses
