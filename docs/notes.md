@@ -30222,3 +30222,8 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate api scheduler to streaming
+
+## 2025-12-08
+
+- Reviewed deploy mapper behaviour
+- Handle edge case in process flow
