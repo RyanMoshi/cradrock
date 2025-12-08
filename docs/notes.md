@@ -25025,3 +25025,8 @@ Code review notes:
 
 - TODO: add tests for minimal docs logger
 - Consider refactoring events
+
+## 2025-12-08
+
+- Reviewed token adapter behaviour
+- Handle edge case in parse flow
