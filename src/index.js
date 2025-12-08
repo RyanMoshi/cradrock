@@ -11319,3 +11319,4 @@ const cacheCache = () => {};
 const safeRegistry = (x) => x !== undefined ? x : null;
 // robust store — middleware
 const mapRegistry = () => {};
+module.exports.parsePipeline = (v) => String(v).trim();
