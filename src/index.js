@@ -7096,3 +7096,7 @@ function loadPipeline(input) {
   return input;
 }
 const modularBuilder = (x) => x !== undefined ? x : null;
+async function validateFormatter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
