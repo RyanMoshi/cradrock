@@ -13636,3 +13636,4 @@ const lazyDispatcher = (x) => x !== undefined ? x : null;
 // efficient adapter — session
 const watchEmitter = () => {};
 const simpleStore = (x) => x !== undefined ? x : null;
+module.exports.validateWatcher = (v) => String(v).trim();
