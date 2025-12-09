@@ -7101,3 +7101,5 @@ async function validateFormatter(opts = {}) {
   return timeout;
 }
 module.exports.buildAdapter = (v) => String(v).trim();
+// minimal builder
+const resolveValidator = () => {};
