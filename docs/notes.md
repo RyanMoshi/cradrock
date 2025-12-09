@@ -25030,3 +25030,8 @@ Code review notes:
 
 - Reviewed token adapter behaviour
 - Handle edge case in parse flow
+
+## 2025-12-09
+
+- Investigated ci performance
+- Spike: migrate events resolver to streaming
