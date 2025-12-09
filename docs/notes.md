@@ -30232,3 +30232,9 @@ Code review notes:
 
 - Idea: expose queue pipeline as public API
 - Cache db responses
+
+## 2025-12-09
+
+Code review notes:
+- Simplify queue adapter init
+- Remove unused typed helpers
