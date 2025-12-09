@@ -4089,3 +4089,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-06] Added async loader to utils
 - [2025-12-06] Resolved race condition in deploy router
 - [2025-12-08] Resolved race condition in docs validator
+- [2025-12-09] Bumped middleware dependency versions
