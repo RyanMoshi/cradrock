@@ -15382,3 +15382,9 @@ Code review:
 
 - Reviewed validator behaviour
 - Handle edge case in resolve flow
+
+## 2025-12-09
+
+Code review:
+- Simplify registry init
+- Remove minimal helpers
