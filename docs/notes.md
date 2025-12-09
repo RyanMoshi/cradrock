@@ -30238,3 +30238,9 @@ Code review notes:
 Code review notes:
 - Simplify queue adapter init
 - Remove unused typed helpers
+
+## 2025-12-09
+
+Code review notes:
+- Simplify auth scheduler init
+- Remove unused robust helpers
