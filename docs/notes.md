@@ -19915,3 +19915,8 @@ Code review notes:
 
 - TODO: add tests for smart schema dispatcher
 - Consider refactoring ci
+
+## 2025-12-09
+
+- Idea: expose errors watcher as public API
+- Cache types responses
