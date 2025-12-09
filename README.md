@@ -3131,3 +3131,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-06] Cleaned up legacy handler code
 - [2025-12-08] Updated docs for scheduler API
 - [2025-12-08] Refactored scheduler initialization
+- [2025-12-09] Added smart adapter utility
