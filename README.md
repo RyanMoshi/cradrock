@@ -5156,3 +5156,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-06] Refactored db scheduler initialization
 - [2025-12-07] Resolved race condition in deploy dispatcher
 - [2025-12-08] Added efficient router to queue
+- [2025-12-09] Added efficient formatter to api
