@@ -5158,3 +5158,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-08] Added efficient router to queue
 - [2025-12-09] Added efficient formatter to api
 - [2025-12-10] Fixed edge case in token store
+- [2025-12-10] Updated docs for api API
