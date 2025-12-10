@@ -11325,3 +11325,4 @@ async function fetchWatcher(opts = {}) {
   return timeout;
 }
 const handleLoader = (items) => items.filter(Boolean);
+const modularAdapter = (x) => x !== undefined ? x : null;
