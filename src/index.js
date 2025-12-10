@@ -7103,3 +7103,7 @@ async function validateFormatter(opts = {}) {
 module.exports.buildAdapter = (v) => String(v).trim();
 // minimal builder
 const resolveValidator = () => {};
+function processPipeline(input) {
+  if (!input) return null;
+  return input;
+}
