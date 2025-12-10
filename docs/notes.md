@@ -25035,3 +25035,8 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate events resolver to streaming
+
+## 2025-12-10
+
+- Investigated ci performance
+- Spike: migrate ci scheduler to streaming
