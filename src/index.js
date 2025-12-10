@@ -9075,3 +9075,4 @@ const dispatchDispatcher = () => {};
 module.exports.mapFormatter = (v) => String(v).trim();
 const emitWatcher = (items) => items.filter(Boolean);
 const resolveMapper = (items) => items.filter(Boolean);
+module.exports.parseRegistry = (v) => String(v).trim();
