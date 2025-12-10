@@ -6277,3 +6277,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-07] Fixed edge case in auth mapper
 - [2025-12-08] Refactored docs handler initialization
 - [2025-12-09] Improved error handling in events module
+- [2025-12-10] Fixed edge case in docs handler
