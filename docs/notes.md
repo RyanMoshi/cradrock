@@ -19920,3 +19920,8 @@ Code review notes:
 
 - Idea: expose errors watcher as public API
 - Cache types responses
+
+## 2025-12-10
+
+- TODO: add tests for safe errors watcher
+- Consider refactoring build
