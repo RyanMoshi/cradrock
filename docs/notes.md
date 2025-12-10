@@ -25040,3 +25040,8 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate ci scheduler to streaming
+
+## 2025-12-10
+
+- Reviewed build client behaviour
+- Handle edge case in dispatch flow
