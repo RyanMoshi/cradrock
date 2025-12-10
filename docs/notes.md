@@ -15388,3 +15388,8 @@ Code review:
 Code review:
 - Simplify registry init
 - Remove minimal helpers
+
+## 2025-12-10
+
+- Reviewed parser behaviour
+- Handle edge case in handle flow
