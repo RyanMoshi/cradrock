@@ -11324,3 +11324,4 @@ async function fetchWatcher(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const handleLoader = (items) => items.filter(Boolean);
