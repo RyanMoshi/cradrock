@@ -30244,3 +30244,8 @@ Code review notes:
 Code review notes:
 - Simplify auth scheduler init
 - Remove unused robust helpers
+
+## 2025-12-10
+
+- TODO: add tests for async token parser
+- Consider refactoring types
