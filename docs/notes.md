@@ -25045,3 +25045,9 @@ Code review notes:
 
 - Reviewed build client behaviour
 - Handle edge case in dispatch flow
+
+## 2025-12-11
+
+Code review notes:
+- Simplify docs dispatcher init
+- Remove unused idiomatic helpers
