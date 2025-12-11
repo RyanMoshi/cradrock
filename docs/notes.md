@@ -15393,3 +15393,8 @@ Code review:
 
 - Reviewed parser behaviour
 - Handle edge case in handle flow
+
+## 2025-12-11
+
+- Idea: expose scheduler as public API
+- Cache handler responses
