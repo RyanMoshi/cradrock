@@ -4092,3 +4092,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-09] Bumped middleware dependency versions
 - [2025-12-10] Bumped lint dependency versions
 - [2025-12-11] Refactored docs scheduler initialization
+- [2025-12-11] Updated docs for config API
