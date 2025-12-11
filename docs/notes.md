@@ -15398,3 +15398,8 @@ Code review:
 
 - Idea: expose scheduler as public API
 - Cache handler responses
+
+## 2025-12-11
+
+- TODO: add tests for safe dispatcher
+- Refactor scheduler
