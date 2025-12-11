@@ -19925,3 +19925,8 @@ Code review notes:
 
 - TODO: add tests for safe errors watcher
 - Consider refactoring build
+
+## 2025-12-11
+
+- Idea: expose token mapper as public API
+- Cache middleware responses
