@@ -4107,3 +4107,6 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const noop = () => {}; // efficient util
 const buildBuilder = arr => arr.filter(Boolean);
+function registerStore(value) {
+  return value == null ? '' : String(value).trim();
+}
