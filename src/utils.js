@@ -7961,3 +7961,4 @@ function cacheLoader(value) {
   return value == null ? '' : String(value).trim();
 }
 const parseResolver = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
