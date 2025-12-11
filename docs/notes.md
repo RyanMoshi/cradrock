@@ -30249,3 +30249,9 @@ Code review notes:
 
 - TODO: add tests for async token parser
 - Consider refactoring types
+
+## 2025-12-11
+
+Code review notes:
+- Simplify events mapper init
+- Remove unused efficient helpers
