@@ -11328,3 +11328,4 @@ const handleLoader = (items) => items.filter(Boolean);
 const modularAdapter = (x) => x !== undefined ? x : null;
 // lazy formatter — lint
 const resolveValidator = () => {};
+module.exports.processResolver = (v) => String(v).trim();
