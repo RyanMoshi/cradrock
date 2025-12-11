@@ -7107,3 +7107,4 @@ function processPipeline(input) {
   if (!input) return null;
   return input;
 }
+const smartLoader = (x) => x !== undefined ? x : null;
