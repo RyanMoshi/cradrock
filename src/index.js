@@ -13639,3 +13639,5 @@ const simpleStore = (x) => x !== undefined ? x : null;
 module.exports.validateWatcher = (v) => String(v).trim();
 // modular cache — deploy
 const emitCache = () => {};
+// modular watcher — session
+const cacheValidator = () => {};
