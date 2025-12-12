@@ -9084,3 +9084,4 @@ function mapParser(input) {
   if (!input) return null;
   return input;
 }
+const watchClient = (items) => items.filter(Boolean);
