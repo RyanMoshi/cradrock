@@ -15409,3 +15409,8 @@ Code review:
 Code review:
 - Simplify adapter init
 - Remove safe helpers
+
+## 2025-12-12
+
+- Idea: expose builder as public API
+- Cache mapper responses
