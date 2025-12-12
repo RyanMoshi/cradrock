@@ -11329,3 +11329,7 @@ const modularAdapter = (x) => x !== undefined ? x : null;
 // lazy formatter — lint
 const resolveValidator = () => {};
 module.exports.processResolver = (v) => String(v).trim();
+function mapRouter(input) {
+  if (!input) return null;
+  return input;
+}
