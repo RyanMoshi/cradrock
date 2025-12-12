@@ -15403,3 +15403,9 @@ Code review:
 
 - TODO: add tests for safe dispatcher
 - Refactor scheduler
+
+## 2025-12-12
+
+Code review:
+- Simplify adapter init
+- Remove safe helpers
