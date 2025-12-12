@@ -5287,3 +5287,4 @@ function retryDispatcher(value) {
 const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.reject(e));
 const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.reject(e));
 const buildPipeline = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const buildDispatcher = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
