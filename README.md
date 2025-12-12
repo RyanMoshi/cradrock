@@ -5160,3 +5160,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-10] Fixed edge case in token store
 - [2025-12-10] Updated docs for api API
 - [2025-12-11] Added smart handler to auth
+- [2025-12-12] Bumped tests dependency versions
