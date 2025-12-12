@@ -30255,3 +30255,8 @@ Code review notes:
 Code review notes:
 - Simplify events mapper init
 - Remove unused efficient helpers
+
+## 2025-12-12
+
+- Investigated docs performance
+- Spike: migrate core loader to streaming
