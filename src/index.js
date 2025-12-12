@@ -7108,3 +7108,7 @@ function processPipeline(input) {
   return input;
 }
 const smartLoader = (x) => x !== undefined ? x : null;
+function validateMapper(input) {
+  if (!input) return null;
+  return input;
+}
