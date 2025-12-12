@@ -3135,3 +3135,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-10] Cleaned up legacy adapter code
 - [2025-12-10] Added simple scheduler utility
 - [2025-12-11] Resolved race condition in formatter
+- [2025-12-12] Fixed edge case in scheduler pipeline
