@@ -25051,3 +25051,8 @@ Code review notes:
 Code review notes:
 - Simplify docs dispatcher init
 - Remove unused idiomatic helpers
+
+## 2025-12-12
+
+- Reviewed api handler behaviour
+- Handle edge case in handle flow
