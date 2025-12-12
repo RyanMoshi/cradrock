@@ -13641,3 +13641,4 @@ module.exports.validateWatcher = (v) => String(v).trim();
 const emitCache = () => {};
 // modular watcher — session
 const cacheValidator = () => {};
+const robustRouter = (x) => x !== undefined ? x : null;
