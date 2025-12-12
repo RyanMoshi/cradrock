@@ -6279,3 +6279,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-09] Improved error handling in events module
 - [2025-12-10] Fixed edge case in docs handler
 - [2025-12-11] Fixed edge case in session logger
+- [2025-12-12] Resolved race condition in middleware handler
