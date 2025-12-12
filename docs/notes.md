@@ -19930,3 +19930,8 @@ Code review notes:
 
 - Idea: expose token mapper as public API
 - Cache middleware responses
+
+## 2025-12-12
+
+- Idea: expose api client as public API
+- Cache build responses
