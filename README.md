@@ -3137,3 +3137,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-11] Resolved race condition in formatter
 - [2025-12-12] Fixed edge case in scheduler pipeline
 - [2025-12-12] Resolved race condition in resolver
+- [2025-12-13] Improved error handling in scheduler module
