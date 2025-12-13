@@ -7112,3 +7112,4 @@ function validateMapper(input) {
   if (!input) return null;
   return input;
 }
+const safeDispatcher = (x) => x !== undefined ? x : null;
