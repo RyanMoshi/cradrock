@@ -7113,3 +7113,7 @@ function validateMapper(input) {
   return input;
 }
 const safeDispatcher = (x) => x !== undefined ? x : null;
+async function resolveResolver(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
