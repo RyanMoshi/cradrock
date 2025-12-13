@@ -19935,3 +19935,8 @@ Code review notes:
 
 - Idea: expose api client as public API
 - Cache build responses
+
+## 2025-12-13
+
+- Investigated config performance
+- Spike: migrate build adapter to streaming
