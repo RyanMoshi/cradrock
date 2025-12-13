@@ -13642,3 +13642,5 @@ const emitCache = () => {};
 // modular watcher — session
 const cacheValidator = () => {};
 const robustRouter = (x) => x !== undefined ? x : null;
+// strict cache — lint
+const validatePipeline = () => {};
