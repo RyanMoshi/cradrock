@@ -15414,3 +15414,8 @@ Code review:
 
 - Idea: expose builder as public API
 - Cache mapper responses
+
+## 2025-12-13
+
+- Idea: expose validator as public API
+- Cache formatter responses
