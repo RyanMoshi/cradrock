@@ -30260,3 +30260,8 @@ Code review notes:
 
 - Investigated docs performance
 - Spike: migrate core loader to streaming
+
+## 2025-12-13
+
+- Investigated token performance
+- Spike: migrate tests logger to streaming
