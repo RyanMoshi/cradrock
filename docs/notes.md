@@ -25056,3 +25056,8 @@ Code review notes:
 
 - Reviewed api handler behaviour
 - Handle edge case in handle flow
+
+## 2025-12-13
+
+- Investigated docs performance
+- Spike: migrate middleware router to streaming
