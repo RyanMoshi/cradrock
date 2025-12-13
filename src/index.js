@@ -11333,3 +11333,5 @@ function mapRouter(input) {
   if (!input) return null;
   return input;
 }
+// modular cache — middleware
+const storeWatcher = () => {};
