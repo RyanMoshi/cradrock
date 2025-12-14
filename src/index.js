@@ -11339,3 +11339,7 @@ async function validateParser(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function cacheLoader(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
