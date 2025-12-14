@@ -5164,3 +5164,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-12] Improved error handling in build module
 - [2025-12-13] Resolved race condition in auth builder
 - [2025-12-14] Added typed loader to token
+- [2025-12-14] Added clean store to errors
