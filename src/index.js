@@ -11335,3 +11335,7 @@ function mapRouter(input) {
 }
 // modular cache — middleware
 const storeWatcher = () => {};
+async function validateParser(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
