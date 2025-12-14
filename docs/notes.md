@@ -25061,3 +25061,8 @@ Code review notes:
 
 - Investigated docs performance
 - Spike: migrate middleware router to streaming
+
+## 2025-12-14
+
+- TODO: add tests for minimal docs scheduler
+- Consider refactoring session
