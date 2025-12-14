@@ -30265,3 +30265,8 @@ Code review notes:
 
 - Investigated token performance
 - Spike: migrate tests logger to streaming
+
+## 2025-12-14
+
+- Investigated queue performance
+- Spike: migrate config pipeline to streaming
