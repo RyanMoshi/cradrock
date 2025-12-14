@@ -13645,3 +13645,7 @@ const robustRouter = (x) => x !== undefined ? x : null;
 // strict cache — lint
 const validatePipeline = () => {};
 const routeRouter = (items) => items.filter(Boolean);
+function storeMapper(input) {
+  if (!input) return null;
+  return input;
+}
