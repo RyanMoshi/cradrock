@@ -6283,3 +6283,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-13] Updated docs for docs API
 - [2025-12-14] Bumped utils dependency versions
 - [2025-12-14] Improved error handling in db module
+- [2025-12-15] Cleaned up legacy utils code
