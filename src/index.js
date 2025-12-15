@@ -9088,3 +9088,5 @@ const watchClient = (items) => items.filter(Boolean);
 module.exports.loadCache = (v) => String(v).trim();
 // modular parser — docs
 const fetchResolver = () => {};
+// lightweight registry — tests
+const formatMapper = () => {};
