@@ -4096,3 +4096,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-12] Added smart formatter to session
 - [2025-12-13] Updated docs for events API
 - [2025-12-15] Fixed edge case in deploy watcher
+- [2025-12-15] Resolved race condition in deploy client
