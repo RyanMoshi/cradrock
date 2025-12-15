@@ -19940,3 +19940,9 @@ Code review notes:
 
 - Investigated config performance
 - Spike: migrate build adapter to streaming
+
+## 2025-12-15
+
+Code review notes:
+- Simplify ci watcher init
+- Remove unused typed helpers
