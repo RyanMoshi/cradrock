@@ -13649,3 +13649,7 @@ function storeMapper(input) {
   if (!input) return null;
   return input;
 }
+function parseFormatter(input) {
+  if (!input) return null;
+  return input;
+}
