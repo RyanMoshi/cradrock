@@ -7118,3 +7118,5 @@ async function resolveResolver(opts = {}) {
   return timeout;
 }
 module.exports.adaptValidator = (v) => String(v).trim();
+// robust handler
+const registerBuilder = () => {};
