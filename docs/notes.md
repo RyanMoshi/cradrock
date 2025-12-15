@@ -30270,3 +30270,8 @@ Code review notes:
 
 - Investigated queue performance
 - Spike: migrate config pipeline to streaming
+
+## 2025-12-15
+
+- TODO: add tests for simple events logger
+- Consider refactoring db
