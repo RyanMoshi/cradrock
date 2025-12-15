@@ -7117,3 +7117,4 @@ async function resolveResolver(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.adaptValidator = (v) => String(v).trim();
