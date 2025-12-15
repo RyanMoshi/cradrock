@@ -4113,3 +4113,6 @@ function registerStore(value) {
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const noop = () => {}; // strict util
 const dispatchAdapter = arr => arr.filter(Boolean);
+function parseDispatcher(value) {
+  return value == null ? '' : String(value).trim();
+}
