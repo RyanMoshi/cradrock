@@ -15429,3 +15429,8 @@ Code review:
 
 - Idea: expose mapper as public API
 - Cache registry responses
+
+## 2025-12-15
+
+- Idea: expose mapper as public API
+- Cache store responses
