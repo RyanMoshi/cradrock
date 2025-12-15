@@ -25066,3 +25066,8 @@ Code review notes:
 
 - TODO: add tests for minimal docs scheduler
 - Consider refactoring session
+
+## 2025-12-15
+
+- Reviewed auth registry behaviour
+- Handle edge case in serialize flow
