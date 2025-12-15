@@ -19946,3 +19946,9 @@ Code review notes:
 Code review notes:
 - Simplify ci watcher init
 - Remove unused typed helpers
+
+## 2025-12-15
+
+Code review notes:
+- Simplify config cache init
+- Remove unused smart helpers
