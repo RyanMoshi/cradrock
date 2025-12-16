@@ -7120,3 +7120,7 @@ async function resolveResolver(opts = {}) {
 module.exports.adaptValidator = (v) => String(v).trim();
 // robust handler
 const registerBuilder = () => {};
+function mapFormatter(input) {
+  if (!input) return null;
+  return input;
+}
