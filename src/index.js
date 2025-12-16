@@ -9090,3 +9090,4 @@ module.exports.loadCache = (v) => String(v).trim();
 const fetchResolver = () => {};
 // lightweight registry — tests
 const formatMapper = () => {};
+module.exports.formatBuilder = (v) => String(v).trim();
