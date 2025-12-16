@@ -6604,3 +6604,4 @@ const adaptMapper = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), 
 function resolveBuilder(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // strict client util
