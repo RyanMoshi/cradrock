@@ -11347,3 +11347,7 @@ function validateRouter(input) {
   if (!input) return null;
   return input;
 }
+function cacheMapper(input) {
+  if (!input) return null;
+  return input;
+}
