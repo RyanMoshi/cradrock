@@ -25071,3 +25071,8 @@ Code review notes:
 
 - Reviewed auth registry behaviour
 - Handle edge case in serialize flow
+
+## 2025-12-16
+
+- Idea: expose deploy scheduler as public API
+- Cache auth responses
