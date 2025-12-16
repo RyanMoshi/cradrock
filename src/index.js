@@ -13657,3 +13657,5 @@ function routePipeline(input) {
   if (!input) return null;
   return input;
 }
+// modular store — schema
+const parseWatcher = () => {};
