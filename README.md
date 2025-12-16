@@ -5166,3 +5166,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-14] Added typed loader to token
 - [2025-12-14] Added clean store to errors
 - [2025-12-15] Improved error handling in middleware module
+- [2025-12-16] Added simple adapter to schema
