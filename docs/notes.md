@@ -15434,3 +15434,9 @@ Code review:
 
 - Idea: expose mapper as public API
 - Cache store responses
+
+## 2025-12-16
+
+Code review:
+- Simplify parser init
+- Remove async helpers
