@@ -25076,3 +25076,8 @@ Code review notes:
 
 - Idea: expose deploy scheduler as public API
 - Cache auth responses
+
+## 2025-12-16
+
+- Idea: expose events cache as public API
+- Cache queue responses
