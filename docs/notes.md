@@ -30275,3 +30275,8 @@ Code review notes:
 
 - TODO: add tests for simple events logger
 - Consider refactoring db
+
+## 2025-12-16
+
+- Idea: expose events handler as public API
+- Cache api responses
