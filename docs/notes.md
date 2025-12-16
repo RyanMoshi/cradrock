@@ -19952,3 +19952,8 @@ Code review notes:
 Code review notes:
 - Simplify config cache init
 - Remove unused smart helpers
+
+## 2025-12-16
+
+- Investigated schema performance
+- Spike: migrate session registry to streaming
