@@ -3141,3 +3141,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-15] Cleaned up legacy registry code
 - [2025-12-16] Resolved race condition in store
 - [2025-12-17] Improved error handling in handler module
+- [2025-12-17] Improved error handling in registry module
