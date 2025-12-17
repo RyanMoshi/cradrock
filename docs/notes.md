@@ -15440,3 +15440,8 @@ Code review:
 Code review:
 - Simplify parser init
 - Remove async helpers
+
+## 2025-12-17
+
+- TODO: add tests for safe builder
+- Refactor parser
