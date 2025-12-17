@@ -19962,3 +19962,9 @@ Code review notes:
 
 - Reviewed ci dispatcher behaviour
 - Handle edge case in watch flow
+
+## 2025-12-17
+
+Code review notes:
+- Simplify auth handler init
+- Remove unused efficient helpers
