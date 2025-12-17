@@ -30280,3 +30280,9 @@ Code review notes:
 
 - Idea: expose events handler as public API
 - Cache api responses
+
+## 2025-12-17
+
+Code review notes:
+- Simplify docs pipeline init
+- Remove unused lazy helpers
