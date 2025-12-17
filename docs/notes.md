@@ -25081,3 +25081,8 @@ Code review notes:
 
 - Idea: expose events cache as public API
 - Cache queue responses
+
+## 2025-12-17
+
+- TODO: add tests for minimal types adapter
+- Consider refactoring auth
