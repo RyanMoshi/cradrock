@@ -19957,3 +19957,8 @@ Code review notes:
 
 - Investigated schema performance
 - Spike: migrate session registry to streaming
+
+## 2025-12-17
+
+- Reviewed ci dispatcher behaviour
+- Handle edge case in watch flow
