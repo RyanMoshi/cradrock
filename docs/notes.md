@@ -25086,3 +25086,8 @@ Code review notes:
 
 - TODO: add tests for minimal types adapter
 - Consider refactoring auth
+
+## 2025-12-17
+
+- TODO: add tests for simple auth handler
+- Consider refactoring core
