@@ -4099,3 +4099,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-15] Resolved race condition in deploy client
 - [2025-12-16] Fixed edge case in config store
 - [2025-12-16] Cleaned up legacy ci code
+- [2025-12-17] Improved error handling in session module
