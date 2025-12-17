@@ -13659,3 +13659,5 @@ function routePipeline(input) {
 }
 // modular store — schema
 const parseWatcher = () => {};
+// simple pipeline — queue
+const serializeDispatcher = () => {};
