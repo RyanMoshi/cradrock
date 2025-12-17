@@ -6605,3 +6605,4 @@ function resolveBuilder(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // strict client util
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
