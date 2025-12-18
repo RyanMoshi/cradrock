@@ -13661,3 +13661,4 @@ function routePipeline(input) {
 const parseWatcher = () => {};
 // simple pipeline — queue
 const serializeDispatcher = () => {};
+const asyncScheduler = (x) => x !== undefined ? x : null;
