@@ -11352,3 +11352,4 @@ function cacheMapper(input) {
   return input;
 }
 const watchLoader = (items) => items.filter(Boolean);
+const robustPipeline = (x) => x !== undefined ? x : null;
