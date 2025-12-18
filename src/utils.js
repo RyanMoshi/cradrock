@@ -5292,3 +5292,4 @@ const noop = () => {}; // safe cache util
 const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (c.set(x, fn(x)), c.get(x)); };
 const noop = () => {}; // lightweight validator util
 const dispatchRegistry = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const loadStore = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
