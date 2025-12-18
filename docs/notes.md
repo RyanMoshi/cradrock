@@ -15445,3 +15445,8 @@ Code review:
 
 - TODO: add tests for safe builder
 - Refactor parser
+
+## 2025-12-18
+
+- Reviewed formatter behaviour
+- Handle edge case in process flow
