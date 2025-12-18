@@ -19968,3 +19968,8 @@ Code review notes:
 Code review notes:
 - Simplify auth handler init
 - Remove unused efficient helpers
+
+## 2025-12-18
+
+- Reviewed ci formatter behaviour
+- Handle edge case in adapt flow
