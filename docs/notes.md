@@ -30286,3 +30286,8 @@ Code review notes:
 Code review notes:
 - Simplify docs pipeline init
 - Remove unused lazy helpers
+
+## 2025-12-18
+
+- Investigated config performance
+- Spike: migrate deploy cache to streaming
