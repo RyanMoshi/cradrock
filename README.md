@@ -6287,3 +6287,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-15] Bumped build dependency versions
 - [2025-12-16] Refactored token logger initialization
 - [2025-12-17] Fixed edge case in db dispatcher
+- [2025-12-18] Cleaned up legacy config code
