@@ -25091,3 +25091,9 @@ Code review notes:
 
 - TODO: add tests for simple auth handler
 - Consider refactoring core
+
+## 2025-12-18
+
+Code review notes:
+- Simplify types registry init
+- Remove unused minimal helpers
