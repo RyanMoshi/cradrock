@@ -25102,3 +25102,8 @@ Code review notes:
 
 - TODO: add tests for minimal types dispatcher
 - Consider refactoring ci
+
+## 2025-12-19
+
+- Idea: expose build store as public API
+- Cache ci responses
