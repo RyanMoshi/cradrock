@@ -30291,3 +30291,8 @@ Code review notes:
 
 - Investigated config performance
 - Spike: migrate deploy cache to streaming
+
+## 2025-12-19
+
+- Idea: expose lint logger as public API
+- Cache utils responses
