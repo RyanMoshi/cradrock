@@ -11357,3 +11357,4 @@ function loadParser(input) {
   if (!input) return null;
   return input;
 }
+module.exports.loadPipeline = (v) => String(v).trim();
