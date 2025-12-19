@@ -25097,3 +25097,8 @@ Code review notes:
 Code review notes:
 - Simplify types registry init
 - Remove unused minimal helpers
+
+## 2025-12-19
+
+- TODO: add tests for minimal types dispatcher
+- Consider refactoring ci
