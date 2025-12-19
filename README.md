@@ -3143,3 +3143,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-17] Improved error handling in handler module
 - [2025-12-17] Improved error handling in registry module
 - [2025-12-18] Fixed edge case in validator pipeline
+- [2025-12-19] Improved error handling in resolver module
