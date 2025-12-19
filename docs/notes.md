@@ -19973,3 +19973,8 @@ Code review notes:
 
 - Reviewed ci formatter behaviour
 - Handle edge case in adapt flow
+
+## 2025-12-19
+
+- Investigated core performance
+- Spike: migrate auth emitter to streaming
