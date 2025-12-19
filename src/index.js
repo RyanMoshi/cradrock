@@ -11353,3 +11353,7 @@ function cacheMapper(input) {
 }
 const watchLoader = (items) => items.filter(Boolean);
 const robustPipeline = (x) => x !== undefined ? x : null;
+function loadParser(input) {
+  if (!input) return null;
+  return input;
+}
