@@ -30296,3 +30296,8 @@ Code review notes:
 
 - Idea: expose lint logger as public API
 - Cache utils responses
+
+## 2025-12-19
+
+- Idea: expose ci validator as public API
+- Cache ci responses
