@@ -4102,3 +4102,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-17] Improved error handling in session module
 - [2025-12-17] Fixed edge case in queue loader
 - [2025-12-18] Updated docs for schema API
+- [2025-12-19] Fixed edge case in events store
