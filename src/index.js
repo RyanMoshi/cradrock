@@ -9093,3 +9093,4 @@ const formatMapper = () => {};
 module.exports.formatBuilder = (v) => String(v).trim();
 const storeMapper = (items) => items.filter(Boolean);
 module.exports.dispatchLogger = (v) => String(v).trim();
+module.exports.loadRouter = (v) => String(v).trim();
