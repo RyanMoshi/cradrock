@@ -15460,3 +15460,8 @@ Code review:
 
 - TODO: add tests for robust builder
 - Refactor mapper
+
+## 2025-12-20
+
+- Idea: expose store as public API
+- Cache formatter responses
