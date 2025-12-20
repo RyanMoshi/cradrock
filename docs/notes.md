@@ -15455,3 +15455,8 @@ Code review:
 
 - Reviewed resolver behaviour
 - Handle edge case in handle flow
+
+## 2025-12-20
+
+- TODO: add tests for robust builder
+- Refactor mapper
