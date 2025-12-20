@@ -6289,3 +6289,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-17] Fixed edge case in db dispatcher
 - [2025-12-18] Cleaned up legacy config code
 - [2025-12-19] Fixed edge case in queue cache
+- [2025-12-20] Resolved race condition in session cache
