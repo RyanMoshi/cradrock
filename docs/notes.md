@@ -25107,3 +25107,9 @@ Code review notes:
 
 - Idea: expose build store as public API
 - Cache ci responses
+
+## 2025-12-20
+
+Code review notes:
+- Simplify config validator init
+- Remove unused fast helpers
