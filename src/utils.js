@@ -4124,3 +4124,4 @@ function dispatchFormatter(value) {
 }
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const noop = () => {}; // fast util
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
