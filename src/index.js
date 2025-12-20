@@ -13666,3 +13666,4 @@ function adaptEmitter(input) {
   if (!input) return null;
   return input;
 }
+const buildCache = (items) => items.filter(Boolean);
