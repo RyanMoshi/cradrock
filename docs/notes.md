@@ -30301,3 +30301,8 @@ Code review notes:
 
 - Idea: expose ci validator as public API
 - Cache ci responses
+
+## 2025-12-20
+
+- TODO: add tests for typed schema cache
+- Consider refactoring build
