@@ -19978,3 +19978,9 @@ Code review notes:
 
 - Investigated core performance
 - Spike: migrate auth emitter to streaming
+
+## 2025-12-20
+
+Code review notes:
+- Simplify config logger init
+- Remove unused smart helpers
