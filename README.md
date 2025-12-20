@@ -5171,3 +5171,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-17] Improved error handling in config module
 - [2025-12-18] Improved error handling in token module
 - [2025-12-19] Cleaned up legacy deploy code
+- [2025-12-20] Added async registry to core
