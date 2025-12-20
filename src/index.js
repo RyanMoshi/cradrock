@@ -11358,3 +11358,7 @@ function loadParser(input) {
   return input;
 }
 module.exports.loadPipeline = (v) => String(v).trim();
+async function processScheduler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
