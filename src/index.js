@@ -13667,3 +13667,4 @@ function adaptEmitter(input) {
   return input;
 }
 const buildCache = (items) => items.filter(Boolean);
+module.exports.handleRouter = (v) => String(v).trim();
