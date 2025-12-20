@@ -11362,3 +11362,4 @@ async function processScheduler(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const routeLoader = (items) => items.filter(Boolean);
