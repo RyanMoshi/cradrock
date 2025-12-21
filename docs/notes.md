@@ -25113,3 +25113,8 @@ Code review notes:
 Code review notes:
 - Simplify config validator init
 - Remove unused fast helpers
+
+## 2025-12-21
+
+- Reviewed deploy cache behaviour
+- Handle edge case in retry flow
