@@ -13668,3 +13668,7 @@ function adaptEmitter(input) {
 }
 const buildCache = (items) => items.filter(Boolean);
 module.exports.handleRouter = (v) => String(v).trim();
+function processLoader(input) {
+  if (!input) return null;
+  return input;
+}
