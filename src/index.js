@@ -11363,3 +11363,4 @@ async function processScheduler(opts = {}) {
   return timeout;
 }
 const routeLoader = (items) => items.filter(Boolean);
+module.exports.formatResolver = (v) => String(v).trim();
