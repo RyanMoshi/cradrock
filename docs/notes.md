@@ -30306,3 +30306,8 @@ Code review notes:
 
 - TODO: add tests for typed schema cache
 - Consider refactoring build
+
+## 2025-12-21
+
+- Reviewed config pipeline behaviour
+- Handle edge case in format flow
