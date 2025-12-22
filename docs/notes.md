@@ -30311,3 +30311,8 @@ Code review notes:
 
 - Reviewed config pipeline behaviour
 - Handle edge case in format flow
+
+## 2025-12-22
+
+- Idea: expose utils resolver as public API
+- Cache tests responses
