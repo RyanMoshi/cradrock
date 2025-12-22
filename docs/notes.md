@@ -19989,3 +19989,9 @@ Code review notes:
 
 - Reviewed middleware builder behaviour
 - Handle edge case in adapt flow
+
+## 2025-12-22
+
+Code review notes:
+- Simplify queue dispatcher init
+- Remove unused safe helpers
