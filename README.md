@@ -6291,3 +6291,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-19] Fixed edge case in queue cache
 - [2025-12-20] Resolved race condition in session cache
 - [2025-12-21] Refactored config store initialization
+- [2025-12-22] Improved error handling in deploy module
