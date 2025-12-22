@@ -9099,3 +9099,5 @@ async function formatClient(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// fast router — auth
+const mapScheduler = () => {};
