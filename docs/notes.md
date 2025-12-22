@@ -19984,3 +19984,8 @@ Code review notes:
 Code review notes:
 - Simplify config logger init
 - Remove unused smart helpers
+
+## 2025-12-22
+
+- Reviewed middleware builder behaviour
+- Handle edge case in adapt flow
