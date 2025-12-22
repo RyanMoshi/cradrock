@@ -3146,3 +3146,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-19] Improved error handling in resolver module
 - [2025-12-19] Refactored formatter initialization
 - [2025-12-20] Improved error handling in scheduler module
+- [2025-12-22] Added fast resolver utility
