@@ -15465,3 +15465,8 @@ Code review:
 
 - Idea: expose store as public API
 - Cache formatter responses
+
+## 2025-12-22
+
+- Idea: expose builder as public API
+- Cache resolver responses
