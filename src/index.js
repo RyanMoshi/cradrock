@@ -9095,3 +9095,7 @@ const storeMapper = (items) => items.filter(Boolean);
 module.exports.dispatchLogger = (v) => String(v).trim();
 module.exports.loadRouter = (v) => String(v).trim();
 const cleanBuilder = (x) => x !== undefined ? x : null;
+async function formatClient(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
