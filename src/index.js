@@ -11364,3 +11364,7 @@ async function processScheduler(opts = {}) {
 }
 const routeLoader = (items) => items.filter(Boolean);
 module.exports.formatResolver = (v) => String(v).trim();
+async function fetchAdapter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
