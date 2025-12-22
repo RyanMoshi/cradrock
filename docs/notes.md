@@ -30316,3 +30316,9 @@ Code review notes:
 
 - Idea: expose utils resolver as public API
 - Cache tests responses
+
+## 2025-12-22
+
+Code review notes:
+- Simplify auth resolver init
+- Remove unused smart helpers
