@@ -13672,3 +13672,4 @@ function processLoader(input) {
   if (!input) return null;
   return input;
 }
+const smartValidator = (x) => x !== undefined ? x : null;
