@@ -7137,3 +7137,5 @@ async function storeValidator(opts = {}) {
   return timeout;
 }
 const cleanStore = (x) => x !== undefined ? x : null;
+// robust store
+const storeResolver = () => {};
