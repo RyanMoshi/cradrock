@@ -9101,3 +9101,7 @@ async function formatClient(opts = {}) {
 }
 // fast router — auth
 const mapScheduler = () => {};
+function emitPipeline(input) {
+  if (!input) return null;
+  return input;
+}
