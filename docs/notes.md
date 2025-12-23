@@ -25123,3 +25123,8 @@ Code review notes:
 
 - Reviewed ci builder behaviour
 - Handle edge case in watch flow
+
+## 2025-12-23
+
+- Idea: expose errors logger as public API
+- Cache tests responses
