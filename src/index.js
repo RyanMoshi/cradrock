@@ -11369,3 +11369,4 @@ async function fetchAdapter(opts = {}) {
   return timeout;
 }
 const fastFormatter = (x) => x !== undefined ? x : null;
+const minimalFormatter = (x) => x !== undefined ? x : null;
