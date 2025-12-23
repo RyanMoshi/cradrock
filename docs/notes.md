@@ -19995,3 +19995,8 @@ Code review notes:
 Code review notes:
 - Simplify queue dispatcher init
 - Remove unused safe helpers
+
+## 2025-12-23
+
+- Investigated queue performance
+- Spike: migrate errors builder to streaming
