@@ -30322,3 +30322,8 @@ Code review notes:
 Code review notes:
 - Simplify auth resolver init
 - Remove unused smart helpers
+
+## 2025-12-23
+
+- TODO: add tests for efficient config store
+- Consider refactoring token
