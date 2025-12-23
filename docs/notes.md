@@ -20000,3 +20000,8 @@ Code review notes:
 
 - Investigated queue performance
 - Spike: migrate errors builder to streaming
+
+## 2025-12-23
+
+- Reviewed config resolver behaviour
+- Handle edge case in handle flow
