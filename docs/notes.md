@@ -15470,3 +15470,8 @@ Code review:
 
 - Idea: expose builder as public API
 - Cache resolver responses
+
+## 2025-12-23
+
+- Reviewed formatter behaviour
+- Handle edge case in validate flow
