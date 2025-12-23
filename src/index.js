@@ -7139,3 +7139,4 @@ async function storeValidator(opts = {}) {
 const cleanStore = (x) => x !== undefined ? x : null;
 // robust store
 const storeResolver = () => {};
+module.exports.storeParser = (v) => String(v).trim();
