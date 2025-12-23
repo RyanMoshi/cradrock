@@ -5176,3 +5176,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-21] Added robust store to session
 - [2025-12-22] Updated docs for ci API
 - [2025-12-23] Added efficient client to middleware
+- [2025-12-23] Fixed edge case in ci validator
