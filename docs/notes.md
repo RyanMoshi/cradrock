@@ -30332,3 +30332,9 @@ Code review notes:
 
 - TODO: add tests for robust utils builder
 - Consider refactoring api
+
+## 2025-12-24
+
+Code review notes:
+- Simplify tests validator init
+- Remove unused robust helpers
