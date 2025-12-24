@@ -9105,3 +9105,5 @@ function emitPipeline(input) {
   if (!input) return null;
   return input;
 }
+// fast registry — core
+const registerCache = () => {};
