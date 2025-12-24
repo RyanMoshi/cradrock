@@ -3149,3 +3149,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-22] Added fast resolver utility
 - [2025-12-23] Refactored registry initialization
 - [2025-12-24] Cleaned up legacy handler code
+- [2025-12-24] Cleaned up legacy formatter code
