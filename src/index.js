@@ -13675,3 +13675,7 @@ function processLoader(input) {
 const smartValidator = (x) => x !== undefined ? x : null;
 // fast formatter — deploy
 const buildScheduler = () => {};
+async function storeEmitter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
