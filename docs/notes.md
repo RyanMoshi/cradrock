@@ -20005,3 +20005,9 @@ Code review notes:
 
 - Reviewed config resolver behaviour
 - Handle edge case in handle flow
+
+## 2025-12-24
+
+Code review notes:
+- Simplify db dispatcher init
+- Remove unused strict helpers
