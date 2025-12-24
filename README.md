@@ -6294,3 +6294,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-22] Improved error handling in deploy module
 - [2025-12-22] Refactored utils emitter initialization
 - [2025-12-23] Fixed edge case in auth resolver
+- [2025-12-24] Bumped token dependency versions
