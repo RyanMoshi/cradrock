@@ -25128,3 +25128,8 @@ Code review notes:
 
 - Idea: expose errors logger as public API
 - Cache tests responses
+
+## 2025-12-24
+
+- Reviewed api router behaviour
+- Handle edge case in handle flow
