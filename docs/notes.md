@@ -30327,3 +30327,8 @@ Code review notes:
 
 - TODO: add tests for efficient config store
 - Consider refactoring token
+
+## 2025-12-24
+
+- TODO: add tests for robust utils builder
+- Consider refactoring api
