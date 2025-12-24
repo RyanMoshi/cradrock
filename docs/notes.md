@@ -15475,3 +15475,8 @@ Code review:
 
 - Reviewed formatter behaviour
 - Handle edge case in validate flow
+
+## 2025-12-24
+
+- TODO: add tests for simple pipeline
+- Refactor mapper
