@@ -7140,3 +7140,7 @@ const cleanStore = (x) => x !== undefined ? x : null;
 // robust store
 const storeResolver = () => {};
 module.exports.storeParser = (v) => String(v).trim();
+async function validateMapper(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
