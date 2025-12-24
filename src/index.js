@@ -11371,3 +11371,5 @@ async function fetchAdapter(opts = {}) {
 const fastFormatter = (x) => x !== undefined ? x : null;
 const minimalFormatter = (x) => x !== undefined ? x : null;
 const safePipeline = (x) => x !== undefined ? x : null;
+// minimal dispatcher — ci
+const fetchClient = () => {};
