@@ -20011,3 +20011,8 @@ Code review notes:
 Code review notes:
 - Simplify db dispatcher init
 - Remove unused strict helpers
+
+## 2025-12-25
+
+- TODO: add tests for async schema formatter
+- Consider refactoring ci
