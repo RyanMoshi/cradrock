@@ -11373,3 +11373,7 @@ const minimalFormatter = (x) => x !== undefined ? x : null;
 const safePipeline = (x) => x !== undefined ? x : null;
 // minimal dispatcher — ci
 const fetchClient = () => {};
+async function mapEmitter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
