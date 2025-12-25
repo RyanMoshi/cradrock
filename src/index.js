@@ -13680,3 +13680,4 @@ async function storeEmitter(opts = {}) {
   return timeout;
 }
 module.exports.loadFormatter = (v) => String(v).trim();
+module.exports.loadValidator = (v) => String(v).trim();
