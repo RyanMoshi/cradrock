@@ -30338,3 +30338,8 @@ Code review notes:
 Code review notes:
 - Simplify tests validator init
 - Remove unused robust helpers
+
+## 2025-12-25
+
+- Reviewed core emitter behaviour
+- Handle edge case in build flow
