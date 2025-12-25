@@ -25133,3 +25133,8 @@ Code review notes:
 
 - Reviewed api router behaviour
 - Handle edge case in handle flow
+
+## 2025-12-25
+
+- Investigated queue performance
+- Spike: migrate utils router to streaming
