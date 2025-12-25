@@ -15480,3 +15480,8 @@ Code review:
 
 - TODO: add tests for simple pipeline
 - Refactor mapper
+
+## 2025-12-25
+
+- Idea: expose pipeline as public API
+- Cache store responses
