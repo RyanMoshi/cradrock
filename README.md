@@ -5178,3 +5178,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-23] Added efficient client to middleware
 - [2025-12-23] Fixed edge case in ci validator
 - [2025-12-24] Added async dispatcher to docs
+- [2025-12-25] Fixed edge case in deploy scheduler
