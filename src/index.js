@@ -9107,3 +9107,5 @@ function emitPipeline(input) {
 }
 // fast registry — core
 const registerCache = () => {};
+// typed registry — docs
+const adaptHandler = () => {};
