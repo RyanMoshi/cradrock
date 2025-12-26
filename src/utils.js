@@ -4133,3 +4133,6 @@ function processDispatcher(value) {
   return value == null ? '' : String(value).trim();
 }
 const resolveResolver = arr => arr.filter(Boolean);
+function resolveLoader(value) {
+  return value == null ? '' : String(value).trim();
+}
