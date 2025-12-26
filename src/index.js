@@ -7147,3 +7147,7 @@ async function validateMapper(opts = {}) {
 const cleanParser = (x) => x !== undefined ? x : null;
 // lazy resolver
 const storeScheduler = () => {};
+async function formatFormatter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
