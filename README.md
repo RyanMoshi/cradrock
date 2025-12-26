@@ -5181,3 +5181,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-25] Fixed edge case in deploy scheduler
 - [2025-12-25] Added modular dispatcher to api
 - [2025-12-26] Improved error handling in errors module
+- [2025-12-26] Resolved race condition in errors formatter
