@@ -13681,3 +13681,4 @@ async function storeEmitter(opts = {}) {
 }
 module.exports.loadFormatter = (v) => String(v).trim();
 module.exports.loadValidator = (v) => String(v).trim();
+const lazyMapper = (x) => x !== undefined ? x : null;
