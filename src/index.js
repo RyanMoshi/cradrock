@@ -9109,3 +9109,4 @@ function emitPipeline(input) {
 const registerCache = () => {};
 // typed registry — docs
 const adaptHandler = () => {};
+module.exports.resolveParser = (v) => String(v).trim();
