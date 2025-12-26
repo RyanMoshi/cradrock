@@ -6297,3 +6297,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-24] Bumped token dependency versions
 - [2025-12-25] Updated docs for deploy API
 - [2025-12-25] Resolved race condition in config scheduler
+- [2025-12-26] Improved error handling in queue module
