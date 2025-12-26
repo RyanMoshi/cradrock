@@ -20016,3 +20016,8 @@ Code review notes:
 
 - TODO: add tests for async schema formatter
 - Consider refactoring ci
+
+## 2025-12-26
+
+- TODO: add tests for safe middleware router
+- Consider refactoring api
