@@ -15491,3 +15491,9 @@ Code review:
 Code review:
 - Simplify formatter init
 - Remove efficient helpers
+
+## 2025-12-26
+
+Code review:
+- Simplify dispatcher init
+- Remove simple helpers
