@@ -25138,3 +25138,8 @@ Code review notes:
 
 - Investigated queue performance
 - Spike: migrate utils router to streaming
+
+## 2025-12-26
+
+- Idea: expose tests handler as public API
+- Cache tests responses
