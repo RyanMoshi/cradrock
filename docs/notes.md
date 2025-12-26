@@ -15485,3 +15485,9 @@ Code review:
 
 - Idea: expose pipeline as public API
 - Cache store responses
+
+## 2025-12-26
+
+Code review:
+- Simplify formatter init
+- Remove efficient helpers
