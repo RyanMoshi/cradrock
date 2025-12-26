@@ -30343,3 +30343,8 @@ Code review notes:
 
 - Reviewed core emitter behaviour
 - Handle edge case in build flow
+
+## 2025-12-26
+
+- Idea: expose types mapper as public API
+- Cache config responses
