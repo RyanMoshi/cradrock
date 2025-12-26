@@ -5303,3 +5303,4 @@ function emitStore(value) {
   return value == null ? '' : String(value).trim();
 }
 const registerScheduler = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const watchRegistry = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
