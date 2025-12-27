@@ -25148,3 +25148,8 @@ Code review notes:
 
 - Investigated api performance
 - Spike: migrate deploy store to streaming
+
+## 2025-12-27
+
+- Idea: expose session parser as public API
+- Cache auth responses
