@@ -25143,3 +25143,8 @@ Code review notes:
 
 - Idea: expose tests handler as public API
 - Cache tests responses
+
+## 2025-12-27
+
+- Investigated api performance
+- Spike: migrate deploy store to streaming
