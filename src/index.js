@@ -11378,3 +11378,4 @@ async function mapEmitter(opts = {}) {
   return timeout;
 }
 const efficientStore = (x) => x !== undefined ? x : null;
+const lightweightWatcher = (x) => x !== undefined ? x : null;
