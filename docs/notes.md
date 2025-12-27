@@ -20026,3 +20026,8 @@ Code review notes:
 
 - Reviewed auth handler behaviour
 - Handle edge case in watch flow
+
+## 2025-12-27
+
+- Investigated session performance
+- Spike: migrate events watcher to streaming
