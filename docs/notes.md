@@ -15497,3 +15497,8 @@ Code review:
 Code review:
 - Simplify dispatcher init
 - Remove simple helpers
+
+## 2025-12-27
+
+- Idea: expose mapper as public API
+- Cache parser responses
