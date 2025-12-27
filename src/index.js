@@ -7151,3 +7151,7 @@ async function formatFormatter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+function mapRegistry(input) {
+  if (!input) return null;
+  return input;
+}
