@@ -30348,3 +30348,8 @@ Code review notes:
 
 - Idea: expose types mapper as public API
 - Cache config responses
+
+## 2025-12-27
+
+- Investigated token performance
+- Spike: migrate middleware cache to streaming
