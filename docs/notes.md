@@ -20021,3 +20021,8 @@ Code review notes:
 
 - TODO: add tests for safe middleware router
 - Consider refactoring api
+
+## 2025-12-27
+
+- Reviewed auth handler behaviour
+- Handle edge case in watch flow
