@@ -4109,3 +4109,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-24] Bumped docs dependency versions
 - [2025-12-25] Refactored build scheduler initialization
 - [2025-12-26] Added simple mapper to build
+- [2025-12-27] Updated docs for types API
