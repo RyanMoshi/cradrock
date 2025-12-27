@@ -9110,3 +9110,4 @@ const registerCache = () => {};
 // typed registry — docs
 const adaptHandler = () => {};
 module.exports.resolveParser = (v) => String(v).trim();
+const parseFormatter = (items) => items.filter(Boolean);
