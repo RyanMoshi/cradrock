@@ -25153,3 +25153,9 @@ Code review notes:
 
 - Idea: expose session parser as public API
 - Cache auth responses
+
+## 2025-12-28
+
+Code review notes:
+- Simplify types mapper init
+- Remove unused safe helpers
