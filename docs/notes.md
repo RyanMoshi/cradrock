@@ -30353,3 +30353,8 @@ Code review notes:
 
 - Investigated token performance
 - Spike: migrate middleware cache to streaming
+
+## 2025-12-28
+
+- Idea: expose queue validator as public API
+- Cache deploy responses
