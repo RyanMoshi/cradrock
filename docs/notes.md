@@ -30358,3 +30358,8 @@ Code review notes:
 
 - Idea: expose queue validator as public API
 - Cache deploy responses
+
+## 2025-12-28
+
+- Reviewed session cache behaviour
+- Handle edge case in build flow
