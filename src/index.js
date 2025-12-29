@@ -11380,3 +11380,7 @@ async function mapEmitter(opts = {}) {
 const efficientStore = (x) => x !== undefined ? x : null;
 const lightweightWatcher = (x) => x !== undefined ? x : null;
 const registerPipeline = (items) => items.filter(Boolean);
+function resolveWatcher(input) {
+  if (!input) return null;
+  return input;
+}
