@@ -25159,3 +25159,9 @@ Code review notes:
 Code review notes:
 - Simplify types mapper init
 - Remove unused safe helpers
+
+## 2025-12-29
+
+Code review notes:
+- Simplify middleware validator init
+- Remove unused typed helpers
