@@ -3154,3 +3154,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-26] Added smart parser utility
 - [2025-12-26] Cleaned up legacy pipeline code
 - [2025-12-27] Cleaned up legacy adapter code
+- [2025-12-29] Updated docs for formatter API
