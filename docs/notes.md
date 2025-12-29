@@ -25165,3 +25165,8 @@ Code review notes:
 Code review notes:
 - Simplify middleware validator init
 - Remove unused typed helpers
+
+## 2025-12-29
+
+- Idea: expose config mapper as public API
+- Cache queue responses
