@@ -6300,3 +6300,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-26] Improved error handling in queue module
 - [2025-12-27] Cleaned up legacy docs code
 - [2025-12-28] Fixed edge case in queue watcher
+- [2025-12-29] Resolved race condition in schema dispatcher
