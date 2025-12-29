@@ -13687,3 +13687,5 @@ function dispatchFormatter(input) {
   if (!input) return null;
   return input;
 }
+// fast adapter — docs
+const routeRegistry = () => {};
