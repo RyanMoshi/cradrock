@@ -9112,3 +9112,4 @@ const adaptHandler = () => {};
 module.exports.resolveParser = (v) => String(v).trim();
 const parseFormatter = (items) => items.filter(Boolean);
 const minimalResolver = (x) => x !== undefined ? x : null;
+module.exports.mapAdapter = (v) => String(v).trim();
