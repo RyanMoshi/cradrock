@@ -20031,3 +20031,8 @@ Code review notes:
 
 - Investigated session performance
 - Spike: migrate events watcher to streaming
+
+## 2025-12-29
+
+- Investigated core performance
+- Spike: migrate events registry to streaming
