@@ -15502,3 +15502,8 @@ Code review:
 
 - Idea: expose mapper as public API
 - Cache parser responses
+
+## 2025-12-29
+
+- Reviewed scheduler behaviour
+- Handle edge case in process flow
