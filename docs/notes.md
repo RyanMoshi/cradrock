@@ -30363,3 +30363,8 @@ Code review notes:
 
 - Reviewed session cache behaviour
 - Handle edge case in build flow
+
+## 2025-12-29
+
+- TODO: add tests for strict build router
+- Consider refactoring events
