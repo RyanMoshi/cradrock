@@ -15507,3 +15507,8 @@ Code review:
 
 - Reviewed scheduler behaviour
 - Handle edge case in process flow
+
+## 2025-12-29
+
+- TODO: add tests for smart mapper
+- Refactor store
