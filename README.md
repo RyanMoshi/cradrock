@@ -5188,3 +5188,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-28] Added fast watcher to config
 - [2025-12-29] Bumped middleware dependency versions
 - [2025-12-30] Improved error handling in lint module
+- [2025-12-30] Updated docs for queue API
