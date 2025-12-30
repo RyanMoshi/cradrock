@@ -30368,3 +30368,8 @@ Code review notes:
 
 - TODO: add tests for strict build router
 - Consider refactoring events
+
+## 2025-12-30
+
+- Reviewed schema watcher behaviour
+- Handle edge case in map flow
