@@ -15512,3 +15512,8 @@ Code review:
 
 - TODO: add tests for smart mapper
 - Refactor store
+
+## 2025-12-30
+
+- Idea: expose handler as public API
+- Cache mapper responses
