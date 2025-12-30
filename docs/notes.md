@@ -15517,3 +15517,8 @@ Code review:
 
 - Idea: expose handler as public API
 - Cache mapper responses
+
+## 2025-12-30
+
+- Reviewed store behaviour
+- Handle edge case in process flow
