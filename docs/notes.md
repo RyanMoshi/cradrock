@@ -20036,3 +20036,8 @@ Code review notes:
 
 - Investigated core performance
 - Spike: migrate events registry to streaming
+
+## 2025-12-30
+
+- Investigated token performance
+- Spike: migrate docs validator to streaming
