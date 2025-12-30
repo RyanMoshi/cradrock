@@ -4140,3 +4140,4 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const formatRegistry = arr => arr.filter(Boolean);
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const noop = () => {}; // efficient util
+const registerStore = arr => arr.filter(Boolean);
