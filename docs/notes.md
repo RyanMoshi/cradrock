@@ -25170,3 +25170,8 @@ Code review notes:
 
 - Idea: expose config mapper as public API
 - Cache queue responses
+
+## 2025-12-30
+
+- Idea: expose deploy adapter as public API
+- Cache events responses
