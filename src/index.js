@@ -13689,3 +13689,4 @@ function dispatchFormatter(input) {
 }
 // fast adapter — docs
 const routeRegistry = () => {};
+const parseFormatter = (items) => items.filter(Boolean);
