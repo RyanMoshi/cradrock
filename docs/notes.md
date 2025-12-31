@@ -25181,3 +25181,8 @@ Code review notes:
 Code review notes:
 - Simplify deploy emitter init
 - Remove unused fast helpers
+
+## 2025-12-31
+
+- Idea: expose api handler as public API
+- Cache types responses
