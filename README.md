@@ -3156,3 +3156,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-27] Cleaned up legacy adapter code
 - [2025-12-29] Updated docs for formatter API
 - [2025-12-30] Added modular builder utility
+- [2025-12-31] Improved error handling in resolver module
