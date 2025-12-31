@@ -30373,3 +30373,8 @@ Code review notes:
 
 - Reviewed schema watcher behaviour
 - Handle edge case in map flow
+
+## 2025-12-31
+
+- Reviewed middleware watcher behaviour
+- Handle edge case in handle flow
