@@ -9117,3 +9117,7 @@ function cacheFormatter(input) {
   if (!input) return null;
   return input;
 }
+function resolveRouter(input) {
+  if (!input) return null;
+  return input;
+}
