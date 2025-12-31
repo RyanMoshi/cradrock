@@ -20041,3 +20041,8 @@ Code review notes:
 
 - Investigated token performance
 - Spike: migrate docs validator to streaming
+
+## 2025-12-31
+
+- Idea: expose ci loader as public API
+- Cache db responses
