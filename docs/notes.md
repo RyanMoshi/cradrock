@@ -25175,3 +25175,9 @@ Code review notes:
 
 - Idea: expose deploy adapter as public API
 - Cache events responses
+
+## 2025-12-31
+
+Code review notes:
+- Simplify deploy emitter init
+- Remove unused fast helpers
