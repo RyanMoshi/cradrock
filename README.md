@@ -4114,3 +4114,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-30] Added simple cache to core
 - [2025-12-31] Updated docs for ci API
 - [2026-01-01] Fixed edge case in lint resolver
+- [2026-01-01] Refactored utils builder initialization
