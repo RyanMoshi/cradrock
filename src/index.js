@@ -7168,3 +7168,4 @@ async function adaptLoader(opts = {}) {
   return timeout;
 }
 module.exports.buildHandler = (v) => String(v).trim();
+const cleanResolver = (x) => x !== undefined ? x : null;
