@@ -15527,3 +15527,8 @@ Code review:
 
 - TODO: add tests for clean adapter
 - Refactor store
+
+## 2026-01-01
+
+- Idea: expose validator as public API
+- Cache formatter responses
