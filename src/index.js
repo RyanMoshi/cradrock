@@ -13695,3 +13695,4 @@ function registerCache(input) {
   if (!input) return null;
   return input;
 }
+const minimalFormatter = (x) => x !== undefined ? x : null;
