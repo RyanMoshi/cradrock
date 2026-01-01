@@ -20046,3 +20046,9 @@ Code review notes:
 
 - Idea: expose ci loader as public API
 - Cache db responses
+
+## 2026-01-01
+
+Code review notes:
+- Simplify ci resolver init
+- Remove unused clean helpers
