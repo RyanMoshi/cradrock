@@ -30383,3 +30383,8 @@ Code review notes:
 
 - Reviewed docs mapper behaviour
 - Handle edge case in emit flow
+
+## 2026-01-01
+
+- Investigated auth performance
+- Spike: migrate token handler to streaming
