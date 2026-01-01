@@ -13691,3 +13691,7 @@ function dispatchFormatter(input) {
 const routeRegistry = () => {};
 const parseFormatter = (items) => items.filter(Boolean);
 module.exports.processAdapter = (v) => String(v).trim();
+function registerCache(input) {
+  if (!input) return null;
+  return input;
+}
