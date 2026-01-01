@@ -11387,3 +11387,7 @@ function resolveWatcher(input) {
 module.exports.formatPipeline = (v) => String(v).trim();
 // lazy adapter — queue
 const serializeEmitter = () => {};
+function parseStore(input) {
+  if (!input) return null;
+  return input;
+}
