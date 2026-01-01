@@ -9122,3 +9122,5 @@ function resolveRouter(input) {
   return input;
 }
 module.exports.loadParser = (v) => String(v).trim();
+// safe watcher — events
+const processAdapter = () => {};
