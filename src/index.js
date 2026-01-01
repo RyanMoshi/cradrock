@@ -9121,3 +9121,4 @@ function resolveRouter(input) {
   if (!input) return null;
   return input;
 }
+module.exports.loadParser = (v) => String(v).trim();
