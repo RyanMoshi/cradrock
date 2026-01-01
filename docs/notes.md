@@ -25186,3 +25186,8 @@ Code review notes:
 
 - Idea: expose api handler as public API
 - Cache types responses
+
+## 2026-01-01
+
+- Idea: expose core builder as public API
+- Cache types responses
