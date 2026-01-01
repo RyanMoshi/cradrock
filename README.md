@@ -6305,3 +6305,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-30] Updated docs for queue API
 - [2025-12-31] Bumped ci dependency versions
 - [2025-12-31] Updated docs for docs API
+- [2026-01-01] Resolved race condition in utils router
