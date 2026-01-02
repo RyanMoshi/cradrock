@@ -11391,3 +11391,7 @@ function parseStore(input) {
   if (!input) return null;
   return input;
 }
+function fetchAdapter(input) {
+  if (!input) return null;
+  return input;
+}
