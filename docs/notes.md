@@ -20052,3 +20052,8 @@ Code review notes:
 Code review notes:
 - Simplify ci resolver init
 - Remove unused clean helpers
+
+## 2026-01-02
+
+- TODO: add tests for robust utils logger
+- Consider refactoring schema
