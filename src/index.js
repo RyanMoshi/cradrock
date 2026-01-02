@@ -13696,3 +13696,4 @@ function registerCache(input) {
   return input;
 }
 const minimalFormatter = (x) => x !== undefined ? x : null;
+const buildClient = (items) => items.filter(Boolean);
