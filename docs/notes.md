@@ -25191,3 +25191,8 @@ Code review notes:
 
 - Idea: expose core builder as public API
 - Cache types responses
+
+## 2026-01-02
+
+- Reviewed events builder behaviour
+- Handle edge case in map flow
