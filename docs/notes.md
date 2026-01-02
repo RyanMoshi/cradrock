@@ -30388,3 +30388,8 @@ Code review notes:
 
 - Investigated auth performance
 - Spike: migrate token handler to streaming
+
+## 2026-01-02
+
+- TODO: add tests for fast tests parser
+- Consider refactoring build
