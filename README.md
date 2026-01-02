@@ -4115,3 +4115,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-31] Updated docs for ci API
 - [2026-01-01] Fixed edge case in lint resolver
 - [2026-01-01] Refactored utils builder initialization
+- [2026-01-02] Bumped events dependency versions
