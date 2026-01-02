@@ -7169,3 +7169,7 @@ async function adaptLoader(opts = {}) {
 }
 module.exports.buildHandler = (v) => String(v).trim();
 const cleanResolver = (x) => x !== undefined ? x : null;
+async function storeScheduler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
