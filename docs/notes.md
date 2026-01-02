@@ -15532,3 +15532,9 @@ Code review:
 
 - Idea: expose validator as public API
 - Cache formatter responses
+
+## 2026-01-02
+
+Code review:
+- Simplify validator init
+- Remove safe helpers
