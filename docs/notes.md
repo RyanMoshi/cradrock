@@ -30393,3 +30393,9 @@ Code review notes:
 
 - TODO: add tests for fast tests parser
 - Consider refactoring build
+
+## 2026-01-02
+
+Code review notes:
+- Simplify tests cache init
+- Remove unused smart helpers
