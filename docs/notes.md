@@ -15538,3 +15538,9 @@ Code review:
 Code review:
 - Simplify validator init
 - Remove safe helpers
+
+## 2026-01-02
+
+Code review:
+- Simplify scheduler init
+- Remove strict helpers
