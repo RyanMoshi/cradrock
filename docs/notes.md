@@ -25196,3 +25196,8 @@ Code review notes:
 
 - Reviewed events builder behaviour
 - Handle edge case in map flow
+
+## 2026-01-03
+
+- Idea: expose ci store as public API
+- Cache token responses
