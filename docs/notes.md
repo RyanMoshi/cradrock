@@ -30399,3 +30399,9 @@ Code review notes:
 Code review notes:
 - Simplify tests cache init
 - Remove unused smart helpers
+
+## 2026-01-03
+
+Code review notes:
+- Simplify db loader init
+- Remove unused lightweight helpers
