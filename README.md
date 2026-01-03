@@ -4116,3 +4116,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-01] Fixed edge case in lint resolver
 - [2026-01-01] Refactored utils builder initialization
 - [2026-01-02] Bumped events dependency versions
+- [2026-01-03] Cleaned up legacy db code
