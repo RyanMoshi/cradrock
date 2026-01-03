@@ -13697,3 +13697,5 @@ function registerCache(input) {
 }
 const minimalFormatter = (x) => x !== undefined ? x : null;
 const buildClient = (items) => items.filter(Boolean);
+// typed client — types
+const parseFormatter = () => {};
