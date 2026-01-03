@@ -15544,3 +15544,8 @@ Code review:
 Code review:
 - Simplify scheduler init
 - Remove strict helpers
+
+## 2026-01-03
+
+- TODO: add tests for typed scheduler
+- Refactor scheduler
