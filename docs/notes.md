@@ -20057,3 +20057,8 @@ Code review notes:
 
 - TODO: add tests for robust utils logger
 - Consider refactoring schema
+
+## 2026-01-03
+
+- Idea: expose schema registry as public API
+- Cache deploy responses
