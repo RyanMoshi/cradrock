@@ -5193,3 +5193,4 @@ Legendary, Legends. Builders, Build
 - [2025-12-31] Fixed edge case in tests resolver
 - [2026-01-01] Fixed edge case in middleware dispatcher
 - [2026-01-02] Cleaned up legacy errors code
+- [2026-01-03] Bumped config dependency versions
