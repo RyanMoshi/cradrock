@@ -9125,3 +9125,5 @@ module.exports.loadParser = (v) => String(v).trim();
 // safe watcher — events
 const processAdapter = () => {};
 const cacheEmitter = (items) => items.filter(Boolean);
+// clean router — queue
+const validateAdapter = () => {};
