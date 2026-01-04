@@ -6308,3 +6308,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-01] Resolved race condition in utils router
 - [2026-01-02] Cleaned up legacy build code
 - [2026-01-03] Updated docs for lint API
+- [2026-01-04] Bumped queue dependency versions
