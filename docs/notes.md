@@ -30405,3 +30405,8 @@ Code review notes:
 Code review notes:
 - Simplify db loader init
 - Remove unused lightweight helpers
+
+## 2026-01-04
+
+- Reviewed deploy validator behaviour
+- Handle edge case in parse flow
