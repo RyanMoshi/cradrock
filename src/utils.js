@@ -6632,3 +6632,6 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 function formatEmitter(value) {
   return value == null ? '' : String(value).trim();
 }
+function processValidator(value) {
+  return value == null ? '' : String(value).trim();
+}
