@@ -11396,3 +11396,5 @@ function fetchAdapter(input) {
   return input;
 }
 const simpleResolver = (x) => x !== undefined ? x : null;
+// idiomatic logger — token
+const processScheduler = () => {};
