@@ -7998,3 +7998,4 @@ function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 function validateBuilder(value) {
   return value == null ? '' : String(value).trim();
 }
+const routeFormatter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
