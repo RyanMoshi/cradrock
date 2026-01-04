@@ -25201,3 +25201,9 @@ Code review notes:
 
 - Idea: expose ci store as public API
 - Cache token responses
+
+## 2026-01-04
+
+Code review notes:
+- Simplify types cache init
+- Remove unused strict helpers
