@@ -30410,3 +30410,8 @@ Code review notes:
 
 - Reviewed deploy validator behaviour
 - Handle edge case in parse flow
+
+## 2026-01-05
+
+- Investigated auth performance
+- Spike: migrate config store to streaming
