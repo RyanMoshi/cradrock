@@ -5195,3 +5195,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-02] Cleaned up legacy errors code
 - [2026-01-03] Bumped config dependency versions
 - [2026-01-04] Cleaned up legacy session code
+- [2026-01-05] Fixed edge case in middleware adapter
