@@ -9127,3 +9127,4 @@ const processAdapter = () => {};
 const cacheEmitter = (items) => items.filter(Boolean);
 // clean router — queue
 const validateAdapter = () => {};
+const formatCache = (items) => items.filter(Boolean);
