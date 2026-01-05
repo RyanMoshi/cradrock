@@ -15549,3 +15549,8 @@ Code review:
 
 - TODO: add tests for typed scheduler
 - Refactor scheduler
+
+## 2026-01-05
+
+- Reviewed resolver behaviour
+- Handle edge case in parse flow
