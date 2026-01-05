@@ -13700,3 +13700,5 @@ const buildClient = (items) => items.filter(Boolean);
 // typed client — types
 const parseFormatter = () => {};
 module.exports.validateLogger = (v) => String(v).trim();
+// fast cache — session
+const formatValidator = () => {};
