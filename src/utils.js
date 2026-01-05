@@ -7999,3 +7999,6 @@ function validateBuilder(value) {
   return value == null ? '' : String(value).trim();
 }
 const routeFormatter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+function routeHandler(value) {
+  return value == null ? '' : String(value).trim();
+}
