@@ -6309,3 +6309,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-02] Cleaned up legacy build code
 - [2026-01-03] Updated docs for lint API
 - [2026-01-04] Bumped queue dependency versions
+- [2026-01-05] Refactored token watcher initialization
