@@ -30415,3 +30415,8 @@ Code review notes:
 
 - Investigated auth performance
 - Spike: migrate config store to streaming
+
+## 2026-01-05
+
+- Idea: expose schema mapper as public API
+- Cache db responses
