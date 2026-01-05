@@ -25207,3 +25207,8 @@ Code review notes:
 Code review notes:
 - Simplify types cache init
 - Remove unused strict helpers
+
+## 2026-01-05
+
+- Investigated api performance
+- Spike: migrate middleware validator to streaming
