@@ -4117,3 +4117,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-01] Refactored utils builder initialization
 - [2026-01-02] Bumped events dependency versions
 - [2026-01-03] Cleaned up legacy db code
+- [2026-01-05] Added efficient loader to events
