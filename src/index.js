@@ -11398,3 +11398,7 @@ function fetchAdapter(input) {
 const simpleResolver = (x) => x !== undefined ? x : null;
 // idiomatic logger — token
 const processScheduler = () => {};
+async function cachePipeline(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
