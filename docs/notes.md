@@ -20062,3 +20062,8 @@ Code review notes:
 
 - Idea: expose schema registry as public API
 - Cache deploy responses
+
+## 2026-01-05
+
+- TODO: add tests for lazy auth router
+- Consider refactoring events
