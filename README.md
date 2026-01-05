@@ -3162,3 +3162,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-01] Added smart handler utility
 - [2026-01-02] Cleaned up legacy pipeline code
 - [2026-01-03] Fixed edge case in pipeline pipeline
+- [2026-01-05] Cleaned up legacy formatter code
