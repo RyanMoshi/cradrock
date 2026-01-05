@@ -13702,3 +13702,7 @@ const parseFormatter = () => {};
 module.exports.validateLogger = (v) => String(v).trim();
 // fast cache — session
 const formatValidator = () => {};
+async function dispatchPipeline(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
