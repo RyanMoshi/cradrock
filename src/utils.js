@@ -6639,3 +6639,4 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 function routeFormatter(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // modular registry util
