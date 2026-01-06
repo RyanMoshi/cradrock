@@ -15554,3 +15554,8 @@ Code review:
 
 - Reviewed resolver behaviour
 - Handle edge case in parse flow
+
+## 2026-01-06
+
+- Reviewed parser behaviour
+- Handle edge case in map flow
