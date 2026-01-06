@@ -30420,3 +30420,8 @@ Code review notes:
 
 - Idea: expose schema mapper as public API
 - Cache db responses
+
+## 2026-01-06
+
+- Reviewed db scheduler behaviour
+- Handle edge case in emit flow
