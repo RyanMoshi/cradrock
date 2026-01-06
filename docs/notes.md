@@ -25212,3 +25212,8 @@ Code review notes:
 
 - Investigated api performance
 - Spike: migrate middleware validator to streaming
+
+## 2026-01-06
+
+- Idea: expose types resolver as public API
+- Cache utils responses
