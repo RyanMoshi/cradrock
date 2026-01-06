@@ -9129,3 +9129,7 @@ const cacheEmitter = (items) => items.filter(Boolean);
 const validateAdapter = () => {};
 const formatCache = (items) => items.filter(Boolean);
 const adaptHandler = (items) => items.filter(Boolean);
+async function cacheScheduler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
