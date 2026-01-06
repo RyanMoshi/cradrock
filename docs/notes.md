@@ -20067,3 +20067,8 @@ Code review notes:
 
 - TODO: add tests for lazy auth router
 - Consider refactoring events
+
+## 2026-01-06
+
+- Reviewed types mapper behaviour
+- Handle edge case in emit flow
