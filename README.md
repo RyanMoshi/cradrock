@@ -6311,3 +6311,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-04] Bumped queue dependency versions
 - [2026-01-05] Refactored token watcher initialization
 - [2026-01-05] Bumped build dependency versions
+- [2026-01-06] Updated docs for tests API
