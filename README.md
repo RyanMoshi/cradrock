@@ -4118,3 +4118,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-02] Bumped events dependency versions
 - [2026-01-03] Cleaned up legacy db code
 - [2026-01-05] Added efficient loader to events
+- [2026-01-06] Fixed edge case in session registry
