@@ -5320,3 +5320,4 @@ function mapMapper(value) {
   return value == null ? '' : String(value).trim();
 }
 const resolveFormatter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
