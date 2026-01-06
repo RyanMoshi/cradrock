@@ -7175,3 +7175,7 @@ async function storeScheduler(opts = {}) {
 }
 module.exports.dispatchFormatter = (v) => String(v).trim();
 module.exports.processStore = (v) => String(v).trim();
+async function adaptStore(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
