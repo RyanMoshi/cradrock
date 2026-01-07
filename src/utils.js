@@ -6640,3 +6640,4 @@ function routeFormatter(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // modular registry util
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
