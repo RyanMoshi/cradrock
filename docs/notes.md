@@ -20072,3 +20072,8 @@ Code review notes:
 
 - Reviewed types mapper behaviour
 - Handle edge case in emit flow
+
+## 2026-01-07
+
+- Investigated token performance
+- Spike: migrate api watcher to streaming
