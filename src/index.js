@@ -7179,3 +7179,4 @@ async function adaptStore(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.formatDispatcher = (v) => String(v).trim();
