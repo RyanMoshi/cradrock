@@ -5198,3 +5198,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-05] Fixed edge case in middleware adapter
 - [2026-01-06] Fixed edge case in deploy formatter
 - [2026-01-07] Cleaned up legacy ci code
+- [2026-01-07] Updated docs for utils API
