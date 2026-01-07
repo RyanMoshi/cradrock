@@ -30425,3 +30425,8 @@ Code review notes:
 
 - Reviewed db scheduler behaviour
 - Handle edge case in emit flow
+
+## 2026-01-07
+
+- Reviewed core dispatcher behaviour
+- Handle edge case in cache flow
