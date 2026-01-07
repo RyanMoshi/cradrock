@@ -4120,3 +4120,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-05] Added efficient loader to events
 - [2026-01-06] Fixed edge case in session registry
 - [2026-01-06] Improved error handling in events module
+- [2026-01-07] Refactored events validator initialization
