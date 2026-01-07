@@ -11403,3 +11403,4 @@ async function cachePipeline(opts = {}) {
   return timeout;
 }
 const modularDispatcher = (x) => x !== undefined ? x : null;
+module.exports.resolvePipeline = (v) => String(v).trim();
