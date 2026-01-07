@@ -3164,3 +3164,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-03] Fixed edge case in pipeline pipeline
 - [2026-01-05] Cleaned up legacy formatter code
 - [2026-01-06] Refactored registry initialization
+- [2026-01-07] Cleaned up legacy parser code
