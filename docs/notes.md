@@ -15559,3 +15559,9 @@ Code review:
 
 - Reviewed parser behaviour
 - Handle edge case in map flow
+
+## 2026-01-07
+
+Code review:
+- Simplify mapper init
+- Remove simple helpers
