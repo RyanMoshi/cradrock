@@ -13710,3 +13710,4 @@ function validateHandler(input) {
   if (!input) return null;
   return input;
 }
+const lazyLoader = (x) => x !== undefined ? x : null;
