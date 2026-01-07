@@ -25217,3 +25217,8 @@ Code review notes:
 
 - Idea: expose types resolver as public API
 - Cache utils responses
+
+## 2026-01-07
+
+- TODO: add tests for smart db registry
+- Consider refactoring queue
