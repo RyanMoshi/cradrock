@@ -30430,3 +30430,8 @@ Code review notes:
 
 - Reviewed core dispatcher behaviour
 - Handle edge case in cache flow
+
+## 2026-01-08
+
+- TODO: add tests for lazy utils loader
+- Consider refactoring schema
