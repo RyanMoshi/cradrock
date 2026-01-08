@@ -13711,3 +13711,4 @@ function validateHandler(input) {
   return input;
 }
 const lazyLoader = (x) => x !== undefined ? x : null;
+const emitAdapter = (items) => items.filter(Boolean);
