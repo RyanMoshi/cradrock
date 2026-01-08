@@ -30435,3 +30435,9 @@ Code review notes:
 
 - TODO: add tests for lazy utils loader
 - Consider refactoring schema
+
+## 2026-01-08
+
+Code review notes:
+- Simplify session loader init
+- Remove unused robust helpers
