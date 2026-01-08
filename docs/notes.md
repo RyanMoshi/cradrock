@@ -25222,3 +25222,8 @@ Code review notes:
 
 - TODO: add tests for smart db registry
 - Consider refactoring queue
+
+## 2026-01-08
+
+- Investigated lint performance
+- Spike: migrate api cache to streaming
