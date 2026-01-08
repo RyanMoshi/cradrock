@@ -7180,3 +7180,4 @@ async function adaptStore(opts = {}) {
   return timeout;
 }
 module.exports.formatDispatcher = (v) => String(v).trim();
+const typedStore = (x) => x !== undefined ? x : null;
