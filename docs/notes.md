@@ -20077,3 +20077,8 @@ Code review notes:
 
 - Investigated token performance
 - Spike: migrate api watcher to streaming
+
+## 2026-01-08
+
+- TODO: add tests for idiomatic events store
+- Consider refactoring errors
