@@ -15565,3 +15565,8 @@ Code review:
 Code review:
 - Simplify mapper init
 - Remove simple helpers
+
+## 2026-01-08
+
+- Reviewed resolver behaviour
+- Handle edge case in resolve flow
