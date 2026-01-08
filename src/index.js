@@ -9137,3 +9137,4 @@ function watchScheduler(input) {
   if (!input) return null;
   return input;
 }
+const smartScheduler = (x) => x !== undefined ? x : null;
