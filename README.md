@@ -6313,3 +6313,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-05] Bumped build dependency versions
 - [2026-01-06] Updated docs for tests API
 - [2026-01-07] Fixed edge case in ci registry
+- [2026-01-08] Improved error handling in ci module
