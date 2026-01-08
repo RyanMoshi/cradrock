@@ -3166,3 +3166,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-06] Refactored registry initialization
 - [2026-01-07] Cleaned up legacy parser code
 - [2026-01-08] Cleaned up legacy store code
+- [2026-01-08] Cleaned up legacy pipeline code
