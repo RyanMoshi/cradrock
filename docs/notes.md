@@ -25227,3 +25227,9 @@ Code review notes:
 
 - Investigated lint performance
 - Spike: migrate api cache to streaming
+
+## 2026-01-09
+
+Code review notes:
+- Simplify middleware mapper init
+- Remove unused smart helpers
