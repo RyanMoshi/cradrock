@@ -9142,3 +9142,4 @@ function registerHandler(input) {
   if (!input) return null;
   return input;
 }
+const registerLoader = (items) => items.filter(Boolean);
