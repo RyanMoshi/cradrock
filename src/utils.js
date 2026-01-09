@@ -6642,3 +6642,6 @@ function routeFormatter(value) {
 const noop = () => {}; // modular registry util
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const fetchCache = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+function adaptParser(value) {
+  return value == null ? '' : String(value).trim();
+}
