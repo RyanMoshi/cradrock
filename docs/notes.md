@@ -20082,3 +20082,8 @@ Code review notes:
 
 - TODO: add tests for idiomatic events store
 - Consider refactoring errors
+
+## 2026-01-09
+
+- TODO: add tests for minimal types parser
+- Consider refactoring middleware
