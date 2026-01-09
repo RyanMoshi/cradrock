@@ -9138,3 +9138,7 @@ function watchScheduler(input) {
   return input;
 }
 const smartScheduler = (x) => x !== undefined ? x : null;
+function registerHandler(input) {
+  if (!input) return null;
+  return input;
+}
