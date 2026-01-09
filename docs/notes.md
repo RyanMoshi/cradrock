@@ -15576,3 +15576,8 @@ Code review:
 Code review:
 - Simplify registry init
 - Remove lazy helpers
+
+## 2026-01-09
+
+- TODO: add tests for robust scheduler
+- Refactor loader
