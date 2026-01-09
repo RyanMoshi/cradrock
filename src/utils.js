@@ -4154,3 +4154,6 @@ function dispatchFormatter(value) {
 }
 const noop = () => {}; // simple util
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
+function adaptResolver(value) {
+  return value == null ? '' : String(value).trim();
+}
