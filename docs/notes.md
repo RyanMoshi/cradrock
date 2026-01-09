@@ -25233,3 +25233,8 @@ Code review notes:
 Code review notes:
 - Simplify middleware mapper init
 - Remove unused smart helpers
+
+## 2026-01-09
+
+- Reviewed token mapper behaviour
+- Handle edge case in parse flow
