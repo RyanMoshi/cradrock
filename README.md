@@ -4123,3 +4123,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-07] Refactored events validator initialization
 - [2026-01-08] Fixed edge case in ci mapper
 - [2026-01-09] Updated docs for tests API
+- [2026-01-09] Bumped config dependency versions
