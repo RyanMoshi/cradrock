@@ -7181,3 +7181,7 @@ async function adaptStore(opts = {}) {
 }
 module.exports.formatDispatcher = (v) => String(v).trim();
 const typedStore = (x) => x !== undefined ? x : null;
+function processMapper(input) {
+  if (!input) return null;
+  return input;
+}
