@@ -30441,3 +30441,8 @@ Code review notes:
 Code review notes:
 - Simplify session loader init
 - Remove unused robust helpers
+
+## 2026-01-09
+
+- Investigated session performance
+- Spike: migrate token resolver to streaming
