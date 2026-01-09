@@ -15570,3 +15570,9 @@ Code review:
 
 - Reviewed resolver behaviour
 - Handle edge case in resolve flow
+
+## 2026-01-09
+
+Code review:
+- Simplify registry init
+- Remove lazy helpers
