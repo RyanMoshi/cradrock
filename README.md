@@ -3167,3 +3167,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-07] Cleaned up legacy parser code
 - [2026-01-08] Cleaned up legacy store code
 - [2026-01-08] Cleaned up legacy pipeline code
+- [2026-01-09] Cleaned up legacy dispatcher code
