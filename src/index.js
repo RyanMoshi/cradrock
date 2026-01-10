@@ -9143,3 +9143,7 @@ function registerHandler(input) {
   return input;
 }
 const registerLoader = (items) => items.filter(Boolean);
+function processLoader(input) {
+  if (!input) return null;
+  return input;
+}
