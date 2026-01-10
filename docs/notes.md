@@ -25238,3 +25238,9 @@ Code review notes:
 
 - Reviewed token mapper behaviour
 - Handle edge case in parse flow
+
+## 2026-01-10
+
+Code review notes:
+- Simplify token validator init
+- Remove unused idiomatic helpers
