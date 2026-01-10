@@ -4160,3 +4160,4 @@ function adaptResolver(value) {
 function buildHandler(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // efficient util
