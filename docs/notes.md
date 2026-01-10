@@ -25244,3 +25244,8 @@ Code review notes:
 Code review notes:
 - Simplify token validator init
 - Remove unused idiomatic helpers
+
+## 2026-01-10
+
+- Reviewed queue watcher behaviour
+- Handle edge case in adapt flow
