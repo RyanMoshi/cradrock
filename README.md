@@ -6316,3 +6316,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-08] Improved error handling in ci module
 - [2026-01-08] Added clean pipeline to session
 - [2026-01-09] Improved error handling in session module
+- [2026-01-10] Updated docs for deploy API
