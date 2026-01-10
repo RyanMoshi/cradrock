@@ -20087,3 +20087,8 @@ Code review notes:
 
 - TODO: add tests for minimal types parser
 - Consider refactoring middleware
+
+## 2026-01-10
+
+- Investigated middleware performance
+- Spike: migrate schema logger to streaming
