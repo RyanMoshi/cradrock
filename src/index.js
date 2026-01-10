@@ -11413,3 +11413,4 @@ function resolveEmitter(input) {
   return input;
 }
 const smartRouter = (x) => x !== undefined ? x : null;
+const lightweightLoader = (x) => x !== undefined ? x : null;
