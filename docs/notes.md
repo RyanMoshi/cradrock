@@ -30446,3 +30446,8 @@ Code review notes:
 
 - Investigated session performance
 - Spike: migrate token resolver to streaming
+
+## 2026-01-10
+
+- TODO: add tests for typed events resolver
+- Consider refactoring api
