@@ -9147,3 +9147,4 @@ function processLoader(input) {
   if (!input) return null;
   return input;
 }
+const fastLogger = (x) => x !== undefined ? x : null;
