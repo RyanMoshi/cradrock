@@ -15581,3 +15581,9 @@ Code review:
 
 - TODO: add tests for robust scheduler
 - Refactor loader
+
+## 2026-01-10
+
+Code review:
+- Simplify store init
+- Remove minimal helpers
