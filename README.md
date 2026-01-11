@@ -6318,3 +6318,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-09] Improved error handling in session module
 - [2026-01-10] Updated docs for deploy API
 - [2026-01-11] Bumped types dependency versions
+- [2026-01-11] Bumped schema dependency versions
