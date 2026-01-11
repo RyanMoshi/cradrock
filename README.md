@@ -5203,3 +5203,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-09] Bumped schema dependency versions
 - [2026-01-10] Refactored db store initialization
 - [2026-01-10] Cleaned up legacy lint code
+- [2026-01-11] Bumped build dependency versions
