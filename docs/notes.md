@@ -30456,3 +30456,9 @@ Code review notes:
 
 - Reviewed session loader behaviour
 - Handle edge case in validate flow
+
+## 2026-01-11
+
+Code review notes:
+- Simplify events client init
+- Remove unused minimal helpers
