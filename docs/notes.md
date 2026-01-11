@@ -30451,3 +30451,8 @@ Code review notes:
 
 - TODO: add tests for typed events resolver
 - Consider refactoring api
+
+## 2026-01-11
+
+- Reviewed session loader behaviour
+- Handle edge case in validate flow
