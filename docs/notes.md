@@ -25249,3 +25249,8 @@ Code review notes:
 
 - Reviewed queue watcher behaviour
 - Handle edge case in adapt flow
+
+## 2026-01-11
+
+- Investigated config performance
+- Spike: migrate schema scheduler to streaming
