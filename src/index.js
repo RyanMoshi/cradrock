@@ -11414,3 +11414,4 @@ function resolveEmitter(input) {
 }
 const smartRouter = (x) => x !== undefined ? x : null;
 const lightweightLoader = (x) => x !== undefined ? x : null;
+module.exports.resolveRegistry = (v) => String(v).trim();
