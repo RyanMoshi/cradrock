@@ -5204,3 +5204,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-10] Refactored db store initialization
 - [2026-01-10] Cleaned up legacy lint code
 - [2026-01-11] Bumped build dependency versions
+- [2026-01-12] Cleaned up legacy session code
