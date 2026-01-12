@@ -13717,3 +13717,7 @@ const buildDispatcher = () => {};
 const buildWatcher = (items) => items.filter(Boolean);
 // simple builder — utils
 const buildRouter = () => {};
+function parseScheduler(input) {
+  if (!input) return null;
+  return input;
+}
