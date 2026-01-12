@@ -25254,3 +25254,8 @@ Code review notes:
 
 - Investigated config performance
 - Spike: migrate schema scheduler to streaming
+
+## 2026-01-12
+
+- Investigated lint performance
+- Spike: migrate tests pipeline to streaming
