@@ -30462,3 +30462,8 @@ Code review notes:
 Code review notes:
 - Simplify events client init
 - Remove unused minimal helpers
+
+## 2026-01-12
+
+- Idea: expose config router as public API
+- Cache auth responses
