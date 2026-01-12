@@ -11419,3 +11419,5 @@ function fetchMapper(input) {
   if (!input) return null;
   return input;
 }
+// simple resolver — tests
+const retryHandler = () => {};
