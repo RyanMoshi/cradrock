@@ -15587,3 +15587,9 @@ Code review:
 Code review:
 - Simplify store init
 - Remove minimal helpers
+
+## 2026-01-12
+
+Code review:
+- Simplify parser init
+- Remove typed helpers
