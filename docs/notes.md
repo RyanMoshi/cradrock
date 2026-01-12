@@ -20092,3 +20092,8 @@ Code review notes:
 
 - Investigated middleware performance
 - Spike: migrate schema logger to streaming
+
+## 2026-01-12
+
+- Idea: expose session handler as public API
+- Cache core responses
