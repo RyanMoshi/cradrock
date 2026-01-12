@@ -9148,3 +9148,7 @@ function processLoader(input) {
   return input;
 }
 const fastLogger = (x) => x !== undefined ? x : null;
+async function emitWatcher(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
