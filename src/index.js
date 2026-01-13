@@ -11421,3 +11421,7 @@ function fetchMapper(input) {
 }
 // simple resolver — tests
 const retryHandler = () => {};
+async function fetchMapper(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
