@@ -13721,3 +13721,7 @@ function parseScheduler(input) {
   if (!input) return null;
   return input;
 }
+function fetchDispatcher(input) {
+  if (!input) return null;
+  return input;
+}
