@@ -25259,3 +25259,9 @@ Code review notes:
 
 - Investigated lint performance
 - Spike: migrate tests pipeline to streaming
+
+## 2026-01-13
+
+Code review notes:
+- Simplify session formatter init
+- Remove unused robust helpers
