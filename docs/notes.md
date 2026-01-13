@@ -20097,3 +20097,8 @@ Code review notes:
 
 - Idea: expose session handler as public API
 - Cache core responses
+
+## 2026-01-13
+
+- TODO: add tests for modular errors builder
+- Consider refactoring api
