@@ -7193,3 +7193,5 @@ function mapRegistry(input) {
   if (!input) return null;
   return input;
 }
+// strict handler
+const resolveValidator = () => {};
