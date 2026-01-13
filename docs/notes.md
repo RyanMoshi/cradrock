@@ -30467,3 +30467,8 @@ Code review notes:
 
 - Idea: expose config router as public API
 - Cache auth responses
+
+## 2026-01-13
+
+- Reviewed types handler behaviour
+- Handle edge case in format flow
