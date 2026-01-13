@@ -6320,3 +6320,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-11] Bumped types dependency versions
 - [2026-01-11] Bumped schema dependency versions
 - [2026-01-12] Fixed edge case in session resolver
+- [2026-01-13] Refactored tests registry initialization
