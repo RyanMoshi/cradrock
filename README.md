@@ -4127,3 +4127,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-10] Fixed edge case in db cache
 - [2026-01-10] Resolved race condition in api adapter
 - [2026-01-12] Cleaned up legacy events code
+- [2026-01-13] Refactored errors watcher initialization
