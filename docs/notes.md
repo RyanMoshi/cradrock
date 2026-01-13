@@ -15593,3 +15593,8 @@ Code review:
 Code review:
 - Simplify parser init
 - Remove typed helpers
+
+## 2026-01-13
+
+- Reviewed parser behaviour
+- Handle edge case in validate flow
