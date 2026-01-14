@@ -15598,3 +15598,9 @@ Code review:
 
 - Reviewed parser behaviour
 - Handle edge case in validate flow
+
+## 2026-01-14
+
+Code review:
+- Simplify resolver init
+- Remove typed helpers
