@@ -7195,3 +7195,7 @@ function mapRegistry(input) {
 }
 // strict handler
 const resolveValidator = () => {};
+function formatLoader(input) {
+  if (!input) return null;
+  return input;
+}
