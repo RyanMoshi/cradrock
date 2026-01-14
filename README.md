@@ -5207,3 +5207,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-12] Cleaned up legacy session code
 - [2026-01-12] Improved error handling in auth module
 - [2026-01-13] Refactored lint handler initialization
+- [2026-01-14] Updated docs for types API
