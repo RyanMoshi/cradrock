@@ -25265,3 +25265,8 @@ Code review notes:
 Code review notes:
 - Simplify session formatter init
 - Remove unused robust helpers
+
+## 2026-01-14
+
+- Idea: expose tests resolver as public API
+- Cache docs responses
