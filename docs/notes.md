@@ -20102,3 +20102,9 @@ Code review notes:
 
 - TODO: add tests for modular errors builder
 - Consider refactoring api
+
+## 2026-01-14
+
+Code review notes:
+- Simplify queue formatter init
+- Remove unused typed helpers
