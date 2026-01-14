@@ -30477,3 +30477,9 @@ Code review notes:
 
 - Investigated db performance
 - Spike: migrate db resolver to streaming
+
+## 2026-01-14
+
+Code review notes:
+- Simplify core watcher init
+- Remove unused idiomatic helpers
