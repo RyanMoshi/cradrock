@@ -6322,3 +6322,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-12] Fixed edge case in session resolver
 - [2026-01-13] Refactored tests registry initialization
 - [2026-01-13] Improved error handling in queue module
+- [2026-01-14] Resolved race condition in ci parser
