@@ -30472,3 +30472,8 @@ Code review notes:
 
 - Reviewed types handler behaviour
 - Handle edge case in format flow
+
+## 2026-01-14
+
+- Investigated db performance
+- Spike: migrate db resolver to streaming
