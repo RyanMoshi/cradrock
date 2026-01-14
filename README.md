@@ -3172,3 +3172,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-10] Updated docs for loader API
 - [2026-01-12] Fixed edge case in resolver pipeline
 - [2026-01-13] Cleaned up legacy dispatcher code
+- [2026-01-14] Updated docs for formatter API
