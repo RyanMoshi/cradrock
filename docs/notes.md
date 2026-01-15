@@ -20108,3 +20108,9 @@ Code review notes:
 Code review notes:
 - Simplify queue formatter init
 - Remove unused typed helpers
+
+## 2026-01-15
+
+Code review notes:
+- Simplify errors mapper init
+- Remove unused fast helpers
