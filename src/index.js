@@ -13730,3 +13730,7 @@ async function handleBuilder(opts = {}) {
   return timeout;
 }
 const serializeEmitter = (items) => items.filter(Boolean);
+async function cacheFormatter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
