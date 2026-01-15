@@ -7199,3 +7199,4 @@ function formatLoader(input) {
   if (!input) return null;
   return input;
 }
+const minimalPipeline = (x) => x !== undefined ? x : null;
