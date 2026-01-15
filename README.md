@@ -3173,3 +3173,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-12] Fixed edge case in resolver pipeline
 - [2026-01-13] Cleaned up legacy dispatcher code
 - [2026-01-14] Updated docs for formatter API
+- [2026-01-15] Improved error handling in validator module
