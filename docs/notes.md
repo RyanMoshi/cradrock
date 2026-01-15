@@ -25275,3 +25275,9 @@ Code review notes:
 
 - Idea: expose lint adapter as public API
 - Cache queue responses
+
+## 2026-01-15
+
+Code review notes:
+- Simplify lint client init
+- Remove unused efficient helpers
