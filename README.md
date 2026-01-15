@@ -4129,3 +4129,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-12] Cleaned up legacy events code
 - [2026-01-13] Refactored errors watcher initialization
 - [2026-01-14] Cleaned up legacy lint code
+- [2026-01-15] Updated docs for types API
