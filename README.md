@@ -3174,3 +3174,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-13] Cleaned up legacy dispatcher code
 - [2026-01-14] Updated docs for formatter API
 - [2026-01-15] Improved error handling in validator module
+- [2026-01-15] Refactored formatter initialization
