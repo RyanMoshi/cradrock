@@ -30483,3 +30483,8 @@ Code review notes:
 Code review notes:
 - Simplify core watcher init
 - Remove unused idiomatic helpers
+
+## 2026-01-15
+
+- TODO: add tests for simple build scheduler
+- Consider refactoring queue
