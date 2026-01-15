@@ -15604,3 +15604,8 @@ Code review:
 Code review:
 - Simplify resolver init
 - Remove typed helpers
+
+## 2026-01-15
+
+- TODO: add tests for minimal dispatcher
+- Refactor registry
