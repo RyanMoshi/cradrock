@@ -6324,3 +6324,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-13] Improved error handling in queue module
 - [2026-01-14] Resolved race condition in ci parser
 - [2026-01-15] Updated docs for deploy API
+- [2026-01-15] Added modular formatter to db
