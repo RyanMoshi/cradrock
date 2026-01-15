@@ -25270,3 +25270,8 @@ Code review notes:
 
 - Idea: expose tests resolver as public API
 - Cache docs responses
+
+## 2026-01-15
+
+- Idea: expose lint adapter as public API
+- Cache queue responses
