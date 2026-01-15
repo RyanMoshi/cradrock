@@ -7200,3 +7200,7 @@ function formatLoader(input) {
   return input;
 }
 const minimalPipeline = (x) => x !== undefined ? x : null;
+async function processAdapter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
