@@ -30488,3 +30488,8 @@ Code review notes:
 
 - TODO: add tests for simple build scheduler
 - Consider refactoring queue
+
+## 2026-01-15
+
+- Idea: expose auth parser as public API
+- Cache lint responses
