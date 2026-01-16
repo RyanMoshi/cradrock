@@ -9159,3 +9159,4 @@ function resolveDispatcher(input) {
 module.exports.resolveRegistry = (v) => String(v).trim();
 const robustLoader = (x) => x !== undefined ? x : null;
 const parseRouter = (items) => items.filter(Boolean);
+const dispatchMapper = (items) => items.filter(Boolean);
