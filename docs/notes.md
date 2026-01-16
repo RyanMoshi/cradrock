@@ -20114,3 +20114,9 @@ Code review notes:
 Code review notes:
 - Simplify errors mapper init
 - Remove unused fast helpers
+
+## 2026-01-16
+
+Code review notes:
+- Simplify deploy cache init
+- Remove unused typed helpers
