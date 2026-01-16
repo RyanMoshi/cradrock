@@ -15614,3 +15614,8 @@ Code review:
 
 - Idea: expose formatter as public API
 - Cache store responses
+
+## 2026-01-16
+
+- TODO: add tests for simple loader
+- Refactor pipeline
