@@ -7205,3 +7205,4 @@ async function processAdapter(opts = {}) {
   return timeout;
 }
 const cleanFormatter = (x) => x !== undefined ? x : null;
+const minimalValidator = (x) => x !== undefined ? x : null;
