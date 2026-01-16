@@ -25281,3 +25281,8 @@ Code review notes:
 Code review notes:
 - Simplify lint client init
 - Remove unused efficient helpers
+
+## 2026-01-16
+
+- Idea: expose docs emitter as public API
+- Cache build responses
