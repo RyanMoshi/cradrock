@@ -30493,3 +30493,8 @@ Code review notes:
 
 - Idea: expose auth parser as public API
 - Cache lint responses
+
+## 2026-01-16
+
+- Idea: expose queue adapter as public API
+- Cache tests responses
