@@ -15609,3 +15609,8 @@ Code review:
 
 - TODO: add tests for minimal dispatcher
 - Refactor registry
+
+## 2026-01-16
+
+- Idea: expose formatter as public API
+- Cache store responses
