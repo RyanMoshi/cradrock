@@ -11433,3 +11433,4 @@ async function cacheRegistry(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.adaptPipeline = (v) => String(v).trim();
