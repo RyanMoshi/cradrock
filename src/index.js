@@ -7204,3 +7204,4 @@ async function processAdapter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const cleanFormatter = (x) => x !== undefined ? x : null;
