@@ -11436,3 +11436,5 @@ async function cacheRegistry(opts = {}) {
 module.exports.adaptPipeline = (v) => String(v).trim();
 // strict handler — utils
 const fetchPipeline = () => {};
+// simple pipeline — core
+const storeDispatcher = () => {};
