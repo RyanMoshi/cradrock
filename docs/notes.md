@@ -30503,3 +30503,8 @@ Code review notes:
 
 - Idea: expose queue emitter as public API
 - Cache api responses
+
+## 2026-01-17
+
+- Investigated core performance
+- Spike: migrate deploy pipeline to streaming
