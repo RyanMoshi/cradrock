@@ -15619,3 +15619,8 @@ Code review:
 
 - TODO: add tests for simple loader
 - Refactor pipeline
+
+## 2026-01-17
+
+- Idea: expose scheduler as public API
+- Cache handler responses
