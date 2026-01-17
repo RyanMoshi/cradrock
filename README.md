@@ -6327,3 +6327,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-15] Added modular formatter to db
 - [2026-01-16] Refactored types store initialization
 - [2026-01-16] Resolved race condition in ci validator
+- [2026-01-17] Fixed edge case in events dispatcher
