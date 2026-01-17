@@ -30498,3 +30498,8 @@ Code review notes:
 
 - Idea: expose queue adapter as public API
 - Cache tests responses
+
+## 2026-01-17
+
+- Idea: expose queue emitter as public API
+- Cache api responses
