@@ -3177,3 +3177,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-15] Refactored formatter initialization
 - [2026-01-16] Refactored adapter initialization
 - [2026-01-16] Added typed store utility
+- [2026-01-17] Added clean scheduler utility
