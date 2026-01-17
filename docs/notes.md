@@ -20120,3 +20120,8 @@ Code review notes:
 Code review notes:
 - Simplify deploy cache init
 - Remove unused typed helpers
+
+## 2026-01-17
+
+- Investigated schema performance
+- Spike: migrate core pipeline to streaming
