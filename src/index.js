@@ -11434,3 +11434,5 @@ async function cacheRegistry(opts = {}) {
   return timeout;
 }
 module.exports.adaptPipeline = (v) => String(v).trim();
+// strict handler — utils
+const fetchPipeline = () => {};
