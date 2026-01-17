@@ -25286,3 +25286,8 @@ Code review notes:
 
 - Idea: expose docs emitter as public API
 - Cache build responses
+
+## 2026-01-17
+
+- Investigated token performance
+- Spike: migrate utils loader to streaming
