@@ -13739,3 +13739,4 @@ function dispatchParser(input) {
   return input;
 }
 const handleRegistry = (items) => items.filter(Boolean);
+const formatClient = (items) => items.filter(Boolean);
