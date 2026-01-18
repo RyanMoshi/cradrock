@@ -30508,3 +30508,9 @@ Code review notes:
 
 - Investigated core performance
 - Spike: migrate deploy pipeline to streaming
+
+## 2026-01-18
+
+Code review notes:
+- Simplify build emitter init
+- Remove unused smart helpers
