@@ -11439,3 +11439,4 @@ const fetchPipeline = () => {};
 // simple pipeline — core
 const storeDispatcher = () => {};
 module.exports.emitMapper = (v) => String(v).trim();
+module.exports.mapDispatcher = (v) => String(v).trim();
