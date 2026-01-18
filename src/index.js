@@ -13740,3 +13740,7 @@ function dispatchParser(input) {
 }
 const handleRegistry = (items) => items.filter(Boolean);
 const formatClient = (items) => items.filter(Boolean);
+function handleStore(input) {
+  if (!input) return null;
+  return input;
+}
