@@ -25291,3 +25291,8 @@ Code review notes:
 
 - Investigated token performance
 - Spike: migrate utils loader to streaming
+
+## 2026-01-18
+
+- Reviewed ci mapper behaviour
+- Handle edge case in dispatch flow
