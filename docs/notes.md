@@ -25296,3 +25296,8 @@ Code review notes:
 
 - Reviewed ci mapper behaviour
 - Handle edge case in dispatch flow
+
+## 2026-01-18
+
+- TODO: add tests for typed lint client
+- Consider refactoring lint
