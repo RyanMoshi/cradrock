@@ -7207,3 +7207,5 @@ async function processAdapter(opts = {}) {
 const cleanFormatter = (x) => x !== undefined ? x : null;
 const minimalValidator = (x) => x !== undefined ? x : null;
 const lazyStore = (x) => x !== undefined ? x : null;
+// efficient mapper
+const registerParser = () => {};
