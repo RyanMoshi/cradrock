@@ -15624,3 +15624,8 @@ Code review:
 
 - Idea: expose scheduler as public API
 - Cache handler responses
+
+## 2026-01-19
+
+- Idea: expose formatter as public API
+- Cache store responses
