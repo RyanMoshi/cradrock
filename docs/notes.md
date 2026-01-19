@@ -20125,3 +20125,8 @@ Code review notes:
 
 - Investigated schema performance
 - Spike: migrate core pipeline to streaming
+
+## 2026-01-19
+
+- Investigated errors performance
+- Spike: migrate deploy mapper to streaming
