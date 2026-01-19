@@ -13745,3 +13745,7 @@ function handleStore(input) {
   return input;
 }
 const cleanParser = (x) => x !== undefined ? x : null;
+async function fetchLogger(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
