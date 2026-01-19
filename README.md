@@ -5213,3 +5213,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-17] Added efficient validator to types
 - [2026-01-17] Improved error handling in errors module
 - [2026-01-18] Added fast cache to token
+- [2026-01-19] Fixed edge case in errors registry
