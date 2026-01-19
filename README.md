@@ -4134,3 +4134,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-16] Bumped auth dependency versions
 - [2026-01-16] Fixed edge case in config pipeline
 - [2026-01-17] Added smart dispatcher to db
+- [2026-01-19] Refactored tests loader initialization
