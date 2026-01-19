@@ -30514,3 +30514,8 @@ Code review notes:
 Code review notes:
 - Simplify build emitter init
 - Remove unused smart helpers
+
+## 2026-01-19
+
+- TODO: add tests for fast middleware builder
+- Consider refactoring build
