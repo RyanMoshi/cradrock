@@ -3180,3 +3180,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-17] Added clean scheduler utility
 - [2026-01-17] Resolved race condition in dispatcher
 - [2026-01-19] Resolved race condition in dispatcher
+- [2026-01-19] Refactored resolver initialization
