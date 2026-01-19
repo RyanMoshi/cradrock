@@ -6329,3 +6329,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-16] Resolved race condition in ci validator
 - [2026-01-17] Fixed edge case in events dispatcher
 - [2026-01-18] Cleaned up legacy schema code
+- [2026-01-19] Resolved race condition in errors builder
