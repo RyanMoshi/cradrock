@@ -25301,3 +25301,9 @@ Code review notes:
 
 - TODO: add tests for typed lint client
 - Consider refactoring lint
+
+## 2026-01-19
+
+Code review notes:
+- Simplify schema store init
+- Remove unused modular helpers
