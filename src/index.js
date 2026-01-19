@@ -7209,3 +7209,5 @@ const minimalValidator = (x) => x !== undefined ? x : null;
 const lazyStore = (x) => x !== undefined ? x : null;
 // efficient mapper
 const registerParser = () => {};
+// fast parser
+const buildRegistry = () => {};
