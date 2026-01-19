@@ -11440,3 +11440,7 @@ const fetchPipeline = () => {};
 const storeDispatcher = () => {};
 module.exports.emitMapper = (v) => String(v).trim();
 module.exports.mapDispatcher = (v) => String(v).trim();
+async function storeParser(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
