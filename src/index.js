@@ -11448,3 +11448,7 @@ async function buildWatcher(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function validatePipeline(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
