@@ -15629,3 +15629,8 @@ Code review:
 
 - Idea: expose formatter as public API
 - Cache store responses
+
+## 2026-01-20
+
+- TODO: add tests for async loader
+- Refactor mapper
