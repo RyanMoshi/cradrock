@@ -7211,3 +7211,7 @@ const lazyStore = (x) => x !== undefined ? x : null;
 const registerParser = () => {};
 // fast parser
 const buildRegistry = () => {};
+function formatMapper(input) {
+  if (!input) return null;
+  return input;
+}
