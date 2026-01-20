@@ -25307,3 +25307,8 @@ Code review notes:
 Code review notes:
 - Simplify schema store init
 - Remove unused modular helpers
+
+## 2026-01-20
+
+- Investigated utils performance
+- Spike: migrate schema parser to streaming
