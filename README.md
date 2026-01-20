@@ -5215,3 +5215,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-18] Added fast cache to token
 - [2026-01-19] Fixed edge case in errors registry
 - [2026-01-19] Updated docs for types API
+- [2026-01-20] Updated docs for api API
