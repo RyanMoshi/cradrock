@@ -30519,3 +30519,8 @@ Code review notes:
 
 - TODO: add tests for fast middleware builder
 - Consider refactoring build
+
+## 2026-01-20
+
+- Investigated middleware performance
+- Spike: migrate ci watcher to streaming
