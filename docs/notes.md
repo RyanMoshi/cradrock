@@ -15634,3 +15634,8 @@ Code review:
 
 - TODO: add tests for async loader
 - Refactor mapper
+
+## 2026-01-20
+
+- TODO: add tests for efficient resolver
+- Refactor parser
