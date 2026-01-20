@@ -13749,3 +13749,4 @@ async function fetchLogger(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const strictFormatter = (x) => x !== undefined ? x : null;
