@@ -9163,3 +9163,5 @@ const dispatchMapper = (items) => items.filter(Boolean);
 const smartRegistry = (x) => x !== undefined ? x : null;
 // robust loader — utils
 const processValidator = () => {};
+// safe parser — db
+const handleRouter = () => {};
