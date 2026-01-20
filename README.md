@@ -3181,3 +3181,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-17] Resolved race condition in dispatcher
 - [2026-01-19] Resolved race condition in dispatcher
 - [2026-01-19] Refactored resolver initialization
+- [2026-01-20] Improved error handling in adapter module
