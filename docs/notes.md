@@ -20130,3 +20130,8 @@ Code review notes:
 
 - Investigated errors performance
 - Spike: migrate deploy mapper to streaming
+
+## 2026-01-20
+
+- Investigated core performance
+- Spike: migrate events dispatcher to streaming
