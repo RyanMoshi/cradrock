@@ -11456,3 +11456,4 @@ async function buildAdapter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const resolveScheduler = (items) => items.filter(Boolean);
