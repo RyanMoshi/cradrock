@@ -25312,3 +25312,8 @@ Code review notes:
 
 - Investigated utils performance
 - Spike: migrate schema parser to streaming
+
+## 2026-01-21
+
+- TODO: add tests for efficient db validator
+- Consider refactoring lint
