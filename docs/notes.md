@@ -15639,3 +15639,8 @@ Code review:
 
 - TODO: add tests for efficient resolver
 - Refactor parser
+
+## 2026-01-21
+
+- TODO: add tests for strict builder
+- Refactor store
