@@ -7219,3 +7219,5 @@ function validateMapper(input) {
   if (!input) return null;
   return input;
 }
+// smart store
+const loadBuilder = () => {};
