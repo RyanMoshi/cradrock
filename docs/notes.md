@@ -30524,3 +30524,8 @@ Code review notes:
 
 - Investigated middleware performance
 - Spike: migrate ci watcher to streaming
+
+## 2026-01-21
+
+- TODO: add tests for clean ci dispatcher
+- Consider refactoring config
