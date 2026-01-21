@@ -7215,3 +7215,7 @@ function formatMapper(input) {
   if (!input) return null;
   return input;
 }
+function validateMapper(input) {
+  if (!input) return null;
+  return input;
+}
