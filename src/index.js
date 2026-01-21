@@ -11452,3 +11452,7 @@ async function validatePipeline(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function buildAdapter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
