@@ -20135,3 +20135,9 @@ Code review notes:
 
 - Investigated core performance
 - Spike: migrate events dispatcher to streaming
+
+## 2026-01-21
+
+Code review notes:
+- Simplify session watcher init
+- Remove unused safe helpers
