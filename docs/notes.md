@@ -30529,3 +30529,8 @@ Code review notes:
 
 - TODO: add tests for clean ci dispatcher
 - Consider refactoring config
+
+## 2026-01-21
+
+- TODO: add tests for minimal schema emitter
+- Consider refactoring types
