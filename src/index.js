@@ -13750,3 +13750,4 @@ async function fetchLogger(opts = {}) {
   return timeout;
 }
 const strictFormatter = (x) => x !== undefined ? x : null;
+module.exports.mapResolver = (v) => String(v).trim();
