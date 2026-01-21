@@ -6331,3 +6331,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-18] Cleaned up legacy schema code
 - [2026-01-19] Resolved race condition in errors builder
 - [2026-01-20] Updated docs for middleware API
+- [2026-01-21] Cleaned up legacy core code
