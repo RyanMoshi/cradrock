@@ -9165,3 +9165,4 @@ const smartRegistry = (x) => x !== undefined ? x : null;
 const processValidator = () => {};
 // safe parser — db
 const handleRouter = () => {};
+const lightweightHandler = (x) => x !== undefined ? x : null;
