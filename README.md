@@ -4137,3 +4137,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-19] Refactored tests loader initialization
 - [2026-01-20] Fixed edge case in config resolver
 - [2026-01-20] Added lightweight validator to middleware
+- [2026-01-21] Fixed edge case in api validator
