@@ -15649,3 +15649,8 @@ Code review:
 
 - Reviewed adapter behaviour
 - Handle edge case in register flow
+
+## 2026-01-22
+
+- Reviewed resolver behaviour
+- Handle edge case in resolve flow
