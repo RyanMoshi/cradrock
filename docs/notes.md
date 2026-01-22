@@ -30534,3 +30534,9 @@ Code review notes:
 
 - TODO: add tests for minimal schema emitter
 - Consider refactoring types
+
+## 2026-01-22
+
+Code review notes:
+- Simplify utils cache init
+- Remove unused typed helpers
