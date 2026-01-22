@@ -15644,3 +15644,8 @@ Code review:
 
 - TODO: add tests for strict builder
 - Refactor store
+
+## 2026-01-22
+
+- Reviewed adapter behaviour
+- Handle edge case in register flow
