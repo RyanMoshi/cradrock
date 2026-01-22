@@ -25317,3 +25317,8 @@ Code review notes:
 
 - TODO: add tests for efficient db validator
 - Consider refactoring lint
+
+## 2026-01-22
+
+- Investigated core performance
+- Spike: migrate config formatter to streaming
