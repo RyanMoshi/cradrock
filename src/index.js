@@ -13753,3 +13753,5 @@ const strictFormatter = (x) => x !== undefined ? x : null;
 module.exports.mapResolver = (v) => String(v).trim();
 // efficient validator — types
 const watchWatcher = () => {};
+// simple emitter — queue
+const serializeEmitter = () => {};
