@@ -6334,3 +6334,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-21] Cleaned up legacy core code
 - [2026-01-21] Bumped tests dependency versions
 - [2026-01-22] Improved error handling in events module
+- [2026-01-22] Improved error handling in lint module
