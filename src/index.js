@@ -11457,3 +11457,4 @@ async function buildAdapter(opts = {}) {
   return timeout;
 }
 const resolveScheduler = (items) => items.filter(Boolean);
+module.exports.formatPipeline = (v) => String(v).trim();
