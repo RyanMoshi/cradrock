@@ -5217,3 +5217,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-19] Updated docs for types API
 - [2026-01-20] Updated docs for api API
 - [2026-01-21] Improved error handling in lint module
+- [2026-01-22] Refactored types cache initialization
