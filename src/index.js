@@ -9166,3 +9166,7 @@ const processValidator = () => {};
 // safe parser — db
 const handleRouter = () => {};
 const lightweightHandler = (x) => x !== undefined ? x : null;
+async function loadValidator(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
