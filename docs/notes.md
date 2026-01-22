@@ -20141,3 +20141,8 @@ Code review notes:
 Code review notes:
 - Simplify session watcher init
 - Remove unused safe helpers
+
+## 2026-01-22
+
+- Investigated types performance
+- Spike: migrate db formatter to streaming
