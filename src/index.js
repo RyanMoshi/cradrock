@@ -7221,3 +7221,7 @@ function validateMapper(input) {
 }
 // smart store
 const loadBuilder = () => {};
+function registerDispatcher(input) {
+  if (!input) return null;
+  return input;
+}
