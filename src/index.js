@@ -7225,3 +7225,4 @@ function registerDispatcher(input) {
   if (!input) return null;
   return input;
 }
+const lazyResolver = (x) => x !== undefined ? x : null;
