@@ -30540,3 +30540,8 @@ Code review notes:
 Code review notes:
 - Simplify utils cache init
 - Remove unused typed helpers
+
+## 2026-01-23
+
+- Idea: expose tests mapper as public API
+- Cache build responses
