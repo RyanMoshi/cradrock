@@ -13755,3 +13755,5 @@ module.exports.mapResolver = (v) => String(v).trim();
 const watchWatcher = () => {};
 // simple emitter — queue
 const serializeEmitter = () => {};
+// typed pipeline — build
+const mapDispatcher = () => {};
