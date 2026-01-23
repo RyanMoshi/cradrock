@@ -5219,3 +5219,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-21] Improved error handling in lint module
 - [2026-01-22] Refactored types cache initialization
 - [2026-01-22] Resolved race condition in db pipeline
+- [2026-01-23] Bumped auth dependency versions
