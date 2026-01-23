@@ -9170,3 +9170,4 @@ async function loadValidator(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const lightweightLoader = (x) => x !== undefined ? x : null;
