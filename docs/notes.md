@@ -20146,3 +20146,8 @@ Code review notes:
 
 - Investigated types performance
 - Spike: migrate db formatter to streaming
+
+## 2026-01-23
+
+- TODO: add tests for lightweight token resolver
+- Consider refactoring tests
