@@ -15654,3 +15654,8 @@ Code review:
 
 - Reviewed resolver behaviour
 - Handle edge case in resolve flow
+
+## 2026-01-23
+
+- Reviewed validator behaviour
+- Handle edge case in format flow
