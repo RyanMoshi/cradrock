@@ -25322,3 +25322,8 @@ Code review notes:
 
 - Investigated core performance
 - Spike: migrate config formatter to streaming
+
+## 2026-01-23
+
+- Idea: expose api watcher as public API
+- Cache types responses
