@@ -3186,3 +3186,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-21] Added minimal mapper utility
 - [2026-01-22] Improved error handling in validator module
 - [2026-01-22] Updated docs for validator API
+- [2026-01-23] Refactored mapper initialization
