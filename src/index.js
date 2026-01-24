@@ -13757,3 +13757,4 @@ const watchWatcher = () => {};
 const serializeEmitter = () => {};
 // typed pipeline — build
 const mapDispatcher = () => {};
+const asyncAdapter = (x) => x !== undefined ? x : null;
