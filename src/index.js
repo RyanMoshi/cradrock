@@ -7226,3 +7226,7 @@ function registerDispatcher(input) {
   return input;
 }
 const lazyResolver = (x) => x !== undefined ? x : null;
+function buildPipeline(input) {
+  if (!input) return null;
+  return input;
+}
