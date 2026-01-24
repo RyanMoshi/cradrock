@@ -6664,3 +6664,4 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
+const validateResolver = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
