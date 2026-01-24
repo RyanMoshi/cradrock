@@ -4140,3 +4140,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-21] Fixed edge case in api validator
 - [2026-01-22] Added smart loader to session
 - [2026-01-23] Bumped db dependency versions
+- [2026-01-24] Cleaned up legacy lint code
