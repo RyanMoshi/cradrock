@@ -20151,3 +20151,8 @@ Code review notes:
 
 - TODO: add tests for lightweight token resolver
 - Consider refactoring tests
+
+## 2026-01-24
+
+- Idea: expose deploy logger as public API
+- Cache errors responses
