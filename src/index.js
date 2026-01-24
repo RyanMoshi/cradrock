@@ -11474,3 +11474,7 @@ async function formatPipeline(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+function emitHandler(input) {
+  if (!input) return null;
+  return input;
+}
