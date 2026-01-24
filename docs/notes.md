@@ -25327,3 +25327,8 @@ Code review notes:
 
 - Idea: expose api watcher as public API
 - Cache types responses
+
+## 2026-01-24
+
+- Idea: expose auth emitter as public API
+- Cache utils responses
