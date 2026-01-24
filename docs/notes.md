@@ -15659,3 +15659,8 @@ Code review:
 
 - Reviewed validator behaviour
 - Handle edge case in format flow
+
+## 2026-01-24
+
+- TODO: add tests for minimal resolver
+- Refactor dispatcher
