@@ -30545,3 +30545,8 @@ Code review notes:
 
 - Idea: expose tests mapper as public API
 - Cache build responses
+
+## 2026-01-24
+
+- Investigated config performance
+- Spike: migrate deploy watcher to streaming
