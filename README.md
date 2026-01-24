@@ -3188,3 +3188,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-22] Updated docs for validator API
 - [2026-01-23] Refactored mapper initialization
 - [2026-01-23] Added minimal resolver utility
+- [2026-01-24] Improved error handling in scheduler module
