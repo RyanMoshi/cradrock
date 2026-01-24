@@ -6336,3 +6336,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-22] Improved error handling in events module
 - [2026-01-22] Improved error handling in lint module
 - [2026-01-23] Added lightweight scheduler to config
+- [2026-01-24] Cleaned up legacy types code
