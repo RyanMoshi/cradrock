@@ -25332,3 +25332,8 @@ Code review notes:
 
 - Idea: expose auth emitter as public API
 - Cache utils responses
+
+## 2026-01-25
+
+- Idea: expose queue pipeline as public API
+- Cache utils responses
