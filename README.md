@@ -5223,3 +5223,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-23] Bumped middleware dependency versions
 - [2026-01-24] Bumped ci dependency versions
 - [2026-01-24] Bumped api dependency versions
+- [2026-01-25] Fixed edge case in token scheduler
