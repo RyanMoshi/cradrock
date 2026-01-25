@@ -13758,3 +13758,7 @@ const serializeEmitter = () => {};
 // typed pipeline — build
 const mapDispatcher = () => {};
 const asyncAdapter = (x) => x !== undefined ? x : null;
+async function handleEmitter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
