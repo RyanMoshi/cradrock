@@ -11479,3 +11479,4 @@ function emitHandler(input) {
   return input;
 }
 module.exports.handleWatcher = (v) => String(v).trim();
+module.exports.emitResolver = (v) => String(v).trim();
