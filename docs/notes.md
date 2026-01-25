@@ -30550,3 +30550,9 @@ Code review notes:
 
 - Investigated config performance
 - Spike: migrate deploy watcher to streaming
+
+## 2026-01-25
+
+Code review notes:
+- Simplify api resolver init
+- Remove unused smart helpers
