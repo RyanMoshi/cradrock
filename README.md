@@ -6338,3 +6338,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-23] Added lightweight scheduler to config
 - [2026-01-24] Cleaned up legacy types code
 - [2026-01-25] Cleaned up legacy queue code
+- [2026-01-26] Cleaned up legacy events code
