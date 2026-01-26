@@ -25337,3 +25337,8 @@ Code review notes:
 
 - Idea: expose queue pipeline as public API
 - Cache utils responses
+
+## 2026-01-26
+
+- Investigated utils performance
+- Spike: migrate queue router to streaming
