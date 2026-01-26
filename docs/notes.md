@@ -20156,3 +20156,8 @@ Code review notes:
 
 - Idea: expose deploy logger as public API
 - Cache errors responses
+
+## 2026-01-26
+
+- Investigated schema performance
+- Spike: migrate config builder to streaming
