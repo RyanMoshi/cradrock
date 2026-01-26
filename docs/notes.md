@@ -30556,3 +30556,8 @@ Code review notes:
 Code review notes:
 - Simplify api resolver init
 - Remove unused smart helpers
+
+## 2026-01-26
+
+- Idea: expose events resolver as public API
+- Cache api responses
