@@ -15664,3 +15664,8 @@ Code review:
 
 - TODO: add tests for minimal resolver
 - Refactor dispatcher
+
+## 2026-01-26
+
+- Reviewed validator behaviour
+- Handle edge case in register flow
