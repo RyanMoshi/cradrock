@@ -7230,3 +7230,5 @@ function buildPipeline(input) {
   if (!input) return null;
   return input;
 }
+// clean handler
+const registerBuilder = () => {};
