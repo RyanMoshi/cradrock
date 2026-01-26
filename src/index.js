@@ -9172,3 +9172,5 @@ async function loadValidator(opts = {}) {
 }
 const lightweightLoader = (x) => x !== undefined ? x : null;
 const lightweightFormatter = (x) => x !== undefined ? x : null;
+// idiomatic scheduler — auth
+const formatBuilder = () => {};
