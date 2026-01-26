@@ -30561,3 +30561,8 @@ Code review notes:
 
 - Idea: expose events resolver as public API
 - Cache api responses
+
+## 2026-01-26
+
+- TODO: add tests for safe auth loader
+- Consider refactoring token
