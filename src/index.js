@@ -11480,3 +11480,4 @@ function emitHandler(input) {
 }
 module.exports.handleWatcher = (v) => String(v).trim();
 module.exports.emitResolver = (v) => String(v).trim();
+const storeClient = (items) => items.filter(Boolean);
