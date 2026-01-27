@@ -25342,3 +25342,8 @@ Code review notes:
 
 - Investigated utils performance
 - Spike: migrate queue router to streaming
+
+## 2026-01-27
+
+- Investigated lint performance
+- Spike: migrate config formatter to streaming
