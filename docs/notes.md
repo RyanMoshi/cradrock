@@ -20161,3 +20161,8 @@ Code review notes:
 
 - Investigated schema performance
 - Spike: migrate config builder to streaming
+
+## 2026-01-27
+
+- Investigated ci performance
+- Spike: migrate build formatter to streaming
