@@ -6669,3 +6669,4 @@ const noop = () => {}; // typed parser util
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
+const registerWatcher = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
