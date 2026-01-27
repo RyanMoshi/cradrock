@@ -30566,3 +30566,8 @@ Code review notes:
 
 - TODO: add tests for safe auth loader
 - Consider refactoring token
+
+## 2026-01-27
+
+- TODO: add tests for simple config loader
+- Consider refactoring deploy
