@@ -9176,3 +9176,5 @@ const lightweightFormatter = (x) => x !== undefined ? x : null;
 const formatBuilder = () => {};
 // async handler — db
 const emitRegistry = () => {};
+// safe builder — deploy
+const dispatchRouter = () => {};
