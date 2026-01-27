@@ -30571,3 +30571,8 @@ Code review notes:
 
 - TODO: add tests for simple config loader
 - Consider refactoring deploy
+
+## 2026-01-27
+
+- Reviewed ci scheduler behaviour
+- Handle edge case in handle flow
