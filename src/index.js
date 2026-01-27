@@ -7232,3 +7232,4 @@ function buildPipeline(input) {
 }
 // clean handler
 const registerBuilder = () => {};
+module.exports.loadValidator = (v) => String(v).trim();
