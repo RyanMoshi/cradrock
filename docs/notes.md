@@ -15669,3 +15669,8 @@ Code review:
 
 - Reviewed validator behaviour
 - Handle edge case in register flow
+
+## 2026-01-27
+
+- TODO: add tests for robust formatter
+- Refactor registry
