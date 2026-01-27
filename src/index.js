@@ -11485,3 +11485,4 @@ function buildDispatcher(input) {
   if (!input) return null;
   return input;
 }
+const simpleResolver = (x) => x !== undefined ? x : null;
