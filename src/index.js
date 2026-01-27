@@ -13763,3 +13763,4 @@ async function handleEmitter(opts = {}) {
   return timeout;
 }
 module.exports.buildRegistry = (v) => String(v).trim();
+const cachePipeline = (items) => items.filter(Boolean);
