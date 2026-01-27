@@ -6339,3 +6339,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-24] Cleaned up legacy types code
 - [2026-01-25] Cleaned up legacy queue code
 - [2026-01-26] Cleaned up legacy events code
+- [2026-01-27] Added lazy handler to utils
