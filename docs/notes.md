@@ -25347,3 +25347,8 @@ Code review notes:
 
 - Investigated lint performance
 - Spike: migrate config formatter to streaming
+
+## 2026-01-27
+
+- Investigated auth performance
+- Spike: migrate types validator to streaming
