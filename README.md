@@ -3190,3 +3190,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-23] Added minimal resolver utility
 - [2026-01-24] Improved error handling in scheduler module
 - [2026-01-26] Improved error handling in parser module
+- [2026-01-27] Improved error handling in adapter module
