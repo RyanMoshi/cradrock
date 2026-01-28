@@ -9179,3 +9179,4 @@ const emitRegistry = () => {};
 // safe builder — deploy
 const dispatchRouter = () => {};
 const storeWatcher = (items) => items.filter(Boolean);
+module.exports.validateAdapter = (v) => String(v).trim();
