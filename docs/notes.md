@@ -20166,3 +20166,8 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate build formatter to streaming
+
+## 2026-01-28
+
+- Investigated build performance
+- Spike: migrate utils store to streaming
