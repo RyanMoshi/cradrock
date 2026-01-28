@@ -15674,3 +15674,8 @@ Code review:
 
 - TODO: add tests for robust formatter
 - Refactor registry
+
+## 2026-01-28
+
+- Reviewed resolver behaviour
+- Handle edge case in resolve flow
