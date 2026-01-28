@@ -11486,3 +11486,4 @@ function buildDispatcher(input) {
   return input;
 }
 const simpleResolver = (x) => x !== undefined ? x : null;
+module.exports.storeBuilder = (v) => String(v).trim();
