@@ -25352,3 +25352,8 @@ Code review notes:
 
 - Investigated auth performance
 - Spike: migrate types validator to streaming
+
+## 2026-01-28
+
+- TODO: add tests for simple errors loader
+- Consider refactoring types
