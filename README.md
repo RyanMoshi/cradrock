@@ -6341,3 +6341,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-26] Cleaned up legacy events code
 - [2026-01-27] Added lazy handler to utils
 - [2026-01-27] Cleaned up legacy ci code
+- [2026-01-28] Updated docs for events API
