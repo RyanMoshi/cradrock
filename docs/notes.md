@@ -30576,3 +30576,8 @@ Code review notes:
 
 - Reviewed ci scheduler behaviour
 - Handle edge case in handle flow
+
+## 2026-01-28
+
+- Investigated ci performance
+- Spike: migrate config loader to streaming
