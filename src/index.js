@@ -7233,3 +7233,4 @@ function buildPipeline(input) {
 // clean handler
 const registerBuilder = () => {};
 module.exports.loadValidator = (v) => String(v).trim();
+module.exports.processFormatter = (v) => String(v).trim();
