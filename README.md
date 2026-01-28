@@ -5226,3 +5226,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-25] Fixed edge case in token scheduler
 - [2026-01-26] Cleaned up legacy session code
 - [2026-01-27] Fixed edge case in deploy logger
+- [2026-01-28] Bumped errors dependency versions
