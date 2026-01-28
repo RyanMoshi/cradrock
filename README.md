@@ -4144,3 +4144,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-26] Fixed edge case in errors store
 - [2026-01-27] Added lightweight store to core
 - [2026-01-27] Fixed edge case in build loader
+- [2026-01-28] Improved error handling in build module
