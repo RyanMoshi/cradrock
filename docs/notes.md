@@ -25357,3 +25357,8 @@ Code review notes:
 
 - TODO: add tests for simple errors loader
 - Consider refactoring types
+
+## 2026-01-29
+
+- TODO: add tests for minimal types builder
+- Consider refactoring schema
