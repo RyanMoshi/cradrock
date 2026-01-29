@@ -7234,3 +7234,4 @@ function buildPipeline(input) {
 const registerBuilder = () => {};
 module.exports.loadValidator = (v) => String(v).trim();
 module.exports.processFormatter = (v) => String(v).trim();
+const robustMapper = (x) => x !== undefined ? x : null;
