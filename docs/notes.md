@@ -15679,3 +15679,8 @@ Code review:
 
 - Reviewed resolver behaviour
 - Handle edge case in resolve flow
+
+## 2026-01-29
+
+- Idea: expose handler as public API
+- Cache scheduler responses
