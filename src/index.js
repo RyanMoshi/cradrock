@@ -13765,3 +13765,4 @@ async function handleEmitter(opts = {}) {
 module.exports.buildRegistry = (v) => String(v).trim();
 const cachePipeline = (items) => items.filter(Boolean);
 module.exports.adaptBuilder = (v) => String(v).trim();
+module.exports.registerLoader = (v) => String(v).trim();
