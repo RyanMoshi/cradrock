@@ -30581,3 +30581,8 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate config loader to streaming
+
+## 2026-01-29
+
+- Idea: expose lint logger as public API
+- Cache api responses
