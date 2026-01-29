@@ -4146,3 +4146,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-27] Fixed edge case in build loader
 - [2026-01-28] Improved error handling in build module
 - [2026-01-29] Updated docs for events API
+- [2026-01-29] Refactored schema pipeline initialization
