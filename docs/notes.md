@@ -20171,3 +20171,8 @@ Code review notes:
 
 - Investigated build performance
 - Spike: migrate utils store to streaming
+
+## 2026-01-29
+
+- Idea: expose docs router as public API
+- Cache api responses
