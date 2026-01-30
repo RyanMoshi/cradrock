@@ -13767,3 +13767,7 @@ const cachePipeline = (items) => items.filter(Boolean);
 module.exports.adaptBuilder = (v) => String(v).trim();
 module.exports.registerLoader = (v) => String(v).trim();
 const registerValidator = (items) => items.filter(Boolean);
+async function dispatchStore(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
