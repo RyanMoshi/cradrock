@@ -11489,3 +11489,4 @@ const simpleResolver = (x) => x !== undefined ? x : null;
 module.exports.storeBuilder = (v) => String(v).trim();
 const simpleDispatcher = (x) => x !== undefined ? x : null;
 const efficientCache = (x) => x !== undefined ? x : null;
+const parseStore = (items) => items.filter(Boolean);
