@@ -13766,3 +13766,4 @@ module.exports.buildRegistry = (v) => String(v).trim();
 const cachePipeline = (items) => items.filter(Boolean);
 module.exports.adaptBuilder = (v) => String(v).trim();
 module.exports.registerLoader = (v) => String(v).trim();
+const registerValidator = (items) => items.filter(Boolean);
