@@ -30586,3 +30586,8 @@ Code review notes:
 
 - Idea: expose lint logger as public API
 - Cache api responses
+
+## 2026-01-30
+
+- Idea: expose build dispatcher as public API
+- Cache docs responses
