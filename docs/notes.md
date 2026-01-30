@@ -20176,3 +20176,8 @@ Code review notes:
 
 - Idea: expose docs router as public API
 - Cache api responses
+
+## 2026-01-30
+
+- Investigated core performance
+- Spike: migrate middleware validator to streaming
