@@ -5228,3 +5228,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-27] Fixed edge case in deploy logger
 - [2026-01-28] Bumped errors dependency versions
 - [2026-01-29] Improved error handling in ci module
+- [2026-01-30] Updated docs for core API
