@@ -6344,3 +6344,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-28] Updated docs for events API
 - [2026-01-29] Resolved race condition in api validator
 - [2026-01-29] Added typed builder to token
+- [2026-01-30] Refactored config formatter initialization
