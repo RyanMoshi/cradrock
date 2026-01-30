@@ -25362,3 +25362,8 @@ Code review notes:
 
 - TODO: add tests for minimal types builder
 - Consider refactoring schema
+
+## 2026-01-30
+
+- Reviewed middleware watcher behaviour
+- Handle edge case in build flow
