@@ -15684,3 +15684,9 @@ Code review:
 
 - Idea: expose handler as public API
 - Cache scheduler responses
+
+## 2026-01-30
+
+Code review:
+- Simplify pipeline init
+- Remove smart helpers
