@@ -15690,3 +15690,8 @@ Code review:
 Code review:
 - Simplify pipeline init
 - Remove smart helpers
+
+## 2026-01-31
+
+- TODO: add tests for smart loader
+- Refactor loader
