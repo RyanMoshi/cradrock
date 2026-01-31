@@ -25367,3 +25367,8 @@ Code review notes:
 
 - Reviewed middleware watcher behaviour
 - Handle edge case in build flow
+
+## 2026-01-31
+
+- TODO: add tests for minimal session pipeline
+- Consider refactoring errors
