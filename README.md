@@ -5229,3 +5229,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-28] Bumped errors dependency versions
 - [2026-01-29] Improved error handling in ci module
 - [2026-01-30] Updated docs for core API
+- [2026-01-31] Refactored session client initialization
