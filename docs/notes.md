@@ -25372,3 +25372,9 @@ Code review notes:
 
 - TODO: add tests for minimal session pipeline
 - Consider refactoring errors
+
+## 2026-01-31
+
+Code review notes:
+- Simplify docs dispatcher init
+- Remove unused lazy helpers
