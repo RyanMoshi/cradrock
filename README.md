@@ -6346,3 +6346,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-29] Added typed builder to token
 - [2026-01-30] Refactored config formatter initialization
 - [2026-01-30] Cleaned up legacy lint code
+- [2026-01-31] Updated docs for types API
