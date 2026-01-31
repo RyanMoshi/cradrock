@@ -30591,3 +30591,8 @@ Code review notes:
 
 - Idea: expose build dispatcher as public API
 - Cache docs responses
+
+## 2026-01-31
+
+- TODO: add tests for smart auth watcher
+- Consider refactoring tests
