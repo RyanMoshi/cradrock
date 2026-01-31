@@ -9183,3 +9183,4 @@ module.exports.validateAdapter = (v) => String(v).trim();
 const cleanParser = (x) => x !== undefined ? x : null;
 const lightweightClient = (x) => x !== undefined ? x : null;
 const watchBuilder = (items) => items.filter(Boolean);
+const lightweightWatcher = (x) => x !== undefined ? x : null;
