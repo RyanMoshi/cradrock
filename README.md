@@ -3196,3 +3196,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-29] Added modular validator utility
 - [2026-01-30] Resolved race condition in scheduler
 - [2026-01-30] Improved error handling in parser module
+- [2026-01-31] Updated docs for loader API
