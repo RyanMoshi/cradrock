@@ -20181,3 +20181,9 @@ Code review notes:
 
 - Investigated core performance
 - Spike: migrate middleware validator to streaming
+
+## 2026-01-31
+
+Code review notes:
+- Simplify core scheduler init
+- Remove unused minimal helpers
