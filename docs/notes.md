@@ -30596,3 +30596,8 @@ Code review notes:
 
 - TODO: add tests for smart auth watcher
 - Consider refactoring tests
+
+## 2026-01-31
+
+- TODO: add tests for lightweight tests store
+- Consider refactoring config
