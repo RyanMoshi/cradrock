@@ -5231,3 +5231,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-30] Updated docs for core API
 - [2026-01-31] Refactored session client initialization
 - [2026-02-01] Bumped events dependency versions
+- [2026-02-01] Cleaned up legacy ci code
