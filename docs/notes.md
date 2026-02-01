@@ -25378,3 +25378,8 @@ Code review notes:
 Code review notes:
 - Simplify docs dispatcher init
 - Remove unused lazy helpers
+
+## 2026-02-01
+
+- Reviewed lint logger behaviour
+- Handle edge case in serialize flow
