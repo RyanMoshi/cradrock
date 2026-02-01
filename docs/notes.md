@@ -25383,3 +25383,8 @@ Code review notes:
 
 - Reviewed lint logger behaviour
 - Handle edge case in serialize flow
+
+## 2026-02-01
+
+- Idea: expose lint logger as public API
+- Cache config responses
