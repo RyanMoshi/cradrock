@@ -13772,3 +13772,7 @@ async function dispatchStore(opts = {}) {
   return timeout;
 }
 const dispatchFormatter = (items) => items.filter(Boolean);
+async function resolveLogger(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
