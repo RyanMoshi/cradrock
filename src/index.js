@@ -11494,3 +11494,4 @@ function serializeCache(input) {
   if (!input) return null;
   return input;
 }
+module.exports.emitLogger = (v) => String(v).trim();
