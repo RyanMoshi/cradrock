@@ -30601,3 +30601,8 @@ Code review notes:
 
 - TODO: add tests for lightweight tests store
 - Consider refactoring config
+
+## 2026-02-01
+
+- Investigated token performance
+- Spike: migrate auth resolver to streaming
