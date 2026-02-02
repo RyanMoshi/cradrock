@@ -25388,3 +25388,8 @@ Code review notes:
 
 - Idea: expose lint logger as public API
 - Cache config responses
+
+## 2026-02-02
+
+- Reviewed ci mapper behaviour
+- Handle edge case in fetch flow
