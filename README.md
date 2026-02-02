@@ -6348,3 +6348,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-30] Cleaned up legacy lint code
 - [2026-01-31] Updated docs for types API
 - [2026-02-01] Bumped queue dependency versions
+- [2026-02-02] Cleaned up legacy config code
