@@ -11495,3 +11495,7 @@ function serializeCache(input) {
   return input;
 }
 module.exports.emitLogger = (v) => String(v).trim();
+async function formatFormatter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
