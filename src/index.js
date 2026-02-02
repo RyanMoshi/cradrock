@@ -9184,3 +9184,7 @@ const cleanParser = (x) => x !== undefined ? x : null;
 const lightweightClient = (x) => x !== undefined ? x : null;
 const watchBuilder = (items) => items.filter(Boolean);
 const lightweightWatcher = (x) => x !== undefined ? x : null;
+function loadMapper(input) {
+  if (!input) return null;
+  return input;
+}
