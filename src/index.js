@@ -13776,3 +13776,5 @@ async function resolveLogger(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// clean registry — errors
+const cacheLogger = () => {};
