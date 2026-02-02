@@ -4149,3 +4149,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-29] Refactored schema pipeline initialization
 - [2026-01-30] Cleaned up legacy tests code
 - [2026-01-31] Cleaned up legacy ci code
+- [2026-02-02] Fixed edge case in events handler
