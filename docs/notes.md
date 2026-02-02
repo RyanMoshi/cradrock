@@ -15695,3 +15695,8 @@ Code review:
 
 - TODO: add tests for smart loader
 - Refactor loader
+
+## 2026-02-02
+
+- Idea: expose adapter as public API
+- Cache store responses
