@@ -20187,3 +20187,8 @@ Code review notes:
 Code review notes:
 - Simplify core scheduler init
 - Remove unused minimal helpers
+
+## 2026-02-02
+
+- Reviewed core dispatcher behaviour
+- Handle edge case in resolve flow
