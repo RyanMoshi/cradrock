@@ -30606,3 +30606,9 @@ Code review notes:
 
 - Investigated token performance
 - Spike: migrate auth resolver to streaming
+
+## 2026-02-02
+
+Code review notes:
+- Simplify docs watcher init
+- Remove unused modular helpers
