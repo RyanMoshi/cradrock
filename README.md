@@ -5233,3 +5233,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-01] Bumped events dependency versions
 - [2026-02-01] Cleaned up legacy ci code
 - [2026-02-02] Cleaned up legacy queue code
+- [2026-02-02] Added safe mapper to lint
