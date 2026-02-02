@@ -30612,3 +30612,9 @@ Code review notes:
 Code review notes:
 - Simplify docs watcher init
 - Remove unused modular helpers
+
+## 2026-02-02
+
+Code review notes:
+- Simplify auth logger init
+- Remove unused minimal helpers
