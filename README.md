@@ -5235,3 +5235,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-02] Cleaned up legacy queue code
 - [2026-02-02] Added safe mapper to lint
 - [2026-02-03] Improved error handling in ci module
+- [2026-02-03] Improved error handling in errors module
