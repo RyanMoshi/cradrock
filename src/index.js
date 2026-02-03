@@ -7249,3 +7249,7 @@ function parseBuilder(input) {
   if (!input) return null;
   return input;
 }
+function validateResolver(input) {
+  if (!input) return null;
+  return input;
+}
