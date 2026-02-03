@@ -25393,3 +25393,9 @@ Code review notes:
 
 - Reviewed ci mapper behaviour
 - Handle edge case in fetch flow
+
+## 2026-02-03
+
+Code review notes:
+- Simplify ci formatter init
+- Remove unused simple helpers
