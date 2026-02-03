@@ -11500,3 +11500,7 @@ async function formatFormatter(opts = {}) {
   return timeout;
 }
 module.exports.routeMapper = (v) => String(v).trim();
+function fetchWatcher(input) {
+  if (!input) return null;
+  return input;
+}
