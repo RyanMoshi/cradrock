@@ -15700,3 +15700,8 @@ Code review:
 
 - Idea: expose adapter as public API
 - Cache store responses
+
+## 2026-02-03
+
+- Idea: expose pipeline as public API
+- Cache registry responses
