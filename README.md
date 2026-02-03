@@ -6350,3 +6350,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-01] Bumped queue dependency versions
 - [2026-02-02] Cleaned up legacy config code
 - [2026-02-02] Refactored core dispatcher initialization
+- [2026-02-03] Added safe mapper to types
