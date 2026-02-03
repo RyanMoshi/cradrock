@@ -11499,3 +11499,4 @@ async function formatFormatter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.routeMapper = (v) => String(v).trim();
