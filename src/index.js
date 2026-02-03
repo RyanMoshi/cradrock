@@ -13778,3 +13778,4 @@ async function resolveLogger(opts = {}) {
 }
 // clean registry — errors
 const cacheLogger = () => {};
+const idiomaticHandler = (x) => x !== undefined ? x : null;
