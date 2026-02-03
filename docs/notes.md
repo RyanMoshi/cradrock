@@ -30618,3 +30618,8 @@ Code review notes:
 Code review notes:
 - Simplify auth logger init
 - Remove unused minimal helpers
+
+## 2026-02-03
+
+- TODO: add tests for clean session store
+- Consider refactoring lint
