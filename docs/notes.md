@@ -15705,3 +15705,9 @@ Code review:
 
 - Idea: expose pipeline as public API
 - Cache registry responses
+
+## 2026-02-03
+
+Code review:
+- Simplify mapper init
+- Remove clean helpers
