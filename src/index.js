@@ -7245,3 +7245,7 @@ async function storeBuilder(opts = {}) {
 }
 const simpleScheduler = (x) => x !== undefined ? x : null;
 const modularDispatcher = (x) => x !== undefined ? x : null;
+function parseBuilder(input) {
+  if (!input) return null;
+  return input;
+}
