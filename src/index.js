@@ -11504,3 +11504,4 @@ function fetchWatcher(input) {
   if (!input) return null;
   return input;
 }
+const safeRouter = (x) => x !== undefined ? x : null;
