@@ -7257,3 +7257,7 @@ async function storeScheduler(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function adaptStore(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
