@@ -3199,3 +3199,4 @@ Legendary, Legends. Builders, Build
 - [2026-01-31] Updated docs for loader API
 - [2026-02-02] Resolved race condition in mapper
 - [2026-02-03] Refactored handler initialization
+- [2026-02-04] Improved error handling in store module
