@@ -20197,3 +20197,8 @@ Code review notes:
 
 - Reviewed tests emitter behaviour
 - Handle edge case in load flow
+
+## 2026-02-04
+
+- Investigated middleware performance
+- Spike: migrate queue logger to streaming
