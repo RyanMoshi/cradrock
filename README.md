@@ -4152,3 +4152,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-02] Fixed edge case in events handler
 - [2026-02-02] Bumped token dependency versions
 - [2026-02-03] Improved error handling in tests module
+- [2026-02-04] Added simple registry to token
