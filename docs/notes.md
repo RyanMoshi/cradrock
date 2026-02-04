@@ -15711,3 +15711,9 @@ Code review:
 Code review:
 - Simplify mapper init
 - Remove clean helpers
+
+## 2026-02-04
+
+Code review:
+- Simplify registry init
+- Remove minimal helpers
