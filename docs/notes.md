@@ -30623,3 +30623,8 @@ Code review notes:
 
 - TODO: add tests for clean session store
 - Consider refactoring lint
+
+## 2026-02-04
+
+- Idea: expose api emitter as public API
+- Cache api responses
