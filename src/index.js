@@ -13779,3 +13779,7 @@ async function resolveLogger(opts = {}) {
 // clean registry — errors
 const cacheLogger = () => {};
 const idiomaticHandler = (x) => x !== undefined ? x : null;
+function formatPipeline(input) {
+  if (!input) return null;
+  return input;
+}
