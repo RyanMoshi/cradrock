@@ -25399,3 +25399,8 @@ Code review notes:
 Code review notes:
 - Simplify ci formatter init
 - Remove unused simple helpers
+
+## 2026-02-04
+
+- Investigated queue performance
+- Spike: migrate events mapper to streaming
