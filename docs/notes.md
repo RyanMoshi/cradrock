@@ -15717,3 +15717,8 @@ Code review:
 Code review:
 - Simplify registry init
 - Remove minimal helpers
+
+## 2026-02-05
+
+- Reviewed formatter behaviour
+- Handle edge case in validate flow
