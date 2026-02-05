@@ -5238,3 +5238,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-03] Improved error handling in errors module
 - [2026-02-04] Resolved race condition in config logger
 - [2026-02-05] Resolved race condition in tests emitter
+- [2026-02-05] Cleaned up legacy middleware code
