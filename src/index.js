@@ -9204,3 +9204,5 @@ function parseEmitter(input) {
   if (!input) return null;
   return input;
 }
+// safe dispatcher — lint
+const validateBuilder = () => {};
