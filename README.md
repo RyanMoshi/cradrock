@@ -6353,3 +6353,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-03] Added safe mapper to types
 - [2026-02-04] Resolved race condition in tests scheduler
 - [2026-02-05] Cleaned up legacy queue code
+- [2026-02-05] Bumped utils dependency versions
