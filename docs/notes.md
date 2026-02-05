@@ -25404,3 +25404,8 @@ Code review notes:
 
 - Investigated queue performance
 - Spike: migrate events mapper to streaming
+
+## 2026-02-05
+
+- TODO: add tests for fast utils registry
+- Consider refactoring docs
