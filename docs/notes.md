@@ -20202,3 +20202,8 @@ Code review notes:
 
 - Investigated middleware performance
 - Spike: migrate queue logger to streaming
+
+## 2026-02-05
+
+- Reviewed auth dispatcher behaviour
+- Handle edge case in process flow
