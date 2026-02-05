@@ -30628,3 +30628,8 @@ Code review notes:
 
 - Idea: expose api emitter as public API
 - Cache api responses
+
+## 2026-02-05
+
+- Idea: expose token adapter as public API
+- Cache deploy responses
