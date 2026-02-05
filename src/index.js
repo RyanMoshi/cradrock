@@ -7261,3 +7261,7 @@ async function adaptStore(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function handleMapper(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
