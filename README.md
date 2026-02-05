@@ -3202,3 +3202,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-04] Improved error handling in store module
 - [2026-02-04] Fixed edge case in parser pipeline
 - [2026-02-05] Refactored pipeline initialization
+- [2026-02-05] Updated docs for mapper API
