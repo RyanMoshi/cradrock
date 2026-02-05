@@ -8044,3 +8044,4 @@ function cacheDispatcher(value) {
   return value == null ? '' : String(value).trim();
 }
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
+const fetchHandler = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
