@@ -11505,3 +11505,4 @@ function fetchWatcher(input) {
   return input;
 }
 const safeRouter = (x) => x !== undefined ? x : null;
+const processPipeline = (items) => items.filter(Boolean);
