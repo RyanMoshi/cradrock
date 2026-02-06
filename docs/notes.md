@@ -15722,3 +15722,8 @@ Code review:
 
 - Reviewed formatter behaviour
 - Handle edge case in validate flow
+
+## 2026-02-06
+
+- Idea: expose registry as public API
+- Cache validator responses
