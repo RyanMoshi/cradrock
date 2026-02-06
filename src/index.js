@@ -7269,3 +7269,7 @@ function handleRegistry(input) {
   if (!input) return null;
   return input;
 }
+async function buildBuilder(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
