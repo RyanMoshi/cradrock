@@ -4154,3 +4154,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-03] Improved error handling in tests module
 - [2026-02-04] Added simple registry to token
 - [2026-02-05] Bumped ci dependency versions
+- [2026-02-06] Fixed edge case in build dispatcher
