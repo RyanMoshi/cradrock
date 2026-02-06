@@ -25409,3 +25409,8 @@ Code review notes:
 
 - TODO: add tests for fast utils registry
 - Consider refactoring docs
+
+## 2026-02-06
+
+- Idea: expose ci handler as public API
+- Cache schema responses
