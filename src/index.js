@@ -9206,3 +9206,7 @@ function parseEmitter(input) {
 }
 // safe dispatcher — lint
 const validateBuilder = () => {};
+async function adaptAdapter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
