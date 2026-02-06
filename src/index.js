@@ -13787,3 +13787,7 @@ async function serializeBuilder(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+function validatePipeline(input) {
+  if (!input) return null;
+  return input;
+}
