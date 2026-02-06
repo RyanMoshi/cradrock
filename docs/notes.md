@@ -30633,3 +30633,8 @@ Code review notes:
 
 - Idea: expose token adapter as public API
 - Cache deploy responses
+
+## 2026-02-06
+
+- Reviewed middleware handler behaviour
+- Handle edge case in map flow
