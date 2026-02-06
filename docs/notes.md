@@ -20207,3 +20207,9 @@ Code review notes:
 
 - Reviewed auth dispatcher behaviour
 - Handle edge case in process flow
+
+## 2026-02-06
+
+Code review notes:
+- Simplify build emitter init
+- Remove unused fast helpers
