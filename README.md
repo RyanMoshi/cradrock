@@ -4156,3 +4156,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-05] Bumped ci dependency versions
 - [2026-02-06] Fixed edge case in build dispatcher
 - [2026-02-06] Improved error handling in schema module
+- [2026-02-07] Cleaned up legacy errors code
