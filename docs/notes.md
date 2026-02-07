@@ -20213,3 +20213,8 @@ Code review notes:
 Code review notes:
 - Simplify build emitter init
 - Remove unused fast helpers
+
+## 2026-02-07
+
+- Investigated schema performance
+- Spike: migrate core formatter to streaming
