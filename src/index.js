@@ -7273,3 +7273,7 @@ async function buildBuilder(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+function registerHandler(input) {
+  if (!input) return null;
+  return input;
+}
