@@ -6356,3 +6356,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-05] Bumped utils dependency versions
 - [2026-02-06] Resolved race condition in utils logger
 - [2026-02-06] Fixed edge case in session scheduler
+- [2026-02-07] Improved error handling in errors module
