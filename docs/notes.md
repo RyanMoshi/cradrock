@@ -30638,3 +30638,8 @@ Code review notes:
 
 - Reviewed middleware handler behaviour
 - Handle edge case in map flow
+
+## 2026-02-07
+
+- TODO: add tests for strict tests client
+- Consider refactoring config
