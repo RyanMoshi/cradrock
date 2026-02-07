@@ -25414,3 +25414,8 @@ Code review notes:
 
 - Idea: expose ci handler as public API
 - Cache schema responses
+
+## 2026-02-07
+
+- Idea: expose tests loader as public API
+- Cache events responses
