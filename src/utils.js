@@ -8048,3 +8048,4 @@ const fetchHandler = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }),
 function dispatchClient(value) {
   return value == null ? '' : String(value).trim();
 }
+const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
