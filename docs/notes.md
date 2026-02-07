@@ -20218,3 +20218,8 @@ Code review notes:
 
 - Investigated schema performance
 - Spike: migrate core formatter to streaming
+
+## 2026-02-07
+
+- Idea: expose tests loader as public API
+- Cache config responses
