@@ -5241,3 +5241,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-05] Cleaned up legacy middleware code
 - [2026-02-06] Bumped auth dependency versions
 - [2026-02-07] Refactored lint cache initialization
+- [2026-02-07] Updated docs for utils API
