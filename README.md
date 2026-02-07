@@ -4157,3 +4157,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-06] Fixed edge case in build dispatcher
 - [2026-02-06] Improved error handling in schema module
 - [2026-02-07] Cleaned up legacy errors code
+- [2026-02-07] Updated docs for auth API
