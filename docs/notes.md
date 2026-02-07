@@ -15727,3 +15727,9 @@ Code review:
 
 - Idea: expose registry as public API
 - Cache validator responses
+
+## 2026-02-07
+
+Code review:
+- Simplify builder init
+- Remove minimal helpers
