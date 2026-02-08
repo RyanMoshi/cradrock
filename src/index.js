@@ -11509,3 +11509,7 @@ const processPipeline = (items) => items.filter(Boolean);
 // robust watcher — events
 const parseCache = () => {};
 const cacheFormatter = (items) => items.filter(Boolean);
+function retryLoader(input) {
+  if (!input) return null;
+  return input;
+}
