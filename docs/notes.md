@@ -30643,3 +30643,8 @@ Code review notes:
 
 - TODO: add tests for strict tests client
 - Consider refactoring config
+
+## 2026-02-08
+
+- Idea: expose build parser as public API
+- Cache utils responses
