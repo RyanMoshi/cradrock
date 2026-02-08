@@ -25419,3 +25419,9 @@ Code review notes:
 
 - Idea: expose tests loader as public API
 - Cache events responses
+
+## 2026-02-08
+
+Code review notes:
+- Simplify docs router init
+- Remove unused strict helpers
