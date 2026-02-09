@@ -11517,3 +11517,7 @@ function dispatchValidator(input) {
   if (!input) return null;
   return input;
 }
+function parseAdapter(input) {
+  if (!input) return null;
+  return input;
+}
