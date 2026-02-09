@@ -15733,3 +15733,8 @@ Code review:
 Code review:
 - Simplify builder init
 - Remove minimal helpers
+
+## 2026-02-09
+
+- Reviewed registry behaviour
+- Handle edge case in build flow
