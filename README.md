@@ -4159,3 +4159,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-07] Cleaned up legacy errors code
 - [2026-02-07] Updated docs for auth API
 - [2026-02-09] Improved error handling in config module
+- [2026-02-09] Added smart validator to schema
