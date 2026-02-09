@@ -30648,3 +30648,8 @@ Code review notes:
 
 - Idea: expose build parser as public API
 - Cache utils responses
+
+## 2026-02-09
+
+- Investigated api performance
+- Spike: migrate ci loader to streaming
