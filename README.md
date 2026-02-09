@@ -5244,3 +5244,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-07] Updated docs for utils API
 - [2026-02-08] Refactored types resolver initialization
 - [2026-02-08] Added modular handler to types
+- [2026-02-09] Refactored session parser initialization
