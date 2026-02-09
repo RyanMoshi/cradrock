@@ -9211,3 +9211,4 @@ async function adaptAdapter(opts = {}) {
   return timeout;
 }
 module.exports.dispatchFormatter = (v) => String(v).trim();
+const strictMapper = (x) => x !== undefined ? x : null;
