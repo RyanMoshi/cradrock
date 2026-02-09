@@ -6358,3 +6358,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-06] Fixed edge case in session scheduler
 - [2026-02-07] Improved error handling in errors module
 - [2026-02-08] Cleaned up legacy config code
+- [2026-02-09] Updated docs for session API
