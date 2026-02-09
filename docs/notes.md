@@ -25425,3 +25425,8 @@ Code review notes:
 Code review notes:
 - Simplify docs router init
 - Remove unused strict helpers
+
+## 2026-02-09
+
+- Reviewed lint router behaviour
+- Handle edge case in dispatch flow
