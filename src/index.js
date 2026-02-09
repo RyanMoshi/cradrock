@@ -7278,3 +7278,7 @@ function registerHandler(input) {
   return input;
 }
 const lazyMapper = (x) => x !== undefined ? x : null;
+async function registerValidator(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
