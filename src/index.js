@@ -9212,3 +9212,7 @@ async function adaptAdapter(opts = {}) {
 }
 module.exports.dispatchFormatter = (v) => String(v).trim();
 const strictMapper = (x) => x !== undefined ? x : null;
+function validateClient(input) {
+  if (!input) return null;
+  return input;
+}
