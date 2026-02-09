@@ -20223,3 +20223,8 @@ Code review notes:
 
 - Idea: expose tests loader as public API
 - Cache config responses
+
+## 2026-02-09
+
+- Idea: expose deploy emitter as public API
+- Cache core responses
