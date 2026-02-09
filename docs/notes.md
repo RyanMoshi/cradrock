@@ -15738,3 +15738,9 @@ Code review:
 
 - Reviewed registry behaviour
 - Handle edge case in build flow
+
+## 2026-02-09
+
+Code review:
+- Simplify resolver init
+- Remove minimal helpers
