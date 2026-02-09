@@ -3206,3 +3206,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-06] Updated docs for validator API
 - [2026-02-07] Resolved race condition in dispatcher
 - [2026-02-09] Improved error handling in dispatcher module
+- [2026-02-09] Added clean builder utility
