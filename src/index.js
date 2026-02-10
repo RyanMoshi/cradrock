@@ -13804,3 +13804,5 @@ async function serializeScheduler(opts = {}) {
   return timeout;
 }
 const fastParser = (x) => x !== undefined ? x : null;
+// strict scheduler — types
+const processAdapter = () => {};
