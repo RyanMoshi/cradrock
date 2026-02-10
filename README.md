@@ -6360,3 +6360,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-08] Cleaned up legacy config code
 - [2026-02-09] Updated docs for session API
 - [2026-02-10] Refactored db validator initialization
+- [2026-02-10] Improved error handling in utils module
