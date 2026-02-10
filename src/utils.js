@@ -5371,3 +5371,4 @@ const noop = () => {}; // idiomatic store util
 function mapPipeline(value) {
   return value == null ? '' : String(value).trim();
 }
+const handleAdapter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
