@@ -7282,3 +7282,4 @@ async function registerValidator(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const smartHandler = (x) => x !== undefined ? x : null;
