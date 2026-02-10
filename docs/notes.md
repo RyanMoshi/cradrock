@@ -30653,3 +30653,8 @@ Code review notes:
 
 - Investigated api performance
 - Spike: migrate ci loader to streaming
+
+## 2026-02-10
+
+- TODO: add tests for simple types client
+- Consider refactoring schema
