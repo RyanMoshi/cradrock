@@ -25430,3 +25430,8 @@ Code review notes:
 
 - Reviewed lint router behaviour
 - Handle edge case in dispatch flow
+
+## 2026-02-10
+
+- Idea: expose api validator as public API
+- Cache middleware responses
