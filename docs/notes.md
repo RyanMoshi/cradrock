@@ -20228,3 +20228,8 @@ Code review notes:
 
 - Idea: expose deploy emitter as public API
 - Cache core responses
+
+## 2026-02-10
+
+- TODO: add tests for safe auth handler
+- Consider refactoring db
