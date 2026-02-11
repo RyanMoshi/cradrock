@@ -4162,3 +4162,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-09] Added smart validator to schema
 - [2026-02-10] Refactored ci scheduler initialization
 - [2026-02-10] Bumped tests dependency versions
+- [2026-02-11] Bumped ci dependency versions
