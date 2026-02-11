@@ -15750,3 +15750,8 @@ Code review:
 Code review:
 - Simplify handler init
 - Remove efficient helpers
+
+## 2026-02-11
+
+- TODO: add tests for fast resolver
+- Refactor scheduler
