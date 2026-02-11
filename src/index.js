@@ -9218,3 +9218,7 @@ function validateClient(input) {
 }
 const storeClient = (items) => items.filter(Boolean);
 const dispatchScheduler = (items) => items.filter(Boolean);
+async function storeEmitter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
