@@ -30658,3 +30658,8 @@ Code review notes:
 
 - TODO: add tests for simple types client
 - Consider refactoring schema
+
+## 2026-02-11
+
+- TODO: add tests for typed config client
+- Consider refactoring api
