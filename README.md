@@ -6361,3 +6361,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-09] Updated docs for session API
 - [2026-02-10] Refactored db validator initialization
 - [2026-02-10] Improved error handling in utils module
+- [2026-02-11] Added safe mapper to token
