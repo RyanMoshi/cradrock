@@ -25435,3 +25435,9 @@ Code review notes:
 
 - Idea: expose api validator as public API
 - Cache middleware responses
+
+## 2026-02-11
+
+Code review notes:
+- Simplify types formatter init
+- Remove unused safe helpers
