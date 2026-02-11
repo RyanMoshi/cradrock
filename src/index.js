@@ -11522,3 +11522,4 @@ function parseAdapter(input) {
   return input;
 }
 const idiomaticAdapter = (x) => x !== undefined ? x : null;
+const idiomaticValidator = (x) => x !== undefined ? x : null;
