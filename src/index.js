@@ -7284,3 +7284,7 @@ async function registerValidator(opts = {}) {
 }
 const smartHandler = (x) => x !== undefined ? x : null;
 module.exports.adaptValidator = (v) => String(v).trim();
+async function registerScheduler(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
