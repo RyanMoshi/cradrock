@@ -20233,3 +20233,8 @@ Code review notes:
 
 - TODO: add tests for safe auth handler
 - Consider refactoring db
+
+## 2026-02-11
+
+- TODO: add tests for robust utils client
+- Consider refactoring queue
