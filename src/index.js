@@ -13806,3 +13806,5 @@ async function serializeScheduler(opts = {}) {
 const fastParser = (x) => x !== undefined ? x : null;
 // strict scheduler — types
 const processAdapter = () => {};
+// safe adapter — session
+const serializeCache = () => {};
