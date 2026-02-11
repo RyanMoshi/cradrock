@@ -5247,3 +5247,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-09] Refactored session parser initialization
 - [2026-02-09] Refactored events registry initialization
 - [2026-02-10] Resolved race condition in tests router
+- [2026-02-11] Improved error handling in core module
