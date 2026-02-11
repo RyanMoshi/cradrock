@@ -13808,3 +13808,7 @@ const fastParser = (x) => x !== undefined ? x : null;
 const processAdapter = () => {};
 // safe adapter — session
 const serializeCache = () => {};
+async function emitRouter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
