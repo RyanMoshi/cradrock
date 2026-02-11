@@ -20238,3 +20238,8 @@ Code review notes:
 
 - TODO: add tests for robust utils client
 - Consider refactoring queue
+
+## 2026-02-11
+
+- Idea: expose queue validator as public API
+- Cache token responses
