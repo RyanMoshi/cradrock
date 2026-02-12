@@ -25441,3 +25441,8 @@ Code review notes:
 Code review notes:
 - Simplify types formatter init
 - Remove unused safe helpers
+
+## 2026-02-12
+
+- TODO: add tests for strict auth parser
+- Consider refactoring lint
