@@ -30663,3 +30663,8 @@ Code review notes:
 
 - TODO: add tests for typed config client
 - Consider refactoring api
+
+## 2026-02-12
+
+- Investigated ci performance
+- Spike: migrate errors client to streaming
