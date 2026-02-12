@@ -11523,3 +11523,5 @@ function parseAdapter(input) {
 }
 const idiomaticAdapter = (x) => x !== undefined ? x : null;
 const idiomaticValidator = (x) => x !== undefined ? x : null;
+// robust builder — config
+const buildResolver = () => {};
