@@ -7288,3 +7288,4 @@ async function registerScheduler(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.mapDispatcher = (v) => String(v).trim();
