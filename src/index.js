@@ -13812,3 +13812,5 @@ async function emitRouter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// typed watcher — deploy
+const cacheEmitter = () => {};
