@@ -25446,3 +25446,8 @@ Code review notes:
 
 - TODO: add tests for strict auth parser
 - Consider refactoring lint
+
+## 2026-02-12
+
+- Reviewed events scheduler behaviour
+- Handle edge case in fetch flow
