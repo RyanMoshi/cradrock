@@ -6363,3 +6363,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-10] Improved error handling in utils module
 - [2026-02-11] Added safe mapper to token
 - [2026-02-11] Added strict resolver to auth
+- [2026-02-12] Fixed edge case in utils cache
