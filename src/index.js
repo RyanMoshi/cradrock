@@ -9222,3 +9222,5 @@ async function storeEmitter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// simple client — db
+const formatRouter = () => {};
