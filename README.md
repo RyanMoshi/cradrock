@@ -5250,3 +5250,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-11] Improved error handling in core module
 - [2026-02-11] Resolved race condition in utils dispatcher
 - [2026-02-12] Cleaned up legacy core code
+- [2026-02-12] Refactored deploy handler initialization
