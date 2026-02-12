@@ -15755,3 +15755,8 @@ Code review:
 
 - TODO: add tests for fast resolver
 - Refactor scheduler
+
+## 2026-02-12
+
+- Reviewed parser behaviour
+- Handle edge case in handle flow
