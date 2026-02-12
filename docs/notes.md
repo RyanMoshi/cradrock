@@ -20243,3 +20243,8 @@ Code review notes:
 
 - Idea: expose queue validator as public API
 - Cache token responses
+
+## 2026-02-12
+
+- Idea: expose schema handler as public API
+- Cache core responses
