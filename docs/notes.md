@@ -15760,3 +15760,8 @@ Code review:
 
 - Reviewed parser behaviour
 - Handle edge case in handle flow
+
+## 2026-02-13
+
+- Reviewed registry behaviour
+- Handle edge case in map flow
