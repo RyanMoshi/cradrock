@@ -4164,3 +4164,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-10] Bumped tests dependency versions
 - [2026-02-11] Bumped ci dependency versions
 - [2026-02-12] Fixed edge case in build validator
+- [2026-02-13] Fixed edge case in config mapper
