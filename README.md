@@ -3210,3 +3210,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-10] Fixed edge case in registry pipeline
 - [2026-02-11] Improved error handling in scheduler module
 - [2026-02-12] Refactored validator initialization
+- [2026-02-13] Updated docs for loader API
