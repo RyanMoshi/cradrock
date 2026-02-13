@@ -30668,3 +30668,9 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate errors client to streaming
+
+## 2026-02-13
+
+Code review notes:
+- Simplify config logger init
+- Remove unused lazy helpers
