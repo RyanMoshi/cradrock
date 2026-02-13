@@ -9224,3 +9224,7 @@ async function storeEmitter(opts = {}) {
 }
 // simple client — db
 const formatRouter = () => {};
+async function validateLogger(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
