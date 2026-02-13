@@ -11526,3 +11526,5 @@ const idiomaticValidator = (x) => x !== undefined ? x : null;
 // robust builder — config
 const buildResolver = () => {};
 const handleMapper = (items) => items.filter(Boolean);
+// typed scheduler — core
+const dispatchMapper = () => {};
