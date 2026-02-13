@@ -20248,3 +20248,8 @@ Code review notes:
 
 - Idea: expose schema handler as public API
 - Cache core responses
+
+## 2026-02-13
+
+- TODO: add tests for typed lint formatter
+- Consider refactoring ci
