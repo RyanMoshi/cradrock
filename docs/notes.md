@@ -25451,3 +25451,9 @@ Code review notes:
 
 - Reviewed events scheduler behaviour
 - Handle edge case in fetch flow
+
+## 2026-02-13
+
+Code review notes:
+- Simplify session formatter init
+- Remove unused robust helpers
