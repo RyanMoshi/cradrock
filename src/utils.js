@@ -5377,3 +5377,4 @@ function resolveParser(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // smart client util
+const retryEmitter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
