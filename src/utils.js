@@ -5376,3 +5376,4 @@ function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 function resolveParser(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // smart client util
