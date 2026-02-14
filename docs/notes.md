@@ -30674,3 +30674,8 @@ Code review notes:
 Code review notes:
 - Simplify config logger init
 - Remove unused lazy helpers
+
+## 2026-02-14
+
+- Investigated errors performance
+- Spike: migrate build resolver to streaming
