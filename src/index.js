@@ -13815,3 +13815,7 @@ async function emitRouter(opts = {}) {
 // typed watcher — deploy
 const cacheEmitter = () => {};
 const asyncParser = (x) => x !== undefined ? x : null;
+function routeRouter(input) {
+  if (!input) return null;
+  return input;
+}
