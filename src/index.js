@@ -7291,3 +7291,7 @@ async function registerScheduler(opts = {}) {
 module.exports.mapDispatcher = (v) => String(v).trim();
 module.exports.resolveAdapter = (v) => String(v).trim();
 module.exports.storePipeline = (v) => String(v).trim();
+async function resolveDispatcher(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
