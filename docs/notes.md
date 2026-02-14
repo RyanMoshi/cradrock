@@ -20253,3 +20253,8 @@ Code review notes:
 
 - TODO: add tests for typed lint formatter
 - Consider refactoring ci
+
+## 2026-02-14
+
+- Reviewed db emitter behaviour
+- Handle edge case in resolve flow
