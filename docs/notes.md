@@ -15765,3 +15765,9 @@ Code review:
 
 - Reviewed registry behaviour
 - Handle edge case in map flow
+
+## 2026-02-14
+
+Code review:
+- Simplify registry init
+- Remove smart helpers
