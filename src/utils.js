@@ -5378,3 +5378,6 @@ function resolveParser(value) {
 }
 const noop = () => {}; // smart client util
 const retryEmitter = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
+function routeResolver(value) {
+  return value == null ? '' : String(value).trim();
+}
