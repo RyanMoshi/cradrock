@@ -6365,3 +6365,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-11] Added strict resolver to auth
 - [2026-02-12] Fixed edge case in utils cache
 - [2026-02-13] Improved error handling in events module
+- [2026-02-14] Added strict validator to ci
