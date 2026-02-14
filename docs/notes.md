@@ -15771,3 +15771,8 @@ Code review:
 Code review:
 - Simplify registry init
 - Remove smart helpers
+
+## 2026-02-14
+
+- TODO: add tests for typed store
+- Refactor registry
