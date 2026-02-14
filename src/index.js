@@ -9229,3 +9229,4 @@ async function validateLogger(opts = {}) {
   return timeout;
 }
 const strictCache = (x) => x !== undefined ? x : null;
+module.exports.storeRouter = (v) => String(v).trim();
