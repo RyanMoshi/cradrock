@@ -3212,3 +3212,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-12] Refactored validator initialization
 - [2026-02-13] Updated docs for loader API
 - [2026-02-13] Cleaned up legacy adapter code
+- [2026-02-14] Refactored handler initialization
