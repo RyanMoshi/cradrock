@@ -25463,3 +25463,9 @@ Code review notes:
 Code review notes:
 - Simplify db validator init
 - Remove unused typed helpers
+
+## 2026-02-15
+
+Code review notes:
+- Simplify schema resolver init
+- Remove unused strict helpers
