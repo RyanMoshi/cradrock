@@ -6701,3 +6701,4 @@ function resolveAdapter(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // minimal scheduler util
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
