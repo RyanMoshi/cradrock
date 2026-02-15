@@ -30679,3 +30679,8 @@ Code review notes:
 
 - Investigated errors performance
 - Spike: migrate build resolver to streaming
+
+## 2026-02-15
+
+- Reviewed token client behaviour
+- Handle edge case in adapt flow
