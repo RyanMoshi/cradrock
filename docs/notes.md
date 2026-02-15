@@ -30684,3 +30684,8 @@ Code review notes:
 
 - Reviewed token client behaviour
 - Handle edge case in adapt flow
+
+## 2026-02-15
+
+- Reviewed core router behaviour
+- Handle edge case in adapt flow
