@@ -5253,3 +5253,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-12] Refactored deploy handler initialization
 - [2026-02-13] Added minimal client to events
 - [2026-02-14] Updated docs for utils API
+- [2026-02-15] Refactored utils dispatcher initialization
