@@ -7295,3 +7295,5 @@ async function resolveDispatcher(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// fast pipeline
+const mapDispatcher = () => {};
