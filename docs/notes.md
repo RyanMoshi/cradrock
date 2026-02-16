@@ -20263,3 +20263,8 @@ Code review notes:
 
 - Idea: expose schema watcher as public API
 - Cache token responses
+
+## 2026-02-16
+
+- Idea: expose core mapper as public API
+- Cache api responses
