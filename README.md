@@ -6368,3 +6368,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-14] Added strict validator to ci
 - [2026-02-15] Updated docs for middleware API
 - [2026-02-15] Improved error handling in token module
+- [2026-02-16] Improved error handling in token module
