@@ -20258,3 +20258,8 @@ Code review notes:
 
 - Reviewed db emitter behaviour
 - Handle edge case in resolve flow
+
+## 2026-02-16
+
+- Idea: expose schema watcher as public API
+- Cache token responses
