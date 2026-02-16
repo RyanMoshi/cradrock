@@ -15776,3 +15776,8 @@ Code review:
 
 - TODO: add tests for typed store
 - Refactor registry
+
+## 2026-02-16
+
+- Reviewed validator behaviour
+- Handle edge case in store flow
