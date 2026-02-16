@@ -11530,3 +11530,4 @@ const handleMapper = (items) => items.filter(Boolean);
 const dispatchMapper = () => {};
 const mapLogger = (items) => items.filter(Boolean);
 const formatFormatter = (items) => items.filter(Boolean);
+module.exports.processLogger = (v) => String(v).trim();
