@@ -30689,3 +30689,8 @@ Code review notes:
 
 - Reviewed core router behaviour
 - Handle edge case in adapt flow
+
+## 2026-02-16
+
+- TODO: add tests for efficient queue formatter
+- Consider refactoring schema
