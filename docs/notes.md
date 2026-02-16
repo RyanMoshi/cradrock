@@ -25469,3 +25469,8 @@ Code review notes:
 Code review notes:
 - Simplify schema resolver init
 - Remove unused strict helpers
+
+## 2026-02-16
+
+- Investigated config performance
+- Spike: migrate api watcher to streaming
