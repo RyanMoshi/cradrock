@@ -5256,3 +5256,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-15] Refactored utils dispatcher initialization
 - [2026-02-16] Resolved race condition in events mapper
 - [2026-02-16] Improved error handling in lint module
+- [2026-02-17] Fixed edge case in docs mapper
