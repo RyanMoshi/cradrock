@@ -20273,3 +20273,9 @@ Code review notes:
 
 - Reviewed schema registry behaviour
 - Handle edge case in register flow
+
+## 2026-02-17
+
+Code review notes:
+- Simplify types emitter init
+- Remove unused simple helpers
