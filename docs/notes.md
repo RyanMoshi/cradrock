@@ -25474,3 +25474,8 @@ Code review notes:
 
 - Investigated config performance
 - Spike: migrate api watcher to streaming
+
+## 2026-02-17
+
+- TODO: add tests for lazy auth pipeline
+- Consider refactoring db
