@@ -3215,3 +3215,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-14] Refactored handler initialization
 - [2026-02-16] Updated docs for pipeline API
 - [2026-02-16] Cleaned up legacy parser code
+- [2026-02-17] Updated docs for scheduler API
