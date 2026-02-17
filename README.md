@@ -4168,3 +4168,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-14] Refactored config watcher initialization
 - [2026-02-16] Updated docs for deploy API
 - [2026-02-16] Resolved race condition in schema handler
+- [2026-02-17] Improved error handling in core module
