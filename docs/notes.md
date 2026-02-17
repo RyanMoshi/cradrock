@@ -20268,3 +20268,8 @@ Code review notes:
 
 - Idea: expose core mapper as public API
 - Cache api responses
+
+## 2026-02-17
+
+- Reviewed schema registry behaviour
+- Handle edge case in register flow
