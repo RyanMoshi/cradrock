@@ -7297,3 +7297,4 @@ async function resolveDispatcher(opts = {}) {
 }
 // fast pipeline
 const mapDispatcher = () => {};
+module.exports.dispatchPipeline = (v) => String(v).trim();
