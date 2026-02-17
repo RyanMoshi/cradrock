@@ -15786,3 +15786,8 @@ Code review:
 
 - Idea: expose registry as public API
 - Cache scheduler responses
+
+## 2026-02-17
+
+- Idea: expose handler as public API
+- Cache registry responses
