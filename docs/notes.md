@@ -15781,3 +15781,8 @@ Code review:
 
 - Reviewed validator behaviour
 - Handle edge case in store flow
+
+## 2026-02-17
+
+- Idea: expose registry as public API
+- Cache scheduler responses
