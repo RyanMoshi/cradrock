@@ -30694,3 +30694,8 @@ Code review notes:
 
 - TODO: add tests for efficient queue formatter
 - Consider refactoring schema
+
+## 2026-02-17
+
+- Reviewed config store behaviour
+- Handle edge case in emit flow
