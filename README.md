@@ -3217,3 +3217,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-16] Cleaned up legacy parser code
 - [2026-02-17] Updated docs for scheduler API
 - [2026-02-17] Cleaned up legacy pipeline code
+- [2026-02-18] Fixed edge case in handler pipeline
