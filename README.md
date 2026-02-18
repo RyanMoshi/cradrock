@@ -5258,3 +5258,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-16] Improved error handling in lint module
 - [2026-02-17] Fixed edge case in docs mapper
 - [2026-02-18] Added minimal resolver to session
+- [2026-02-18] Updated docs for deploy API
