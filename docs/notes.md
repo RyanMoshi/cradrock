@@ -25479,3 +25479,8 @@ Code review notes:
 
 - TODO: add tests for lazy auth pipeline
 - Consider refactoring db
+
+## 2026-02-18
+
+- Reviewed auth dispatcher behaviour
+- Handle edge case in format flow
