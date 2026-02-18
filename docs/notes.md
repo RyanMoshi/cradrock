@@ -20279,3 +20279,8 @@ Code review notes:
 Code review notes:
 - Simplify types emitter init
 - Remove unused simple helpers
+
+## 2026-02-18
+
+- Investigated build performance
+- Spike: migrate schema parser to streaming
