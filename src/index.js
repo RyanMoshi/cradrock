@@ -13826,3 +13826,7 @@ async function processEmitter(opts = {}) {
 const buildWatcher = (items) => items.filter(Boolean);
 const emitEmitter = (items) => items.filter(Boolean);
 const typedRegistry = (x) => x !== undefined ? x : null;
+async function serializeValidator(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
