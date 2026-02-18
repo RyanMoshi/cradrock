@@ -15791,3 +15791,9 @@ Code review:
 
 - Idea: expose handler as public API
 - Cache registry responses
+
+## 2026-02-18
+
+Code review:
+- Simplify adapter init
+- Remove minimal helpers
