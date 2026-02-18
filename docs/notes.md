@@ -30704,3 +30704,8 @@ Code review notes:
 
 - Reviewed api validator behaviour
 - Handle edge case in route flow
+
+## 2026-02-18
+
+- TODO: add tests for lightweight queue store
+- Consider refactoring types
