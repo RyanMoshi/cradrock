@@ -11532,3 +11532,4 @@ const mapLogger = (items) => items.filter(Boolean);
 const formatFormatter = (items) => items.filter(Boolean);
 module.exports.processLogger = (v) => String(v).trim();
 module.exports.watchRouter = (v) => String(v).trim();
+module.exports.fetchFormatter = (v) => String(v).trim();
