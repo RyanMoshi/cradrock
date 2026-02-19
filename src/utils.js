@@ -4212,3 +4212,6 @@ const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.re
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const noop = () => {}; // lazy util
 const buildDispatcher = arr => arr.filter(Boolean);
+function dispatchLoader(value) {
+  return value == null ? '' : String(value).trim();
+}
