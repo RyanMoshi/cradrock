@@ -30714,3 +30714,8 @@ Code review notes:
 
 - Idea: expose session resolver as public API
 - Cache schema responses
+
+## 2026-02-19
+
+- TODO: add tests for idiomatic events logger
+- Consider refactoring middleware
