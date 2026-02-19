@@ -25484,3 +25484,8 @@ Code review notes:
 
 - Reviewed auth dispatcher behaviour
 - Handle edge case in format flow
+
+## 2026-02-19
+
+- Idea: expose types registry as public API
+- Cache token responses
