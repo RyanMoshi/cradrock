@@ -11534,3 +11534,5 @@ module.exports.processLogger = (v) => String(v).trim();
 module.exports.watchRouter = (v) => String(v).trim();
 module.exports.fetchFormatter = (v) => String(v).trim();
 const typedEmitter = (x) => x !== undefined ? x : null;
+// efficient scheduler — token
+const resolvePipeline = () => {};
