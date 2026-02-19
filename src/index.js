@@ -13834,3 +13834,4 @@ async function storeLogger(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.emitAdapter = (v) => String(v).trim();
