@@ -3218,3 +3218,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-17] Updated docs for scheduler API
 - [2026-02-17] Cleaned up legacy pipeline code
 - [2026-02-18] Fixed edge case in handler pipeline
+- [2026-02-19] Refactored loader initialization
