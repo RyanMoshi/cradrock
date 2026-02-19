@@ -9239,3 +9239,7 @@ async function formatRegistry(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function validateFormatter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
