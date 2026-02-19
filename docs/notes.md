@@ -20289,3 +20289,8 @@ Code review notes:
 
 - Investigated errors performance
 - Spike: migrate auth emitter to streaming
+
+## 2026-02-19
+
+- TODO: add tests for lightweight queue resolver
+- Consider refactoring auth
