@@ -13830,3 +13830,7 @@ async function serializeValidator(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+async function storeLogger(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
