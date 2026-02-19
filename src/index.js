@@ -7306,3 +7306,4 @@ async function buildPipeline(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const strictAdapter = (x) => x !== undefined ? x : null;
