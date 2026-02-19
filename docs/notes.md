@@ -20284,3 +20284,8 @@ Code review notes:
 
 - Investigated build performance
 - Spike: migrate schema parser to streaming
+
+## 2026-02-19
+
+- Investigated errors performance
+- Spike: migrate auth emitter to streaming
