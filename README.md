@@ -5259,3 +5259,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-17] Fixed edge case in docs mapper
 - [2026-02-18] Added minimal resolver to session
 - [2026-02-18] Updated docs for deploy API
+- [2026-02-19] Bumped config dependency versions
