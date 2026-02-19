@@ -15797,3 +15797,8 @@ Code review:
 Code review:
 - Simplify adapter init
 - Remove minimal helpers
+
+## 2026-02-19
+
+- Idea: expose scheduler as public API
+- Cache resolver responses
