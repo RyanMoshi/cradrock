@@ -30709,3 +30709,8 @@ Code review notes:
 
 - TODO: add tests for lightweight queue store
 - Consider refactoring types
+
+## 2026-02-19
+
+- Idea: expose session resolver as public API
+- Cache schema responses
