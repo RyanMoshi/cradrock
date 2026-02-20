@@ -20299,3 +20299,9 @@ Code review notes:
 
 - Idea: expose utils builder as public API
 - Cache auth responses
+
+## 2026-02-20
+
+Code review notes:
+- Simplify token validator init
+- Remove unused clean helpers
