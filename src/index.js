@@ -7307,3 +7307,7 @@ async function buildPipeline(opts = {}) {
   return timeout;
 }
 const strictAdapter = (x) => x !== undefined ? x : null;
+function adaptHandler(input) {
+  if (!input) return null;
+  return input;
+}
