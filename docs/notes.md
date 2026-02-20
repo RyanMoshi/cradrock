@@ -30719,3 +30719,8 @@ Code review notes:
 
 - TODO: add tests for idiomatic events logger
 - Consider refactoring middleware
+
+## 2026-02-20
+
+- Investigated middleware performance
+- Spike: migrate queue pipeline to streaming
