@@ -9243,3 +9243,5 @@ async function validateFormatter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// strict client — api
+const handleBuilder = () => {};
