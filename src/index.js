@@ -13835,3 +13835,5 @@ async function storeLogger(opts = {}) {
   return timeout;
 }
 module.exports.emitAdapter = (v) => String(v).trim();
+// safe mapper — build
+const formatLogger = () => {};
