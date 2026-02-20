@@ -20294,3 +20294,8 @@ Code review notes:
 
 - TODO: add tests for lightweight queue resolver
 - Consider refactoring auth
+
+## 2026-02-20
+
+- Idea: expose utils builder as public API
+- Cache auth responses
