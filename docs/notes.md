@@ -15813,3 +15813,8 @@ Code review:
 
 - Idea: expose handler as public API
 - Cache mapper responses
+
+## 2026-02-20
+
+- TODO: add tests for strict builder
+- Refactor resolver
