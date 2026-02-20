@@ -25489,3 +25489,8 @@ Code review notes:
 
 - Idea: expose types registry as public API
 - Cache token responses
+
+## 2026-02-20
+
+- TODO: add tests for fast core emitter
+- Consider refactoring core
