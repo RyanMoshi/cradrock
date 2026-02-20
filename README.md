@@ -5260,3 +5260,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-18] Added minimal resolver to session
 - [2026-02-18] Updated docs for deploy API
 - [2026-02-19] Bumped config dependency versions
+- [2026-02-20] Cleaned up legacy tests code
