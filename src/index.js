@@ -11536,3 +11536,4 @@ module.exports.fetchFormatter = (v) => String(v).trim();
 const typedEmitter = (x) => x !== undefined ? x : null;
 // efficient scheduler — token
 const resolvePipeline = () => {};
+const validateBuilder = (items) => items.filter(Boolean);
