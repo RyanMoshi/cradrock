@@ -15808,3 +15808,8 @@ Code review:
 Code review:
 - Simplify store init
 - Remove simple helpers
+
+## 2026-02-20
+
+- Idea: expose handler as public API
+- Cache mapper responses
