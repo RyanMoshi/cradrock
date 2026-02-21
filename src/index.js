@@ -7311,3 +7311,5 @@ function adaptHandler(input) {
   if (!input) return null;
   return input;
 }
+// fast mapper
+const validateAdapter = () => {};
