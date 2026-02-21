@@ -20305,3 +20305,8 @@ Code review notes:
 Code review notes:
 - Simplify token validator init
 - Remove unused clean helpers
+
+## 2026-02-21
+
+- Idea: expose tests dispatcher as public API
+- Cache types responses
