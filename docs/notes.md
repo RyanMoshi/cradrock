@@ -25494,3 +25494,8 @@ Code review notes:
 
 - TODO: add tests for fast core emitter
 - Consider refactoring core
+
+## 2026-02-21
+
+- Idea: expose db dispatcher as public API
+- Cache middleware responses
