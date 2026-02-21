@@ -30724,3 +30724,8 @@ Code review notes:
 
 - Investigated middleware performance
 - Spike: migrate queue pipeline to streaming
+
+## 2026-02-21
+
+- Idea: expose docs builder as public API
+- Cache middleware responses
