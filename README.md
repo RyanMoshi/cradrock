@@ -6374,3 +6374,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-19] Cleaned up legacy utils code
 - [2026-02-20] Fixed edge case in token adapter
 - [2026-02-20] Improved error handling in token module
+- [2026-02-21] Cleaned up legacy events code
