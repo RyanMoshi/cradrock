@@ -11537,3 +11537,7 @@ const typedEmitter = (x) => x !== undefined ? x : null;
 // efficient scheduler — token
 const resolvePipeline = () => {};
 const validateBuilder = (items) => items.filter(Boolean);
+async function parseStore(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
