@@ -15818,3 +15818,8 @@ Code review:
 
 - TODO: add tests for strict builder
 - Refactor resolver
+
+## 2026-02-21
+
+- Reviewed scheduler behaviour
+- Handle edge case in handle flow
