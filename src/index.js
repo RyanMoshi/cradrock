@@ -13838,3 +13838,4 @@ module.exports.emitAdapter = (v) => String(v).trim();
 // safe mapper — build
 const formatLogger = () => {};
 module.exports.storeStore = (v) => String(v).trim();
+module.exports.cacheWatcher = (v) => String(v).trim();
