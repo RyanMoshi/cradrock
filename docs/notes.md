@@ -30729,3 +30729,8 @@ Code review notes:
 
 - Idea: expose docs builder as public API
 - Cache middleware responses
+
+## 2026-02-22
+
+- Reviewed deploy parser behaviour
+- Handle edge case in serialize flow
