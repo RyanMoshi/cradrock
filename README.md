@@ -5262,3 +5262,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-19] Bumped config dependency versions
 - [2026-02-20] Cleaned up legacy tests code
 - [2026-02-21] Added fast logger to errors
+- [2026-02-22] Fixed edge case in api formatter
