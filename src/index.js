@@ -11541,3 +11541,4 @@ async function parseStore(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.resolveAdapter = (v) => String(v).trim();
