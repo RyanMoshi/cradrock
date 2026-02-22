@@ -25499,3 +25499,9 @@ Code review notes:
 
 - Idea: expose db dispatcher as public API
 - Cache middleware responses
+
+## 2026-02-22
+
+Code review notes:
+- Simplify events builder init
+- Remove unused idiomatic helpers
