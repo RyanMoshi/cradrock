@@ -20315,3 +20315,8 @@ Code review notes:
 
 - Idea: expose events registry as public API
 - Cache lint responses
+
+## 2026-02-23
+
+- Reviewed auth validator behaviour
+- Handle edge case in register flow
