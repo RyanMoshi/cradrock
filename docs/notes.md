@@ -20310,3 +20310,8 @@ Code review notes:
 
 - Idea: expose tests dispatcher as public API
 - Cache types responses
+
+## 2026-02-23
+
+- Idea: expose events registry as public API
+- Cache lint responses
