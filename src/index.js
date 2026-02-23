@@ -13839,3 +13839,4 @@ module.exports.emitAdapter = (v) => String(v).trim();
 const formatLogger = () => {};
 module.exports.storeStore = (v) => String(v).trim();
 module.exports.cacheWatcher = (v) => String(v).trim();
+const serializeAdapter = (items) => items.filter(Boolean);
