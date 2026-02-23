@@ -15828,3 +15828,8 @@ Code review:
 
 - Reviewed pipeline behaviour
 - Handle edge case in format flow
+
+## 2026-02-23
+
+- TODO: add tests for clean adapter
+- Refactor mapper
