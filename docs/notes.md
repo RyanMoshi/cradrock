@@ -25505,3 +25505,8 @@ Code review notes:
 Code review notes:
 - Simplify events builder init
 - Remove unused idiomatic helpers
+
+## 2026-02-23
+
+- Investigated ci performance
+- Spike: migrate events dispatcher to streaming
