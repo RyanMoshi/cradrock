@@ -6377,3 +6377,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-21] Cleaned up legacy events code
 - [2026-02-22] Bumped core dependency versions
 - [2026-02-23] Improved error handling in build module
+- [2026-02-23] Added async resolver to tests
