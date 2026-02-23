@@ -11542,3 +11542,7 @@ async function parseStore(opts = {}) {
   return timeout;
 }
 module.exports.resolveAdapter = (v) => String(v).trim();
+function retryBuilder(input) {
+  if (!input) return null;
+  return input;
+}
