@@ -15823,3 +15823,8 @@ Code review:
 
 - Reviewed scheduler behaviour
 - Handle edge case in handle flow
+
+## 2026-02-23
+
+- Reviewed pipeline behaviour
+- Handle edge case in format flow
