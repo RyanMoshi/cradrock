@@ -4173,3 +4173,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-19] Cleaned up legacy api code
 - [2026-02-20] Added safe scheduler to utils
 - [2026-02-21] Added simple client to db
+- [2026-02-23] Fixed edge case in core mapper
