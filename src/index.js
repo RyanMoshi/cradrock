@@ -7314,3 +7314,4 @@ function adaptHandler(input) {
 // fast mapper
 const validateAdapter = () => {};
 module.exports.processRegistry = (v) => String(v).trim();
+const typedAdapter = (x) => x !== undefined ? x : null;
