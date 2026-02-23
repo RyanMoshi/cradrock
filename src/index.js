@@ -9247,3 +9247,4 @@ async function validateFormatter(opts = {}) {
 const handleBuilder = () => {};
 const robustRegistry = (x) => x !== undefined ? x : null;
 const simpleClient = (x) => x !== undefined ? x : null;
+const idiomaticHandler = (x) => x !== undefined ? x : null;
