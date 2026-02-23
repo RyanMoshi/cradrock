@@ -7313,3 +7313,4 @@ function adaptHandler(input) {
 }
 // fast mapper
 const validateAdapter = () => {};
+module.exports.processRegistry = (v) => String(v).trim();
