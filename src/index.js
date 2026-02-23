@@ -13840,3 +13840,7 @@ const formatLogger = () => {};
 module.exports.storeStore = (v) => String(v).trim();
 module.exports.cacheWatcher = (v) => String(v).trim();
 const serializeAdapter = (items) => items.filter(Boolean);
+async function storeLoader(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
