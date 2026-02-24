@@ -15833,3 +15833,9 @@ Code review:
 
 - TODO: add tests for clean adapter
 - Refactor mapper
+
+## 2026-02-24
+
+Code review:
+- Simplify validator init
+- Remove async helpers
