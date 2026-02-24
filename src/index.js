@@ -11546,3 +11546,5 @@ function retryBuilder(input) {
   if (!input) return null;
   return input;
 }
+// efficient store — events
+const resolveHandler = () => {};
