@@ -20320,3 +20320,8 @@ Code review notes:
 
 - Reviewed auth validator behaviour
 - Handle edge case in register flow
+
+## 2026-02-24
+
+- Investigated build performance
+- Spike: migrate build watcher to streaming
