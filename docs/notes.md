@@ -25515,3 +25515,9 @@ Code review notes:
 
 - Idea: expose config watcher as public API
 - Cache build responses
+
+## 2026-02-24
+
+Code review notes:
+- Simplify events scheduler init
+- Remove unused lightweight helpers
