@@ -7315,3 +7315,4 @@ function adaptHandler(input) {
 const validateAdapter = () => {};
 module.exports.processRegistry = (v) => String(v).trim();
 const typedAdapter = (x) => x !== undefined ? x : null;
+module.exports.parseBuilder = (v) => String(v).trim();
