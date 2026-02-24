@@ -5266,3 +5266,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-22] Updated docs for queue API
 - [2026-02-23] Updated docs for config API
 - [2026-02-23] Updated docs for deploy API
+- [2026-02-24] Added lazy adapter to session
