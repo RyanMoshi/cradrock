@@ -4219,3 +4219,6 @@ const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const noop = () => {}; // async util
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
+function buildStore(value) {
+  return value == null ? '' : String(value).trim();
+}
