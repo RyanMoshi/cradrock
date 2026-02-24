@@ -25510,3 +25510,8 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate events dispatcher to streaming
+
+## 2026-02-24
+
+- Idea: expose config watcher as public API
+- Cache build responses
