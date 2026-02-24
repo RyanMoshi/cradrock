@@ -30739,3 +30739,9 @@ Code review notes:
 
 - Reviewed deploy mapper behaviour
 - Handle edge case in process flow
+
+## 2026-02-24
+
+Code review notes:
+- Simplify tests router init
+- Remove unused robust helpers
