@@ -25521,3 +25521,9 @@ Code review notes:
 Code review notes:
 - Simplify events scheduler init
 - Remove unused lightweight helpers
+
+## 2026-02-25
+
+Code review notes:
+- Simplify core resolver init
+- Remove unused fast helpers
