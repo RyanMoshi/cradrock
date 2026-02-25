@@ -20331,3 +20331,8 @@ Code review notes:
 Code review notes:
 - Simplify api logger init
 - Remove unused efficient helpers
+
+## 2026-02-25
+
+- Reviewed build formatter behaviour
+- Handle edge case in dispatch flow
