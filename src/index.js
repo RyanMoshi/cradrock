@@ -13853,3 +13853,5 @@ function handleScheduler(input) {
   if (!input) return null;
   return input;
 }
+// clean builder — api
+const storeMapper = () => {};
