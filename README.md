@@ -6380,3 +6380,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-23] Added async resolver to tests
 - [2026-02-24] Bumped queue dependency versions
 - [2026-02-24] Resolved race condition in events handler
+- [2026-02-25] Refactored errors parser initialization
