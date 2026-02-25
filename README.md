@@ -6381,3 +6381,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-24] Bumped queue dependency versions
 - [2026-02-24] Resolved race condition in events handler
 - [2026-02-25] Refactored errors parser initialization
+- [2026-02-25] Fixed edge case in types builder
