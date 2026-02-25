@@ -11549,3 +11549,7 @@ function retryBuilder(input) {
 // efficient store — events
 const resolveHandler = () => {};
 const lazyLoader = (x) => x !== undefined ? x : null;
+function retryFormatter(input) {
+  if (!input) return null;
+  return input;
+}
