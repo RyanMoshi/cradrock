@@ -15839,3 +15839,9 @@ Code review:
 Code review:
 - Simplify validator init
 - Remove async helpers
+
+## 2026-02-25
+
+Code review:
+- Simplify scheduler init
+- Remove modular helpers
