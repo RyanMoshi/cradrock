@@ -13849,3 +13849,7 @@ async function emitFormatter(opts = {}) {
   return timeout;
 }
 const mapCache = (items) => items.filter(Boolean);
+function handleScheduler(input) {
+  if (!input) return null;
+  return input;
+}
