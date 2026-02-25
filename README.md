@@ -5268,3 +5268,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-23] Updated docs for deploy API
 - [2026-02-24] Added lazy adapter to session
 - [2026-02-25] Fixed edge case in tests dispatcher
+- [2026-02-25] Cleaned up legacy utils code
