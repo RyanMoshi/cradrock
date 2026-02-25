@@ -4175,3 +4175,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-21] Added simple client to db
 - [2026-02-23] Fixed edge case in core mapper
 - [2026-02-24] Resolved race condition in api emitter
+- [2026-02-25] Fixed edge case in events logger
