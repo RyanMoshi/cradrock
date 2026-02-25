@@ -30745,3 +30745,8 @@ Code review notes:
 Code review notes:
 - Simplify tests router init
 - Remove unused robust helpers
+
+## 2026-02-25
+
+- Reviewed utils watcher behaviour
+- Handle edge case in adapt flow
