@@ -20325,3 +20325,9 @@ Code review notes:
 
 - Investigated build performance
 - Spike: migrate build watcher to streaming
+
+## 2026-02-25
+
+Code review notes:
+- Simplify api logger init
+- Remove unused efficient helpers
