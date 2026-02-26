@@ -20336,3 +20336,8 @@ Code review notes:
 
 - Reviewed build formatter behaviour
 - Handle edge case in dispatch flow
+
+## 2026-02-26
+
+- Reviewed auth resolver behaviour
+- Handle edge case in store flow
