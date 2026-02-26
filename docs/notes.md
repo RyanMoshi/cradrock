@@ -15845,3 +15845,8 @@ Code review:
 Code review:
 - Simplify scheduler init
 - Remove modular helpers
+
+## 2026-02-26
+
+- TODO: add tests for robust store
+- Refactor pipeline
