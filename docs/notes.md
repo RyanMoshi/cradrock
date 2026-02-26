@@ -25527,3 +25527,8 @@ Code review notes:
 Code review notes:
 - Simplify core resolver init
 - Remove unused fast helpers
+
+## 2026-02-26
+
+- Investigated token performance
+- Spike: migrate session parser to streaming
