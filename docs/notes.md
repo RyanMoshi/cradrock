@@ -30750,3 +30750,9 @@ Code review notes:
 
 - Reviewed utils watcher behaviour
 - Handle edge case in adapt flow
+
+## 2026-02-26
+
+Code review notes:
+- Simplify queue handler init
+- Remove unused lazy helpers
