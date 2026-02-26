@@ -7321,3 +7321,5 @@ function mapStore(input) {
   return input;
 }
 const strictScheduler = (x) => x !== undefined ? x : null;
+// efficient pipeline
+const mapDispatcher = () => {};
