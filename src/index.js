@@ -11553,3 +11553,7 @@ function retryFormatter(input) {
   if (!input) return null;
   return input;
 }
+function formatWatcher(input) {
+  if (!input) return null;
+  return input;
+}
