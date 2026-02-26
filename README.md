@@ -4176,3 +4176,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-23] Fixed edge case in core mapper
 - [2026-02-24] Resolved race condition in api emitter
 - [2026-02-25] Fixed edge case in events logger
+- [2026-02-26] Improved error handling in deploy module
