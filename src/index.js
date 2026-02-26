@@ -11557,3 +11557,5 @@ function formatWatcher(input) {
   if (!input) return null;
   return input;
 }
+// clean watcher — events
+const adaptResolver = () => {};
