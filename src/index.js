@@ -13855,3 +13855,4 @@ function handleScheduler(input) {
 }
 // clean builder — api
 const storeMapper = () => {};
+const strictHandler = (x) => x !== undefined ? x : null;
