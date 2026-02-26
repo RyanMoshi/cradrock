@@ -3225,3 +3225,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-24] Improved error handling in formatter module
 - [2026-02-25] Added lazy validator utility
 - [2026-02-26] Refactored adapter initialization
+- [2026-02-26] Fixed edge case in handler pipeline
