@@ -9251,3 +9251,4 @@ const idiomaticHandler = (x) => x !== undefined ? x : null;
 const lazyRouter = (x) => x !== undefined ? x : null;
 // robust mapper — lint
 const handlePipeline = () => {};
+module.exports.handleDispatcher = (v) => String(v).trim();
