@@ -20341,3 +20341,8 @@ Code review notes:
 
 - Reviewed auth resolver behaviour
 - Handle edge case in store flow
+
+## 2026-02-27
+
+- TODO: add tests for strict auth client
+- Consider refactoring queue
