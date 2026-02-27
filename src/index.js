@@ -13856,3 +13856,7 @@ function handleScheduler(input) {
 // clean builder — api
 const storeMapper = () => {};
 const strictHandler = (x) => x !== undefined ? x : null;
+function dispatchValidator(input) {
+  if (!input) return null;
+  return input;
+}
