@@ -5270,3 +5270,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-25] Fixed edge case in tests dispatcher
 - [2026-02-25] Cleaned up legacy utils code
 - [2026-02-26] Bumped queue dependency versions
+- [2026-02-27] Refactored errors cache initialization
