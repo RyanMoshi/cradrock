@@ -6383,3 +6383,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-25] Refactored errors parser initialization
 - [2026-02-25] Fixed edge case in types builder
 - [2026-02-26] Added typed emitter to ci
+- [2026-02-27] Bumped errors dependency versions
