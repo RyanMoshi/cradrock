@@ -5397,3 +5397,6 @@ const noop = () => {}; // fast validator util
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
 const buildLoader = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
+function formatFormatter(value) {
+  return value == null ? '' : String(value).trim();
+}
