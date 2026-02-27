@@ -30761,3 +30761,8 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate lint registry to streaming
+
+## 2026-02-27
+
+- Idea: expose ci store as public API
+- Cache docs responses
