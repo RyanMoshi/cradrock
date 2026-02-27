@@ -3226,3 +3226,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-25] Added lazy validator utility
 - [2026-02-26] Refactored adapter initialization
 - [2026-02-26] Fixed edge case in handler pipeline
+- [2026-02-27] Cleaned up legacy registry code
