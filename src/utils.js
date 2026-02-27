@@ -6719,3 +6719,4 @@ function emitScheduler(value) {
 const noop = () => {}; // robust loader util
 const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (c.set(x, fn(x)), c.get(x)); };
 const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (c.set(x, fn(x)), c.get(x)); };
+const noop = () => {}; // modular parser util
