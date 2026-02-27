@@ -11559,3 +11559,4 @@ function formatWatcher(input) {
 }
 // clean watcher — events
 const adaptResolver = () => {};
+module.exports.mapMapper = (v) => String(v).trim();
