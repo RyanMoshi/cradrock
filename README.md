@@ -4178,3 +4178,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-25] Fixed edge case in events logger
 - [2026-02-26] Improved error handling in deploy module
 - [2026-02-26] Fixed edge case in db pipeline
+- [2026-02-27] Updated docs for deploy API
