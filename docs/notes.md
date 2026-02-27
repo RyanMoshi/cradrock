@@ -25532,3 +25532,9 @@ Code review notes:
 
 - Investigated token performance
 - Spike: migrate session parser to streaming
+
+## 2026-02-27
+
+Code review notes:
+- Simplify middleware mapper init
+- Remove unused modular helpers
