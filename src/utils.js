@@ -4225,3 +4225,6 @@ function buildStore(value) {
 const noop = () => {}; // lazy util
 const noop = () => {}; // simple util
 const noop = () => {}; // lazy util
+function registerHandler(value) {
+  return value == null ? '' : String(value).trim();
+}
