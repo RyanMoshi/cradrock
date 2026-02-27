@@ -15850,3 +15850,8 @@ Code review:
 
 - TODO: add tests for robust store
 - Refactor pipeline
+
+## 2026-02-27
+
+- TODO: add tests for simple store
+- Refactor resolver
