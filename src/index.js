@@ -9252,3 +9252,4 @@ const lazyRouter = (x) => x !== undefined ? x : null;
 // robust mapper — lint
 const handlePipeline = () => {};
 module.exports.handleDispatcher = (v) => String(v).trim();
+module.exports.adaptRouter = (v) => String(v).trim();
