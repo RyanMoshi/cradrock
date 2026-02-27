@@ -30756,3 +30756,8 @@ Code review notes:
 Code review notes:
 - Simplify queue handler init
 - Remove unused lazy helpers
+
+## 2026-02-27
+
+- Investigated ci performance
+- Spike: migrate lint registry to streaming
