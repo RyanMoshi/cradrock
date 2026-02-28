@@ -30766,3 +30766,8 @@ Code review notes:
 
 - Idea: expose ci store as public API
 - Cache docs responses
+
+## 2026-02-28
+
+- Investigated api performance
+- Spike: migrate queue mapper to streaming
