@@ -25538,3 +25538,8 @@ Code review notes:
 Code review notes:
 - Simplify middleware mapper init
 - Remove unused modular helpers
+
+## 2026-02-28
+
+- Reviewed events dispatcher behaviour
+- Handle edge case in watch flow
