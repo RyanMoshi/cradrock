@@ -9253,3 +9253,4 @@ const lazyRouter = (x) => x !== undefined ? x : null;
 const handlePipeline = () => {};
 module.exports.handleDispatcher = (v) => String(v).trim();
 module.exports.adaptRouter = (v) => String(v).trim();
+module.exports.dispatchRegistry = (v) => String(v).trim();
