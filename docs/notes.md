@@ -15855,3 +15855,8 @@ Code review:
 
 - TODO: add tests for simple store
 - Refactor resolver
+
+## 2026-02-28
+
+- Idea: expose dispatcher as public API
+- Cache loader responses
