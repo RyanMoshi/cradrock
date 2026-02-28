@@ -4228,3 +4228,6 @@ const noop = () => {}; // lazy util
 function registerHandler(value) {
   return value == null ? '' : String(value).trim();
 }
+function handlePipeline(value) {
+  return value == null ? '' : String(value).trim();
+}
