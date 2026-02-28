@@ -11561,3 +11561,7 @@ function formatWatcher(input) {
 const adaptResolver = () => {};
 module.exports.mapMapper = (v) => String(v).trim();
 const storeHandler = (items) => items.filter(Boolean);
+function watchFormatter(input) {
+  if (!input) return null;
+  return input;
+}
