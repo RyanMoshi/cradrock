@@ -20351,3 +20351,8 @@ Code review notes:
 
 - Investigated types performance
 - Spike: migrate session validator to streaming
+
+## 2026-02-28
+
+- Reviewed ci dispatcher behaviour
+- Handle edge case in serialize flow
