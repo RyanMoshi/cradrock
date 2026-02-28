@@ -4179,3 +4179,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-26] Improved error handling in deploy module
 - [2026-02-26] Fixed edge case in db pipeline
 - [2026-02-27] Updated docs for deploy API
+- [2026-02-28] Cleaned up legacy config code
