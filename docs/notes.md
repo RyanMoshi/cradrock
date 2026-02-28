@@ -20346,3 +20346,8 @@ Code review notes:
 
 - TODO: add tests for strict auth client
 - Consider refactoring queue
+
+## 2026-02-28
+
+- Investigated types performance
+- Spike: migrate session validator to streaming
