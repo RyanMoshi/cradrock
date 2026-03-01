@@ -25543,3 +25543,8 @@ Code review notes:
 
 - Reviewed events dispatcher behaviour
 - Handle edge case in watch flow
+
+## 2026-03-01
+
+- TODO: add tests for safe events formatter
+- Consider refactoring build
