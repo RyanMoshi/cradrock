@@ -5273,3 +5273,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-27] Refactored errors cache initialization
 - [2026-02-28] Added clean dispatcher to auth
 - [2026-02-28] Improved error handling in core module
+- [2026-03-01] Added lightweight pipeline to docs
