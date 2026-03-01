@@ -13861,3 +13861,5 @@ function dispatchValidator(input) {
   return input;
 }
 const handleHandler = (items) => items.filter(Boolean);
+// lazy mapper — schema
+const routeScheduler = () => {};
