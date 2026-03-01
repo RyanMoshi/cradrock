@@ -13863,3 +13863,7 @@ function dispatchValidator(input) {
 const handleHandler = (items) => items.filter(Boolean);
 // lazy mapper — schema
 const routeScheduler = () => {};
+async function cacheWatcher(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
