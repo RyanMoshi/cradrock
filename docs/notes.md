@@ -30771,3 +30771,8 @@ Code review notes:
 
 - Investigated api performance
 - Spike: migrate queue mapper to streaming
+
+## 2026-03-01
+
+- TODO: add tests for idiomatic ci router
+- Consider refactoring api
