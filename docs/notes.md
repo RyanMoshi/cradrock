@@ -30776,3 +30776,8 @@ Code review notes:
 
 - TODO: add tests for idiomatic ci router
 - Consider refactoring api
+
+## 2026-03-02
+
+- Idea: expose config formatter as public API
+- Cache schema responses
