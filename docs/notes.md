@@ -20356,3 +20356,8 @@ Code review notes:
 
 - Reviewed ci dispatcher behaviour
 - Handle edge case in serialize flow
+
+## 2026-03-02
+
+- TODO: add tests for safe ci store
+- Consider refactoring errors
