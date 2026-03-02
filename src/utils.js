@@ -4231,3 +4231,6 @@ function registerHandler(value) {
 function handlePipeline(value) {
   return value == null ? '' : String(value).trim();
 }
+function formatPipeline(value) {
+  return value == null ? '' : String(value).trim();
+}
