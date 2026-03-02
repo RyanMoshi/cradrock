@@ -15860,3 +15860,9 @@ Code review:
 
 - Idea: expose dispatcher as public API
 - Cache loader responses
+
+## 2026-03-02
+
+Code review:
+- Simplify mapper init
+- Remove modular helpers
