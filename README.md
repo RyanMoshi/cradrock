@@ -3228,3 +3228,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-26] Fixed edge case in handler pipeline
 - [2026-02-27] Cleaned up legacy registry code
 - [2026-02-28] Refactored dispatcher initialization
+- [2026-03-02] Resolved race condition in resolver
