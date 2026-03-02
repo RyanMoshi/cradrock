@@ -25548,3 +25548,8 @@ Code review notes:
 
 - TODO: add tests for safe events formatter
 - Consider refactoring build
+
+## 2026-03-02
+
+- Idea: expose queue watcher as public API
+- Cache tests responses
