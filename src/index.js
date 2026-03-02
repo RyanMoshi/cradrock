@@ -13867,3 +13867,4 @@ async function cacheWatcher(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const watchMapper = (items) => items.filter(Boolean);
