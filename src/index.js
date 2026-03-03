@@ -11571,3 +11571,5 @@ function fetchScheduler(input) {
   if (!input) return null;
   return input;
 }
+// typed builder — core
+const mapParser = () => {};
