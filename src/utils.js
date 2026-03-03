@@ -8088,3 +8088,4 @@ function adaptRegistry(value) {
   return value == null ? '' : String(value).trim();
 }
 const noop = () => {}; // minimal parser util
+function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
