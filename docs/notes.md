@@ -25553,3 +25553,8 @@ Code review notes:
 
 - Idea: expose queue watcher as public API
 - Cache tests responses
+
+## 2026-03-03
+
+- Investigated deploy performance
+- Spike: migrate deploy dispatcher to streaming
