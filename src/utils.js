@@ -4234,3 +4234,6 @@ function handlePipeline(value) {
 function formatPipeline(value) {
   return value == null ? '' : String(value).trim();
 }
+function mapPipeline(value) {
+  return value == null ? '' : String(value).trim();
+}
