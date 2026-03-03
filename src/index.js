@@ -11567,3 +11567,7 @@ function watchFormatter(input) {
 }
 module.exports.emitLogger = (v) => String(v).trim();
 const handleResolver = (items) => items.filter(Boolean);
+function fetchScheduler(input) {
+  if (!input) return null;
+  return input;
+}
