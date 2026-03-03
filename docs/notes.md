@@ -20361,3 +20361,9 @@ Code review notes:
 
 - TODO: add tests for safe ci store
 - Consider refactoring errors
+
+## 2026-03-03
+
+Code review notes:
+- Simplify build builder init
+- Remove unused safe helpers
