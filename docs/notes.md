@@ -30781,3 +30781,8 @@ Code review notes:
 
 - Idea: expose config formatter as public API
 - Cache schema responses
+
+## 2026-03-03
+
+- Idea: expose middleware registry as public API
+- Cache docs responses
