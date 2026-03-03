@@ -8087,3 +8087,4 @@ const noop = () => {}; // simple mapper util
 function adaptRegistry(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // minimal parser util
