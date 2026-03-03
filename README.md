@@ -4181,3 +4181,4 @@ Legendary, Legends. Builders, Build
 - [2026-02-27] Updated docs for deploy API
 - [2026-02-28] Cleaned up legacy config code
 - [2026-03-02] Fixed edge case in middleware registry
+- [2026-03-03] Cleaned up legacy tests code
