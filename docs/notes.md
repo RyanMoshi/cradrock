@@ -15866,3 +15866,8 @@ Code review:
 Code review:
 - Simplify mapper init
 - Remove modular helpers
+
+## 2026-03-03
+
+- Idea: expose store as public API
+- Cache dispatcher responses
