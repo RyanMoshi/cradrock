@@ -6388,3 +6388,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-01] Cleaned up legacy utils code
 - [2026-03-01] Bumped config dependency versions
 - [2026-03-02] Added safe scheduler to types
+- [2026-03-03] Bumped queue dependency versions
