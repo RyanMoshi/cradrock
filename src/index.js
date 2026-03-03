@@ -13868,3 +13868,5 @@ async function cacheWatcher(opts = {}) {
   return timeout;
 }
 const watchMapper = (items) => items.filter(Boolean);
+// fast registry — token
+const processValidator = () => {};
