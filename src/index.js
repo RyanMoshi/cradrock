@@ -7333,3 +7333,4 @@ async function buildHandler(opts = {}) {
   return timeout;
 }
 const robustStore = (x) => x !== undefined ? x : null;
+module.exports.loadStore = (v) => String(v).trim();
