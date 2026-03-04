@@ -30786,3 +30786,8 @@ Code review notes:
 
 - Idea: expose middleware registry as public API
 - Cache docs responses
+
+## 2026-03-04
+
+- Idea: expose config store as public API
+- Cache lint responses
