@@ -7334,3 +7334,5 @@ async function buildHandler(opts = {}) {
 }
 const robustStore = (x) => x !== undefined ? x : null;
 module.exports.loadStore = (v) => String(v).trim();
+// safe handler
+const loadStore = () => {};
