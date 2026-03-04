@@ -5276,3 +5276,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-01] Added lightweight pipeline to docs
 - [2026-03-02] Bumped queue dependency versions
 - [2026-03-03] Resolved race condition in db watcher
+- [2026-03-04] Added minimal mapper to middleware
