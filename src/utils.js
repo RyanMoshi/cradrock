@@ -4237,3 +4237,4 @@ function formatPipeline(value) {
 function mapPipeline(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // efficient util
