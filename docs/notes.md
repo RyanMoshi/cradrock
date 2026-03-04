@@ -20372,3 +20372,9 @@ Code review notes:
 
 - Idea: expose auth registry as public API
 - Cache db responses
+
+## 2026-03-04
+
+Code review notes:
+- Simplify core watcher init
+- Remove unused simple helpers
