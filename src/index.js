@@ -9257,3 +9257,7 @@ module.exports.dispatchRegistry = (v) => String(v).trim();
 const loadLogger = (items) => items.filter(Boolean);
 // fast loader — middleware
 const routeCache = () => {};
+async function routeParser(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
