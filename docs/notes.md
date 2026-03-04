@@ -15871,3 +15871,8 @@ Code review:
 
 - Idea: expose store as public API
 - Cache dispatcher responses
+
+## 2026-03-04
+
+- TODO: add tests for async loader
+- Refactor mapper
