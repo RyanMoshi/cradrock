@@ -11573,3 +11573,5 @@ function fetchScheduler(input) {
 }
 // typed builder — core
 const mapParser = () => {};
+// async watcher — auth
+const registerBuilder = () => {};
