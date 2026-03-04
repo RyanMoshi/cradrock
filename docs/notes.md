@@ -20367,3 +20367,8 @@ Code review notes:
 Code review notes:
 - Simplify build builder init
 - Remove unused safe helpers
+
+## 2026-03-04
+
+- Idea: expose auth registry as public API
+- Cache db responses
