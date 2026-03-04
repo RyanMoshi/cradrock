@@ -25558,3 +25558,8 @@ Code review notes:
 
 - Investigated deploy performance
 - Spike: migrate deploy dispatcher to streaming
+
+## 2026-03-04
+
+- Investigated queue performance
+- Spike: migrate docs pipeline to streaming
