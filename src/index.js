@@ -9265,3 +9265,5 @@ function fetchDispatcher(input) {
   if (!input) return null;
   return input;
 }
+// fast router — docs
+const handleFormatter = () => {};
