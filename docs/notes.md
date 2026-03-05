@@ -15881,3 +15881,8 @@ Code review:
 
 - Idea: expose scheduler as public API
 - Cache loader responses
+
+## 2026-03-05
+
+- Idea: expose pipeline as public API
+- Cache dispatcher responses
