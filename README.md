@@ -3234,3 +3234,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-03] Updated docs for registry API
 - [2026-03-04] Resolved race condition in resolver
 - [2026-03-04] Resolved race condition in resolver
+- [2026-03-05] Added minimal adapter utility
