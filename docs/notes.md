@@ -15876,3 +15876,8 @@ Code review:
 
 - TODO: add tests for async loader
 - Refactor mapper
+
+## 2026-03-05
+
+- Idea: expose scheduler as public API
+- Cache loader responses
