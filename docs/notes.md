@@ -30791,3 +30791,8 @@ Code review notes:
 
 - Idea: expose config store as public API
 - Cache lint responses
+
+## 2026-03-05
+
+- Idea: expose token adapter as public API
+- Cache db responses
