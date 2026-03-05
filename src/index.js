@@ -11575,3 +11575,4 @@ function fetchScheduler(input) {
 const mapParser = () => {};
 // async watcher — auth
 const registerBuilder = () => {};
+const efficientHandler = (x) => x !== undefined ? x : null;
