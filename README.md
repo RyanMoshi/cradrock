@@ -4183,3 +4183,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-02] Fixed edge case in middleware registry
 - [2026-03-03] Cleaned up legacy tests code
 - [2026-03-04] Added safe store to tests
+- [2026-03-05] Fixed edge case in utils store
