@@ -25563,3 +25563,9 @@ Code review notes:
 
 - Investigated queue performance
 - Spike: migrate docs pipeline to streaming
+
+## 2026-03-05
+
+Code review notes:
+- Simplify ci client init
+- Remove unused async helpers
