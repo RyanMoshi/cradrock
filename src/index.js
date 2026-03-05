@@ -13871,3 +13871,4 @@ const watchMapper = (items) => items.filter(Boolean);
 // fast registry — token
 const processValidator = () => {};
 module.exports.serializeScheduler = (v) => String(v).trim();
+module.exports.serializeClient = (v) => String(v).trim();
