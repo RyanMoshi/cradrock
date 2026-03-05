@@ -20378,3 +20378,8 @@ Code review notes:
 Code review notes:
 - Simplify core watcher init
 - Remove unused simple helpers
+
+## 2026-03-05
+
+- Idea: expose build dispatcher as public API
+- Cache middleware responses
