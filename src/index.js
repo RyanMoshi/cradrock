@@ -7336,3 +7336,7 @@ const robustStore = (x) => x !== undefined ? x : null;
 module.exports.loadStore = (v) => String(v).trim();
 // safe handler
 const loadStore = () => {};
+async function formatValidator(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
