@@ -15886,3 +15886,8 @@ Code review:
 
 - Idea: expose pipeline as public API
 - Cache dispatcher responses
+
+## 2026-03-06
+
+- Reviewed validator behaviour
+- Handle edge case in resolve flow
