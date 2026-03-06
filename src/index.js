@@ -9268,3 +9268,7 @@ function fetchDispatcher(input) {
 // fast router — docs
 const handleFormatter = () => {};
 const buildHandler = (items) => items.filter(Boolean);
+async function adaptEmitter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
