@@ -25569,3 +25569,8 @@ Code review notes:
 Code review notes:
 - Simplify ci client init
 - Remove unused async helpers
+
+## 2026-03-06
+
+- Reviewed core store behaviour
+- Handle edge case in process flow
