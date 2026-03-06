@@ -3236,3 +3236,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-04] Resolved race condition in resolver
 - [2026-03-05] Added minimal adapter utility
 - [2026-03-06] Improved error handling in adapter module
+- [2026-03-06] Fixed edge case in dispatcher pipeline
