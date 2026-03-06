@@ -6391,3 +6391,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-03] Bumped queue dependency versions
 - [2026-03-04] Updated docs for token API
 - [2026-03-05] Fixed edge case in queue watcher
+- [2026-03-06] Updated docs for schema API
