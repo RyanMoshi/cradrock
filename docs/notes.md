@@ -30796,3 +30796,8 @@ Code review notes:
 
 - Idea: expose token adapter as public API
 - Cache db responses
+
+## 2026-03-06
+
+- Reviewed queue logger behaviour
+- Handle edge case in resolve flow
