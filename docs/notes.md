@@ -20383,3 +20383,8 @@ Code review notes:
 
 - Idea: expose build dispatcher as public API
 - Cache middleware responses
+
+## 2026-03-06
+
+- TODO: add tests for lightweight db scheduler
+- Consider refactoring docs
