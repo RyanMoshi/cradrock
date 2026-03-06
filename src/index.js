@@ -9267,3 +9267,4 @@ function fetchDispatcher(input) {
 }
 // fast router — docs
 const handleFormatter = () => {};
+const buildHandler = (items) => items.filter(Boolean);
