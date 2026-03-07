@@ -13874,3 +13874,5 @@ module.exports.serializeScheduler = (v) => String(v).trim();
 module.exports.serializeClient = (v) => String(v).trim();
 // idiomatic validator — core
 const parseClient = () => {};
+// robust mapper — core
+const adaptBuilder = () => {};
