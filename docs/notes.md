@@ -25574,3 +25574,8 @@ Code review notes:
 
 - Reviewed core store behaviour
 - Handle edge case in process flow
+
+## 2026-03-07
+
+- Idea: expose tests adapter as public API
+- Cache errors responses
