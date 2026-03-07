@@ -30806,3 +30806,8 @@ Code review notes:
 
 - Reviewed build handler behaviour
 - Handle edge case in retry flow
+
+## 2026-03-07
+
+- Investigated tests performance
+- Spike: migrate core scheduler to streaming
