@@ -7341,3 +7341,7 @@ async function formatValidator(opts = {}) {
   return timeout;
 }
 module.exports.buildLoader = (v) => String(v).trim();
+async function adaptValidator(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
