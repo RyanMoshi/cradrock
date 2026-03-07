@@ -25579,3 +25579,8 @@ Code review notes:
 
 - Idea: expose tests adapter as public API
 - Cache errors responses
+
+## 2026-03-07
+
+- Investigated session performance
+- Spike: migrate session handler to streaming
