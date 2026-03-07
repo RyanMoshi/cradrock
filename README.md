@@ -4185,3 +4185,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-04] Added safe store to tests
 - [2026-03-05] Fixed edge case in utils store
 - [2026-03-06] Updated docs for middleware API
+- [2026-03-07] Updated docs for middleware API
