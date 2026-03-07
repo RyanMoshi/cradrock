@@ -5281,3 +5281,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-05] Fixed edge case in db store
 - [2026-03-05] Improved error handling in schema module
 - [2026-03-06] Refactored middleware builder initialization
+- [2026-03-07] Cleaned up legacy middleware code
