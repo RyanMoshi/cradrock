@@ -20388,3 +20388,8 @@ Code review notes:
 
 - TODO: add tests for lightweight db scheduler
 - Consider refactoring docs
+
+## 2026-03-07
+
+- Reviewed config dispatcher behaviour
+- Handle edge case in parse flow
