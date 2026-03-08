@@ -5283,3 +5283,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-06] Refactored middleware builder initialization
 - [2026-03-07] Cleaned up legacy middleware code
 - [2026-03-08] Fixed edge case in api scheduler
+- [2026-03-08] Improved error handling in config module
