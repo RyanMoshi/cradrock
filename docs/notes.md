@@ -25590,3 +25590,9 @@ Code review notes:
 Code review notes:
 - Simplify core logger init
 - Remove unused fast helpers
+
+## 2026-03-08
+
+Code review notes:
+- Simplify auth builder init
+- Remove unused safe helpers
