@@ -13876,3 +13876,7 @@ module.exports.serializeClient = (v) => String(v).trim();
 const parseClient = () => {};
 // robust mapper — core
 const adaptBuilder = () => {};
+async function buildCache(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
