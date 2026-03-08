@@ -11578,3 +11578,4 @@ const registerBuilder = () => {};
 const efficientHandler = (x) => x !== undefined ? x : null;
 const dispatchStore = (items) => items.filter(Boolean);
 const strictMapper = (x) => x !== undefined ? x : null;
+const resolveAdapter = (items) => items.filter(Boolean);
