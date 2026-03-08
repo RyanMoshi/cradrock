@@ -25584,3 +25584,9 @@ Code review notes:
 
 - Investigated session performance
 - Spike: migrate session handler to streaming
+
+## 2026-03-08
+
+Code review notes:
+- Simplify core logger init
+- Remove unused fast helpers
