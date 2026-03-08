@@ -30811,3 +30811,9 @@ Code review notes:
 
 - Investigated tests performance
 - Spike: migrate core scheduler to streaming
+
+## 2026-03-08
+
+Code review notes:
+- Simplify schema resolver init
+- Remove unused fast helpers
