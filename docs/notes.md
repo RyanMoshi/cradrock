@@ -20393,3 +20393,8 @@ Code review notes:
 
 - Reviewed config dispatcher behaviour
 - Handle edge case in parse flow
+
+## 2026-03-09
+
+- Reviewed types dispatcher behaviour
+- Handle edge case in resolve flow
