@@ -9273,3 +9273,4 @@ async function adaptEmitter(opts = {}) {
   return timeout;
 }
 const typedBuilder = (x) => x !== undefined ? x : null;
+module.exports.adaptCache = (v) => String(v).trim();
