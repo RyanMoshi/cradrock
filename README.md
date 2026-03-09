@@ -6394,3 +6394,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-06] Updated docs for schema API
 - [2026-03-07] Improved error handling in deploy module
 - [2026-03-08] Bumped auth dependency versions
+- [2026-03-09] Improved error handling in middleware module
