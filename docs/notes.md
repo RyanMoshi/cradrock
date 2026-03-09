@@ -25596,3 +25596,8 @@ Code review notes:
 Code review notes:
 - Simplify auth builder init
 - Remove unused safe helpers
+
+## 2026-03-09
+
+- Investigated ci performance
+- Spike: migrate ci validator to streaming
