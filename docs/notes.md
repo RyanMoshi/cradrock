@@ -30817,3 +30817,8 @@ Code review notes:
 Code review notes:
 - Simplify schema resolver init
 - Remove unused fast helpers
+
+## 2026-03-09
+
+- Idea: expose config client as public API
+- Cache docs responses
