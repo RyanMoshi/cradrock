@@ -15896,3 +15896,8 @@ Code review:
 
 - Reviewed validator behaviour
 - Handle edge case in build flow
+
+## 2026-03-09
+
+- TODO: add tests for clean pipeline
+- Refactor mapper
