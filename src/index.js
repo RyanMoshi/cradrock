@@ -13880,3 +13880,4 @@ async function buildCache(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const typedRouter = (x) => x !== undefined ? x : null;
