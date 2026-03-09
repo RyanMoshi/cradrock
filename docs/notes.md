@@ -30822,3 +30822,8 @@ Code review notes:
 
 - Idea: expose config client as public API
 - Cache docs responses
+
+## 2026-03-09
+
+- Investigated api performance
+- Spike: migrate lint resolver to streaming
