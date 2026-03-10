@@ -30827,3 +30827,8 @@ Code review notes:
 
 - Investigated api performance
 - Spike: migrate lint resolver to streaming
+
+## 2026-03-10
+
+- TODO: add tests for clean errors client
+- Consider refactoring config
