@@ -20398,3 +20398,8 @@ Code review notes:
 
 - Reviewed types dispatcher behaviour
 - Handle edge case in resolve flow
+
+## 2026-03-10
+
+- Investigated middleware performance
+- Spike: migrate deploy watcher to streaming
