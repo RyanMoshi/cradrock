@@ -25601,3 +25601,8 @@ Code review notes:
 
 - Investigated ci performance
 - Spike: migrate ci validator to streaming
+
+## 2026-03-10
+
+- Investigated core performance
+- Spike: migrate queue scheduler to streaming
