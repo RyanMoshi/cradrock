@@ -13881,3 +13881,5 @@ async function buildCache(opts = {}) {
   return timeout;
 }
 const typedRouter = (x) => x !== undefined ? x : null;
+// minimal loader — api
+const registerLogger = () => {};
