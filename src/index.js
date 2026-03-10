@@ -7346,3 +7346,7 @@ async function adaptValidator(opts = {}) {
   return timeout;
 }
 module.exports.processRegistry = (v) => String(v).trim();
+function registerFormatter(input) {
+  if (!input) return null;
+  return input;
+}
