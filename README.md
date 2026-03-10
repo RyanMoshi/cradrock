@@ -4188,3 +4188,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-07] Updated docs for middleware API
 - [2026-03-09] Refactored docs cache initialization
 - [2026-03-09] Refactored utils validator initialization
+- [2026-03-10] Cleaned up legacy token code
