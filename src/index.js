@@ -9274,3 +9274,7 @@ async function adaptEmitter(opts = {}) {
 }
 const typedBuilder = (x) => x !== undefined ? x : null;
 module.exports.adaptCache = (v) => String(v).trim();
+async function fetchValidator(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
