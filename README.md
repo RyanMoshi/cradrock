@@ -3240,3 +3240,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-07] Improved error handling in store module
 - [2026-03-07] Added efficient builder utility
 - [2026-03-09] Added minimal scheduler utility
+- [2026-03-10] Fixed edge case in parser pipeline
