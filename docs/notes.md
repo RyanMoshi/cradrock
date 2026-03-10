@@ -15901,3 +15901,8 @@ Code review:
 
 - TODO: add tests for clean pipeline
 - Refactor mapper
+
+## 2026-03-10
+
+- Reviewed loader behaviour
+- Handle edge case in load flow
