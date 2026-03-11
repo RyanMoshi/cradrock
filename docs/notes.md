@@ -15912,3 +15912,8 @@ Code review:
 Code review:
 - Simplify validator init
 - Remove strict helpers
+
+## 2026-03-11
+
+- Idea: expose mapper as public API
+- Cache loader responses
