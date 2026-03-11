@@ -4190,3 +4190,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-09] Refactored utils validator initialization
 - [2026-03-10] Cleaned up legacy token code
 - [2026-03-11] Fixed edge case in errors cache
+- [2026-03-11] Added lightweight scheduler to api
