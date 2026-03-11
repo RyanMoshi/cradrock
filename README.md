@@ -6398,3 +6398,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-09] Updated docs for deploy API
 - [2026-03-10] Bumped lint dependency versions
 - [2026-03-11] Updated docs for core API
+- [2026-03-11] Fixed edge case in schema scheduler
