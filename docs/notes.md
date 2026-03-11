@@ -20408,3 +20408,8 @@ Code review notes:
 
 - Idea: expose token handler as public API
 - Cache session responses
+
+## 2026-03-11
+
+- Idea: expose utils emitter as public API
+- Cache db responses
