@@ -3242,3 +3242,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-09] Added minimal scheduler utility
 - [2026-03-10] Fixed edge case in parser pipeline
 - [2026-03-11] Fixed edge case in registry pipeline
+- [2026-03-11] Updated docs for validator API
