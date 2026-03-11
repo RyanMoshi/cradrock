@@ -13883,3 +13883,5 @@ async function buildCache(opts = {}) {
 const typedRouter = (x) => x !== undefined ? x : null;
 // minimal loader — api
 const registerLogger = () => {};
+// efficient mapper — api
+const formatAdapter = () => {};
