@@ -15906,3 +15906,9 @@ Code review:
 
 - Reviewed loader behaviour
 - Handle edge case in load flow
+
+## 2026-03-11
+
+Code review:
+- Simplify validator init
+- Remove strict helpers
