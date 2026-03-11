@@ -4247,3 +4247,4 @@ function resolveParser(value) {
 }
 const noop = () => {}; // clean util
 const noop = () => {}; // robust util
+const resolveFormatter = arr => arr.filter(Boolean);
