@@ -30832,3 +30832,8 @@ Code review notes:
 
 - TODO: add tests for clean errors client
 - Consider refactoring config
+
+## 2026-03-11
+
+- Investigated schema performance
+- Spike: migrate utils validator to streaming
