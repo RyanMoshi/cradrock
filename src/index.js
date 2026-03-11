@@ -11583,3 +11583,7 @@ const resolveValidator = (items) => items.filter(Boolean);
 module.exports.formatParser = (v) => String(v).trim();
 // strict cache — types
 const handleResolver = () => {};
+function buildHandler(input) {
+  if (!input) return null;
+  return input;
+}
