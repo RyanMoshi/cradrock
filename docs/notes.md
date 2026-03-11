@@ -20403,3 +20403,8 @@ Code review notes:
 
 - Investigated middleware performance
 - Spike: migrate deploy watcher to streaming
+
+## 2026-03-11
+
+- Idea: expose token handler as public API
+- Cache session responses
