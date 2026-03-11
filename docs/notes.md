@@ -25606,3 +25606,9 @@ Code review notes:
 
 - Investigated core performance
 - Spike: migrate queue scheduler to streaming
+
+## 2026-03-11
+
+Code review notes:
+- Simplify deploy dispatcher init
+- Remove unused strict helpers
