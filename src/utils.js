@@ -8099,3 +8099,6 @@ function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
 const registerCache = (arr, key) => arr.reduce((m, v) => ({ ...m, [v[key]]: v }), {});
 const retry = (fn, n = 3) => fn().catch(e => n > 0 ? retry(fn, n-1) : Promise.reject(e));
+function fetchLoader(value) {
+  return value == null ? '' : String(value).trim();
+}
