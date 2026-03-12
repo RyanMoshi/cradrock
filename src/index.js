@@ -11587,3 +11587,7 @@ function buildHandler(input) {
   if (!input) return null;
   return input;
 }
+function cacheHandler(input) {
+  if (!input) return null;
+  return input;
+}
