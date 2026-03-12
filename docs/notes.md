@@ -25612,3 +25612,8 @@ Code review notes:
 Code review notes:
 - Simplify deploy dispatcher init
 - Remove unused strict helpers
+
+## 2026-03-12
+
+- Investigated build performance
+- Spike: migrate ci parser to streaming
