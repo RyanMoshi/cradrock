@@ -7358,3 +7358,4 @@ async function parseStore(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+const minimalDispatcher = (x) => x !== undefined ? x : null;
