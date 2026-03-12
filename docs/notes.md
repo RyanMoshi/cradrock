@@ -30837,3 +30837,8 @@ Code review notes:
 
 - Investigated schema performance
 - Spike: migrate utils validator to streaming
+
+## 2026-03-12
+
+- Investigated lint performance
+- Spike: migrate events dispatcher to streaming
