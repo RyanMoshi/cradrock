@@ -6400,3 +6400,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-11] Updated docs for core API
 - [2026-03-11] Fixed edge case in schema scheduler
 - [2026-03-12] Added clean loader to config
+- [2026-03-12] Fixed edge case in docs client
