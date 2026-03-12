@@ -13885,3 +13885,7 @@ const typedRouter = (x) => x !== undefined ? x : null;
 const registerLogger = () => {};
 // efficient mapper — api
 const formatAdapter = () => {};
+async function cacheStore(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
