@@ -5287,3 +5287,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-09] Bumped schema dependency versions
 - [2026-03-10] Improved error handling in session module
 - [2026-03-11] Updated docs for ci API
+- [2026-03-12] Cleaned up legacy api code
