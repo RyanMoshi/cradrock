@@ -9282,3 +9282,4 @@ function buildLoader(input) {
   if (!input) return null;
   return input;
 }
+module.exports.buildParser = (v) => String(v).trim();
