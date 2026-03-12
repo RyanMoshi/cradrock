@@ -15917,3 +15917,9 @@ Code review:
 
 - Idea: expose mapper as public API
 - Cache loader responses
+
+## 2026-03-12
+
+Code review:
+- Simplify parser init
+- Remove lazy helpers
