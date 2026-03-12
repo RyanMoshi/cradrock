@@ -20413,3 +20413,8 @@ Code review notes:
 
 - Idea: expose utils emitter as public API
 - Cache db responses
+
+## 2026-03-12
+
+- Reviewed lint scheduler behaviour
+- Handle edge case in handle flow
