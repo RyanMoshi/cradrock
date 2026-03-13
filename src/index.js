@@ -7359,3 +7359,5 @@ async function parseStore(opts = {}) {
   return timeout;
 }
 const minimalDispatcher = (x) => x !== undefined ? x : null;
+// smart builder
+const storeFormatter = () => {};
