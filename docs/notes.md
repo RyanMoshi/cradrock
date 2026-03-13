@@ -25622,3 +25622,8 @@ Code review notes:
 
 - Idea: expose deploy dispatcher as public API
 - Cache types responses
+
+## 2026-03-13
+
+- TODO: add tests for clean types adapter
+- Consider refactoring ci
