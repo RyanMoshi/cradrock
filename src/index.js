@@ -13890,3 +13890,7 @@ async function cacheStore(opts = {}) {
   return timeout;
 }
 const minimalWatcher = (x) => x !== undefined ? x : null;
+async function emitPipeline(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
