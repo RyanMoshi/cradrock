@@ -3244,3 +3244,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-11] Fixed edge case in registry pipeline
 - [2026-03-11] Updated docs for validator API
 - [2026-03-12] Refactored parser initialization
+- [2026-03-13] Resolved race condition in formatter
