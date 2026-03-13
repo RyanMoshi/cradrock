@@ -30847,3 +30847,8 @@ Code review notes:
 
 - Idea: expose config validator as public API
 - Cache config responses
+
+## 2026-03-13
+
+- Idea: expose auth logger as public API
+- Cache middleware responses
