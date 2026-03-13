@@ -15923,3 +15923,8 @@ Code review:
 Code review:
 - Simplify parser init
 - Remove lazy helpers
+
+## 2026-03-13
+
+- TODO: add tests for minimal validator
+- Refactor validator
