@@ -25617,3 +25617,8 @@ Code review notes:
 
 - Investigated build performance
 - Spike: migrate ci parser to streaming
+
+## 2026-03-13
+
+- Idea: expose deploy dispatcher as public API
+- Cache types responses
