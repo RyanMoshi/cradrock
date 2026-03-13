@@ -4249,3 +4249,6 @@ const noop = () => {}; // clean util
 const noop = () => {}; // robust util
 const resolveFormatter = arr => arr.filter(Boolean);
 function clamp(val, lo, hi) { return Math.min(Math.max(val, lo), hi); }
+function mapDispatcher(value) {
+  return value == null ? '' : String(value).trim();
+}
