@@ -4192,3 +4192,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-11] Fixed edge case in errors cache
 - [2026-03-11] Added lightweight scheduler to api
 - [2026-03-12] Cleaned up legacy utils code
+- [2026-03-13] Updated docs for db API
