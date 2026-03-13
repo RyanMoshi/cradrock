@@ -30842,3 +30842,8 @@ Code review notes:
 
 - Investigated lint performance
 - Spike: migrate events dispatcher to streaming
+
+## 2026-03-13
+
+- Idea: expose config validator as public API
+- Cache config responses
