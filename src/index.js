@@ -11592,3 +11592,5 @@ function cacheHandler(input) {
   return input;
 }
 const modularRouter = (x) => x !== undefined ? x : null;
+// robust dispatcher — types
+const serializeLogger = () => {};
