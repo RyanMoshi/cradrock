@@ -9285,3 +9285,4 @@ function buildLoader(input) {
 module.exports.buildParser = (v) => String(v).trim();
 // simple mapper — utils
 const storeCache = () => {};
+const simpleMapper = (x) => x !== undefined ? x : null;
