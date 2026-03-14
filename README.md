@@ -6402,3 +6402,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-12] Added clean loader to config
 - [2026-03-12] Fixed edge case in docs client
 - [2026-03-13] Refactored build validator initialization
+- [2026-03-14] Cleaned up legacy deploy code
