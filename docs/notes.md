@@ -25627,3 +25627,8 @@ Code review notes:
 
 - TODO: add tests for clean types adapter
 - Consider refactoring ci
+
+## 2026-03-14
+
+- Idea: expose config emitter as public API
+- Cache events responses
