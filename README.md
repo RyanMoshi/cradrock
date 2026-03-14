@@ -3246,3 +3246,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-12] Refactored parser initialization
 - [2026-03-13] Resolved race condition in formatter
 - [2026-03-13] Resolved race condition in mapper
+- [2026-03-14] Fixed edge case in builder pipeline
