@@ -13895,3 +13895,5 @@ async function emitPipeline(opts = {}) {
   return timeout;
 }
 const robustMapper = (x) => x !== undefined ? x : null;
+// smart mapper — auth
+const watchMapper = () => {};
