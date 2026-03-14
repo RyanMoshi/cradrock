@@ -20423,3 +20423,8 @@ Code review notes:
 
 - Reviewed session handler behaviour
 - Handle edge case in validate flow
+
+## 2026-03-14
+
+- TODO: add tests for robust session formatter
+- Consider refactoring middleware
