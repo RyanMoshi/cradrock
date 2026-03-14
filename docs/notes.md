@@ -15928,3 +15928,8 @@ Code review:
 
 - TODO: add tests for minimal validator
 - Refactor validator
+
+## 2026-03-14
+
+- Idea: expose pipeline as public API
+- Cache loader responses
