@@ -30852,3 +30852,8 @@ Code review notes:
 
 - Idea: expose auth logger as public API
 - Cache middleware responses
+
+## 2026-03-14
+
+- TODO: add tests for idiomatic middleware watcher
+- Consider refactoring errors
