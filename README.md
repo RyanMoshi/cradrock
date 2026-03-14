@@ -6403,3 +6403,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-12] Fixed edge case in docs client
 - [2026-03-13] Refactored build validator initialization
 - [2026-03-14] Cleaned up legacy deploy code
+- [2026-03-14] Resolved race condition in tests watcher
