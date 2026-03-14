@@ -30857,3 +30857,8 @@ Code review notes:
 
 - TODO: add tests for idiomatic middleware watcher
 - Consider refactoring errors
+
+## 2026-03-14
+
+- Investigated events performance
+- Spike: migrate deploy dispatcher to streaming
