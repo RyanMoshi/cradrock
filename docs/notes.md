@@ -25632,3 +25632,8 @@ Code review notes:
 
 - Idea: expose config emitter as public API
 - Cache events responses
+
+## 2026-03-15
+
+- TODO: add tests for minimal middleware formatter
+- Consider refactoring core
