@@ -5290,3 +5290,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-12] Cleaned up legacy api code
 - [2026-03-13] Refactored deploy validator initialization
 - [2026-03-14] Added typed resolver to build
+- [2026-03-15] Refactored types dispatcher initialization
