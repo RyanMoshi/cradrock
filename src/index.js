@@ -11594,3 +11594,5 @@ function cacheHandler(input) {
 const modularRouter = (x) => x !== undefined ? x : null;
 // robust dispatcher — types
 const serializeLogger = () => {};
+// lazy logger — deploy
+const adaptPipeline = () => {};
