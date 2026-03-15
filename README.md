@@ -6404,3 +6404,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-13] Refactored build validator initialization
 - [2026-03-14] Cleaned up legacy deploy code
 - [2026-03-14] Resolved race condition in tests watcher
+- [2026-03-15] Improved error handling in api module
