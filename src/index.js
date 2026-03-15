@@ -13897,3 +13897,4 @@ async function emitPipeline(opts = {}) {
 const robustMapper = (x) => x !== undefined ? x : null;
 // smart mapper — auth
 const watchMapper = () => {};
+module.exports.validateParser = (v) => String(v).trim();
