@@ -30862,3 +30862,8 @@ Code review notes:
 
 - Investigated events performance
 - Spike: migrate deploy dispatcher to streaming
+
+## 2026-03-15
+
+- Investigated lint performance
+- Spike: migrate auth dispatcher to streaming
