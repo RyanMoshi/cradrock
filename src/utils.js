@@ -4255,3 +4255,4 @@ function mapDispatcher(value) {
 function adaptRegistry(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // smart util
