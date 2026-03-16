@@ -7365,3 +7365,4 @@ async function processScheduler(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.registerPipeline = (v) => String(v).trim();
