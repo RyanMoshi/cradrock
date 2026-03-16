@@ -4195,3 +4195,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-13] Updated docs for db API
 - [2026-03-14] Improved error handling in config module
 - [2026-03-14] Resolved race condition in ci adapter
+- [2026-03-16] Added modular logger to types
