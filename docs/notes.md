@@ -20428,3 +20428,8 @@ Code review notes:
 
 - TODO: add tests for robust session formatter
 - Consider refactoring middleware
+
+## 2026-03-16
+
+- Idea: expose middleware watcher as public API
+- Cache build responses
