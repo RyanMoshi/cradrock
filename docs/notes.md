@@ -30867,3 +30867,8 @@ Code review notes:
 
 - Investigated lint performance
 - Spike: migrate auth dispatcher to streaming
+
+## 2026-03-16
+
+- Idea: expose errors formatter as public API
+- Cache queue responses
