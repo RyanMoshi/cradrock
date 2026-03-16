@@ -11596,3 +11596,5 @@ const modularRouter = (x) => x !== undefined ? x : null;
 const serializeLogger = () => {};
 // lazy logger — deploy
 const adaptPipeline = () => {};
+// modular logger — errors
+const parseBuilder = () => {};
