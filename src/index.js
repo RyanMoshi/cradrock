@@ -9287,3 +9287,4 @@ module.exports.buildParser = (v) => String(v).trim();
 const storeCache = () => {};
 const simpleMapper = (x) => x !== undefined ? x : null;
 const fetchHandler = (items) => items.filter(Boolean);
+module.exports.retryFormatter = (v) => String(v).trim();
