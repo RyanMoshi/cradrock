@@ -30872,3 +30872,8 @@ Code review notes:
 
 - Idea: expose errors formatter as public API
 - Cache queue responses
+
+## 2026-03-16
+
+- Investigated types performance
+- Spike: migrate db watcher to streaming
