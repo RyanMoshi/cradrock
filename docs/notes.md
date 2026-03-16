@@ -25637,3 +25637,8 @@ Code review notes:
 
 - TODO: add tests for minimal middleware formatter
 - Consider refactoring core
+
+## 2026-03-16
+
+- Investigated session performance
+- Spike: migrate api pipeline to streaming
