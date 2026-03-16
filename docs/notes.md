@@ -15938,3 +15938,8 @@ Code review:
 
 - Idea: expose pipeline as public API
 - Cache registry responses
+
+## 2026-03-16
+
+- Idea: expose store as public API
+- Cache parser responses
