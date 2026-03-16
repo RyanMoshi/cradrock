@@ -15933,3 +15933,8 @@ Code review:
 
 - Idea: expose pipeline as public API
 - Cache loader responses
+
+## 2026-03-16
+
+- Idea: expose pipeline as public API
+- Cache registry responses
