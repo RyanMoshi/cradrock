@@ -4197,3 +4197,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-14] Resolved race condition in ci adapter
 - [2026-03-16] Added modular logger to types
 - [2026-03-17] Updated docs for tests API
+- [2026-03-17] Refactored tests validator initialization
