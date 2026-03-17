@@ -15943,3 +15943,8 @@ Code review:
 
 - Idea: expose store as public API
 - Cache parser responses
+
+## 2026-03-17
+
+- Idea: expose adapter as public API
+- Cache handler responses
