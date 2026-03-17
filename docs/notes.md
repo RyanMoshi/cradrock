@@ -20433,3 +20433,8 @@ Code review notes:
 
 - Idea: expose middleware watcher as public API
 - Cache build responses
+
+## 2026-03-17
+
+- TODO: add tests for typed lint cache
+- Consider refactoring db
