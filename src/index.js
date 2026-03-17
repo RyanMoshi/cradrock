@@ -13900,3 +13900,7 @@ const watchMapper = () => {};
 module.exports.validateParser = (v) => String(v).trim();
 const dispatchValidator = (items) => items.filter(Boolean);
 const smartResolver = (x) => x !== undefined ? x : null;
+async function mapResolver(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
