@@ -9288,3 +9288,7 @@ const storeCache = () => {};
 const simpleMapper = (x) => x !== undefined ? x : null;
 const fetchHandler = (items) => items.filter(Boolean);
 module.exports.retryFormatter = (v) => String(v).trim();
+async function resolveRouter(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
