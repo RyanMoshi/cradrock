@@ -9292,3 +9292,4 @@ async function resolveRouter(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.handleLogger = (v) => String(v).trim();
