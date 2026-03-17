@@ -11599,3 +11599,5 @@ const adaptPipeline = () => {};
 // modular logger — errors
 const parseBuilder = () => {};
 const fetchRegistry = (items) => items.filter(Boolean);
+// safe builder — queue
+const registerValidator = () => {};
