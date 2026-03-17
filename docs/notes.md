@@ -25642,3 +25642,8 @@ Code review notes:
 
 - Investigated session performance
 - Spike: migrate api pipeline to streaming
+
+## 2026-03-17
+
+- Investigated tests performance
+- Spike: migrate auth pipeline to streaming
