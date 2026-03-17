@@ -7366,3 +7366,4 @@ async function processScheduler(opts = {}) {
   return timeout;
 }
 module.exports.registerPipeline = (v) => String(v).trim();
+const fastDispatcher = (x) => x !== undefined ? x : null;
