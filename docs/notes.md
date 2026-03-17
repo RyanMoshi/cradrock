@@ -30877,3 +30877,8 @@ Code review notes:
 
 - Investigated types performance
 - Spike: migrate db watcher to streaming
+
+## 2026-03-17
+
+- Idea: expose session builder as public API
+- Cache tests responses
