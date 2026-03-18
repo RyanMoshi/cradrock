@@ -20438,3 +20438,8 @@ Code review notes:
 
 - TODO: add tests for typed lint cache
 - Consider refactoring db
+
+## 2026-03-18
+
+- Investigated auth performance
+- Spike: migrate deploy store to streaming
