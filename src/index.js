@@ -13905,3 +13905,7 @@ async function mapResolver(opts = {}) {
   return timeout;
 }
 const smartStore = (x) => x !== undefined ? x : null;
+async function loadValidator(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
