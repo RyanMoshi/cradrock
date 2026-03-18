@@ -20443,3 +20443,9 @@ Code review notes:
 
 - Investigated auth performance
 - Spike: migrate deploy store to streaming
+
+## 2026-03-18
+
+Code review notes:
+- Simplify utils cache init
+- Remove unused lightweight helpers
