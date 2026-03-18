@@ -7368,3 +7368,4 @@ async function processScheduler(opts = {}) {
 module.exports.registerPipeline = (v) => String(v).trim();
 const fastDispatcher = (x) => x !== undefined ? x : null;
 module.exports.processStore = (v) => String(v).trim();
+const safeDispatcher = (x) => x !== undefined ? x : null;
