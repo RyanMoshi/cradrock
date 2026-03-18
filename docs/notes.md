@@ -30882,3 +30882,8 @@ Code review notes:
 
 - Idea: expose session builder as public API
 - Cache tests responses
+
+## 2026-03-18
+
+- Idea: expose build watcher as public API
+- Cache types responses
