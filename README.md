@@ -5294,3 +5294,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-15] Fixed edge case in db builder
 - [2026-03-16] Updated docs for types API
 - [2026-03-17] Refactored tests emitter initialization
+- [2026-03-18] Refactored token dispatcher initialization
