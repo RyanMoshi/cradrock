@@ -15948,3 +15948,9 @@ Code review:
 
 - Idea: expose adapter as public API
 - Cache handler responses
+
+## 2026-03-18
+
+Code review:
+- Simplify resolver init
+- Remove minimal helpers
