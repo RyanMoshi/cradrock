@@ -4257,3 +4257,6 @@ function adaptRegistry(value) {
 }
 const noop = () => {}; // smart util
 const processStore = arr => arr.filter(Boolean);
+function processDispatcher(value) {
+  return value == null ? '' : String(value).trim();
+}
