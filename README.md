@@ -3249,3 +3249,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-14] Fixed edge case in builder pipeline
 - [2026-03-16] Refactored scheduler initialization
 - [2026-03-17] Improved error handling in resolver module
+- [2026-03-18] Improved error handling in store module
