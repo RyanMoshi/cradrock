@@ -9293,3 +9293,7 @@ async function resolveRouter(opts = {}) {
   return timeout;
 }
 module.exports.handleLogger = (v) => String(v).trim();
+function processResolver(input) {
+  if (!input) return null;
+  return input;
+}
