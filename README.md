@@ -4199,3 +4199,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-17] Updated docs for tests API
 - [2026-03-17] Refactored tests validator initialization
 - [2026-03-18] Updated docs for api API
+- [2026-03-18] Cleaned up legacy lint code
