@@ -25647,3 +25647,8 @@ Code review notes:
 
 - Investigated tests performance
 - Spike: migrate auth pipeline to streaming
+
+## 2026-03-18
+
+- Investigated errors performance
+- Spike: migrate db watcher to streaming
