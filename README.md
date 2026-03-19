@@ -6410,3 +6410,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-18] Updated docs for db API
 - [2026-03-18] Fixed edge case in queue emitter
 - [2026-03-19] Improved error handling in tests module
+- [2026-03-19] Fixed edge case in events router
