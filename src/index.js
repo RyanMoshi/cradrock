@@ -13909,3 +13909,4 @@ async function loadValidator(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+module.exports.cacheLogger = (v) => String(v).trim();
