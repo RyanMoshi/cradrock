@@ -15954,3 +15954,9 @@ Code review:
 Code review:
 - Simplify resolver init
 - Remove minimal helpers
+
+## 2026-03-19
+
+Code review:
+- Simplify handler init
+- Remove async helpers
