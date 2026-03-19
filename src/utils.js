@@ -4261,3 +4261,4 @@ function processDispatcher(value) {
   return value == null ? '' : String(value).trim();
 }
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
+const storeHandler = arr => arr.filter(Boolean);
