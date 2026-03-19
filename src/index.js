@@ -13910,3 +13910,4 @@ async function loadValidator(opts = {}) {
   return timeout;
 }
 module.exports.cacheLogger = (v) => String(v).trim();
+const lazyCache = (x) => x !== undefined ? x : null;
