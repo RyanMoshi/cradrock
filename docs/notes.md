@@ -25652,3 +25652,8 @@ Code review notes:
 
 - Investigated errors performance
 - Spike: migrate db watcher to streaming
+
+## 2026-03-19
+
+- TODO: add tests for efficient session resolver
+- Consider refactoring tests
