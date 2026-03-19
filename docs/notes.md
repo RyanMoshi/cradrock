@@ -20449,3 +20449,8 @@ Code review notes:
 Code review notes:
 - Simplify utils cache init
 - Remove unused lightweight helpers
+
+## 2026-03-19
+
+- Reviewed utils mapper behaviour
+- Handle edge case in store flow
