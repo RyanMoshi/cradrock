@@ -11602,3 +11602,4 @@ const fetchRegistry = (items) => items.filter(Boolean);
 // safe builder — queue
 const registerValidator = () => {};
 const simpleRegistry = (x) => x !== undefined ? x : null;
+const smartHandler = (x) => x !== undefined ? x : null;
