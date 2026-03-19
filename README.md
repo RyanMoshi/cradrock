@@ -5295,3 +5295,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-16] Updated docs for types API
 - [2026-03-17] Refactored tests emitter initialization
 - [2026-03-18] Refactored token dispatcher initialization
+- [2026-03-19] Fixed edge case in queue registry
