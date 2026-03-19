@@ -30887,3 +30887,9 @@ Code review notes:
 
 - Idea: expose build watcher as public API
 - Cache types responses
+
+## 2026-03-19
+
+Code review notes:
+- Simplify db adapter init
+- Remove unused robust helpers
