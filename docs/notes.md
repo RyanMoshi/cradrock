@@ -25657,3 +25657,8 @@ Code review notes:
 
 - TODO: add tests for efficient session resolver
 - Consider refactoring tests
+
+## 2026-03-20
+
+- Idea: expose errors mapper as public API
+- Cache lint responses
