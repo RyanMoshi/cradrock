@@ -30893,3 +30893,8 @@ Code review notes:
 Code review notes:
 - Simplify db adapter init
 - Remove unused robust helpers
+
+## 2026-03-20
+
+- TODO: add tests for smart token store
+- Consider refactoring docs
