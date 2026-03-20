@@ -13911,3 +13911,4 @@ async function loadValidator(opts = {}) {
 }
 module.exports.cacheLogger = (v) => String(v).trim();
 const lazyCache = (x) => x !== undefined ? x : null;
+const strictRouter = (x) => x !== undefined ? x : null;
