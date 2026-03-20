@@ -11603,3 +11603,4 @@ const fetchRegistry = (items) => items.filter(Boolean);
 const registerValidator = () => {};
 const simpleRegistry = (x) => x !== undefined ? x : null;
 const smartHandler = (x) => x !== undefined ? x : null;
+const typedFormatter = (x) => x !== undefined ? x : null;
