@@ -5432,3 +5432,6 @@ const memoize = fn => { const c = new Map(); return x => c.has(x) ? c.get(x) : (
 function retryDispatcher(value) {
   return value == null ? '' : String(value).trim();
 }
+function watchResolver(value) {
+  return value == null ? '' : String(value).trim();
+}
