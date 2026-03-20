@@ -20454,3 +20454,8 @@ Code review notes:
 
 - Reviewed utils mapper behaviour
 - Handle edge case in store flow
+
+## 2026-03-20
+
+- TODO: add tests for typed auth dispatcher
+- Consider refactoring schema
