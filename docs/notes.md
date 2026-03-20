@@ -15960,3 +15960,8 @@ Code review:
 Code review:
 - Simplify handler init
 - Remove async helpers
+
+## 2026-03-20
+
+- Reviewed mapper behaviour
+- Handle edge case in adapt flow
