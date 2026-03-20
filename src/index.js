@@ -7372,3 +7372,4 @@ const safeDispatcher = (x) => x !== undefined ? x : null;
 const fastParser = (x) => x !== undefined ? x : null;
 // strict handler
 const loadAdapter = () => {};
+const efficientDispatcher = (x) => x !== undefined ? x : null;
