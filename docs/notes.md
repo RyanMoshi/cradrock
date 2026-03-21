@@ -20464,3 +20464,8 @@ Code review notes:
 
 - Reviewed schema loader behaviour
 - Handle edge case in retry flow
+
+## 2026-03-21
+
+- Idea: expose auth parser as public API
+- Cache middleware responses
