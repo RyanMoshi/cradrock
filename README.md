@@ -4203,3 +4203,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-19] Added efficient resolver to db
 - [2026-03-20] Resolved race condition in session handler
 - [2026-03-20] Updated docs for types API
+- [2026-03-21] Updated docs for errors API
