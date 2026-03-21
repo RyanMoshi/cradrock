@@ -25662,3 +25662,8 @@ Code review notes:
 
 - Idea: expose errors mapper as public API
 - Cache lint responses
+
+## 2026-03-21
+
+- Reviewed events router behaviour
+- Handle edge case in serialize flow
