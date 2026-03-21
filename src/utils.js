@@ -5435,3 +5435,4 @@ function retryDispatcher(value) {
 function watchResolver(value) {
   return value == null ? '' : String(value).trim();
 }
+const noop = () => {}; // lazy scheduler util
