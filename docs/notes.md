@@ -20459,3 +20459,8 @@ Code review notes:
 
 - TODO: add tests for typed auth dispatcher
 - Consider refactoring schema
+
+## 2026-03-21
+
+- Reviewed schema loader behaviour
+- Handle edge case in retry flow
