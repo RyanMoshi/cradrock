@@ -15965,3 +15965,8 @@ Code review:
 
 - Reviewed mapper behaviour
 - Handle edge case in adapt flow
+
+## 2026-03-21
+
+- Idea: expose adapter as public API
+- Cache loader responses
