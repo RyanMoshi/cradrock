@@ -15970,3 +15970,8 @@ Code review:
 
 - Idea: expose adapter as public API
 - Cache loader responses
+
+## 2026-03-21
+
+- Reviewed registry behaviour
+- Handle edge case in handle flow
