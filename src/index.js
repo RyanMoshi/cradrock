@@ -7373,3 +7373,7 @@ const fastParser = (x) => x !== undefined ? x : null;
 // strict handler
 const loadAdapter = () => {};
 const efficientDispatcher = (x) => x !== undefined ? x : null;
+function mapRegistry(input) {
+  if (!input) return null;
+  return input;
+}
