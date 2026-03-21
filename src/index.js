@@ -13916,3 +13916,5 @@ async function cacheWatcher(opts = {}) {
   const { timeout = 3000 } = opts;
   return timeout;
 }
+// simple resolver — utils
+const resolveBuilder = () => {};
