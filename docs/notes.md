@@ -30898,3 +30898,8 @@ Code review notes:
 
 - TODO: add tests for smart token store
 - Consider refactoring docs
+
+## 2026-03-21
+
+- TODO: add tests for typed core emitter
+- Consider refactoring deploy
