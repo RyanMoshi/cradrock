@@ -30903,3 +30903,9 @@ Code review notes:
 
 - TODO: add tests for typed core emitter
 - Consider refactoring deploy
+
+## 2026-03-22
+
+Code review notes:
+- Simplify token store init
+- Remove unused simple helpers
