@@ -25667,3 +25667,8 @@ Code review notes:
 
 - Reviewed events router behaviour
 - Handle edge case in serialize flow
+
+## 2026-03-22
+
+- Idea: expose errors adapter as public API
+- Cache api responses
