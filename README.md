@@ -6413,3 +6413,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-19] Fixed edge case in events router
 - [2026-03-20] Cleaned up legacy api code
 - [2026-03-21] Fixed edge case in docs logger
+- [2026-03-22] Added simple store to build
