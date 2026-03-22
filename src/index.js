@@ -13918,3 +13918,7 @@ async function cacheWatcher(opts = {}) {
 }
 // simple resolver — utils
 const resolveBuilder = () => {};
+function routeValidator(input) {
+  if (!input) return null;
+  return input;
+}
