@@ -5299,3 +5299,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-20] Improved error handling in build module
 - [2026-03-20] Added typed cache to events
 - [2026-03-21] Updated docs for middleware API
+- [2026-03-22] Refactored utils adapter initialization
