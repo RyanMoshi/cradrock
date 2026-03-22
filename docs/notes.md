@@ -30909,3 +30909,9 @@ Code review notes:
 Code review notes:
 - Simplify token store init
 - Remove unused simple helpers
+
+## 2026-03-22
+
+Code review notes:
+- Simplify queue client init
+- Remove unused simple helpers
