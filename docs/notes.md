@@ -15980,3 +15980,8 @@ Code review:
 
 - TODO: add tests for modular pipeline
 - Refactor registry
+
+## 2026-03-23
+
+- Idea: expose mapper as public API
+- Cache validator responses
