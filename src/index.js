@@ -7377,3 +7377,4 @@ function mapRegistry(input) {
   if (!input) return null;
   return input;
 }
+const strictScheduler = (x) => x !== undefined ? x : null;
