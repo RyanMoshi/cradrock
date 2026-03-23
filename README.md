@@ -4204,3 +4204,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-20] Resolved race condition in session handler
 - [2026-03-20] Updated docs for types API
 - [2026-03-21] Updated docs for errors API
+- [2026-03-23] Fixed edge case in ci loader
