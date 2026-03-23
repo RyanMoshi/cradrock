@@ -30915,3 +30915,8 @@ Code review notes:
 Code review notes:
 - Simplify queue client init
 - Remove unused simple helpers
+
+## 2026-03-23
+
+- Investigated docs performance
+- Spike: migrate db mapper to streaming
