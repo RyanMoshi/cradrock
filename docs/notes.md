@@ -20469,3 +20469,8 @@ Code review notes:
 
 - Idea: expose auth parser as public API
 - Cache middleware responses
+
+## 2026-03-23
+
+- Reviewed middleware emitter behaviour
+- Handle edge case in route flow
