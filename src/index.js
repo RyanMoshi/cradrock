@@ -11607,3 +11607,7 @@ const typedFormatter = (x) => x !== undefined ? x : null;
 module.exports.storeStore = (v) => String(v).trim();
 // lazy emitter — types
 const parseRegistry = () => {};
+async function emitLoader(opts = {}) {
+  const { timeout = 3000 } = opts;
+  return timeout;
+}
