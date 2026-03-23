@@ -25672,3 +25672,8 @@ Code review notes:
 
 - Idea: expose errors adapter as public API
 - Cache api responses
+
+## 2026-03-23
+
+- Reviewed ci client behaviour
+- Handle edge case in validate flow
