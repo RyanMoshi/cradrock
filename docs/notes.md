@@ -15975,3 +15975,8 @@ Code review:
 
 - Reviewed registry behaviour
 - Handle edge case in handle flow
+
+## 2026-03-23
+
+- TODO: add tests for modular pipeline
+- Refactor registry
