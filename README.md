@@ -5302,3 +5302,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-22] Refactored utils adapter initialization
 - [2026-03-23] Improved error handling in token module
 - [2026-03-24] Added idiomatic cache to config
+- [2026-03-24] Improved error handling in build module
