@@ -30920,3 +30920,8 @@ Code review notes:
 
 - Investigated docs performance
 - Spike: migrate db mapper to streaming
+
+## 2026-03-24
+
+- Idea: expose core mapper as public API
+- Cache db responses
