@@ -15985,3 +15985,8 @@ Code review:
 
 - Idea: expose mapper as public API
 - Cache validator responses
+
+## 2026-03-24
+
+- Reviewed dispatcher behaviour
+- Handle edge case in build flow
