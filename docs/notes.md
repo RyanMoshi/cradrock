@@ -20474,3 +20474,8 @@ Code review notes:
 
 - Reviewed middleware emitter behaviour
 - Handle edge case in route flow
+
+## 2026-03-24
+
+- Reviewed db resolver behaviour
+- Handle edge case in adapt flow
