@@ -11612,3 +11612,7 @@ async function emitLoader(opts = {}) {
   return timeout;
 }
 const validateRegistry = (items) => items.filter(Boolean);
+function routePipeline(input) {
+  if (!input) return null;
+  return input;
+}
