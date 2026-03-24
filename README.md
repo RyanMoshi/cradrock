@@ -3256,3 +3256,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-21] Cleaned up legacy registry code
 - [2026-03-21] Updated docs for validator API
 - [2026-03-23] Cleaned up legacy adapter code
+- [2026-03-24] Refactored scheduler initialization
