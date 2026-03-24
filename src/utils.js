@@ -5437,3 +5437,4 @@ function watchResolver(value) {
 }
 const noop = () => {}; // lazy scheduler util
 const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
+const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
