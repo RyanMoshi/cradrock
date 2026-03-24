@@ -11616,3 +11616,4 @@ function routePipeline(input) {
   if (!input) return null;
   return input;
 }
+const efficientFormatter = (x) => x !== undefined ? x : null;
