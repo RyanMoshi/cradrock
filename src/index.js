@@ -9302,3 +9302,4 @@ const routeResolver = (items) => items.filter(Boolean);
 const safePipeline = (x) => x !== undefined ? x : null;
 const processResolver = (items) => items.filter(Boolean);
 module.exports.storeCache = (v) => String(v).trim();
+const typedValidator = (x) => x !== undefined ? x : null;
