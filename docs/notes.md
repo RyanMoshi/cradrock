@@ -30925,3 +30925,8 @@ Code review notes:
 
 - Idea: expose core mapper as public API
 - Cache db responses
+
+## 2026-03-24
+
+- TODO: add tests for lazy core store
+- Consider refactoring tests
