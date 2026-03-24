@@ -6416,3 +6416,4 @@ Legendary, Legends. Builders, Build
 - [2026-03-22] Added simple store to build
 - [2026-03-23] Refactored middleware watcher initialization
 - [2026-03-24] Bumped db dependency versions
+- [2026-03-24] Added efficient resolver to build
